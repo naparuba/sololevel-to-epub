@@ -103,12 +103,10 @@ def get_chapter(url, chapter_nb, do_write=True):
     url = url.strip()
     if len(url) == 0:
         return
-    print
-    " - Chapter %s / %s" % (chapter_nb, url)
+    print " - Chapter %s / %s" % (chapter_nb, url)
     pth = 'down/chapter_%04d.txt' % chapter_nb
     if os.path.exists(pth) and do_write:
-        print
-        "   * skip %s" % url
+        print "   * skip %s" % url
         return
     
     cache_pth = 'tmp/chapter_%04d.soup' % chapter_nb
@@ -122,8 +120,7 @@ def get_chapter(url, chapter_nb, do_write=True):
         soup_ser = cPickle.dumps(soup)
         with open(cache_pth, 'wb') as f:
             f.write(soup_ser)
-        print
-        "  - saved %s (%s)" % (cache_pth, len(soup_ser))
+        print "  - saved %s (%s)" % (cache_pth, len(soup_ser))
     
     div = soup.find('div', attrs={'class': 'entry-content'})
     # print "ALL DIV", div.prettify()
@@ -145,16 +142,14 @@ def get_chapter(url, chapter_nb, do_write=True):
         #    print "BOGUS LINE"
         #    continue
         if 'Twitter' in txt and 'Facebook' in txt:
-            print
-            "BOGUS TWITTER", len(txt)
+            print "BOGUS TWITTER", len(txt)
             continue
         if txt.startswith('I Alone Level-up :'):
             continue
         if len(txt) > _max:
             _max = len(txt)
         if not do_write:
-            print
-            "LINE:", len(txt), txt.encode('utf8')
+            print "LINE:", len(txt), txt.encode('utf8')
         total += len(txt)
         
         _class = ''
@@ -195,16 +190,14 @@ def get_chapter(url, chapter_nb, do_write=True):
     
     # print '\n'.join(lines)
     if do_write:
-        print
-        "TOTOL", total, _max
+        print "TOTOL", total, _max
         f = io.open(pth + '.tmp', 'w', encoding="utf-8")
         f.write(u'<html><body><h1>Chapter %s</h1>\n' % chapter_nb)
         f.write(''.join(lines))
         f.write(u'</body></html>\n')
         f.close()
         shutil.move(pth + '.tmp', pth)
-    print
-    "   * done"
+    print "   * done"
 
 
 urls = []
@@ -224,13 +217,11 @@ print
 "NB CHAPTERS: %s" % len(urls)
 for chapter_nb, url in enumerate(urls):
     if url.strip():
-        print
-        " ** get chapter %s" % url
+        print  " ** get chapter %s" % url
         get_chapter(url, chapter_nb + 1)
 
 chapter_files = os.listdir('down')
-print
-"Chapter files", chapter_files
+print "Chapter files", chapter_files
 
 chapter_files.sort()
 
@@ -266,11 +257,9 @@ book.add_item(default_css)
 chapters = []
 for chapter_file in chapter_files:
     if not chapter_file.endswith('.txt'):
-        print
-        "SKIP", chapter_file
+        print "SKIP", chapter_file
         continue
-    print
-    "Chapter", chapter_file
+    print "Chapter", chapter_file
     small_name = chapter_file.replace('.txt', '')
     chapter = epub.EpubHtml(title=small_name, file_name='%s.xhtml' % small_name, lang='fr')
     f = io.open('down/%s' % chapter_file, 'r', encoding='utf-8')
