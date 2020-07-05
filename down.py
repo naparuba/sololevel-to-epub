@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import time
 import sys
 import os
 import shutil
@@ -9,15 +10,39 @@ from urllib2 import urlopen
 import io
 import cPickle
 import re
+import optparse
+
+# NOTE: ce script est tres brut de fonderie, mais il a le merite de fonctionner
+# Pour le faire fonctionner vous aurez besoin de deux repertoires: down et tmp
+# * tmp : cache pour les pages
+# * down: chache pour le parsing des pages, a besoin d'être --reset en cas de changement rename/pas rename
+# Vous aurez aussi besoin de cablibre pour la transformation finale du ficheir epub (sinon
+# il passe mal sur les liseuses, en tout cas sur la mienne (kobo h2o)
+
+
+VERSION = '0.1'
+
+# Ebook convert: to fix DRM things in the generated epub
+EPUB_CONVERT = r'C:\Program Files\Calibre2\ebook-convert.exe'
+
+EPUB_TMP_PTH = 'solo_leveling_tmp.epub'
+
+
+def _get_epub_path(do_rename):
+    if do_rename:
+        return 'solo_leveling_with_rename.epub'
+    else:
+        return 'solo_leveling.epub'
+
 
 sys.setrecursionlimit(10000)
 
 names = [
     # jinwoo
-    ('Sung Jinwoo', 'Panda'),
-    ('Jinwoo Sung', 'Panda'),
-    ('Jinwoo', 'Panda'),
-    ('Jin-Woo', 'Panda'),
+    ('Sung Jinwoo', 'Jinwoo'),
+    ('Jinwoo Sung', 'Jinwoo'),
+    ('Jinwoo', 'Jinwoo'),
+    ('Jin-Woo', 'Jinwoo'),
     
     # Cha
     ('Cha Hae', 'Cha'),
@@ -99,11 +124,11 @@ def rename_names(s):
     return s
 
 
-def get_chapter(url, chapter_nb, do_write=True):
+def get_chapter(url, chapter_nb, do_write=True, do_rename=False):
     url = url.strip()
     if len(url) == 0:
         return
-    print " - Chapter %s / %s" % (chapter_nb, url)
+    # print " - Chapter %s / %s" % (chapter_nb, url)
     pth = 'down/chapter_%04d.txt' % chapter_nb
     if os.path.exists(pth) and do_write:
         print "   * skip %s" % url
@@ -124,7 +149,7 @@ def get_chapter(url, chapter_nb, do_write=True):
     
     div = soup.find('div', attrs={'class': 'entry-content'})
     # print "ALL DIV", div.prettify()
-    ps = div.find_all(["p", "table"], recursive=False)
+    ps = div.find_all(["p", "table", 'hr'], recursive=False)
     # print "Number of p", len(ps)
     
     # We will set div.border around strong
@@ -136,15 +161,15 @@ def get_chapter(url, chapter_nb, do_write=True):
     for p in ps:
         # print "P", p , p.name
         is_table = p.name == 'table'
+        is_hr = p.name == 'hr'
         # print str(p), dir(p)
         txt = p.getText().strip()
-        # if len(line) > 5000:
-        #    print "BOGUS LINE"
-        #    continue
         if 'Twitter' in txt and 'Facebook' in txt:
             print "BOGUS TWITTER", len(txt)
             continue
         if txt.startswith('I Alone Level-up :'):
+            continue
+        if 'Chapitre suivant' in txt:
             continue
         if len(txt) > _max:
             _max = len(txt)
@@ -166,9 +191,11 @@ def get_chapter(url, chapter_nb, do_write=True):
         
         # new_line = '<p class="%s">%s</p>' % (_class, txt)
         p['class'] = _class
+        
         new_line = unicode(p)
         
-        new_line = rename_names(new_line)
+        if do_rename:
+            new_line = rename_names(new_line)
         
         if 'strong' in _class:
             if was_in_strong:
@@ -190,100 +217,123 @@ def get_chapter(url, chapter_nb, do_write=True):
     
     # print '\n'.join(lines)
     if do_write:
-        print "TOTOL", total, _max
         f = io.open(pth + '.tmp', 'w', encoding="utf-8")
         f.write(u'<html><body><h1>Chapter %s</h1>\n' % chapter_nb)
         f.write(''.join(lines))
         f.write(u'</body></html>\n')
         f.close()
         shutil.move(pth + '.tmp', pth)
-    print "   * done"
+    # print "   * done"
 
 
-urls = []
-with open('urls.txt', 'r') as f:
-    buf = f.read()
-    urls = buf.splitlines()
-
-# print urls
-# url = 'https://wuxialnscantrad.wordpress.com/2019/04/15/i-alone-level-up-chapitre-1-le-chasseur-de-rang-e/'
-# url = 'https://wuxialnscantrad.wordpress.com/2019/04/17/i-alone-level-up-chapitre-4/ '
-# url = 'https://wuxialnscantrad.wordpress.com/2019/04/22/i-alone-level-up-chapitre-15/'
-# url = 'https://wuxialnscantrad.wordpress.com/2019/04/19/i-alone-level-up-chapitre-8-2/'
-# get_chapter(url, 15, do_write=False)
-# sys.exit(0)
-
-print
-"NB CHAPTERS: %s" % len(urls)
-for chapter_nb, url in enumerate(urls):
-    if url.strip():
-        print  " ** get chapter %s" % url
-        get_chapter(url, chapter_nb + 1)
-
-chapter_files = os.listdir('down')
-print "Chapter files", chapter_files
-
-chapter_files.sort()
-
-# for chapter_file in chapter_files:
-#    if not chapter_file.endswith('.txt'):
-#        print "SKIP", chapter_file
-#        continue
-#    print "Chapter", chapter_file
+def _get_urls():
+    with open('urls.txt', 'r') as f:
+        buf = f.read()
+        urls = buf.splitlines()
+    return urls
 
 
-# bla
-
-from ebooklib import epub
-
-book = epub.EpubBook()
-
-# set metadata
-book.set_identifier('idsolo-leveling-1')
-book.set_title('Solo Leveling 1-210')
-book.set_language('fr')
-
-book.add_author('Author Nap')
-
-with open('style.css', 'r') as style_f:
-    style = style_f.read()  # 'body { font-family: Times, Times New Roman, serif; }'
-
-# print "STYLE", style
-
-default_css = epub.EpubItem(uid="style_default", file_name="style/default.css", media_type="text/css", content=style)
-
-book.add_item(default_css)
-
-chapters = []
-for chapter_file in chapter_files:
-    if not chapter_file.endswith('.txt'):
-        print "SKIP", chapter_file
-        continue
-    print "Chapter", chapter_file
-    small_name = chapter_file.replace('.txt', '')
-    chapter = epub.EpubHtml(title=small_name, file_name='%s.xhtml' % small_name, lang='fr')
-    f = io.open('down/%s' % chapter_file, 'r', encoding='utf-8')
-    chapter.content = f.read()
-    chapter.add_item(default_css)  # without, no css
-    book.add_item(chapter)
+def _get_chapters(urls, do_rename):
+    print "NB CHAPTERS: %s" % len(urls)
+    for chapter_nb, url in enumerate(urls):
+        if url.strip():
+            print '\r' + '' * 150,
+            print "\r ** get chapter %s (%s / %s)" % (url, chapter_nb, len(urls)),
+            sys.stdout.flush()
+            get_chapter(url, chapter_nb + 1, do_rename=do_rename)
     
-    chapters.append(chapter)
+    print "Done"
 
-book.set_cover("cover.jpg", open('cover.jpg', 'rb').read())
 
-# define Table Of Contents
-book.toc = tuple(chapters)
+def _create_epub(chapter_files):
+    from ebooklib import epub
+    
+    book = epub.EpubBook()
+    
+    # set metadata
+    book.set_identifier('solo-leveling')
+    book.set_title('Solo Leveling FR')
+    book.set_language('fr')
+    
+    book.add_author('Chu-Gong, trad FR par Wuxia')
+    
+    with open('style.css', 'r') as style_f:
+        style = style_f.read()
+    
+    default_css = epub.EpubItem(uid="style_default", file_name="style/default.css", media_type="text/css", content=style)
+    
+    book.add_item(default_css)
+    
+    chapters = []
+    for chapter_file in chapter_files:
+        if not chapter_file.endswith('.txt'):
+            continue
+        small_name = chapter_file.replace('.txt', '')
+        chapter = epub.EpubHtml(title=small_name, file_name='%s.xhtml' % small_name, lang='fr')
+        f = io.open('down/%s' % chapter_file, 'r', encoding='utf-8')
+        chapter.content = f.read()
+        chapter.add_item(default_css)  # without, no css
+        book.add_item(chapter)
+        
+        chapters.append(chapter)
+    
+    book.set_cover("cover.jpg", open('cover.jpg', 'rb').read())
+    
+    # define Table Of Contents
+    book.toc = tuple(chapters)
+    
+    # add default NCX and Nav file
+    book.add_item(epub.EpubNcx())
+    book.add_item(epub.EpubNav())
+    
+    book.add_item(default_css)
+    
+    # basic spine
+    spine = chapters[:]
+    spine.insert(0, 'nav')
+    book.spine = spine
+    
+    # write to the file
+    pth = EPUB_TMP_PTH
+    epub.write_epub(pth, book, {})
+    print "File is saved:", pth
 
-# add default NCX and Nav file
-book.add_item(epub.EpubNcx())
-book.add_item(epub.EpubNav())
 
-book.add_item(default_css)
-
-# basic spine
-spine = chapters[:]
-spine.insert(0, 'nav')
-book.spine = spine
-
-# write to the file
-epub.write_epub('solo_leveling.epub', book, {})
+if __name__ == '__main__':
+    parser = optparse.OptionParser("%prog ", version="%prog: " + VERSION, description='This tool is used to take trad from https://wuxialnscantrad.wordpress.com and make a epub from it')
+    parser.add_option('--reset', action='store_true', dest='reset', default=True, help="Reset cache")
+    parser.add_option('--change-names', action='store_true', default=False, dest='change_names', help="Change names to uniform ones.")
+    opts, args = parser.parse_args()
+    
+    urls = _get_urls()
+    
+    print "Launching:"
+    print "  - reset: %s" % opts.reset
+    print "  - change names: %s" % opts.change_names
+    
+    if opts.reset:
+        files = os.listdir('down')
+        for p in files:
+            os.unlink(os.path.join('down', p))
+    
+    # print urls
+    # url = 'https://wuxialnscantrad.wordpress.com/2019/04/19/i-alone-level-up-chapitre-8-2/'
+    # get_chapter(url, 15, do_write=False)
+    # sys.exit(0)
+    
+    _get_chapters(urls, opts.change_names)
+    
+    chapter_files = os.listdir('down')
+    chapter_files.sort()
+    
+    _create_epub(chapter_files)
+    
+    tmp_pth = EPUB_TMP_PTH
+    
+    epub_path = _get_epub_path(opts.change_names)
+    cmd = '"C:\Program Files\Calibre2\ebook-convert.exe"  %s   %s --disable-font-rescaling --cover cover.jpg' % (EPUB_TMP_PTH, epub_path)
+    print "Executing: %s" % cmd
+    
+    before = time.time()
+    os.system(cmd)
+    print "Final transformation in %.1fs" % (time.time() - before)
