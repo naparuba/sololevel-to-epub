@@ -124,17 +124,52 @@ def rename_names(s):
     return s
 
 
-def get_chapter(url, chapter_nb, do_write=True, do_rename=False):
+STATUS_FINISH = 'finish'
+STATUS_NOT_FINISH = 'not-finish'
+STATUS_DOUBLE = 'double'
+
+not_finish_chapter = None
+
+
+def _get_chapter_file(chapter_nb):
+    pth = 'down/chapter_%04d.txt' % chapter_nb
+    return pth
+
+
+def _do_write_chapter(chapter_nb, lines):
+    pth = _get_chapter_file(chapter_nb)
+    f = io.open(pth + '.tmp', 'w', encoding="utf-8")
+    f.write(u'<html><body><h1>Chapter %s</h1>\n' % chapter_nb)
+    f.write(''.join(lines))
+    f.write(u'</body></html>\n')
+    f.close()
+    shutil.move(pth + '.tmp', pth)
+
+
+def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
+    global not_finish_chapter
+    status = STATUS_FINISH
     url = url.strip()
     if len(url) == 0:
         return
+    
+    half_chapter = False
+    if url.startswith('*'):
+        half_chapter = True
+        url = url.replace('*', '')
+    
+    double_chapter = False
+    if url.startswith('!'):
+        double_chapter = True
+        url = url.replace('!', '')
+    
     # print " - Chapter %s / %s" % (chapter_nb, url)
-    pth = 'down/chapter_%04d.txt' % chapter_nb
+    pth = _get_chapter_file(chapter_nb)
     if os.path.exists(pth) and do_write:
         print "   * skip %s" % url
-        return
+        return status
     
-    cache_pth = 'tmp/chapter_%04d.soup' % chapter_nb
+    cache_pth = 'tmp/chapter_%04d.soup' % url_nb
     if os.path.exists(cache_pth):
         with open(cache_pth, 'rb') as f:
             
@@ -159,6 +194,11 @@ def get_chapter(url, chapter_nb, do_write=True, do_rename=False):
     _max = 0
     total = 0
     for p in ps:
+        
+        # links = p.find_all(['a'])
+        # for link in links:
+        #     a.s
+        
         # print "P", p , p.name
         is_table = p.name == 'table'
         is_hr = p.name == 'hr'
@@ -215,15 +255,28 @@ def get_chapter(url, chapter_nb, do_write=True, do_rename=False):
         was_in_strong = False
         lines.append('</div>')
     
-    # print '\n'.join(lines)
-    if do_write:
-        f = io.open(pth + '.tmp', 'w', encoding="utf-8")
-        f.write(u'<html><body><h1>Chapter %s</h1>\n' % chapter_nb)
-        f.write(''.join(lines))
-        f.write(u'</body></html>\n')
-        f.close()
-        shutil.move(pth + '.tmp', pth)
-    # print "   * done"
+    if not do_write:
+        return
+    
+    if not half_chapter:
+        # print '\n'.join(lines)
+
+        all_lines = lines
+        if not_finish_chapter:
+            all_lines = not_finish_chapter[:]
+            all_lines.extend(lines)
+            not_finish_chapter = None
+        _do_write_chapter(chapter_nb, all_lines)
+        # If is a double chapter: write a void one
+        if double_chapter:
+            _do_write_chapter(chapter_nb+1, u'(ce chapitre était contenu dans le chapitre précédent)')
+            status = STATUS_DOUBLE
+        
+        # print "   * done"
+        return status
+    else:  # must save it
+        not_finish_chapter = lines
+        return STATUS_NOT_FINISH
 
 
 def _get_urls():
@@ -235,12 +288,17 @@ def _get_urls():
 
 def _get_chapters(urls, do_rename):
     print "NB CHAPTERS: %s" % len(urls)
-    for chapter_nb, url in enumerate(urls):
+    chapter_nb = 1
+    for url_nb, url in enumerate(urls):
         if url.strip():
             print '\r' + '' * 150,
-            print "\r ** get chapter %s (%s / %s)" % (url, chapter_nb, len(urls)),
+            print "\r ** get chapter %s (CHAPTER=%s URL=%s / %s)" % (url, chapter_nb, url_nb, len(urls)),
             sys.stdout.flush()
-            get_chapter(url, chapter_nb + 1, do_rename=do_rename)
+            status = get_chapter(url, url_nb + 1, chapter_nb, do_rename=do_rename)
+            if status == STATUS_FINISH:
+                chapter_nb += 1
+            elif status == STATUS_DOUBLE:
+                chapter_nb += 2
     
     print "Done"
 

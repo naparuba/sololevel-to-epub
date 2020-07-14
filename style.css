@@ -115,6 +115,10 @@ body {
     line-height : 120%;
 }
 
+a {
+    display: none!important;
+}
+
 /*===Headings===*/
 /* After page breaks, eReaders sometimes do not render margins above the content. Adjusting padding-top can help */
 
