@@ -23,7 +23,7 @@ import optparse
 VERSION = '0.1'
 
 # Ebook convert: to fix DRM things in the generated epub
-EPUB_CONVERT = r'C:\Program Files\Calibre2\ebook-convert.exe'
+EPUB_CONVERT = r'C:\Program Files (x86)\Calibre2\ebook-convert.exe'
 
 EPUB_TMP_PTH = 'solo_leveling_tmp.epub'
 
@@ -389,7 +389,7 @@ if __name__ == '__main__':
     tmp_pth = EPUB_TMP_PTH
     
     epub_path = _get_epub_path(opts.change_names)
-    cmd = '"C:\Program Files\Calibre2\ebook-convert.exe"  %s   %s --disable-font-rescaling --cover cover.jpg' % (EPUB_TMP_PTH, epub_path)
+    cmd = '"%s"  %s   %s --disable-font-rescaling --cover cover.jpg' % (EPUB_CONVERT, EPUB_TMP_PTH, epub_path)
     print "Executing: %s" % cmd
     
     before = time.time()
