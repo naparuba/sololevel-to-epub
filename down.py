@@ -5,12 +5,31 @@ import time
 import sys
 import os
 import shutil
-from bs4 import BeautifulSoup
-from urllib2 import urlopen
 import io
-import cPickle
 import re
 import optparse
+
+# Python 2/3 specific imports
+try:
+    from urllib2 import urlopen
+    import cPickle
+except ImportError:  # python 3
+    from urllib.request import urlopen
+    import pickle as cPickle
+    
+    unicode = str
+
+try:
+    from bs4 import BeautifulSoup
+except ImportError as exp:
+    print('ERROR: missing bs4 lib. Launch pip3.exe install bs4')
+    sys.exit(2)
+
+try:
+    from ebooklib import epub
+except ImportError as exp:
+    print('ERROR: missing ebooklib lib. Launch pip3.exe install ebooklib')
+    sys.exit(2)
 
 # NOTE: ce script est tres brut de fonderie, mais il a le merite de fonctionner
 # Pour le faire fonctionner vous aurez besoin de deux repertoires: down et tmp
@@ -35,8 +54,11 @@ def _get_epub_path(do_rename):
         return 'solo_leveling.epub'
 
 
+# je ne me souviens plus pourquoi, j'ai du avoir un bug avec une des lib
 sys.setrecursionlimit(10000)
 
+## Utilise pour remplacer les noms qui parfois on un affichage different, et faut bien le dire, j'ai un peu
+#  de mal avec les noms coreens, j'ai deja confondu JinCeol et Jinwoo dans le passe ^^
 names = [
     # jinwoo
     ('Sung Jinwoo', 'Jinwoo'),
@@ -158,6 +180,7 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
         half_chapter = True
         url = url.replace('*', '')
     
+    # Si on a un chapitre en doublons, qui en fait etait dans le precedent, on a un ! devant son url
     double_chapter = False
     if url.startswith('!'):
         double_chapter = True
@@ -166,22 +189,24 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
     # print " - Chapter %s / %s" % (chapter_nb, url)
     pth = _get_chapter_file(chapter_nb)
     if os.path.exists(pth) and do_write:
-        print "   * skip %s" % url
+        print("   * skip %s" % url)
         return status
     
+    # on s epermet de sauvegarder le parsing du html, car il est long a calculer ^^
     cache_pth = 'tmp/chapter_%04d.soup' % url_nb
     if os.path.exists(cache_pth):
         with open(cache_pth, 'rb') as f:
             
             soup = cPickle.loads(f.read())
-    else:
+    else:  # on ne l'a jamais recupere, on le fait et on le parse
         page = urlopen(url)
         soup = BeautifulSoup(page, 'html5lib')
         soup_ser = cPickle.dumps(soup)
-        with open(cache_pth, 'wb') as f:
+        with open(cache_pth, 'wb') as f:  # update du cache
             f.write(soup_ser)
-        print "  - saved %s (%s)" % (cache_pth, len(soup_ser))
+        print("  - saved %s (%s)" % (cache_pth, len(soup_ser)))
     
+    # la gros parsing bourin pour trouver no morceaux et modifier leur style
     div = soup.find('div', attrs={'class': 'entry-content'})
     # print "ALL DIV", div.prettify()
     ps = div.find_all(["p", "table", 'hr'], recursive=False)
@@ -195,28 +220,27 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
     total = 0
     for p in ps:
         
-        # links = p.find_all(['a'])
-        # for link in links:
-        #     a.s
-        
-        # print "P", p , p.name
         is_table = p.name == 'table'
-        is_hr = p.name == 'hr'
-        # print str(p), dir(p)
+        
+        # on affiche pas les liens facebook et autres dans l epub
         txt = p.getText().strip()
         if 'Twitter' in txt and 'Facebook' in txt:
-            print "BOGUS TWITTER", len(txt)
+            print("BOGUS TWITTER", len(txt))
             continue
+        # c'est une redite du numero du chapitre, on skip
         if txt.startswith('I Alone Level-up :'):
             continue
+        # idem
         if 'Chapitre suivant' in txt:
             continue
         if len(txt) > _max:
             _max = len(txt)
         if not do_write:
-            print "LINE:", len(txt), txt.encode('utf8')
+            print("LINE:", len(txt), txt.encode('utf8'))
         total += len(txt)
         
+        # on tente de voir a quoi correspond la ligne pour mettre le bon style. Pas parfait, mais fait le taf :)
+        # note: le style est dans le css
         _class = ''
         if txt.startswith(u'«') or txt.startswith(u'“') or txt.startswith(u'‘') or txt.startswith(u'»') or txt.startswith(u'-') or txt.startswith(u'–'):
             _class = 'talk'
@@ -260,7 +284,7 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
     
     if not half_chapter:
         # print '\n'.join(lines)
-
+        
         all_lines = lines
         if not_finish_chapter:
             all_lines = not_finish_chapter[:]
@@ -269,7 +293,7 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
         _do_write_chapter(chapter_nb, all_lines)
         # If is a double chapter: write a void one
         if double_chapter:
-            _do_write_chapter(chapter_nb+1, u'(ce chapitre était contenu dans le chapitre précédent)')
+            _do_write_chapter(chapter_nb + 1, u'(ce chapitre était contenu dans le chapitre précédent)')
             status = STATUS_DOUBLE
         
         # print "   * done"
@@ -287,12 +311,12 @@ def _get_urls():
 
 
 def _get_chapters(urls, do_rename):
-    print "NB CHAPTERS: %s" % len(urls)
+    print ("NB CHAPTERS: %s" % len(urls))
     chapter_nb = 1
     for url_nb, url in enumerate(urls):
         if url.strip():
-            print '\r' + '' * 150,
-            print "\r ** get chapter %s (CHAPTER=%s URL=%s / %s)" % (url, chapter_nb, url_nb, len(urls)),
+            print('\r' + ' ' * 80),
+            print("\r ** get chapter %s (CHAPTER=%s URL=%s / %s)" % (url, chapter_nb, url_nb, len(urls))),
             sys.stdout.flush()
             status = get_chapter(url, url_nb + 1, chapter_nb, do_rename=do_rename)
             if status == STATUS_FINISH:
@@ -300,12 +324,11 @@ def _get_chapters(urls, do_rename):
             elif status == STATUS_DOUBLE:
                 chapter_nb += 2
     
-    print "Done"
+    print("Done")
 
 
+# on a les infos, on cre le epub
 def _create_epub(chapter_files):
-    from ebooklib import epub
-    
     book = epub.EpubBook()
     
     # set metadata
@@ -354,7 +377,7 @@ def _create_epub(chapter_files):
     # write to the file
     pth = EPUB_TMP_PTH
     epub.write_epub(pth, book, {})
-    print "File is saved:", pth
+    print("File is saved:", pth)
 
 
 if __name__ == '__main__':
@@ -365,19 +388,14 @@ if __name__ == '__main__':
     
     urls = _get_urls()
     
-    print "Launching:"
-    print "  - reset: %s" % opts.reset
-    print "  - change names: %s" % opts.change_names
+    print ("Launching:")
+    print ("  - reset: %s" % opts.reset)
+    print ("  - change names: %s" % opts.change_names)
     
     if opts.reset:
         files = os.listdir('down')
         for p in files:
             os.unlink(os.path.join('down', p))
-    
-    # print urls
-    # url = 'https://wuxialnscantrad.wordpress.com/2019/04/19/i-alone-level-up-chapitre-8-2/'
-    # get_chapter(url, 15, do_write=False)
-    # sys.exit(0)
     
     _get_chapters(urls, opts.change_names)
     
@@ -388,10 +406,13 @@ if __name__ == '__main__':
     
     tmp_pth = EPUB_TMP_PTH
     
+    # Par contre il est gros, donc soumis au DRM si j'ai bien compris (pas clair), donc on demande a calibre
+    # de nous le repackager, il fait ce qu'il faut et vire le DRM, en tout cas sinon ma liseuse kobo n'en veux pas
     epub_path = _get_epub_path(opts.change_names)
     cmd = '"%s"  %s   %s --disable-font-rescaling --cover cover.jpg' % (EPUB_CONVERT, EPUB_TMP_PTH, epub_path)
-    print "Executing: %s" % cmd
+    print ("Executing: %s" % cmd)
     
     before = time.time()
     os.system(cmd)
-    print "Final transformation in %.1fs" % (time.time() - before)
+    print ("Final transformation in %.1fs" % (time.time() - before))
+    print('COUCOU Wuxia ^^')
