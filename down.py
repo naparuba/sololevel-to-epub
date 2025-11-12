@@ -1,23 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import time
-import sys
-import os
-import shutil
 import io
-import re
 import optparse
-
-# Python 2/3 specific imports
-try:
-    from urllib2 import urlopen
-    import cPickle
-except ImportError:  # python 3
-    from urllib.request import urlopen
-    import pickle as cPickle
-    
-    unicode = str
+import os
+import pickle as cPickle
+import re
+import shutil
+import sys
+import time
+from urllib.request import urlopen
 
 try:
     from bs4 import BeautifulSoup
@@ -42,7 +34,7 @@ except ImportError as exp:
 VERSION = '0.1'
 
 # Ebook convert: to fix DRM things in the generated epub
-EPUB_CONVERT = r'C:\Program Files (x86)\Calibre2\ebook-convert.exe'
+EPUB_CONVERT = r'C:\Program Files\Calibre2\ebook-convert.exe'
 
 EPUB_TMP_PTH = 'solo_leveling_tmp.epub'
 
@@ -53,6 +45,12 @@ def _get_epub_path(do_rename):
     else:
         return 'solo_leveling.epub'
 
+
+# Vérifie que tmp et down existent
+if not os.path.exists('tmp'):
+    os.mkdir('tmp')
+if not os.path.exists('down'):
+    os.mkdir('down')
 
 # je ne me souviens plus pourquoi, j'ai du avoir un bug avec une des lib
 sys.setrecursionlimit(10000)
@@ -146,6 +144,16 @@ def rename_names(s):
     return s
 
 
+# some lines are starting with » and should be changed by «
+def _fix_bad_line_characters(s):
+    lines = s.splitlines()
+    new_lines = []
+    for line in lines:
+        line = line.replace("> »", ">«").replace(">»", ">«").replace('I’', 'l\'')
+        new_lines.append(line)
+    return u'\n'.join(new_lines)
+
+
 STATUS_FINISH = 'finish'
 STATUS_NOT_FINISH = 'not-finish'
 STATUS_DOUBLE = 'double'
@@ -192,11 +200,10 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
         print("   * skip %s" % url)
         return status
     
-    # on s epermet de sauvegarder le parsing du html, car il est long a calculer ^^
+    # on se permet de sauvegarder le parsing du html, car il est long a calculer ^^
     cache_pth = 'tmp/chapter_%04d.soup' % url_nb
     if os.path.exists(cache_pth):
         with open(cache_pth, 'rb') as f:
-            
             soup = cPickle.loads(f.read())
     else:  # on ne l'a jamais recupere, on le fait et on le parse
         page = urlopen(url)
@@ -242,7 +249,8 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
         # on tente de voir a quoi correspond la ligne pour mettre le bon style. Pas parfait, mais fait le taf :)
         # note: le style est dans le css
         _class = ''
-        if txt.startswith(u'«') or txt.startswith(u'“') or txt.startswith(u'‘') or txt.startswith(u'»') or txt.startswith(u'-') or txt.startswith(u'–'):
+        if txt.startswith(u'«') or txt.startswith(u'“') or txt.startswith(u'‘') or txt.startswith(u'»') or txt.startswith(u'-') or txt.startswith(
+                u'–'):
             _class = 'talk'
         elif txt.startswith(u'[') and txt.endswith(u']'):
             _class = 'strong'
@@ -256,10 +264,12 @@ def get_chapter(url, url_nb, chapter_nb, do_write=True, do_rename=False):
         # new_line = '<p class="%s">%s</p>' % (_class, txt)
         p['class'] = _class
         
-        new_line = unicode(p)
+        new_line = str(p)
         
         if do_rename:
             new_line = rename_names(new_line)
+        
+        new_line = _fix_bad_line_characters(new_line)
         
         if 'strong' in _class:
             if was_in_strong:
@@ -311,7 +321,7 @@ def _get_urls():
 
 
 def _get_chapters(urls, do_rename):
-    print ("NB CHAPTERS: %s" % len(urls))
+    print("NB CHAPTERS: %s" % len(urls))
     chapter_nb = 1
     for url_nb, url in enumerate(urls):
         if url.strip():
@@ -381,16 +391,17 @@ def _create_epub(chapter_files):
 
 
 if __name__ == '__main__':
-    parser = optparse.OptionParser("%prog ", version="%prog: " + VERSION, description='This tool is used to take trad from https://wuxialnscantrad.wordpress.com and make a epub from it')
-    parser.add_option('--reset', action='store_true', dest='reset', default=True, help="Reset cache")
-    parser.add_option('--change-names', action='store_true', default=False, dest='change_names', help="Change names to uniform ones.")
+    parser = optparse.OptionParser("%prog ", version="%prog: " + VERSION,
+                                   description='This tool is used to take trad from https://wuxialnscantrad.wordpress.com and make a epub from it')
+    parser.add_option('--reset', action='store_true', dest='reset', default=False, help="Reset cache")
+    parser.add_option('--change-names', action='store_true', default=True, dest='change_names', help="Change names to uniform ones.")
     opts, args = parser.parse_args()
     
     urls = _get_urls()
     
-    print ("Launching:")
-    print ("  - reset: %s" % opts.reset)
-    print ("  - change names: %s" % opts.change_names)
+    print("Launching:")
+    print("  - reset: %s" % opts.reset)
+    print("  - change names: %s" % opts.change_names)
     
     if opts.reset:
         files = os.listdir('down')
@@ -410,9 +421,9 @@ if __name__ == '__main__':
     # de nous le repackager, il fait ce qu'il faut et vire le DRM, en tout cas sinon ma liseuse kobo n'en veux pas
     epub_path = _get_epub_path(opts.change_names)
     cmd = '"%s"  %s   %s --disable-font-rescaling --cover cover.jpg' % (EPUB_CONVERT, EPUB_TMP_PTH, epub_path)
-    print ("Executing: %s" % cmd)
+    print("Executing: %s" % cmd)
     
     before = time.time()
     os.system(cmd)
-    print ("Final transformation in %.1fs" % (time.time() - before))
+    print("Final transformation in %.1fs" % (time.time() - before))
     print('COUCOU Wuxia ^^')
