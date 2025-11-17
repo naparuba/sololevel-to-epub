@@ -162,53 +162,91 @@ def _fix_french_quotes(s):
     On maintient un état "ouvert/fermé" basé sur les guillemets vus jusqu'à présent.
     - Si on est fermé (count_open == count_close) et qu'on voit un », c'est une erreur
     - On cherche alors le « qui suit et on inverse la paire
+    
+    On fait plusieurs passes jusqu'à ce qu'il n'y ait plus de changement,
+    pour gérer les cas complexes avec plusieurs erreurs consécutives.
     """
     lines = s.splitlines()
     new_lines = []
     
     for line in lines:
-        if '»' not in line or '«' not in line:
-            new_lines.append(line)
-            continue
-            
-        # Extraire tous les guillemets avec leurs positions
-        quotes = []
-        for i, char in enumerate(line):
-            if char in ('«', '»'):
-                quotes.append([i, char])  # Liste mutable
-        
-        if len(quotes) < 2:
+        if '»' not in line and '«' not in line:
+            # Pas de guillemets du tout
             new_lines.append(line)
             continue
         
-        chars = list(line)
-        i = 0
+        # Si la ligne ne contient que des », on doit les corriger par paires
+        # Si la ligne ne contient que des «, c'est probablement OK (ou erreur différente)
         
-        while i < len(quotes):
-            # Compter combien d'ouvrants et fermants on a vus jusqu'ici
-            count_open = sum(1 for j in range(i) if quotes[j][1] == '«')
-            count_close = sum(1 for j in range(i) if quotes[j][1] == '»')
-            
-            current_char = quotes[i][1]
-            
-            # Si on n'est pas dans une citation (count_open == count_close)
-            # et qu'on trouve un », c'est une erreur
-            if count_open == count_close and current_char == '»':
-                # Chercher le « qui suit
-                for j in range(i + 1, len(quotes)):
-                    if quotes[j][1] == '«':
-                        # Inverser cette paire » ... «
-                        pos1, pos2 = quotes[i][0], quotes[j][0]
-                        chars[pos1] = '«'
-                        chars[pos2] = '»'
-                        quotes[i][1] = '«'
-                        quotes[j][1] = '»'
-                        break
-                # Continuer après cette correction
-            
-            i += 1
+        # Faire plusieurs passes jusqu'à stabilisation
+        max_iterations = 10  # Limite de sécurité
+        prev_line = None
         
-        line = ''.join(chars)
+        for iteration in range(max_iterations):
+            if line == prev_line:
+                # Pas de changement, on est stabilisé
+                break
+            
+            prev_line = line
+            
+            # Extraire tous les guillemets avec leurs positions
+            quotes = []
+            for i, char in enumerate(line):
+                if char in ('«', '»'):
+                    quotes.append([i, char])  # Liste mutable
+            
+            if len(quotes) < 2:
+                break
+            
+            chars = list(line)
+            i = 0
+            modified = False
+            
+            while i < len(quotes):
+                # Compter combien d'ouvrants et fermants on a vus jusqu'ici
+                count_open = sum(1 for j in range(i) if quotes[j][1] == '«')
+                count_close = sum(1 for j in range(i) if quotes[j][1] == '»')
+                
+                current_char = quotes[i][1]
+                
+                # Si on n'est pas dans une citation (count_open == count_close)
+                # et qu'on trouve un », c'est une erreur
+                if count_open == count_close and current_char == '»':
+                    pos1 = quotes[i][0]
+                    # Chercher le prochain guillemet (« ou »)
+                    found_pair = False
+                    for j in range(i + 1, len(quotes)):
+                        if quotes[j][1] == '«':
+                            # Cas standard: » ... « → on inverse la paire
+                            pos2 = quotes[j][0]
+                            chars[pos1] = '«'
+                            chars[pos2] = '»'
+                            quotes[i][1] = '«'
+                            quotes[j][1] = '»'
+                            modified = True
+                            found_pair = True
+                            break
+                        elif quotes[j][1] == '»':
+                            # Cas spécial: » ... » → le premier » devient «
+                            chars[pos1] = '«'
+                            quotes[i][1] = '«'
+                            modified = True
+                            found_pair = True
+                            break
+                    
+                    # Si aucune paire trouvée et qu'on est le dernier, ne rien faire
+                    # (évite les boucles infinies)
+                    if not found_pair and i == len(quotes) - 1:
+                        pass
+                
+                i += 1
+            
+            line = ''.join(chars)
+            
+            if not modified:
+                # Aucune modification, on peut arrêter
+                break
+        
         new_lines.append(line)
     
     return '\n'.join(new_lines)

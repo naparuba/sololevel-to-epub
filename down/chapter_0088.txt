@@ -209,7 +209,7 @@
 <p>Deux dagues apparurent dans ses mains,</p>
 <p class="talk">« Sortez. »<br/>
 Notes du traducteur :<br/>
-[1] : « La magie de la gravité inversée » (역중력 마법) : Assez simple « anti/inverse » 역 + » gravité » 중력 + » magie » 마법.<br/>
-[2] : » accélération de la gravité » (중력 가속) : littéralement.</p>
+[1] : « La magie de la gravité inversée » (역중력 마법) : Assez simple « anti/inverse » 역 + « gravité » 중력 + « magie » 마법.<br/>
+[2] : « accélération de la gravité » (중력 가속) : littéralement.</p>
 </body>
 </html>

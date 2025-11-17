@@ -165,7 +165,7 @@
 <p>Jinwoo fronça les sourcils. S’il continuait ainsi, ce ne serait qu’un mal de tête à l’avenir.</p>
 <p class="talk">‘Ok, étouffons ça dans l’œuf tout de suite.’</p>
 <p>Jinwoo parla sévèrement : « Je t’ai amené ici, donc je serai responsable de ta protection. Mais. »</p>
-<p>Sa voix baissa : » Tu ne peux pas me poser de questions. »</p>
+<p>Sa voix baissa : « Tu ne peux pas me poser de questions. »</p>
 <p>Il leva la tête et fixa Park et les autres Chasseurs.</p>
 <p class="talk">« C’est valable pour vous tous aussi. Ne me demandez rien. »</p>
 <p>Il poursuivit : « Si vous n’aimez pas ça, vous êtes plus que libre de partir. Je ne vous arrêterai pas. »</p>

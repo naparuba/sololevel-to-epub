@@ -67,7 +67,7 @@
 <strong>Rareté : C</strong></p>
 <p class="strong"><strong>Type : Dague</strong></p>
 <p class="strong"><strong>Puissance d’attaque +25</strong></p>
-<p class="strong"><strong>Inflige » paralysie » et » saignement » à l’attaque.</strong><br/>
+<p class="strong"><strong>Inflige « paralysie » et « saignement » à l’attaque.</strong><br/>
 <strong>Paralysie : La cible a une chance d’être immobilisée.</strong><br/>
 <strong>Saignement : La cible perdra 1% de santé par seconde.</strong></p>
 <p class="strong"><strong>Une dague faite du croc empoisonné du Casaka, qui dégouline toujours de son poison.</strong></p>

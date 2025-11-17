@@ -108,7 +108,7 @@
 <p class="talk">« Les fourmis… elles ont commencé à « travailler », monsieur. »</p>
 <p>Les yeux de Jin tremblaient de nouveau lorsqu’il se souvint de ces scènes.</p>
 <p>Les fourmis avaient reçu des pioches dans le sac porté par le vice-maître de la Guilde Ah-Jin. Puis, ils commencèrent à extraire les pierres de mana des murs du donjon.</p>
-<p>Les fourmis étaient également chargées d’emporter les pierres de mana minées ainsi que les corps des monstres morts. Jin ne pouvait tout simplement pas détacher ses yeux des fourmis parfaitement organisées et de leur vitesse de travail incroyablement rapide. Il s’agissait essentiellement des manifestations d’une » opération » efficace.</p>
+<p>Les fourmis étaient également chargées d’emporter les pierres de mana minées ainsi que les corps des monstres morts. Jin ne pouvait tout simplement pas détacher ses yeux des fourmis parfaitement organisées et de leur vitesse de travail incroyablement rapide. Il s’agissait essentiellement des manifestations d’une « opération » efficace.</p>
 <p>Jin était alors profondément étonné, et il ressentait de l’admiration maintenant.</p>
 <p class="talk">« Ce que j’ai vu, monsieur, ce n’était pas aussi simple qu’une équipe de raid en solo. Pas du tout. »</p>
 <p>Non, cet homme était capable de nettoyer un donjon, de récupérer les corps, et aussi d’extraire les minéraux.</p>
@@ -136,7 +136,7 @@
 <p class="talk">« S’il se fiait trop à ses invocations, alors son… »</p>
 <hr/>
 <p class="talk">« …Mon instinct s’adoucirait, voyez-vous. »</p>
-<p>Jinwoo prit la parole et fit un pas en avant alors que la paire d' »épée courte du Roi Démon » était agrippée dans ses mains.</p>
+<p>Jinwoo prit la parole et fit un pas en avant alors que la paire d' «épée courte du Roi Démon » était agrippée dans ses mains.</p>
 <p>Il n’avait même pas besoin d’appeler ses soldats. Il n’y avait qu’un seul monstre de niveau boss et quatre autres qui gardaient cette créature, après tout.</p>
 <p>Jinwoo donna un coup de pied au sol et s’élança en avant.</p>
 <p class="talk">‘Vitesse argentée !’</p>
@@ -169,7 +169,7 @@
 <p class="strong"><strong>Les niveaux de toutes vos compétences de classe ont augmenté.</strong></p>
 <p class="strong"><strong>Compétence : L’extraction de l’ombre a gagné un niveau.</strong></p>
 <p class="strong"><strong>Compétence: ‘Stockage de l’ombre’ a gagné un niveau.</strong></p>
-<p class="strong"><strong>Compétence : Le » territoire du souverain » a gagné un niveau.</strong></p>
+<p class="strong"><strong>Compétence : Le « territoire du souverain » a gagné un niveau.</strong></p>
 <p class="strong"><strong>Compétence: ‘Echange d’ombres’ a gagné un niveau.</strong></p>
 </div>
 <p>Les yeux de Jinwoo faillirent sortir de leurs orbites devant le mur de messages.</p>

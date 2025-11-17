@@ -40,7 +40,7 @@
 </div>
 <p>L’objet pacotille, « La Corne du Démon ». Le vendre au magasin lui rapportait 200 000 pièces d’or.</p>
 <p class="talk">‘Même les dents de Cerbère se sont vendues 150 000 chacune… Les monstres du Château du Démon sont généreux.’</p>
-<p>Après avoir goûté à la valeur de la boutique récemment, les objets de pacotille n’étaient plus seulement de la » pacotille » pour Jinwoo. C’était de l’or précieux qui allait devenir sa chair et son sang.</p>
+<p>Après avoir goûté à la valeur de la boutique récemment, les objets de pacotille n’étaient plus seulement de la « pacotille » pour Jinwoo. C’était de l’or précieux qui allait devenir sa chair et son sang.</p>
 <p class="talk">‘Il n’y a vraiment rien à jeter.’</p>
 <p>Jinwoo vendait volontiers ce qu’il fallait vendre et entreposait ce qu’il ne vendait pas. En fouillant les cadavres, il découvrit quelque chose.</p>
 <p class="talk">‘Qu’est-ce que c’est ?’</p>

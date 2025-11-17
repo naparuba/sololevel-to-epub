@@ -6,7 +6,7 @@
 <p>Il avait réalisé qu’il y avait un autre cœur d’énergie magique qui battait dans sa poitrine. Il sentait de puissantes poussées d’énergie jaillir sans cesse de ce nouveau cœur.</p>
 <p>Aurait-il pu faire une erreur ? C’était assez facile de confirmer la vérité, en fait.</p>
 <p class="talk">‘Fenêtre de statut.’</p>
-<p>Tout en gardant sa main fermement serrée autour du cou de la statue d’ange, il invoqua sa fenêtre de statut. Ce qu’il voulait voir parmi les nombreuses valeurs énumérées, c’était ses réserves actuelles d’énergie magique, que le Système avait désignées comme « Points de Mana » ou » MP » .</p>
+<p>Tout en gardant sa main fermement serrée autour du cou de la statue d’ange, il invoqua sa fenêtre de statut. Ce qu’il voulait voir parmi les nombreuses valeurs énumérées, c’était ses réserves actuelles d’énergie magique, que le Système avait désignées comme « Points de Mana » ou « MP » .</p>
 <div class="border">
 <p class="strong"><strong>[MP : 109,433]</strong></p>
 </div>
@@ -42,7 +42,7 @@
 <p class="talk">« Comment peux-tu encore garder ton ancien ego, même avec le cœur noir qui bat en toi ?! »</p>
 <p class="talk">‘Qu’est-ce que c’était ?’</p>
 <p>Jinwoo entendit les marmonnements de la créature et réalisa rapidement deux choses importantes.</p>
-<p>Premièrement, la statue d’ange n’était certainement pas responsable de l’apparition de ce » Cœur noir » dans son corps. Deuxièmement, son réveil n’aurait pas dû bien se terminer pour lui.</p>
+<p>Premièrement, la statue d’ange n’était certainement pas responsable de l’apparition de ce « Cœur noir » dans son corps. Deuxièmement, son réveil n’aurait pas dû bien se terminer pour lui.</p>
 <p>Crack !</p>
 <p>Jinwoo renforça sa prise sur le cou de la statue d’ange, et de profondes fissures se formèrent sur son cou.</p>
 <p class="talk">« Keu-heuk !! »</p>
@@ -141,7 +141,7 @@
 <p>Jinwoo laissa derrière lui le chef étourdi de la Division de la surveillance et s’en alla ailleurs. Il ne cessa jamais de chercher et finit par apercevoir quelque chose qui réfléchissait la lumière juste là-bas.</p>
 <p>C’était son « épée courte du Roi Démon » manquante.</p>
 <p class="talk">‘Je l’ai trouvé !’</p>
-<p>Jinwoo tendit la main vers l’arme. Il activa la » main invisible » et ramena son épée courte dans sa prise.</p>
+<p>Jinwoo tendit la main vers l’arme. Il activa la « main invisible » et ramena son épée courte dans sa prise.</p>
 <p>Attrape !</p>
 <p>Le sentiment de prise en main transmis par sa main restait de premier ordre.</p>
 <p>Boom !!</p>

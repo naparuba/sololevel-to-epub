@@ -90,7 +90,7 @@
 <p class="talk">« Je vois. »</p>
 <p>Matsumoto Shigeo hocha la tête. D’innombrables pensées tourbillonnaient dans son regard qui apercevait maintenant l’immense Porte.</p>
 <p>Deux minutes, une minute, 59 secondes, 58…</p>
-<p>Le temps, rempli d’une forte tension, s’étirait au rythme des nœuds. Et bien assez tôt, le » mur » noir recouvrant la surface de la Porte géante commença à s’estomper.</p>
+<p>Le temps, rempli d’une forte tension, s’étirait au rythme des nœuds. Et bien assez tôt, le « mur » noir recouvrant la surface de la Porte géante commença à s’estomper.</p>
 <p>Les journalistes crièrent tous à l’unisson.</p>
 <p class="talk">« Uh, uh ?! »</p>
 <p class="talk">« Hé, la Porte s’ouvre !! »</p>
@@ -155,7 +155,7 @@
 <p>L’emplacement de la Porte apparaissant dans le message du système n’était pas très loin d’ici. En fait, il connaissait bien cet endroit.</p>
 <p>Jinwoo utilisa rapidement l’une des fonctions de son téléphone réservé aux Chasseurs pour se connecter sur le site Web de l’Association des Chasseurs et vérifia les informations sur la Porte en question.</p>
 <p>Bien sûr, son emplacement était exactement là où le message d’avertissement de l’Association, lancé il y a quelque temps, disait qu’elle le serait.</p>
-<p>Il ne s’attendait pas à ce que l’endroit où cette clé devait être » déverrouillée » soit là. Comme si quelqu’un l’avait frappé à l’arrière de la tête, Jinwoo se sentait un peu étourdi.</p>
+<p>Il ne s’attendait pas à ce que l’endroit où cette clé devait être « déverrouillée » soit là. Comme si quelqu’un l’avait frappé à l’arrière de la tête, Jinwoo se sentait un peu étourdi.</p>
 <p class="talk">‘J’ai fait une erreur.’</p>
 <p>En réalité, la description de la clé ne lui mentait pas. Le Système disait que l’information sur la Porte serait mise à disposition, mais ne disait rien sur une Porte apparaissant quelque part.</p>
 <p>Il venait d’être pris de court.</p>

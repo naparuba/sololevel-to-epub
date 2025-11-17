@@ -53,7 +53,7 @@
 <p class="talk">‘Ah…’</p>
 <p>Si ses souvenirs étaient bons, ce donjon avait à peu près la même disposition que le double donjon dont il tirait ses pouvoirs.</p>
 <p class="talk">‘Si c’est le cas…’</p>
-<p>Jinwoo se rendit rapidement à l’endroit où se trouvait la dernière fois l’entrée du double donjon. Et bien sûr, il y avait une autre » entrée » dans le donjon.</p>
+<p>Jinwoo se rendit rapidement à l’endroit où se trouvait la dernière fois l’entrée du double donjon. Et bien sûr, il y avait une autre « entrée » dans le donjon.</p>
 <p class="talk">‘C’est la même chose qu’avant.’</p>
 <p>Il comprit tout de suite pourquoi il ne sentait pas la présence des Chasseurs de l’équipe du raid.</p>
 <p class="talk">‘Ce donjon… était absurdement énorme, pas vrai ?’</p>
@@ -176,7 +176,7 @@
 </div>
 <p>Slam.</p>
 <p>La porte se referma derrière lui avec un bruit sourd et fort.</p>
-<p>L’énormité de cette salle, les statues de pierre qui remplissaient les murs, puis l’immense statue d’un » dieu » située dans la partie la plus profonde de cette salle.</p>
+<p>L’énormité de cette salle, les statues de pierre qui remplissaient les murs, puis l’immense statue d’un « dieu » située dans la partie la plus profonde de cette salle.</p>
 <p>Tout correspondait à ses souvenirs.</p>
 <p class="talk">‘Je suis… de retour.’</p>
 <p>Son cœur se mit à battre très vite.</p>
@@ -215,7 +215,7 @@
 <p>Et, sa prédiction était juste.</p>
 <p>Boom !</p>
 <p>Bang !!</p>
-<p>Les géants commencèrent à frapper le » mur » invisible qui entourait les alentours de la Porte, mais il restait ferme et ne bougeait même pas d’un pouce.</p>
+<p>Les géants commencèrent à frapper le « mur » invisible qui entourait les alentours de la Porte, mais il restait ferme et ne bougeait même pas d’un pouce.</p>
 <p>Boom !! Bang !!</p>
 <p>Ils poussaient avec leurs épaules, et même jetaient tout leur corps contre le mur, mais la barrière de Yuri Orlov se montrait aussi parfaite qu’il l’affirmait plus tôt.</p>
 <p class="talk">« Euhahahahaha !! »</p>

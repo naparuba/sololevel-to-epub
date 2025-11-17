@@ -93,7 +93,7 @@
 <p>Madame Selner commença à frémir d’horreur après s’être enfin souvenue de ce souvenir. La voix qu’elle avait entendue dans son rêve était bien plus vive que tout autre son qu’elle avait entendu dans la réalité.</p>
 <p>Mais contrairement à la femme effrayée, Jinwoo se concentrait plutôt sur le mot « guerre ». C’était son indice.</p>
 <p class="talk">‘C’est similaire à ce que le Roi des Géants m’a dit, n’est-ce pas ?’</p>
-<p>La bataille entre les Dirigeants et les Souverains – le Roi des Géants ne l’avait-t-il pas dit ? Qu' »ils » se préparaient à la guerre ? Il était fort probable que les Dirigeants ne soient pas les seuls à se préparer pour cette bataille.</p>
+<p>La bataille entre les Dirigeants et les Souverains – le Roi des Géants ne l’avait-t-il pas dit ? Qu' «ils » se préparaient à la guerre ? Il était fort probable que les Dirigeants ne soient pas les seuls à se préparer pour cette bataille.</p>
 <p>Si c’était le cas, à quel camp appartenaient les bâtards qui chassaient les Chasseurs ?</p>
 <p>Bien que cela l’intriguait, il n’avait toujours pas reçu de réponse à sa question initiale. Alors, il demanda à nouveau.</p>
 <p class="talk">« Quel est le rapport avec le fait que vous me demandiez de protéger les autres Chasseurs ? »</p>

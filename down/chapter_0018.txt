@@ -155,7 +155,7 @@ Un groupe de raids qui se constituait à la dernière minute, avec un effectif m
 <p>Notes du traducteur :<br/>
 [1] : « Hyung-nim » : Combinaison de « hyung » et « nim » honorifique. « Hyung » est la façon dont un jeune homme s’adresserait à son frère aîné. Mais il est également utilisé dans la population générale (par les hommes plus jeunes et les hommes plus âgés d’un âge plus proche). « Nim » est ajouté en signe honorifique et de respect.<br/>
 [2] : « Bongo ». Un petit pick-up à plateau.<br/>
-[3] : « Pierre lumineuse » (야광석) : « obscurité » 야 + « lumière » 광 + pierre « 석 ». « Une lumière qui brille dans l’obscurité » &gt; juste une « pierre lumineuse ». Le mot » 야광 » se réfère aussi spécialement à ce qui brille dans l’obscurité.<br/>
-[4] : « aggro » (어글) : L’utilisation de la terminologie des jeux par l’auteur devient de plus en plus évidente. Abréviation pour la prononciation coréenne du mot anglais « agression », il se réfère à l’idée qu’un ennemi de jeu vidéo sera concentré sur une cible avec la plus grande menace. Normalement, ce sont les dealers de dommages, mais les Tankers ont souvent des compétences spéciales pour augmenter de force leur menace et attirer l’agression ou l' »aggro » d’un ennemi.</p>
+[3] : « Pierre lumineuse » (야광석) : « obscurité » 야 + « lumière » 광 + pierre « 석 ». « Une lumière qui brille dans l’obscurité » &gt; juste une « pierre lumineuse ». Le mot « 야광 » se réfère aussi spécialement à ce qui brille dans l’obscurité.<br/>
+[4] : « aggro » (어글) : L’utilisation de la terminologie des jeux par l’auteur devient de plus en plus évidente. Abréviation pour la prononciation coréenne du mot anglais « agression », il se réfère à l’idée qu’un ennemi de jeu vidéo sera concentré sur une cible avec la plus grande menace. Normalement, ce sont les dealers de dommages, mais les Tankers ont souvent des compétences spéciales pour augmenter de force leur menace et attirer l’agression ou l' «aggro » d’un ennemi.</p>
 </body>
 </html>

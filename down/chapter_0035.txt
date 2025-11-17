@@ -40,7 +40,7 @@ Jinwoo ramassa une pierre du sol. Elle disparut aussi de la vue.</p>
 </div>
 <p>Ses 7 mana restants semblaient se moquer de lui.</p>
 <p class="talk">‘Ça a vraiment touché le fond.’</p>
-<p>Avec son mana actuel, il pouvait maintenir »furtivité » pendant un peu moins de 35 secondes. Cependant, s’il tenait compte d’autres compétences dans le calcul, ce serait beaucoup moins que cela.</p>
+<p>Avec son mana actuel, il pouvait maintenir «furtivité » pendant un peu moins de 35 secondes. Cependant, s’il tenait compte d’autres compétences dans le calcul, ce serait beaucoup moins que cela.</p>
 <p class="talk">‘Maintenant que j’y pense, même Kang Taeshik est sorti de sa technique après quelques secondes.’</p>
 <p>C’était clair que le Chasseur de rang B ne l’avait pas fait avec un certain flair dramatique. Il n’avait probablement pas le pouvoir magique de maintenir la compétence pendant longtemps. Si le haut rang Kang Taeshik était dans cette situation, les bas rang ne pourraient probablement même pas activer cette compétence.</p>
 <p class="talk">« On dirait que le problème, c’est le mana. »</p>

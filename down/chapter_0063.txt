@@ -33,7 +33,7 @@
 <p class="talk">‘Est-ce aussi un effet du système ?’</p>
 <p>Un peu comme un traducteur universel. Jinwoo regarda le boss en retour. Le boss le regardait avec un visage amusé.</p>
 <div class="border">
-<p class="strong">[ » Alors on peut communiquer… Comme c’est intéressant. Il y a quelqu’un que je veux te présenter. »]</p>
+<p class="strong">[ « Alors on peut communiquer… Comme c’est intéressant. Il y a quelqu’un que je veux te présenter. »]</p>
 </div>
 <p>Le boss fit un geste derrière lui à un marcheur blanc.</p>
 <div class="border">
@@ -120,7 +120,7 @@
 <p class="talk">‘Qu’est-ce que c’était ?’</p>
 <p>Jinwoo rétrécit les yeux. Le boss avait réagi comme un PNJ dans un jeu vidéo, forcé de répéter ses paroles après avoir essayé d’agir en dehors de son programme.</p>
 <div class="border">
-<p class="strong">[ » Donne-nous les humains derrière toi. Alors nous te laisserons partir d’ici vivant. Qu’en penses-tu ? Acceptes-tu notre proposition ? »]</p>
+<p class="strong">[ « Donne-nous les humains derrière toi. Alors nous te laisserons partir d’ici vivant. Qu’en penses-tu ? Acceptes-tu notre proposition ? »]</p>
 </div>
 <p>Le visage du patron ne montrait aucun signe indiquant qu’il s’était passé quelque chose. Il continuait à maintenir son sourire insouciant. Les marcheurs blancs derrière lui ne montraient pas non plus de réaction.</p>
 <p class="talk">‘…’</p>

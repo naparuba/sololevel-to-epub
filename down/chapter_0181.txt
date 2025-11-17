@@ -28,8 +28,8 @@
 <p>Avait-t-il radicalement changé son mode de vie ou d’autres choses du genre au cours de cette période ? Sans oublier qu’il avait également succombé à une maladie incurable la veille aussi.</p>
 <p>Le médecin en charge avoua ce qu’il avait en tête sans se retenir.</p>
 <p class="talk">« Je suis médecin depuis une trentaine d’années, mais c’est la première fois que quelque chose comme ça m’arrive. C’est… c’est un miracle et rien d’autre. »</p>
-<p>Un patient s’était réveillé de l' »état de sommeil final » de la maladie du sommeil éternel, et en plus de cela, son corps était devenu encore plus sain que lorsqu’il s’était endormi, aussi.</p>
-<p>Le mot » miracle » n’existait-il pas précisément pour décrire une situation comme celle-ci ?</p>
+<p>Un patient s’était réveillé de l' «état de sommeil final » de la maladie du sommeil éternel, et en plus de cela, son corps était devenu encore plus sain que lorsqu’il s’était endormi, aussi.</p>
+<p>Le mot « miracle » n’existait-il pas précisément pour décrire une situation comme celle-ci ?</p>
 <p>Le médecin ne pouvait plus cacher son étonnement et laissa échapper un doux souffle d’admiration de sa bouche et un sourire éclatant fleurit sur son visage.</p>
 <p class="talk">« Félicitations, Président Yu. Votre maladie du sommeil éternel a été complètement guérie. »</p>
 <p>Il ajouta ensuite que le président était en assez bonne santé pour pouvoir courir un marathon complet dès maintenant, s’il le voulait.</p>
@@ -194,7 +194,7 @@
 <p>Jusqu’à présent, il ne se souciait guère des articles disponibles dans le magasin. Cependant, il n’avait aucune idée de la force des autres Souverains et Dirigeants – ceux que la statue d’ange et le Roi des Géants avaient mentionnés.</p>
 <p>Et il pensait qu’il pourrait avoir besoin d’outils de protection au cas où il les rencontrerait quelque part.</p>
 <p class="talk">‘Le Roi des Géants, presque la moitié d’un cadavre avec ses pouvoirs étant scellé, était déjà si puissant. Il est donc plus que probable que les autres auront aussi des niveaux de force monstrueux.’</p>
-<p>Jinwoo se rappelait ces anges à six ailes qu’il avait » rencontrés » à l’intérieur des souvenirs du Souverain de l’Ombre. S’il avait l’intention de les combattre de front, il devait simplement devenir beaucoup plus fort.</p>
+<p>Jinwoo se rappelait ces anges à six ailes qu’il avait « rencontrés » à l’intérieur des souvenirs du Souverain de l’Ombre. S’il avait l’intention de les combattre de front, il devait simplement devenir beaucoup plus fort.</p>
 <p>Son regard se déplaça de la liste des objets équipés vers le haut jusqu’à l’endroit où son niveau était indiqué.</p>
 <div class="border">
 <p class="strong"><strong>[Niveau : 122]</strong></p>

@@ -85,7 +85,7 @@
 <p style="text-align:left;">Jinwoo se frotta la nuque.</p>
 <p style="text-align:left;"><em>Je suppose que ce n’était rien après tout… </em></p>
 <p style="text-align:left;">Maintenant qu’il y pensait, à part le fait que son état de santé était excellent, rien d’autre ne semblait différent chez lui. Et même s’il avait subi un Rééveil, il lui était probablement impossible de vaincre tous les ennemis dans ce lieu.</p>
-<p style="text-align:left;"><em>Je me demande si Hunter Choi, le « Soldat le plus fort », ou le Chasseur M.Go, le » rang S parmi les grades S », aurait pu les affronter ?</em></p>
+<p style="text-align:left;"><em>Je me demande si Hunter Choi, le « Soldat le plus fort », ou le Chasseur M.Go, le « rang S parmi les grades S », aurait pu les affronter ?</em></p>
 <p style="text-align:left;">Comme il n’avait jamais vu ces deux-là en action, il n’avait aucun moyen de le savoir. Il y avait beaucoup de secrets concernant les chasseurs de rang S, dont les existences étaient considérées comme les nuages dans le ciel. Il remarqua quelque chose dans ce moment de contemplation.</p>
 <p class="talk" style="text-align:left;">« Hmm ?</p>
 <p style="text-align:left;">Devant ses yeux, des mots flottaient au milieu de l’air.</p>
@@ -134,7 +134,7 @@
 <p style="text-align:left;">Il ne trouvait pas les mots pour s’expliquer.</p>
 
 <p style="text-align:left;">Notes du traducteur :</p>
-<p style="text-align:left;">[1] : « Département de Surveillance des Chasseurs » (감시과) : « Surveillance/Suivi » 감시 + « Département » 과. J’ai décidé d’ajouter « Hunter » devant le département pour le distinguer à l’avenir et le raccourcir à » DSC » quand ils reviendront.</p>
+<p style="text-align:left;">[1] : « Département de Surveillance des Chasseurs » (감시과) : « Surveillance/Suivi » 감시 + « Département » 과. J’ai décidé d’ajouter « Hunter » devant le département pour le distinguer à l’avenir et le raccourcir à « DSC » quand ils reviendront.</p>
 <p style="text-align:left;">[2] : «Second éveil » (각성 후 후 각성) : Lit. « Éveil après éveil », mais j’ai raccourci à « Second éveil » à cause de l’utilisation comme nom dans le passage. Pas d’impact sur l’histoire.</p>
 <p style="text-align:left;">[3] : «Rééveil » (재각성) : Cette traduction est plus littérale que la précédente.</p>
 <p style="text-align:left;">[4] : «niveau Nation » (국가 권력급) : « nation/pays » 국가 + « pouvoir/autorité » 권력 + « level » 급. Je l’ai raccourci à niveau Nation.</p>

@@ -37,7 +37,7 @@
 <p>Jinwoo avait réussi à décrocher un beau coup sur la statue d’ange, mais il ne se donna pas la peine de célébrer son exploit. Au lieu de cela, il crachait des respirations lourdes et laborieuses.</p>
 <p class="talk">‘Il est fort.’</p>
 <p>En effet, son adversaire était beaucoup plus fort que n’importe quel ennemi qu’il avait affronté jusque-là.</p>
-<p>Cette » chose » se présentait comme l’architecte du Système.</p>
+<p>Cette « chose » se présentait comme l’architecte du Système.</p>
 <p>Les questions de savoir pourquoi il avait créé le Système, pourquoi il avait été choisi comme Joueur, et ce qui se passait dans ce monde – les questions qu’il voulait si ardemment poser étaient déjà dans sa tête, formant une petite montagne.</p>
 <p class="talk">‘Si je veux lui demander…’</p>
 <p>Il avait besoin de prioriser de faire tomber cette chose en premier. Jinwoo serra les poings. Et puis.</p>
@@ -120,7 +120,7 @@
 <p class="talk">‘Ce n’est que d’un peu, mais… c’est mélangé en lui.’</p>
 <p>Recule.</p>
 <p>Les épaules de la statue d’ange tremblaient de choc. Était-ce la raison pour laquelle il pouvait librement exercer l’immense pouvoir si naturellement comme ça ?</p>
-<p>Mais c’était aussi une autre chose que cette » créature » souhaitait depuis le début, de toute façon.</p>
+<p>Mais c’était aussi une autre chose que cette « créature » souhaitait depuis le début, de toute façon.</p>
 <p>Au moment même où l’exaltation se formait sur le visage de la statue d’ange, un bras proprement tranché s’envola dans l’air. La statue leva pour le regarder.</p>
 <p>Le bras lâcha son arme en s’envolant… c’était le bras droit de l’ange.</p>
 <p>Kuuuuwaaahhk !!</p>
@@ -197,7 +197,7 @@
 <p class="talk">‘…..’</p>
 <p>Jinwoo ne dit rien et réfléchit tout seul.</p>
 <p>Quand il avait demandé à la statue d’ange « Qu’est-ce que tu es » , la chose s’était moquée de lui pour avoir posé la mauvaise question.</p>
-<p>Cependant, sa confusion s’était aggravée après qu’il eut entendu l’identité de cette » chose » de sa propre bouche, et maintenant, il avait plus de questions que jamais dans sa tête.</p>
+<p>Cependant, sa confusion s’était aggravée après qu’il eut entendu l’identité de cette « chose » de sa propre bouche, et maintenant, il avait plus de questions que jamais dans sa tête.</p>
 <p>Pour cela Jinwoo décida de suivre le conseil que l’ange lui avait donné plus tôt et de poser la bonne question.</p>
 <p class="talk">« Qui suis-je ? »</p>
 </body>

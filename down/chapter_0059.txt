@@ -155,6 +155,6 @@
 <p class="talk">« Vous. Vous n’êtes pas un rang E, n’est-ce pas ? »</p>
 <p> <br/>
 Notes du traducteur :<br/>
-[1] : « Marcheurs blancs » (백귀) : Une façon de traduire est l’expression japonaise pour « Hyakki Yako », alias la « Procession des Cent Démons ». Il pourrait aussi s’agir de la traduction coréenne de « Marcheurs blancs » de Game of Thrones. J’ai décidé d’opter pour cette dernière solution. Avec » Ygritte » et » Marcheurs blancs » , je pense que l’auteur est peut-être un fan de la série.</p>
+[1] : « Marcheurs blancs » (백귀) : Une façon de traduire est l’expression japonaise pour « Hyakki Yako », alias la « Procession des Cent Démons ». Il pourrait aussi s’agir de la traduction coréenne de « Marcheurs blancs » de Game of Thrones. J’ai décidé d’opter pour cette dernière solution. Avec « Ygritte » et « Marcheurs blancs » , je pense que l’auteur est peut-être un fan de la série.</p>
 </body>
 </html>

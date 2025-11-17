@@ -54,7 +54,7 @@
 <p class="talk">‘Peut-être…’</p>
 <p>Et si la valeur de ses attributs devenait plus importante à mesure qu’ils augmentaient ? Cela expliquerait ce pouvoir destructeur. De plus, ses mouvements s’étaient accélérés. Si c’était l’ancien lui, il ne pourrait pas imaginer éviter les attaques rapides des bêtes ou faire hurler le vent quand il frappait.</p>
 <p class="talk">« Je suppose que le développement de mes muscles me rendrait plus rapide. »</p>
-<p>Il semblait que l’augmentation de la force augmentait à la fois sa « force » et sa » vitesse » . Sa bataille contre le Lycan en était la preuve.</p>
+<p>Il semblait que l’augmentation de la force augmentait à la fois sa « force » et sa « vitesse » . Sa bataille contre le Lycan en était la preuve.</p>
 <p>Mais qu’en est-il de la stat d’agilité ? Si ce n’était pas sa mobilité, qu’est-ce qu’elle augmenterait ?</p>
 <p>Jinwoo savait qu’il ne pourrait pas satisfaire sa curiosité sans plus de points statistiques.</p>
 <p class="talk">‘Même si j’avais un peu…’</p>
@@ -94,7 +94,7 @@
 <p>D’où vient ce système inutile ? Dire qu’il obligerait l’utilisateur à tout comprendre tout seul. Jinwoo se rappela qu’il ne lui avait donné aucune explication sur la quête de la pénalité ; il l’avait simplement jeté dans la zone de pénalité et voulait qu’il fuie la mort avant que son corps ne soit expulsé.</p>
 <p>Jinwoo grinça des dents et appela le magasin.</p>
 <p class="talk">« Magasin. »</p>
-<p>Il s’attendait à ce qu’un commerçant PNJ surgisse de nulle part. Il fut déçu de constater que la » boutique » n’était qu’un autre écran d’information flottant comme un hologramme. Comme si cela ne suffisait pas, les lettres vertes à l’écran n’affichaient que deux mots.</p>
+<p>Il s’attendait à ce qu’un commerçant PNJ surgisse de nulle part. Il fut déçu de constater que la « boutique » n’était qu’un autre écran d’information flottant comme un hologramme. Comme si cela ne suffisait pas, les lettres vertes à l’écran n’affichaient que deux mots.</p>
 <p>Acheter-Vendre</p>
 <p class="talk">“…”</p>
 <p>Wow. Quel magasin incroyable.</p>

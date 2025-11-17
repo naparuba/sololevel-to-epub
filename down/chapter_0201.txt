@@ -131,7 +131,7 @@
 <p>Peu importe comment, le trou dans la poitrine de M.Go ne voulait pas se refermer, même après que Jinwoo ait versé une bouteille entière de la potion de guérison la plus chère vendue dans le magasin.</p>
 <p class="talk">‘Merde !’</p>
 <p>La respiration de Jinwoo devenait urgente alors que le moment critique pour M.Go se rapprochait de plus en plus. L’homme qui avait fait de son mieux pour Jinwoo était en train de s’éclipser et il ne pouvait rien faire.</p>
-<p>Par pur désespoir, il sortit même la bouteille d' »Eau divine de vie », mais avant qu’il ne puisse l’utiliser, quelqu’un lui saisit le poignet.</p>
+<p>Par pur désespoir, il sortit même la bouteille d' «Eau divine de vie », mais avant qu’il ne puisse l’utiliser, quelqu’un lui saisit le poignet.</p>
 <p class="talk">« S’il vous plaît…. arrêtez. »</p>
 <p>C’était M.Go. Il avait réussi d’une manière ou d’une autre à ouvrir les yeux.</p>
 <p class="talk">« Président de l’Association ! »</p>

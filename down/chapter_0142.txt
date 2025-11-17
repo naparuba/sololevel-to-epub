@@ -6,7 +6,7 @@
 </div>
 
 <p>Finalement, la dernière restriction avait été levée.</p>
-<p>Obtenant enfin la liberté de mouvement, le » maître du donjon » quitta la salle du boss et se dirigea vers l’extérieur de la Porte. C’était le chef des Orcs, ‘Groktar’.</p>
+<p>Obtenant enfin la liberté de mouvement, le « maître du donjon » quitta la salle du boss et se dirigea vers l’extérieur de la Porte. C’était le chef des Orcs, ‘Groktar’.</p>
 <p>Tout son corps était couvert de tatouages noirs, ne laissant apparemment pas une seule parcelle de peau sans trace.</p>
 <p>Les tatouages signifiaient la victoire pour les Orcs. C’était la preuve du nombre de batailles que cette créature avait livrées et du nombre d’ennemis qu’elle avait tués jusque-là.</p>
 <p class="talk">« Groktar ! »</p>
@@ -69,7 +69,7 @@
 <p class="talk">‘Heok…’</p>
 <p>La confiance d’il y a quelques secondes disparut très vite, et Park Jong-Su pouvait à peine faire sortir une voix tremblante.</p>
 <p class="talk">« A-allons-y. »</p>
-<p>Tout naturellement, il commença à parler sur un ton super-poli. Cependant, Ber ne montrait aucune réaction même après avoir entendu la voix de Park Jong-Su. Non, » il » se tenait là et regardait simplement derrière lui.</p>
+<p>Tout naturellement, il commença à parler sur un ton super-poli. Cependant, Ber ne montrait aucune réaction même après avoir entendu la voix de Park Jong-Su. Non, « il » se tenait là et regardait simplement derrière lui.</p>
 <p>Se demandant si sa façon de parler n’était toujours pas assez bonne pour les caprices de cette créature, Park Jong-Su se montra encore plus poli dans son ton.</p>
 <p class="talk">« Devrions… Devrions-nous y aller maintenant ? »</p>
 <p>Même à ce moment-là, Ber ne montrait aucun signe de mouvement.</p>

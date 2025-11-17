@@ -28,13 +28,13 @@
 <p class="talk">‘Alors je fais juste ça, d’accord?’</p>
 <p>Il tenait la cuirasse. Comme prévu, le système lui envoya un message,</p>
 <div class="border">
-<p class="strong"><strong>Souhaitez-vous équiper la » Cuirasse de chevalier de haut niveau » ?</strong></p>
+<p class="strong"><strong>Souhaitez-vous équiper la « Cuirasse de chevalier de haut niveau » ?</strong></p>
 </div>
 <p>Rien qu’en regardant l’armure, ce n’était pas quelque chose qu’il voulait montrer en se baladant. Sans son expérience avec le « Collier du Gardien » , il aurait été beaucoup plus hésitant…</p>
 <p class="talk">‘Oui.’</p>
 <p class="onomatope">ring~</p>
 <div class="border">
-<p class="strong"><strong>La » Cuirasse de chevalier de haut niveau » a été équipée.</strong></p>
+<p class="strong"><strong>La « Cuirasse de chevalier de haut niveau » a été équipée.</strong></p>
 </div>
 <p>La cuirasse était invisible à l’œil nu. Jinwoo accéda à son écran de statut pour confirmer les avantages.</p>
 <div class="border">
@@ -111,7 +111,7 @@
 <p>Eh bien, son intelligence était un peu faible, mais il pouvait y faire face en gérant son mana avec soin.</p>
 <div class="border">
 <p class="strong"><strong>Vous avez ouvert la pochette en cuir.</strong><br/>
-<strong>Il y avait 20 000 pièces d’or et une » gourde avec de l’eau chaude » à l’intérieur.</strong><br/>
+<strong>Il y avait 20 000 pièces d’or et une « gourde avec de l’eau chaude » à l’intérieur.</strong><br/>
 <strong>Vous avez acquis 20 000 pièces d’or et une « gourde avec de l’eau chaude » .</strong></p>
 </div>
 <p>Jinwoo ouvrit son inventaire et prit la gourde pour en boire.</p>

@@ -123,7 +123,7 @@
 <strong>Rareté : C</strong></p>
 <p class="strong"><strong>Type : Dague</strong></p>
 <p class="strong"><strong>Puissance d’attaque +25</strong></p>
-<p class="strong"><strong>Inflige » paralysie » et » saignement » à l’attaque.</strong><br/>
+<p class="strong"><strong>Inflige « paralysie » et « saignement » à l’attaque.</strong><br/>
 <strong>Paralysie : La cible a une chance d’être immobilisée.</strong><br/>
 <strong>Saignement : La cible perdra 1% de santé par seconde[1].</strong></p>
 <p class="strong"><strong>Un poignard fait du croc empoisonné de Casaka, qui dégouline encore de son poison.</strong></p>
@@ -174,7 +174,7 @@
 <p class="talk">« Êtes-vous un Chasseur-nim par hasard ? »</p>
 
 <p>Notes du traducteur :<br/>
-[1] : « perd 1 % de sa santé » (체력이 … 소모됩니다). Le mot pour « santé » est le même que le mot stat pour » constitution ». Je n’étais pas sûr si la debuff affecte la stat ou la HP ; j’ai choisi la HP.<br/>
+[1] : « perd 1 % de sa santé » (체력이 … 소모됩니다). Le mot pour « santé » est le même que le mot stat pour « constitution ». Je n’étais pas sûr si la debuff affecte la stat ou la HP ; j’ai choisi la HP.<br/>
 [2] : « Elixir » (비약) : Je n’ai pas trouvé de traduction directe. On aurait dit de la potion ou de l’élixir.</p>
 </body>
 </html>

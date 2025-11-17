@@ -163,7 +163,7 @@
 <div class="border">
 <p class="strong">[C’est à peu près à cette époque que le plus grand sorcier, travaillant sous les ordres d’un des Rois, est venu me faire une offre. Il m’a dit qu’il me trouverait un hôte humain approprié.]</p>
 </div>
-<p>L' «Architecte ». Ce sorcier, appelé » l’Architecte » par les Souverains, avait promis d’aider le Souverain de l’Ombre à descendre dans ce monde au prix de le transformer en un véritable immortel.</p>
+<p>L' «Architecte ». Ce sorcier, appelé « l’Architecte » par les Souverains, avait promis d’aider le Souverain de l’Ombre à descendre dans ce monde au prix de le transformer en un véritable immortel.</p>
 <p>Comme il était déjà quelque peu intéressé par les affaires du monde humain, le Souverain de l’Ombre avait accepté cette offre. Malheureusement, aucun humain vivant ne pouvait supporter le pouvoir de la « mort ».</p>
 <div class="border">
 <p class="strong">[L’humain avec une grande sensibilité à l’énergie magique. L’humain avec une condition physique supérieure. L’humain avec une faculté mentale étonnante. Tous n’ont pas pu supporter mon pouvoir et sont devenus des handicapés mentaux ou sont morts.]</p>

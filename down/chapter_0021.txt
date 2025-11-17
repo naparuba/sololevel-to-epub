@@ -198,6 +198,6 @@
 <p class="talk">‘Pourquoi fait-il tout ça?’</p>
 
 <p>Notes du traducteur :<br/>
-[1] : » faux classement » (부정 등록자) : Lit. » illégal/ malhonnête » 부정 + » inscrit/une personne inscrite » 등록자.</p>
+[1] : « faux classement » (부정 등록자) : Lit. « illégal/ malhonnête » 부정 + « inscrit/une personne inscrite » 등록자.</p>
 </body>
 </html>

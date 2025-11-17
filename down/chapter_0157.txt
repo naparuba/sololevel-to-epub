@@ -14,12 +14,12 @@
 <p class="talk">‘Reste calme…’</p>
 <p>Il tendit la main gauche, ne tenant toujours pas d’arme.</p>
 <p class="talk">‘Autorité du Souverain !’</p>
-<p>La compétence améliorée fondée sur la » Main du Souverain » commença à se déplacer sur l’épaule de la statue du dieu. Il envisageait de s’enrouler, plutôt que de traîner la statue du dieu et son incalculable poids corporel vers lui.</p>
+<p>La compétence améliorée fondée sur la « Main du Souverain » commença à se déplacer sur l’épaule de la statue du dieu. Il envisageait de s’enrouler, plutôt que de traîner la statue du dieu et son incalculable poids corporel vers lui.</p>
 <p>Wuuuoong- !!!</p>
 <p>Cependant, son attente fut quelque peu ébranlée, car le haut du corps de la statue du dieu ne se déplaça qu’un peu en avant.</p>
 <p class="talk">‘…!!!’</p>
 <p>Quelle force d’attraction incroyable !</p>
-<p>La puissance de la compétence devait avoir augmenté de plusieurs crans lorsqu’elle est passée de « Main du Souverain » à » Autorité du Souverain » .</p>
+<p>La puissance de la compétence devait avoir augmenté de plusieurs crans lorsqu’elle est passée de « Main du Souverain » à « Autorité du Souverain » .</p>
 <p>Et grâce à cela, Jinwoo put atterrir sur l’épaule de la statue du dieu beaucoup plus facilement qu’il ne le pensait. Il leva rapidement la tête pour regarder derrière lui.</p>
 <p>Buzzzzing- !</p>
 <p>Le rayon laser rouge écarlate explosant passait devant l’endroit où il flottait dans l’air, il y a à peine un instant.</p>
@@ -166,7 +166,7 @@ Les yeux de Jinwoo s’élargirent de surprise. Cette chose savait ce qu’il vo
 <p class="talk">« Cet endroit est déjà plein d’autres journalistes. Rien ne changera même si j’y vais, n’est-ce pas ? Il vaudrait mieux que je m’en tienne aux gens de la Division de la surveillance et que je me trouve un scoop ou deux. »</p>
 <p class="talk">“…”</p>
 <p>Jin était tenté d’aviser ce journaliste qu’il devrait s’en tenir à bâiller ou à se gratter le visage, mais il abandonna et soupira intérieurement.</p>
-<p>C’est parce que Kim était l’un des rares journalistes à avoir écrit des articles favorables à l’Association alors que tout le monde semblait déterminé à » découvrir » les méfaits de l’organisation ou à produire des articles provocateurs sur la vie privée de divers Chasseurs.</p>
+<p>C’est parce que Kim était l’un des rares journalistes à avoir écrit des articles favorables à l’Association alors que tout le monde semblait déterminé à « découvrir » les méfaits de l’organisation ou à produire des articles provocateurs sur la vie privée de divers Chasseurs.</p>
 <p class="talk">‘Pas besoin de transformer un allié en ennemi, n’est-ce pas… ?’</p>
 <p>C’est la raison pour laquelle Jin gardait ce journaliste nommé Kim en compagnie de ce dernier qui se rendait dans les bureaux de la Division du contrôle.</p>
 <p>Kim termina finalement son long bâillement et posa une question en retour.</p>

@@ -68,7 +68,7 @@
 <p>Surpris par la récompense qui lui donnait un objet inattendu, Jinwoo déroula le parchemin.</p>
 <div class="border">
 <p class="strong"><strong>Recette : Eau sacrée de la vie</strong><br/>
-<strong>Apprenez à fabriquer l' »Eau sacrée de la vie ».</strong></p>
+<strong>Apprenez à fabriquer l' «Eau sacrée de la vie ».</strong></p>
 </div>
 <p>Les yeux de Jinwoo devinrent plus larges.</p>
 <p class="talk">‘Je peux faire un objet moi-même ?’</p>

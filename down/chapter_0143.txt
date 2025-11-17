@@ -7,7 +7,7 @@
 
 <p>Aussitôt, Groktar sentit tous les poils de son corps se dresser.</p>
 <p class="talk">‘Qu’est-ce que c’est ?’</p>
-<p>Alors que le temps ralentissait de l’extrême tension qu’il ressentait, l’instinct de guerrier du chef Orc, entraîné jusqu’à ses limites, envoya d’innombrables signaux d’alarme. Elle disait qu’un être vraiment » terrifiant » se dirigeait dans cette direction.</p>
+<p>Alors que le temps ralentissait de l’extrême tension qu’il ressentait, l’instinct de guerrier du chef Orc, entraîné jusqu’à ses limites, envoya d’innombrables signaux d’alarme. Elle disait qu’un être vraiment « terrifiant » se dirigeait dans cette direction.</p>
 <p>Badump !!!</p>
 <p>Le son du battement du cœur de l’Orc résonnait douloureusement dans ses tympans, comme une série de coups de tonnerre.</p>
 <p>S’il ne partait pas d’ici tout de suite, il serait tué.</p>
@@ -73,7 +73,7 @@
 <p class="talk">« C-chef… »</p>
 <p class="talk">« Chut. »</p>
 <p>Groktar était d’accord avec cet Orc, cependant.</p>
-<p>C’était vrai que ce n’était pas le moment de se soucier de ces faibles proies qui s’échappaient. Non, ils devraient s’occuper du » chasseur » juste devant leurs yeux. Un combat entre chasseurs commencerait très bientôt, où qui mangerait qui serait déterminé.</p>
+<p>C’était vrai que ce n’était pas le moment de se soucier de ces faibles proies qui s’échappaient. Non, ils devraient s’occuper du « chasseur » juste devant leurs yeux. Un combat entre chasseurs commencerait très bientôt, où qui mangerait qui serait déterminé.</p>
 <p class="talk">‘Même là… On ne peut pas les laisser s’enfuir aussi facilement.’</p>
 <p>Groktar envoya un petit signal sournois, et deux de ses gardes se déplaçaient sans faire aucun bruit.</p>
 <p>Après avoir confirmé que tous les élèves avaient quitté la salle de classe en toute sécurité, Jinwoo se retourna pour affronter les Orcs. Il ne les laissait pas partir parce qu’il craignait qu’ils ne les blessent.</p>
@@ -114,8 +114,8 @@
 <p class="talk">« Dans, dans nos têtes, on nous dire… de tuer des humains… »</p>
 <p>Jinwoo devint momentanément confus.</p>
 <p class="talk">‘Tuer des humains ?’</p>
-<p>Il avait entendu exactement la même chose auparavant. Mais, à l’époque, il interprétait le mot « humains » comme un autre terme pour » Chasseurs » .</p>
-<p>Mais il semblait que le mot » humain » signifiait vraiment tous les humains, maintenant qu’il entendait la réponse de ce monstre.</p>
+<p>Il avait entendu exactement la même chose auparavant. Mais, à l’époque, il interprétait le mot « humains » comme un autre terme pour « Chasseurs » .</p>
+<p>Mais il semblait que le mot « humain » signifiait vraiment tous les humains, maintenant qu’il entendait la réponse de ce monstre.</p>
 <p class="talk">« Alors ? Et moi, alors ? »</p>
 <p>Jinwoo demanda à nouveau à l’Orc.</p>
 <p class="talk">« Tu n’entends pas la voix qui te dit de me tuer ? »</p>

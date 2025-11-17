@@ -203,7 +203,7 @@
 <p>Ber ne se retenait pas et se réjouissait de la peur intense qui se manifestait dans les yeux du voyou, avant d’entraîner la malheureuse victime et de disparaître de la vue. Les cris disparurent très vite de ce monde.</p>
 <p>***</p>
 <p class="talk">« Qu’en pensez-vous ? »</p>
-<p>L’aîné présenta fièrement la statue »Divine du Suzerain ».</p>
+<p>L’aîné présenta fièrement la statue «Divine du Suzerain ».</p>
 <p>Cette statue de pierre ornée du visage de leur suzerain était d’une telle ampleur que, pour en voir le sommet, on risquait de se faire une entorse au cou si on inclinait négligemment la tête en arrière.</p>
 <p>Pour achever ce chef-d’œuvre avant la date limite, non seulement tous les nains barbus avaient participé, mais tous les soldats fourmis avaient également apporté leur aide.</p>
 <div class="border">

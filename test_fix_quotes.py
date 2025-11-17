@@ -84,6 +84,16 @@ def test_fix_french_quotes():
             '<p class="talk">« Si tu restes tendu comme ça, tu n\'auras même pas la chance de t\'enfuir avant d\'être mort, ok ? Ce que j\'essaie de dire, c\'est : « Détends-toi un peu. »</p>',
             'Guillemets imbriqués corrects - ne doit PAS être modifié'
         ),
+        (
+            'passée de » Main du Souverain » à » Autorité du Souverain «',
+            'passée de « Main du Souverain » à « Autorité du Souverain »',
+            'Trois guillemets consécutifs mal ordonnés'
+        ),
+        (
+            'fondée sur la » Main du Souverain » commença',
+            'fondée sur la « Main du Souverain » commença',
+            'Paire mal ordonnée simple au milieu de texte'
+        ),
     ]
     
     print('=' * 80)

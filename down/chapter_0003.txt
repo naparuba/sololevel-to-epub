@@ -68,7 +68,7 @@
 
 <p>Crunch !</p>
 
-<p>Un bruit dégoûtant de » quelque chose » frappant » quelque chose » retentit dans tout le temple.</p>
+<p>Un bruit dégoûtant de « quelque chose » frappant « quelque chose » retentit dans tout le temple.</p>
 
 <p>Avec elle, la tête de l’homme avait disparu des yeux. Ayant perdu sa tête, son corps tomba naturellement sur le sol.</p>
 
@@ -268,7 +268,7 @@
 
 <p>Jinwoo entendit le bruit d’un homme qui se rétractait, et il fronça les sourcils.</p>
 
-<p>Comme on pouvait s’y attendre, cette » chose » était plus que capable d’anéantir tous les Chasseurs en un clin d’œil. Pour lui, c’était plus facile que de marcher sur un insecte.</p>
+<p>Comme on pouvait s’y attendre, cette « chose » était plus que capable d’anéantir tous les Chasseurs en un clin d’œil. Pour lui, c’était plus facile que de marcher sur un insecte.</p>
 
 <p class="talk">‘Alors pourquoi… pourquoi il ne le fait pas ?’</p>
 

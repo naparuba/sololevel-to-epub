@@ -7,7 +7,7 @@
 
 <p>Comment faudrait-il interpréter cette situation ?</p>
 <p>Les mâchoires des élèves qui regardaient ce spectacle tombèrent sur le sol.</p>
-<p>Ils étaient sur le point de détourner le regard avant que leur camarade de classe ne soit assassiné, mais ces » soldats en armure noire » étaient apparus tout à coup sans crier gare.</p>
+<p>Ils étaient sur le point de détourner le regard avant que leur camarade de classe ne soit assassiné, mais ces « soldats en armure noire » étaient apparus tout à coup sans crier gare.</p>
 <p>Des soldats ?</p>
 <p>Non, attendez, était-ce correct d’appeler ces choses « soldats » ?</p>
 <p>Mais, ces monstres avaient l’air plus Orcs que les Orcs eux-mêmes, et avaient au moins le double de la taille d’un Orc et avaient la peau rouge ? Sérieusement ?</p>
@@ -125,7 +125,7 @@
 <p class="talk">« Euh ?! Uh-uh !! »</p>
 <p class="talk">« Euh ?! »</p>
 <p>Ber ne prit pas la peine de masquer son énergie magique écrasante et maléfique, ce qui fit tellement flipper les Chasseurs qu’ils durent se retirer immédiatement et loin de tout.</p>
-<p>Cette quantité absolument horrible d’énergie magique, et l’apparence extérieure de » cette » chose, étaient exactement les mêmes.</p>
+<p>Cette quantité absolument horrible d’énergie magique, et l’apparence extérieure de « cette » chose, étaient exactement les mêmes.</p>
 <p class="talk">« E-est-ce que ça pourrait être… ?</p>
 <p class="talk">-N-non, mais comment ça se fait ? »</p>
 <p>Ces Chasseurs reconnurent immédiatement Ber.</p>
@@ -152,7 +152,7 @@
 <p>Jinwoo ne prêta même pas attention aux réactions des Chasseurs et invoqua simplement vingt autres fourmis soldats de l’ombre pour aider Ber dans sa tâche.</p>
 <p>Kiiiehhhk- !</p>
 <p>Kiiieehk !</p>
-<p>Après avoir respiré l’air »frais » pour la première fois depuis longtemps, les Soldats Bêtes se mirent à hurler aussi fort. Et de toute évidence, tous les Chasseurs qui assistaient à ce spectacle se figèrent à leurs places.</p>
+<p>Après avoir respiré l’air «frais » pour la première fois depuis longtemps, les Soldats Bêtes se mirent à hurler aussi fort. Et de toute évidence, tous les Chasseurs qui assistaient à ce spectacle se figèrent à leurs places.</p>
 <p class="talk">« T-tiens bon !! »</p>
 <p>Jeong Ye-Rim se retourna rapidement et appela Jinwoo.</p>
 <p class="talk">« Vous allez partir juste comme ça ? Après avoir lâché ces monstres ici ?</p>

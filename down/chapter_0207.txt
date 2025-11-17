@@ -153,7 +153,7 @@
 <p class="talk">‘QUOI ?!’</p>
 <p>Jinwoo douta tout de suite de ses propres yeux.</p>
 <p>Ça ne pouvait pas être réel.</p>
-<p>Il était complètement déconcerté par la valeur offensive absurde de cette arme et s’empressa de sortir son arme principale actuelle, l' »épée courte du Roi Démon ».</p>
+<p>Il était complètement déconcerté par la valeur offensive absurde de cette arme et s’empressa de sortir son arme principale actuelle, l' «épée courte du Roi Démon ».</p>
 <div class="border">
 <p class="strong"><strong>[Objet : Épée courte du Roi Démon]</strong></p>
 <p class="strong"><strong>Rareté : S</strong></p>

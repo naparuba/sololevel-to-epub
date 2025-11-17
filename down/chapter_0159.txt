@@ -79,7 +79,7 @@
 <p class="strong"><strong>Consentez-vous à ce qu’il soit lu ? O/N</strong></p>
 </div>
 <p>Ce n’était pas seulement la voix cette fois-ci, mais même la fenêtre de message était également apparue. Il lui demandait ‘Oui’ ou’Non’.</p>
-<p>Les alphabets » O » et » N » clignotèrent tranquillement devant ses yeux, comme s’ils attendaient patiemment sa réponse.</p>
+<p>Les alphabets « O » et « N » clignotèrent tranquillement devant ses yeux, comme s’ils attendaient patiemment sa réponse.</p>
 <p class="talk">‘Qu’est-ce que c’est que ce… ?’</p>
 <p>Qu’est-ce que ce foutu truc essayait de faire cette fois ?</p>
 <p>Le regard de Jinwoo s’éloigna du message et se posa sur la statue d’ange. Le sourire avait disparu depuis longtemps du visage de la statue. Il lui parla avec un visage sans émotion.</p>
@@ -125,7 +125,7 @@
 <p class="talk">‘…!!’</p>
 <p>Il vit un lac noir de jais, flottant tranquillement haut dans le ciel.</p>
 <p>Non, ce n’était pas un lac. Il l’avait prise pour un lac à cause de sa taille. Mais, c’était une Porte si grande qu’il ne pouvait même pas deviner sa taille. Et c’était silencieusement face au sol.</p>
-<p>Ce » trou » noir obstruait le ciel pourpre au-delà.</p>
+<p>Ce « trou » noir obstruait le ciel pourpre au-delà.</p>
 <p class="talk">‘Ciel pourpre, c’est… ?’</p>
 <p>Voyant la couleur du ciel qui ne devait pas exister, il devint doublement sûr que ce n’était plus la Terre.</p>
 <p>Dans un monde qui n’était clairement pas la Terre, quelque chose d’important allait se produire entre les monstres et cette Porte.</p>

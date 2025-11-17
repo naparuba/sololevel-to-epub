@@ -57,7 +57,7 @@ Objectif : Survivre le temps nécessaire.</p>
 <p class="talk">« Hah… hah… c’était… quoi… ça… ? »</p>
 <p>Un nouveau message apparut devant Jinwoo qui haletait.</p>
 <p class="onomatope">ring~</p>
-<p>Vous avez terminé la » Quête de Pénalité »</p>
+<p>Vous avez terminé la « Quête de Pénalité »</p>
 <p>Il fronça les sourcils.</p>
 <p>Quête de pénalité ?</p>
 <p>A-t-il fait quelque chose qui mérite d’être puni ?</p>

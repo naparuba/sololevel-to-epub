@@ -112,7 +112,7 @@ Heureusement, il semblait accepter l’explication du Président.</p>
 <p class="talk">« Juste de l’eau.</p>
 <p class="talk">-Merci à vous !</p>
 <p class="talk">“… »</p>
-<p class="talk">‘Comment ça, » merci » ?’</p>
+<p class="talk">‘Comment ça, « merci » ?’</p>
 <p>Le membre du personnel nerveux prit une petite bouteille d’eau dans une commode à proximité, la posa devant le Chasseur et baissa la tête.</p>
 <p class="talk">« Appelez-moi si vous avez besoin de quoi que ce soit.</p>
 <p class="talk">-D’accord. »</p>

@@ -33,7 +33,7 @@
 <p class="talk">« Guérisseurs ! S’il vous plaît, concentrez-vous sur le Tanker ! »<br/>
 « On fait de notre mieux ! »<br/>
 « Pourquoi ça ne tombe pas ! »<br/>
- » Dealers[ 2], qu’est-ce que tu fais ?! Il n’a pas l’air d’être endommagé ! »<br/>
+ « Dealers[ 2], qu’est-ce que tu fais ?! Il n’a pas l’air d’être endommagé ! »<br/>
 « Sa défense est trop haute ! Nous avons besoin de quelques Chasseurs de classe Mage ! »</p>
 <p>En tant que Chasseurs qui avaient été appelés à l’improviste, leurs rangs ne semblaient pas être si élevés. Leur défense et leur attaque faisaient défaut.</p>
 <p>Bang !</p>
@@ -68,9 +68,9 @@
 <p class="talk">« Qu-Quoi ? »</p>
 <p>Les yeux de Lee Hansoo s’élargirent. Le golem sans tête commença à vaciller. Ne s’en apercevant pas, les Chasseurs pressèrent leurs attaques.</p>
 <p class="talk">« Ça marche ! Les attaques marchent ! »<br/>
- » Il va tomber ! »<br/>
+ « Il va tomber ! »<br/>
 « Juste un peu plus ! »</p>
-<p>Ils n’étaient que trop concentrés sur l’attaque et ne semblaient pas avoir vu le » quelque chose » qui avait survolé. Seul Lee Hansoo, qui se tenait juste en face du golem, l’avait entrevu.</p>
+<p>Ils n’étaient que trop concentrés sur l’attaque et ne semblaient pas avoir vu le « quelque chose » qui avait survolé. Seul Lee Hansoo, qui se tenait juste en face du golem, l’avait entrevu.</p>
 <p>groooooan-</p>
 <p>Le golem s’effondra finalement.</p>
 <p>Koong !</p>
@@ -166,7 +166,7 @@
 <p>Les corps humains n’étaient pas des élastiques. Ils ne s’étiraient pas comme ça en quelques jours.</p>
 <p>Notes du traducteur :<br/>
 [1] : « Donjon Brisé » : Un rappel, une Porte subit une ouverture complète après 7 jours, puis le Donjon se brise. Les bêtes magiques qui étaient normalement confinées à l’intérieur de la Porte peuvent maintenant quitter la Porte, causant destruction et chaos à l’extérieur.<br/>
-[2] : « Dealers » (딜러) : Le mot est en anglais, » Dealer ». La terminologie coréenne du jeu pour désigner les » spécialistes des dommages » ; en Occident, plus communément appelé le » DPS » (dommages par seconde).<br/>
+[2] : « Dealers » (딜러) : Le mot est en anglais, « Dealer ». La terminologie coréenne du jeu pour désigner les « spécialistes des dommages » ; en Occident, plus communément appelé le « DPS » (dommages par seconde).<br/>
 [3] : Ce n’est pas une erreur de traduction. Jinwoo a oublié le nom…</p>
 </body>
 </html>

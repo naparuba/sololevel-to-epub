@@ -67,7 +67,7 @@
 <p>C’était impossible de compter tous les donjons qu’ils avaient nettoyés jusqu’à présent, et peut-être sans surprise, la richesse des artefacts qu’ils avaient récupérés dans ces donjons devrait être assez importante aussi.</p>
 <p>Il y avait une chance qu’un « objet » utile soit caché dans les installations de stockage de la Guilde Scavengers. Jinwoo se força à donner sa réponse.</p>
 <p class="talk">« Si c’est un objet utile comme une épée courte ou une dague… »</p>
-<p>Il avait récemment rencontré des adversaires aux défenses incroyables, et la paire d' »épées courtes du Roi Démon » s’avérait inefficace contre eux.</p>
+<p>Il avait récemment rencontré des adversaires aux défenses incroyables, et la paire d' «épées courtes du Roi Démon » s’avérait inefficace contre eux.</p>
 <p>Il pensait que ce ne serait pas une mauvaise idée d’échanger ses armes contre autre chose avec l’aide de la Guilde Scavengers. Même si aucun objet utile ne sortait de ce marché, il n’aurait de toute façon rien à perdre.</p>
 <p class="talk">« Des épées courtes ou des dagues… Je vois. Merci, Chasseur-nim. »</p>
 <p>Laura sourit vivement après avoir entendu sa réponse. Elle finit de prendre des notes sur son bloc-notes et quitta également la salle de banquet.</p>

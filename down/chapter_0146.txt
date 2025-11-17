@@ -71,7 +71,7 @@
 <p class="talk">-Fut.</p>
 <p class="talk">-Je vais raccrocher.</p>
 <p class="talk">-Ah ! Attends, atteeeends ! »</p>
-<p>Sa main se déplaçant vers l’icône » Fin de l’appel » s’arrêta lorsque cette voix suppliante et désespérée sortit du haut-parleur. Yu Soo-Hyun sourit et plaça le téléphone contre son oreille.</p>
+<p>Sa main se déplaçant vers l’icône « Fin de l’appel » s’arrêta lorsque cette voix suppliante et désespérée sortit du haut-parleur. Yu Soo-Hyun sourit et plaça le téléphone contre son oreille.</p>
 <p class="talk">« Je te donne trois secondes pour me le dire. Trois, deux……</p>
 <p class="talk">-Sung Jinwoo ! »</p>
 <p class="talk">‘…Sung Jinwoo ?’</p>
@@ -94,7 +94,7 @@
 <p class="talk">« J’arrive tout de suite.</p>
 <p class="talk">-A plus tard, noona ! »</p>
 <p>Clic.</p>
-<p>La conversation finit là. La coordinatrice, ayant » accidentellement » entendu le contenu de l’appel, posa une question exploratoire.</p>
+<p>La conversation finit là. La coordinatrice, ayant « accidentellement » entendu le contenu de l’appel, posa une question exploratoire.</p>
 <p class="talk">« Vous avez besoin d’aller quelque part ? Vous prévoyez d’abandonner le groupe ? »</p>
 <p>Hoche, hoche.</p>
 <p>Yu Soo-Hyun changea rapidement ses vêtements de mannequin et emballa ses affaires comme si elle n’avait même pas le temps de s’expliquer.</p>

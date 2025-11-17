@@ -169,6 +169,6 @@
 <p class="talk">-Oh~ »</p>
 <p>Jinwoo était ravi d’entendre Jinah lui faire le plus grand compliment qu’elle avait dans son répertoire :</p>
 <p class="talk">« Ce n’est pas mal. »</p>
-<p class="talk">‘Oui, ça fera l’affaire. Ahjin. » J’avance seul ». Eh bien, je suppose qu’il serait plus exact que…’</p>
+<p class="talk">‘Oui, ça fera l’affaire. Ahjin. « J’avance seul ». Eh bien, je suppose qu’il serait plus exact que…’</p>
 </body>
 </html>

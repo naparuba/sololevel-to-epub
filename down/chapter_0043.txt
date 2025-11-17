@@ -131,7 +131,7 @@ Les mille-pattes qu’il avait rencontrés dans ce désert avaient des noms roug
 <p>La grotte trembla avec l’explosion.</p>
 
 <p>Notes du traducteur :<br/>
-[1] : « réunion parents/tuteurs » (학부모 상담) : « parent de l’élève » 학부모 + » discussion/conseil » 상담. Quand les lycéens approchent de l’obtention de leur diplôme et se préparent à l’université en Corée, les parents/tuteurs sont souvent appelés à l’école pour discuter des perspectives d’avenir de l’élève avec leur professeur de classe.<br/>
-[2] : » Avancement de classe » (전직) : lit. » changer de job ».</p>
+[1] : « réunion parents/tuteurs » (학부모 상담) : « parent de l’élève » 학부모 + « discussion/conseil » 상담. Quand les lycéens approchent de l’obtention de leur diplôme et se préparent à l’université en Corée, les parents/tuteurs sont souvent appelés à l’école pour discuter des perspectives d’avenir de l’élève avec leur professeur de classe.<br/>
+[2] : « Avancement de classe » (전직) : lit. « changer de job ».</p>
 </body>
 </html>

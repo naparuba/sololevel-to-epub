@@ -144,7 +144,7 @@ Tout le monde dans la pièce regardait autour de lui avec malaise. Il y avait de
 <p>L’énorme ombre tank se frappa la poitrine en avançant, inspira et produisit un rugissement qui remplissait la chambre.</p>
 <p>RAAAAAAAAA !</p>
 <div class="border">
-<p class="strong"><strong>Iron a utilisé la compétence » Cri de provocation » !</strong></p>
+<p class="strong"><strong>Iron a utilisé la compétence « Cri de provocation » !</strong></p>
 </div>
 <p>L’effet fut immédiatement perceptible. Toutes les fourmis qui grouillaient sur les Chasseurs se tournèrent immédiatement vers Iron et chargèrent sur lui.</p>
 <p class="talk">« Bien joué. »</p>

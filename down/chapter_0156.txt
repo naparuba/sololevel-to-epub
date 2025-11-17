@@ -46,7 +46,7 @@
 <p>Jinwoo posa une autre question.</p>
 <p class="talk">« Es-tu un monstre ? »</p>
 <p>Les ondes d’énergie magique émises par la statue d’ange étaient certainement différentes de celles émises par les monstres ordinaires.</p>
-<p>Cependant, le sens du terme « monstre » avait été simplement créé par les humains pour leur propre convenance. Si ce terme était utilisé pour désigner un vrai monstre, alors oui, cette statue était sans aucun doute, un vrai » monstre ».</p>
+<p>Cependant, le sens du terme « monstre » avait été simplement créé par les humains pour leur propre convenance. Si ce terme était utilisé pour désigner un vrai monstre, alors oui, cette statue était sans aucun doute, un vrai « monstre ».</p>
 <p>Une statue en pierre qui pouvait parler et se déplacer – où peut-on espérer trouver un monstre plus monstrueux que ça ?</p>
 <p>Donc, ce que Jinwoo voulait savoir ici, était si cette chose était de mèche avec les monstres habituels ou non.</p>
 <p>Craaack.</p>
@@ -80,8 +80,8 @@
 <p class="strong"><strong>Vous ne pouvez pas sortir de cette salle avant la fin du test final.</strong></p>
 </div>
 <p class="talk">‘Quoi ?’</p>
-<p>Le front de Jinwoo se fronça au fur et à mesure que les tonalités mécaniques continuaient d’émettre des » ring, ring » dans ses oreilles, mais même celles-ci ne durèrent qu’un court instant. Parce que les statues en pierre avaient commencé à se précipiter vers lui à ce moment-là.</p>
-<p>Leurs mouvements étaient étrangement silencieux, mais aussi incroyablement rapides. C’était à un tout autre niveau par rapport à l’époque où il avait affronté des centaines de » chevaliers » lors du test d’avancement de Classe.</p>
+<p>Le front de Jinwoo se fronça au fur et à mesure que les tonalités mécaniques continuaient d’émettre des « ring, ring » dans ses oreilles, mais même celles-ci ne durèrent qu’un court instant. Parce que les statues en pierre avaient commencé à se précipiter vers lui à ce moment-là.</p>
+<p>Leurs mouvements étaient étrangement silencieux, mais aussi incroyablement rapides. C’était à un tout autre niveau par rapport à l’époque où il avait affronté des centaines de « chevaliers » lors du test d’avancement de Classe.</p>
 <p class="talk">‘Oh, alors tu veux la jouer comme ça, c’est ça ?’</p>
 <p>Toutes les cartes cachées qu’il avait préparées, au cas où – potions diverses, récompenses de quête, etc. – était devenu inutile d’un seul coup. Le Système était avec Jinwoo depuis le début, et savait comment il fonctionnait.</p>
 <p class="talk">‘Dans ce cas, je ne surmonterai cela qu’avec mon propre pouvoir !’</p>
