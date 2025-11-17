@@ -1,11 +1,155 @@
-<html><body><h1>Chapter 89</h1>
-<p class=""> </p><p class="">screech-</p><p class="">Une berline noire stoppa sur le bord de la route. Un homme portant des lunettes de soleil et un costume noir descendit de la voiture. Il était le chef du Département de Surveillance des Chasseurs (DSC), Jin. Après lui, trois autres Chasseurs du DSC descendirent également de la voiture.</p><p class="talk">« Chef, pourquoi on s’est arrêtés ici ? On ne devait pas aller directement à l’Association ?</p><p class="talk">-J’ai juste quelque chose à vérifier. »</p><p class="">Jin tourna la tête vers la Porte au loin.</p><p class="talk">‘Peu importe combien de fois je le vois, une Porte de rang A est une chose horrible.’</p><p class="">Le chef du DSC fronça les sourcils. Si ce trou géant s’ouvrait et libérait les bêtes magiques qui s’y trouvaient… Même en l’imaginant, le Chasseur de rang A en tremblait.</p><p class="talk">‘Alors pourquoi cet homme se porterait volontaire comme mineur dans un endroit si effrayant ?’</p><p class="">Et pas seulement pour un seul jour, mais pour deux. Même si le président de l’association M.Go ne lui avait pas demandé personnellement, Jin aurait essayé de le découvrir tout seul.</p><p class="talk">‘Nous ne pouvons pas… enquêter sur lui dans son dos.’</p><p class="talk">« Lui » était un Chasseur de rang S. C’était impossible pour un rang A comme Jin d’enquêter en secret sur un Chasseur de rang S sans être détecté. Par conséquent, le chef du DSC avait décidé d’apparaître avec audace pour vérifier ce que faisait Jinwoo. Comme le DSC avait un autre travail à proximité, il avait pensé utiliser l’excuse qu’il ne faisait que passer et voulait lui faire ses salutations.</p><p class="talk">‘Ça n’aura pas l’air trop étrange, n’est-ce pas ?’</p><p class="">Si un Chasseur dont il avait été confirmé qu’il était de rang S faisait un travail de mine en creusant le sol, quiconque serait curieux de savoir. En plus de cela, Jinwoo était quelqu’un qui avait l’attention de l’Association des Chasseurs, en particulier de son président. Le président de l’association devait vraiment l’apprécier ; récemment, Jin avait remarqué que M.Go se réveillait quand on parlait de Jinwoo, tant les yeux que les oreilles.</p><p class="talk">‘Non, l’étrange, ce n’est pas moi.’</p><p class="">Il était évident d’être curieux, et poser quelques questions par curiosité était normal. C’est dans cet esprit que Jin approcha un employé de la Guilde Hunters.</p><p class="talk">« Bonjour, je cherche l’équipe minière.</p><p class="talk">-Excusez-moi… mais qui êtes-vous ?</p><p class="talk">-Je suis de l’Association. »</p><p class="">Après avoir confirmé l’identité de Jin, l’employé fit un geste vers l’endroit où l’équipe minière était en attente.</p><p class="talk">« Vous pouvez les trouver là-bas.</p><p class="talk">-Merci. »</p><p class="">Les quatre chasseurs du DSC se dirigèrent vers l’équipe minière. Ayant appris qu’ils étaient en route, le chef d’équipe Bae sortit en courant :</p><p class="talk">« Dire que les Chasseurs du DSC de l’Association nous rendraient visite aujourd’hui. En quoi pouvons-nous vous aider ? »</p><p class="">Après s’être reposés confortablement il y a quelques instants seulement, les Chasseurs de l’équipe minière semblaient maintenant mal à l’aise. Pour les Chasseurs, « DSC » était un mot plutôt menaçant à entendre. Après tout, les Chasseurs du DSC étaient ceux qui s’occupaient des êtres Eveillés qui ne pouvaient être contrôlés par les lois de la société et leur application. Ils arrêteraient, emprisonneraient et parfois… élimineraient de tels criminels. Et maintenant, ces Chasseurs du DSC se tenaient devant eux.</p><p class="talk">« Qu’est-ce que c’est ?<br/>
+<html>
+<body>
+<h1>Chapter 89</h1>
+
+<p>screech-</p>
+<p>Une berline noire stoppa sur le bord de la route. Un homme portant des lunettes de soleil et un costume noir descendit de la voiture. Il était le chef du Département de Surveillance des Chasseurs (DSC), Jin. Après lui, trois autres Chasseurs du DSC descendirent également de la voiture.</p>
+<p class="talk">« Chef, pourquoi on s’est arrêtés ici ? On ne devait pas aller directement à l’Association ?</p>
+<p class="talk">-J’ai juste quelque chose à vérifier. »</p>
+<p>Jin tourna la tête vers la Porte au loin.</p>
+<p class="talk">‘Peu importe combien de fois je le vois, une Porte de rang A est une chose horrible.’</p>
+<p>Le chef du DSC fronça les sourcils. Si ce trou géant s’ouvrait et libérait les bêtes magiques qui s’y trouvaient… Même en l’imaginant, le Chasseur de rang A en tremblait.</p>
+<p class="talk">‘Alors pourquoi cet homme se porterait volontaire comme mineur dans un endroit si effrayant ?’</p>
+<p>Et pas seulement pour un seul jour, mais pour deux. Même si le président de l’association M.Go ne lui avait pas demandé personnellement, Jin aurait essayé de le découvrir tout seul.</p>
+<p class="talk">‘Nous ne pouvons pas… enquêter sur lui dans son dos.’</p>
+<p class="talk">« Lui » était un Chasseur de rang S. C’était impossible pour un rang A comme Jin d’enquêter en secret sur un Chasseur de rang S sans être détecté. Par conséquent, le chef du DSC avait décidé d’apparaître avec audace pour vérifier ce que faisait Jinwoo. Comme le DSC avait un autre travail à proximité, il avait pensé utiliser l’excuse qu’il ne faisait que passer et voulait lui faire ses salutations.</p>
+<p class="talk">‘Ça n’aura pas l’air trop étrange, n’est-ce pas ?’</p>
+<p>Si un Chasseur dont il avait été confirmé qu’il était de rang S faisait un travail de mine en creusant le sol, quiconque serait curieux de savoir. En plus de cela, Jinwoo était quelqu’un qui avait l’attention de l’Association des Chasseurs, en particulier de son président. Le président de l’association devait vraiment l’apprécier ; récemment, Jin avait remarqué que M.Go se réveillait quand on parlait de Jinwoo, tant les yeux que les oreilles.</p>
+<p class="talk">‘Non, l’étrange, ce n’est pas moi.’</p>
+<p>Il était évident d’être curieux, et poser quelques questions par curiosité était normal. C’est dans cet esprit que Jin approcha un employé de la Guilde Hunters.</p>
+<p class="talk">« Bonjour, je cherche l’équipe minière.</p>
+<p class="talk">-Excusez-moi… mais qui êtes-vous ?</p>
+<p class="talk">-Je suis de l’Association. »</p>
+<p>Après avoir confirmé l’identité de Jin, l’employé fit un geste vers l’endroit où l’équipe minière était en attente.</p>
+<p class="talk">« Vous pouvez les trouver là-bas.</p>
+<p class="talk">-Merci. »</p>
+<p>Les quatre chasseurs du DSC se dirigèrent vers l’équipe minière. Ayant appris qu’ils étaient en route, le chef d’équipe Bae sortit en courant :</p>
+<p class="talk">« Dire que les Chasseurs du DSC de l’Association nous rendraient visite aujourd’hui. En quoi pouvons-nous vous aider ? »</p>
+<p>Après s’être reposés confortablement il y a quelques instants seulement, les Chasseurs de l’équipe minière semblaient maintenant mal à l’aise. Pour les Chasseurs, « DSC » était un mot plutôt menaçant à entendre. Après tout, les Chasseurs du DSC étaient ceux qui s’occupaient des êtres Eveillés qui ne pouvaient être contrôlés par les lois de la société et leur application. Ils arrêteraient, emprisonneraient et parfois… élimineraient de tels criminels. Et maintenant, ces Chasseurs du DSC se tenaient devant eux.</p>
+<p class="talk">« Qu’est-ce que c’est ?<br/>
 -Le DSC est ici.<br/>
--Pourquoi le DSC… ? »</p><p class="">Il allait se passer quelque chose. Avec curiosité, les mineurs se rassemblèrent à côté du chef d’équipe Bae. Jin retira ses lunettes de soleil.</p><p class="talk">‘…’</p><p class="">Le rang A cherchait le visage de Jinwoo. Comme il ne le trouvait pas, il décida de demander au chef d’équipe :</p><p class="talk">« Où est le Chasseur Jinwoo-nim ?</p><p class="talk">-Je le savais ! »</p><p class="">Soudain, un homme se fraya un chemin à travers les mineurs. C’était l’homme qui avait essayé d’intimider Jinwoo hier, Lee Sunggu. L’homme cracha par terre et se mit à fulminer :</p><p class="talk">« Cet enculé s’est retourné et m’a regardé en souriant ! Je le jure, ses yeux avaient l’air de pouvoir avaler une personne entière ! Rien que d’y penser, ça me fait trembler. »</p><p class="">Jin fronça légèrement les sourcils :</p><p class="talk">‘Ses yeux ont l’air de pouvoir avaler une personne ?’</p><p class="">Que se passe-t-il exactement ? Les mineurs commencèrent à chuchoter entre eux. Jin les ignora et demanda à Lee Sunggu :</p><p class="talk">« Il s’est passé quelque chose ?</p><p class="talk">-Oh, c’est… »</p><p class="">Le mineur était sur le point de répondre, puis réalisa que c’était lui qui avait essayé d’intimider Jinwoo. Il agita rapidement la main :</p><p class="talk">« Ce n’est pas important. Je vous le dis, les yeux de cet homme étaient trop effrayants. »</p><p class="talk">“…”</p><p class="">Jin s’est de nouveau tourné vers le chef d’équipe Bae :</p><p class="talk">« Où est le Chasseur Jinwoo-nim maintenant ?</p><p class="talk">-Euh… Sung-ssi est à l’intérieur de la Porte en ce moment. »</p><p class="">Jinwoo était entré dans une Porte de rang A alors que le Raid était en cours ? Les yeux du chef du DSC s’élargirent.</p><p class="talk">« Pourquoi le Chasseur Jinwoo-nim serait-il dans le Donjon ?</p><p class="talk">“…”</p><p class="talk">-Vous savez que c’est étrange.</p><p class="talk">-Qu’est-ce que vous voulez dire ?</p><p class="talk">-Eh bien, ce n’est rien d’autre que… tout à l’heure, la Chasseuse Cha-nim, je veux dire, la Chasseuse Chain-nim cherchait aussi Sung-ssi. Quand elle a appris qu’il était entré dans la Porte, elle est entrée aussi. J’ai juste pensé que c’était étrange… »</p><p class="">Le chef d’équipe Bae inclina la tête. Quand il entendit les paroles de l’homme, l’esprit de Jin se mit à tourner frénétiquement.</p><p class="talk">‘Le maître adjoint de la Guilde Hunters cherchait Jinwoo ? Et elle l’a vraiment suivi dans le Donjon ?’</p><p class="">Que se passait-il exactement ? Jin n’était venu ici que pour saluer Jinwoo, mais il semblait que quelque chose échappait à son contrôle.</p><p class="talk">‘D’abord, allons voir la Porte.’</p><p class="">En tant que membres du DSC, c’était le moins qu’ils pouvaient faire.</p><p class="talk">« Nous allons vérifier la Porte.</p><p class="talk">-Ah, compris. »</p><p class="">Alors que Jin se tournait pour partir avec ses subordonnés, Lee Sunggu les arrêta soudainement et prit la parole :</p><p class="talk">« Euh, Chasseur-nim ! »</p><p class="">Le visage du mineur était rempli d’anticipation et d’excitation :</p><p class="talk">« Cet enculé, Jinwoo ou quelque chose comme ça. Il a fait quelque chose de mal ? Comme tuer un homme ? Il avait l’air du genre. »</p><p class="">Jin froissa le visage. Soudain, il comprit pourquoi Jinwoo faisait une fixation sur cet homme.</p><p class="talk">‘On dirait que tu tomberais si Jinwoo éternuait dans ta direction…’</p><p class="">Pourtant, il y avait trop d’yeux ici. Un représentant de l’Association ne pouvait pas se contenter de réprimander ou de montrer de la colère contre un Chasseur ordinaire. Dans des moments comme celui-ci, Jin n’aimait pas son statut dans l’organisation. Le chef du DSC fit de son mieux pour parler le plus diplomatiquement possible :</p><p class="talk">« Vous le saurez au journal de demain soir. »</p><p class="">Comme si c’était la réponse qu’il cherchait, Lee Sunggu semblait satisfait et récompensé :</p><p class="talk">« Vous voyez ? Qu’est-ce que je vous avais dit ? Cet enfoiré était suspicieux comme l’enfer !<br/>
+-Pourquoi le DSC… ? »</p>
+<p>Il allait se passer quelque chose. Avec curiosité, les mineurs se rassemblèrent à côté du chef d’équipe Bae. Jin retira ses lunettes de soleil.</p>
+<p class="talk">‘…’</p>
+<p>Le rang A cherchait le visage de Jinwoo. Comme il ne le trouvait pas, il décida de demander au chef d’équipe :</p>
+<p class="talk">« Où est le Chasseur Jinwoo-nim ?</p>
+<p class="talk">-Je le savais ! »</p>
+<p>Soudain, un homme se fraya un chemin à travers les mineurs. C’était l’homme qui avait essayé d’intimider Jinwoo hier, Lee Sunggu. L’homme cracha par terre et se mit à fulminer :</p>
+<p class="talk">« Cet enculé s’est retourné et m’a regardé en souriant ! Je le jure, ses yeux avaient l’air de pouvoir avaler une personne entière ! Rien que d’y penser, ça me fait trembler. »</p>
+<p>Jin fronça légèrement les sourcils :</p>
+<p class="talk">‘Ses yeux ont l’air de pouvoir avaler une personne ?’</p>
+<p>Que se passe-t-il exactement ? Les mineurs commencèrent à chuchoter entre eux. Jin les ignora et demanda à Lee Sunggu :</p>
+<p class="talk">« Il s’est passé quelque chose ?</p>
+<p class="talk">-Oh, c’est… »</p>
+<p>Le mineur était sur le point de répondre, puis réalisa que c’était lui qui avait essayé d’intimider Jinwoo. Il agita rapidement la main :</p>
+<p class="talk">« Ce n’est pas important. Je vous le dis, les yeux de cet homme étaient trop effrayants. »</p>
+<p class="talk">“…”</p>
+<p>Jin s’est de nouveau tourné vers le chef d’équipe Bae :</p>
+<p class="talk">« Où est le Chasseur Jinwoo-nim maintenant ?</p>
+<p class="talk">-Euh… Sung-ssi est à l’intérieur de la Porte en ce moment. »</p>
+<p>Jinwoo était entré dans une Porte de rang A alors que le Raid était en cours ? Les yeux du chef du DSC s’élargirent.</p>
+<p class="talk">« Pourquoi le Chasseur Jinwoo-nim serait-il dans le Donjon ?</p>
+<p class="talk">“…”</p>
+<p class="talk">-Vous savez que c’est étrange.</p>
+<p class="talk">-Qu’est-ce que vous voulez dire ?</p>
+<p class="talk">-Eh bien, ce n’est rien d’autre que… tout à l’heure, la Chasseuse Cha-nim, je veux dire, la Chasseuse Chain-nim cherchait aussi Sung-ssi. Quand elle a appris qu’il était entré dans la Porte, elle est entrée aussi. J’ai juste pensé que c’était étrange… »</p>
+<p>Le chef d’équipe Bae inclina la tête. Quand il entendit les paroles de l’homme, l’esprit de Jin se mit à tourner frénétiquement.</p>
+<p class="talk">‘Le maître adjoint de la Guilde Hunters cherchait Jinwoo ? Et elle l’a vraiment suivi dans le Donjon ?’</p>
+<p>Que se passait-il exactement ? Jin n’était venu ici que pour saluer Jinwoo, mais il semblait que quelque chose échappait à son contrôle.</p>
+<p class="talk">‘D’abord, allons voir la Porte.’</p>
+<p>En tant que membres du DSC, c’était le moins qu’ils pouvaient faire.</p>
+<p class="talk">« Nous allons vérifier la Porte.</p>
+<p class="talk">-Ah, compris. »</p>
+<p>Alors que Jin se tournait pour partir avec ses subordonnés, Lee Sunggu les arrêta soudainement et prit la parole :</p>
+<p class="talk">« Euh, Chasseur-nim ! »</p>
+<p>Le visage du mineur était rempli d’anticipation et d’excitation :</p>
+<p class="talk">« Cet enculé, Jinwoo ou quelque chose comme ça. Il a fait quelque chose de mal ? Comme tuer un homme ? Il avait l’air du genre. »</p>
+<p>Jin froissa le visage. Soudain, il comprit pourquoi Jinwoo faisait une fixation sur cet homme.</p>
+<p class="talk">‘On dirait que tu tomberais si Jinwoo éternuait dans ta direction…’</p>
+<p>Pourtant, il y avait trop d’yeux ici. Un représentant de l’Association ne pouvait pas se contenter de réprimander ou de montrer de la colère contre un Chasseur ordinaire. Dans des moments comme celui-ci, Jin n’aimait pas son statut dans l’organisation. Le chef du DSC fit de son mieux pour parler le plus diplomatiquement possible :</p>
+<p class="talk">« Vous le saurez au journal de demain soir. »</p>
+<p>Comme si c’était la réponse qu’il cherchait, Lee Sunggu semblait satisfait et récompensé :</p>
+<p class="talk">« Vous voyez ? Qu’est-ce que je vous avais dit ? Cet enfoiré était suspicieux comme l’enfer !<br/>
 -Il ne m’a pas semblé comme ça…<br/>
--Oui, il avait l’air d’un bon travailleur. Assez diligent. »</p><p class="">Lee Sunggu ignora les réactions mitigées de ses coéquipiers et garda le nez haut à l’idée qu’il avait raison depuis le début. Ayant assez de l’homme pathétique, Jin emmena ses subordonnés et partit vers la Porte.</p><hr class=""/><p class="">frissonne</p><p class="">Jin s’arrêta instinctivement quelques pas avant la Porte.</p><p class="talk">« Chef ? »</p><p class="">Les Chasseurs du DSC regardaient Jin avec confusion. Le visage de l’homme était figé.</p><p class="talk">‘Que diable… c’est impossible.’</p><p class="">Jin sortit son téléphone et sortit les informations de cette Porte de rang A. Il était choqué par ce qu’il lisait.</p><p class="talk">‘Pourquoi le pouvoir magique est-il si bas ?’</p><p class="">Il secoua la tête.</p><p class="talk">‘La mesure était erronée.’</p><p class="">Tous les Chasseurs de rang A n’étaient pas égaux. Jin était au plus haut niveau des Chasseurs de rang A. Et ses sens lui disaient : la mesure du pouvoir magique était fausse. Il se tourna rapidement et donna un ordre :</p><p class="talk">« Appareil de mesure de puissance magique, maintenant ! »</p><p class="">Lisant l’humeur, un subordonné se précipita vers la voiture et revint avec l’appareil. L’appareil de mesure miniature utilisé par le DSC était d’une classe différente de celle utilisée par les employés ordinaires de l’Association. Comme on pouvait s’y attendre d’un appareil fabriqué avec un noyau magique coûtant un milliard de won, il ne produisait pour ainsi dire jamais une mauvaise mesure.</p><p class="">bip</p><p class="">La mesure était terminée.</p><p class="talk">‘J’avais raison…’</p><p class="">Les résultats étaient sensiblement différents de la mesure effectuée par les employés normaux de l’Association. Si une guilde s’était fiée aux données initiales de l’Association pour planifier son raid, cela se serait soldé par un désastre.</p><p class="talk">‘Ça ne devrait pas être un problème maintenant que deux rangs S sont là-dedans mais…’</p><p class="">Jin se pencha pour ramasser l’appareil de mesure quand soudain :</p><p class="">wooong-</p><p class="">La Porte tremblait d’une puissante vibration ; ce n’était pas le même phénomène qu’une Porte qui se refermait. Elle avait été causée par une puissante vague de pouvoir magique libérée de l’intérieur. Mettant de côté le très compétent Jin, même les sens les plus faibles de ses subordonnés étaient capables de détecter la puissante vague. Chacun d’entre eux frissonna et chancela quand ils la sentirent :</p><p class="talk">« C-chef ?<br/>
--Qu’est-ce que c’est ? »</p><p class="">Jin regarda le plus jeune membre qui avait pâli :</p><p class="talk">« Est-ce que ça va ?<br/>
--Oui, monsieur. »</p><p class="">Après avoir répondu, l’homme regarda attentivement le dos de sa main. C’était plein de chair de poule. Jin se leva du sol.</p><p class="talk">« Nous allons à l’intérieur.</p><p class="talk">-Monsieur ?</p><p class="talk">-Vous voulez y aller ? »</p><p class="">Jin continua :</p><p class="talk">« Ceux qui ont peur peuvent rester ici. »</p><p class="">Les seuls qui savaient que la mesure était fausse étaient les Chasseurs du DSC ici présents. Ils devaient transmettre cette information aux Chasseurs à l’intérieur. En plus de la gestion et de la surveillance des Chasseurs, l’Association était avant tout chargée d’aider les Chasseurs.</p><p class="talk">« N-non. Je vais y aller.<br/>
--Allons-y ensemble. »</p><p class="">Jin acquiesça d’un signe de tête, puis se tourna vers le plus jeune employé :</p><p class="talk">« Vous, restez ici et signalez-le à l’Association.<br/>
+-Oui, il avait l’air d’un bon travailleur. Assez diligent. »</p>
+<p>Lee Sunggu ignora les réactions mitigées de ses coéquipiers et garda le nez haut à l’idée qu’il avait raison depuis le début. Ayant assez de l’homme pathétique, Jin emmena ses subordonnés et partit vers la Porte.</p>
+<hr/>
+<p>frissonne</p>
+<p>Jin s’arrêta instinctivement quelques pas avant la Porte.</p>
+<p class="talk">« Chef ? »</p>
+<p>Les Chasseurs du DSC regardaient Jin avec confusion. Le visage de l’homme était figé.</p>
+<p class="talk">‘Que diable… c’est impossible.’</p>
+<p>Jin sortit son téléphone et sortit les informations de cette Porte de rang A. Il était choqué par ce qu’il lisait.</p>
+<p class="talk">‘Pourquoi le pouvoir magique est-il si bas ?’</p>
+<p>Il secoua la tête.</p>
+<p class="talk">‘La mesure était erronée.’</p>
+<p>Tous les Chasseurs de rang A n’étaient pas égaux. Jin était au plus haut niveau des Chasseurs de rang A. Et ses sens lui disaient : la mesure du pouvoir magique était fausse. Il se tourna rapidement et donna un ordre :</p>
+<p class="talk">« Appareil de mesure de puissance magique, maintenant ! »</p>
+<p>Lisant l’humeur, un subordonné se précipita vers la voiture et revint avec l’appareil. L’appareil de mesure miniature utilisé par le DSC était d’une classe différente de celle utilisée par les employés ordinaires de l’Association. Comme on pouvait s’y attendre d’un appareil fabriqué avec un noyau magique coûtant un milliard de won, il ne produisait pour ainsi dire jamais une mauvaise mesure.</p>
+<p>bip</p>
+<p>La mesure était terminée.</p>
+<p class="talk">‘J’avais raison…’</p>
+<p>Les résultats étaient sensiblement différents de la mesure effectuée par les employés normaux de l’Association. Si une guilde s’était fiée aux données initiales de l’Association pour planifier son raid, cela se serait soldé par un désastre.</p>
+<p class="talk">‘Ça ne devrait pas être un problème maintenant que deux rangs S sont là-dedans mais…’</p>
+<p>Jin se pencha pour ramasser l’appareil de mesure quand soudain :</p>
+<p>wooong-</p>
+<p>La Porte tremblait d’une puissante vibration ; ce n’était pas le même phénomène qu’une Porte qui se refermait. Elle avait été causée par une puissante vague de pouvoir magique libérée de l’intérieur. Mettant de côté le très compétent Jin, même les sens les plus faibles de ses subordonnés étaient capables de détecter la puissante vague. Chacun d’entre eux frissonna et chancela quand ils la sentirent :</p>
+<p class="talk">« C-chef ?<br/>
+-Qu’est-ce que c’est ? »</p>
+<p>Jin regarda le plus jeune membre qui avait pâli :</p>
+<p class="talk">« Est-ce que ça va ?<br/>
+-Oui, monsieur. »</p>
+<p>Après avoir répondu, l’homme regarda attentivement le dos de sa main. C’était plein de chair de poule. Jin se leva du sol.</p>
+<p class="talk">« Nous allons à l’intérieur.</p>
+<p class="talk">-Monsieur ?</p>
+<p class="talk">-Vous voulez y aller ? »</p>
+<p>Jin continua :</p>
+<p class="talk">« Ceux qui ont peur peuvent rester ici. »</p>
+<p>Les seuls qui savaient que la mesure était fausse étaient les Chasseurs du DSC ici présents. Ils devaient transmettre cette information aux Chasseurs à l’intérieur. En plus de la gestion et de la surveillance des Chasseurs, l’Association était avant tout chargée d’aider les Chasseurs.</p>
+<p class="talk">« N-non. Je vais y aller.<br/>
+-Allons-y ensemble. »</p>
+<p>Jin acquiesça d’un signe de tête, puis se tourna vers le plus jeune employé :</p>
+<p class="talk">« Vous, restez ici et signalez-le à l’Association.<br/>
 -M- monsieur ?<br/>
--Vous pouvez le faire, n’est-ce pas ? »</p><p class="">Jin lui tapota l’épaule, et le jeune employé hocha la tête avec effort :</p><p class="talk">« Oui, je le ferai. »</p><p class="">Le chef du DSC se retourna vers la Porte. En plus de ce qu’ils venaient de ressentir, une vague encore plus puissante de pouvoir magique jaillissait de la Porte.</p><p class="talk">‘Qu’est-ce qui se passe là-dedans ?’</p><p class="">Avec Jin en tête, les trois Chasseurs du DSC se lancèrent à l’assaut de la Porte.</p><hr class=""/><p class="">Il y a un instant.</p><p class="">Chain suivait les pas de l’équipe de raid à l’intérieur du donjon.</p><p class="talk">‘Bizarre. Pourquoi n’y a-t-il pas de bêtes magiques ?’</p><p class="">Si c’était un donjon ordinaire, il aurait dû y avoir des cadavres de bêtes magiques depuis l’entrée jusqu’à la salle du boss. Cependant, elle n’avait trouvé aucun cadavre de ce genre. Etait-ce que toutes les bêtes magiques étaient rassemblées en un seul endroit ou quelque chose comme ça ? Tout en gardant cela à l’esprit.</p><p class="talk">‘Hein ?’</p><p class="">Elle avait enfin trouvé des cadavres de bêtes magiques.</p><p class="">Marche, marche, marche</p><p class="">Appartenant à la classe Combattant et Chasseuse de rang S, elle atteignit le site de la bataille en un clin d’œil.</p><p class="talk">‘Mon Dieu !’</p><p class="">Ses yeux devinrent plus larges. Les cadavres étaient de hauts orcs. Les hauts orcs se distinguaient facilement des orcs ordinaires par leur peau rouge et leurs longues dents.</p><p class="talk">‘Comment l’équipe de Son Gihoon-ssi a-t-elle gagné contre autant de hauts orcs ?’</p><p class="">De plus, on aurait dit qu’il n’y avait pas eu de victimes parmi les Chasseurs. S’il y en avait eu, le groupe se serait sûrement retiré du donjon.</p><p class="talk">‘Ai-je trop minimisé les Chasseurs de rang A et de rang B ?’</p><p class="">Peut-être… En regardant le champ de bataille, ça ressemblait à un affrontement ordinaire entre des Chasseurs et des bêtes magiques- Attends.</p><p class="talk">‘Qu’est-ce que c’est… ?’</p><p class="">Chain se baissa pour regarder de plus près quelque chose qu’elle avait remarqué. Ses yeux s’ouvrirent plus grand. En se levant, elle alla de cadavre en cadavre.</p><p class="">Ici… et ici… aussi ici…</p><p class="">Ses soupçons se transformèrent rapidement en confirmation.</p><p class="talk">‘Comment… ?’</p><p class="">C’est ce qui s’est passé ? Presque tous les cadavres d’orcs avaient une blessure causée par une petite arme pointue.</p><p class="talk">‘Ce n’est pas suffisant pour être fatal, mais…’</p><p class="">Cela aurait été plus que suffisant pour affaiblir les prouesses de combat des hauts orcs, et ça avait été clairement fait par un seul Chasseur. En fin de compte, tout ce que les autres Chasseurs avaient à faire était d’achever la proie gravement blessée. En réalité, c’était la même chose qu’un seul Chasseur massacrant vingt hauts orcs. En plus de cela, elle avait remarqué deux hauts orcs qui étaient morts d’une manière différente. L’un d’eux s’était fait arracher la tête par une force puissante et un autre avait été tué par un traumatisme contondant à la tête.</p><p class="">A part ces deux-là, quelqu’un avait blessé à lui seul les hauts orcs pour que les autres Chasseurs puissent les vaincre facilement.</p><p class="">Était-ce possible ? Même fière de sa vitesse, Chain n’était pas sûre de pouvoir faire quelque chose comme ça. Et à sa connaissance, il n’y avait pas de Chasseur de classe Assassin portant des dagues dans l’équipe de Son Gihoon.</p><p class="talk">‘Dague ?’</p><p class="">Soudain, un souvenir lui traversa la tête.</p><p class="">L’homme qui se tenait devant la salle du boss hier.</p><p class="">Jinwoo tenait certainement une sorte d’arme dans ses deux mains.</p><p class="talk">‘Etait-ce cet homme ?’</p><p class="">En arrivant à cette conclusion, la tête du rang S tourna brusquement vers l’intérieur du donjon. Quelque part au fond du donjon, une vague, non, un tsunami de pouvoir magique qu’elle n’avait jamais connu auparavant se déversait. Le visage de la femme devint sombre. L’air lui-même tremblait devant le pouvoir magique.</p><p class="talk">‘Oh non !’</p><p class="">Chain se mordit les lèvres et courut de toutes ses forces vers la salle du boss.</p><p class="">Si c’était le pouvoir magique du boss, l’équipe de Son Gihoon serait annihilée.</p></body></html>
+-Vous pouvez le faire, n’est-ce pas ? »</p>
+<p>Jin lui tapota l’épaule, et le jeune employé hocha la tête avec effort :</p>
+<p class="talk">« Oui, je le ferai. »</p>
+<p>Le chef du DSC se retourna vers la Porte. En plus de ce qu’ils venaient de ressentir, une vague encore plus puissante de pouvoir magique jaillissait de la Porte.</p>
+<p class="talk">‘Qu’est-ce qui se passe là-dedans ?’</p>
+<p>Avec Jin en tête, les trois Chasseurs du DSC se lancèrent à l’assaut de la Porte.</p>
+<hr/>
+<p>Il y a un instant.</p>
+<p>Chain suivait les pas de l’équipe de raid à l’intérieur du donjon.</p>
+<p class="talk">‘Bizarre. Pourquoi n’y a-t-il pas de bêtes magiques ?’</p>
+<p>Si c’était un donjon ordinaire, il aurait dû y avoir des cadavres de bêtes magiques depuis l’entrée jusqu’à la salle du boss. Cependant, elle n’avait trouvé aucun cadavre de ce genre. Etait-ce que toutes les bêtes magiques étaient rassemblées en un seul endroit ou quelque chose comme ça ? Tout en gardant cela à l’esprit.</p>
+<p class="talk">‘Hein ?’</p>
+<p>Elle avait enfin trouvé des cadavres de bêtes magiques.</p>
+<p>Marche, marche, marche</p>
+<p>Appartenant à la classe Combattant et Chasseuse de rang S, elle atteignit le site de la bataille en un clin d’œil.</p>
+<p class="talk">‘Mon Dieu !’</p>
+<p>Ses yeux devinrent plus larges. Les cadavres étaient de hauts orcs. Les hauts orcs se distinguaient facilement des orcs ordinaires par leur peau rouge et leurs longues dents.</p>
+<p class="talk">‘Comment l’équipe de Son Gihoon-ssi a-t-elle gagné contre autant de hauts orcs ?’</p>
+<p>De plus, on aurait dit qu’il n’y avait pas eu de victimes parmi les Chasseurs. S’il y en avait eu, le groupe se serait sûrement retiré du donjon.</p>
+<p class="talk">‘Ai-je trop minimisé les Chasseurs de rang A et de rang B ?’</p>
+<p>Peut-être… En regardant le champ de bataille, ça ressemblait à un affrontement ordinaire entre des Chasseurs et des bêtes magiques- Attends.</p>
+<p class="talk">‘Qu’est-ce que c’est… ?’</p>
+<p>Chain se baissa pour regarder de plus près quelque chose qu’elle avait remarqué. Ses yeux s’ouvrirent plus grand. En se levant, elle alla de cadavre en cadavre.</p>
+<p>Ici… et ici… aussi ici…</p>
+<p>Ses soupçons se transformèrent rapidement en confirmation.</p>
+<p class="talk">‘Comment… ?’</p>
+<p>C’est ce qui s’est passé ? Presque tous les cadavres d’orcs avaient une blessure causée par une petite arme pointue.</p>
+<p class="talk">‘Ce n’est pas suffisant pour être fatal, mais…’</p>
+<p>Cela aurait été plus que suffisant pour affaiblir les prouesses de combat des hauts orcs, et ça avait été clairement fait par un seul Chasseur. En fin de compte, tout ce que les autres Chasseurs avaient à faire était d’achever la proie gravement blessée. En réalité, c’était la même chose qu’un seul Chasseur massacrant vingt hauts orcs. En plus de cela, elle avait remarqué deux hauts orcs qui étaient morts d’une manière différente. L’un d’eux s’était fait arracher la tête par une force puissante et un autre avait été tué par un traumatisme contondant à la tête.</p>
+<p>A part ces deux-là, quelqu’un avait blessé à lui seul les hauts orcs pour que les autres Chasseurs puissent les vaincre facilement.</p>
+<p>Était-ce possible ? Même fière de sa vitesse, Chain n’était pas sûre de pouvoir faire quelque chose comme ça. Et à sa connaissance, il n’y avait pas de Chasseur de classe Assassin portant des dagues dans l’équipe de Son Gihoon.</p>
+<p class="talk">‘Dague ?’</p>
+<p>Soudain, un souvenir lui traversa la tête.</p>
+<p>L’homme qui se tenait devant la salle du boss hier.</p>
+<p>Jinwoo tenait certainement une sorte d’arme dans ses deux mains.</p>
+<p class="talk">‘Etait-ce cet homme ?’</p>
+<p>En arrivant à cette conclusion, la tête du rang S tourna brusquement vers l’intérieur du donjon. Quelque part au fond du donjon, une vague, non, un tsunami de pouvoir magique qu’elle n’avait jamais connu auparavant se déversait. Le visage de la femme devint sombre. L’air lui-même tremblait devant le pouvoir magique.</p>
+<p class="talk">‘Oh non !’</p>
+<p>Chain se mordit les lèvres et courut de toutes ses forces vers la salle du boss.</p>
+<p>Si c’était le pouvoir magique du boss, l’équipe de Son Gihoon serait annihilée.</p>
+</body>
+</html>

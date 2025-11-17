@@ -1,34 +1,192 @@
-<html><body><h1>Chapter 14</h1>
-<p class=""> </p><p class="">Le Lycan qui lui avait survolé la tête le regardait maintenant avec peur. Il baissa la queue, et commença à reculer.</p><p class="talk">« Hein… ? »</p><p class="">Etait-ce le résultat d’avoir mis tous ses points en force ?</p><p class="">Tandis qu’il fixait son poing avec la bouche ouverte, le corps sans tête du Lycan convulsa, puis cessa de bouger. Un son électronique familier résonna dans la tête de Jinwoo.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez vaincu le Lycan à dents d’acier.</strong></p><p class="strong"><strong>Vous gagnez un niveau !</strong></p></div><p class="">________________________________________</p><p class="talk">« J’ai gagné un niveau ? »</p><p class="">Pour être sûr qu’il n’avait pas mal compris, Jinwoo rouvrit rapidement son écran de statut.</p><div class="border"><p class="strong"><strong>Nom : Jinwoo</strong><br/>
+<html>
+<body>
+<h1>Chapter 14</h1>
+
+<p>Le Lycan qui lui avait survolé la tête le regardait maintenant avec peur. Il baissa la queue, et commença à reculer.</p>
+<p class="talk">« Hein… ? »</p>
+<p>Etait-ce le résultat d’avoir mis tous ses points en force ?</p>
+<p>Tandis qu’il fixait son poing avec la bouche ouverte, le corps sans tête du Lycan convulsa, puis cessa de bouger. Un son électronique familier résonna dans la tête de Jinwoo.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez vaincu le Lycan à dents d’acier.</strong></p>
+<p class="strong"><strong>Vous gagnez un niveau !</strong></p>
+</div>
+<p>________________________________________</p>
+<p class="talk">« J’ai gagné un niveau ? »</p>
+<p>Pour être sûr qu’il n’avait pas mal compris, Jinwoo rouvrit rapidement son écran de statut.</p>
+<div class="border">
+<p class="strong"><strong>Nom : Jinwoo</strong><br/>
 <strong>Niveau : 2</strong><br/>
 <strong>Classe : Aucun</strong><br/>
 <strong>Titre : Aucun</strong><br/>
 <strong>HP : 205</strong><br/>
 <strong>MP : 22</strong><br/>
-<strong>Fatigue : 0</strong></p><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Fatigue : 0</strong></p>
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 32</strong><br/>
 <strong>Constitution : 11</strong><br/>
 <strong>Agilité : 11</strong><br/>
 <strong>Intelligence : 11</strong><br/>
-<strong>Perception : 11</strong></p><p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p><p class="strong"><strong>Compétences</strong><br/>
+<strong>Perception : 11</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p>
+<p class="strong"><strong>Compétences</strong><br/>
 <strong>Compétences passives</strong><br/>
 <strong>-(Inconnu) (Lv. Max)</strong><br/>
-<strong>-Esprit inébranlable (Lv. 1)</strong></p><p class="strong"><strong>Compétences actives</strong><br/>
-<strong>-sprint (Lv. 1)</strong></p></div><p class="">Il avait vraiment gagné un niveau. Avec ça, toutes ses statistiques avaient augmenté d’un point. Jinwoo réalisa que les récompenses de la quête n’étaient pas le seul moyen d’élever ses attributs. C’était évident que monter en niveau les augmentait aussi.</p><p class="talk">‘Dire que je peux gagner des niveaux !’</p><p class="">Quelque chose dont il n’avait fait que rêver était maintenant une réalité devant lui.</p><p class="">Son pouls s’accéléra.</p><p class="talk">‘Et le total des points que j’ai gagnés est plus grand que la quête quotidienne.’</p><p class="">Les points de stat qu’il recevait des quêtes étaient de 3.</p><p class="">Les points de stat qu’il avait gagnés en augmentant son niveau étaient de 5.</p><p class="">Bien qu’il n’ait pas pu répartir librement ces 5 points, l’avantage total d’une montée en niveau était beaucoup plus important que la récompense de la quête.</p><p class="talk">‘Et je me suis monté en niveau après n’en avoir abattu que deux. »</p><p class="">Dans un jeu vidéo, les personnages de bas niveau pouvaient monter rapidement leur niveau.</p><p class="">Jinwoo était actuellement de niveau 2. On pourrait dire qu’il était au fond du trou. Mais son niveau ne reflétait pas correctement sa force. Après tout, sa force était déjà supérieure à 30 ; si on traitait un niveau équivalent à un point de force, Jinwoo avait déjà la force d’un niveau supérieur à 20. Et quand un personnage de niveau 1 chasse avec la force d’un niveau 20 ?</p><p class="talk">‘Je pense qu’ils appellent ça « power leveling » ?’</p><p class="">La puissance destructrice de son coup de poing, qui avait dépassé toutes les attentes, témoignait de ses progrès.</p><p class="talk">‘J’ai triplé l’attribut force, mais je me sens plus de trois fois plus fort qu’avant.’</p><p class="">La force initiale de Jinwoo était de 10. La différence entre la force 10 et la force 30 était un facteur de 3, mais sa puissance semblait beaucoup plus grande que cela.</p><p class="talk">‘Peut-être…’</p><p class="">Et si la valeur de ses attributs devenait plus importante à mesure qu’ils augmentaient ? Cela expliquerait ce pouvoir destructeur. De plus, ses mouvements s’étaient accélérés. Si c’était l’ancien lui, il ne pourrait pas imaginer éviter les attaques rapides des bêtes ou faire hurler le vent quand il frappait.</p><p class="talk">« Je suppose que le développement de mes muscles me rendrait plus rapide. »</p><p class="">Il semblait que l’augmentation de la force augmentait à la fois sa  » force  » et sa  » vitesse « . Sa bataille contre le Lycan en était la preuve.</p><p class="">Mais qu’en est-il de la stat d’agilité ? Si ce n’était pas sa mobilité, qu’est-ce qu’elle augmenterait ?</p><p class="">Jinwoo savait qu’il ne pourrait pas satisfaire sa curiosité sans plus de points statistiques.</p><p class="talk">‘Même si j’avais un peu…’</p><p class="">C’était un peu inutile d’utiliser les points des récompenses des quêtes en agilité. S’il pouvait augmenter à la fois sa puissance et sa vitesse grâce à l’attribut force, pourquoi mettre des points en agilité ?</p><p class="">Si c’est le cas, il n’y avait qu’une réponse.</p><p class="talk">‘Augmentez mon niveau aussi vite que possible.’</p><p class="">Il obtiendrait des points dans la stat agilité en augmentant son niveau et en amassant des amas de terre jusqu’à ce qu’il ait une pente importante. Il ne faisait aucun doute que le résultat des augmentations progressives finirait par se faire sentir.</p><p class="talk">‘Alors, je commence ?’</p><p class="">Il se rappela le Lycan restant.</p><p class="talk">« Mais, où est passé ce salaud ? »</p><p class="">Le Lycan qui s’était recroquevillé à proximité avait disparu. Jinwoo regarda autour de lui mais ne trouva aucune trace de la bête. Il semblait s’être enfui pendant que Jinwoo était concentré sur son écran de statut.</p><p class="talk">« Merde. »</p><p class="">Il roula la langue dans sa bouche, déçu par la perte de points d’expérience. Quand il commença à s’éloigner,</p><p class="talk">‘Attendez, est-ce que ces choses font tomber des noyaux magiques ?’</p><p class="">Il s’arrêta en y pensant.</p><p class="">Chaque bête magique trouvée dans les Portes avait un noyau magique dans son corps ; parfois, une seule bête magique pouvait porter plusieurs noyaux. Si on avait de la chance, on pourrait même trouver une Pierre Rune. Les noyaux magiques, avaient de nombreuses utilisations, et les Pierres Runes, enseignaient des compétences précieuses, pouvaient être vendus à un prix élevé. Il ne serait pas exagéré de dire que l’objectif premier de la plupart des Chasseurs lors d’un raid était d’obtenir des noyaux magiques.</p><p class="">Jinwoo était un Chasseur. Partir les mains vides d’une chasse le décevait. Juste au cas où, il ouvrit le ventre de l’un des Lycan mais ne trouva rien. On aurait dit que c’était autre chose qu’une bête magique.</p><p class="">Dans son expérience de chasse, Jinwoo ne se rappelait pas avoir entendu parler d’une bête magique semblable à un loup qui ressemblait à ces Lycans.</p><p class="">Alors que Jinwoo s’essuyait les mains et se levait pour partir,</p><p class="talk">« Hmm ? »</p><p class="">Il vit quelque chose briller dans la bouche du Lycan. Jinwoo lui ouvra les mâchoires. Une des dents du Lycan brillait. Lorsqu’il la toucha, un message apparut.</p><div class="border"><p class="strong"><strong>Vous avez trouvé une  » canine de Lycan « </strong><br/>
-<strong>Souhaitez-vous l’acquérir ?</strong></p></div><p class="talk"><strong>« Acquérir. »</strong></p><div class="border"><p class="strong"><strong>canine de Lycan</strong><br/>
-<strong>Rareté : Aucun</strong></p><p class="strong"><strong>Type : camelote</strong></p><p class="strong"><strong>Une canine grande et aiguisée de Lycan.</strong></p><p class="strong"><strong>Vous pouvez garder cet article dans votre inventaire.</strong></p><p class="strong"><strong>Vous pouvez vendre cet article dans la boutique.</strong></p></div><p class="">Jinwoo lut les informations sur la canine dans sa main et fut surpris.</p><p class="talk">‘Il y a un magasin?’</p><p class="">D’où vient ce système inutile ? Dire qu’il obligerait l’utilisateur à tout comprendre tout seul. Jinwoo se rappela qu’il ne lui avait donné aucune explication sur la quête de la pénalité ; il l’avait simplement jeté dans la zone de pénalité et voulait qu’il fuie la mort avant que son corps ne soit expulsé.</p><p class="">Jinwoo grinça des dents et appela le magasin.</p><p class="talk">« Magasin. »</p><p class="">Il s’attendait à ce qu’un commerçant PNJ surgisse de nulle part. Il fut déçu de constater que la  » boutique  » n’était qu’un autre écran d’information flottant comme un hologramme. Comme si cela ne suffisait pas, les lettres vertes à l’écran n’affichaient que deux mots.</p><p class="">Acheter-Vendre</p><p class="talk">“…”</p><p class="">Wow. Quel magasin incroyable.</p><p class="">Jinwoo choisit « acheter ». Bien qu’il n’avait pas d’argent dans ses poches, il était curieux de savoir quel genre d’articles on pouvait trouver dans ce magasin. Mais bien sûr, le système n’était pas très gentil.</p><p class="">Votre niveau est insuffisant pour utiliser la fonction « acheter ».</p><p class="">Il avait l’habitude d’être détourné des endroits nécessitant de l’argent.</p><p class="talk">« Oui monsieur, oui monsieur. »</p><p class="">Ne faisant pas attention, il tourna son regard vers l’autre fonction.</p><div class="border"><p class="strong"><strong>Voudriez-vous vendre la canine du Lycan ?</strong></p></div><p class="talk">« Bien sûr. »</p><p class="">Avec un bruit de pièces qui tombaient, son inventaire s’ouvrit. A la base de l’écran d’inventaire, la section qui disait « Or » en affichait maintenant 20. Hier, c’était 0.</p><p class="">’20 pièces d’or’.</p><p class="">Incapable de l’utiliser dans la vie réelle ou dans le système, il n’était pas sûr de la valeur de ce montant.</p><p class="talk">‘Je doute que quelque chose d’un donjon de grade E puisse être utile. »</p><p class="">Même s’il y avait une différence entre un donjon et un donjon instantané. Tout de même, Jinwoo commença à se diriger vers l’autre Lycan et à ramasser ses dents. Il fit un facepalm.</p><p class="talk">« C’est vrai. Je lui ai fait sauter la tête… »</p><p class="">Déçu, il se retourna pour partir. Il était déçu de la perte de 20 pièces d’or, dont il n’était même pas sûr de la valeur, mais il n’était pas prêt à perdre son temps à chercher une petite dent qui aurait pu s’envoler Dieu sait où. En se retournant, sa déception fondit comme neige au soleil.</p><p class="">grrrrrrrrl</p><p class="">grrrrl</p><p class="onomatope">grrrrrrrl~</p><p class="">Le Lycan qui s’était enfui était revenu avec beaucoup plus de loups !</p><p class="">Le visage de Jinwoo fleurit en un sourire. Au premier coup d’œil, ils étaient plus de 20.</p><p class="talk">« Eureka ! »</p><p class="talk">‘Attendez, ce n’est pas le mot… Peu importe.’</p><p class="">Ce qui était certain, c’était son bonheur. Il serra la poignée de son épée.</p><p class="talk">« Merci pour le repas~ »</p><p class="">Devant son regard avide, les Lycans se crispèrent et tremblaient.</p><p class="">Jinwoo sauta vers les bêtes.</p><p class="">________________________________________</p><div class="border"><p class="strong"><strong>Vous avez gagné un niveau !</strong></p><p class="strong"><strong>Vous avez gagné un niveau !</strong></p><p class="strong"><strong>Vous avez gagné un niveau !</strong></p></div><p class="">Comme prévu, son niveau montait vite. Après avoir parcouru tout le premier étage à la recherche de Lycans, le niveau de Jinwoo était déjà passé à 7. Un assez grand saut de 5 niveaux.</p><p class="">gémit- !</p><p class="">En terrassant le dernier Lycan qui restait, un message étrange apparut.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez obtenu le titre de  » Tueur de loup « </strong></p></div><p class="talk">« Titre ? »</p><div class="border"><p class="strong"><strong>Tueur de loup</strong><br/>
-<strong>Toutes les statistiques augmentent de 40% contre les monstres de type bête.</strong></p><p class="strong"><strong>Un titre donné à un Chasseur expérimenté dans la chasse au loup.</strong></p></div><p class="">Son écran de statut affichait également le nouveau titre :</p><div class="border"><p class="strong"><strong>Nom : Jinwoo</strong><br/>
+<strong>-Esprit inébranlable (Lv. 1)</strong></p>
+<p class="strong"><strong>Compétences actives</strong><br/>
+<strong>-sprint (Lv. 1)</strong></p>
+</div>
+<p>Il avait vraiment gagné un niveau. Avec ça, toutes ses statistiques avaient augmenté d’un point. Jinwoo réalisa que les récompenses de la quête n’étaient pas le seul moyen d’élever ses attributs. C’était évident que monter en niveau les augmentait aussi.</p>
+<p class="talk">‘Dire que je peux gagner des niveaux !’</p>
+<p>Quelque chose dont il n’avait fait que rêver était maintenant une réalité devant lui.</p>
+<p>Son pouls s’accéléra.</p>
+<p class="talk">‘Et le total des points que j’ai gagnés est plus grand que la quête quotidienne.’</p>
+<p>Les points de stat qu’il recevait des quêtes étaient de 3.</p>
+<p>Les points de stat qu’il avait gagnés en augmentant son niveau étaient de 5.</p>
+<p>Bien qu’il n’ait pas pu répartir librement ces 5 points, l’avantage total d’une montée en niveau était beaucoup plus important que la récompense de la quête.</p>
+<p class="talk">‘Et je me suis monté en niveau après n’en avoir abattu que deux. »</p>
+<p>Dans un jeu vidéo, les personnages de bas niveau pouvaient monter rapidement leur niveau.</p>
+<p>Jinwoo était actuellement de niveau 2. On pourrait dire qu’il était au fond du trou. Mais son niveau ne reflétait pas correctement sa force. Après tout, sa force était déjà supérieure à 30 ; si on traitait un niveau équivalent à un point de force, Jinwoo avait déjà la force d’un niveau supérieur à 20. Et quand un personnage de niveau 1 chasse avec la force d’un niveau 20 ?</p>
+<p class="talk">‘Je pense qu’ils appellent ça « power leveling » ?’</p>
+<p>La puissance destructrice de son coup de poing, qui avait dépassé toutes les attentes, témoignait de ses progrès.</p>
+<p class="talk">‘J’ai triplé l’attribut force, mais je me sens plus de trois fois plus fort qu’avant.’</p>
+<p>La force initiale de Jinwoo était de 10. La différence entre la force 10 et la force 30 était un facteur de 3, mais sa puissance semblait beaucoup plus grande que cela.</p>
+<p class="talk">‘Peut-être…’</p>
+<p>Et si la valeur de ses attributs devenait plus importante à mesure qu’ils augmentaient ? Cela expliquerait ce pouvoir destructeur. De plus, ses mouvements s’étaient accélérés. Si c’était l’ancien lui, il ne pourrait pas imaginer éviter les attaques rapides des bêtes ou faire hurler le vent quand il frappait.</p>
+<p class="talk">« Je suppose que le développement de mes muscles me rendrait plus rapide. »</p>
+<p>Il semblait que l’augmentation de la force augmentait à la fois sa » force » et sa » vitesse « . Sa bataille contre le Lycan en était la preuve.</p>
+<p>Mais qu’en est-il de la stat d’agilité ? Si ce n’était pas sa mobilité, qu’est-ce qu’elle augmenterait ?</p>
+<p>Jinwoo savait qu’il ne pourrait pas satisfaire sa curiosité sans plus de points statistiques.</p>
+<p class="talk">‘Même si j’avais un peu…’</p>
+<p>C’était un peu inutile d’utiliser les points des récompenses des quêtes en agilité. S’il pouvait augmenter à la fois sa puissance et sa vitesse grâce à l’attribut force, pourquoi mettre des points en agilité ?</p>
+<p>Si c’est le cas, il n’y avait qu’une réponse.</p>
+<p class="talk">‘Augmentez mon niveau aussi vite que possible.’</p>
+<p>Il obtiendrait des points dans la stat agilité en augmentant son niveau et en amassant des amas de terre jusqu’à ce qu’il ait une pente importante. Il ne faisait aucun doute que le résultat des augmentations progressives finirait par se faire sentir.</p>
+<p class="talk">‘Alors, je commence ?’</p>
+<p>Il se rappela le Lycan restant.</p>
+<p class="talk">« Mais, où est passé ce salaud ? »</p>
+<p>Le Lycan qui s’était recroquevillé à proximité avait disparu. Jinwoo regarda autour de lui mais ne trouva aucune trace de la bête. Il semblait s’être enfui pendant que Jinwoo était concentré sur son écran de statut.</p>
+<p class="talk">« Merde. »</p>
+<p>Il roula la langue dans sa bouche, déçu par la perte de points d’expérience. Quand il commença à s’éloigner,</p>
+<p class="talk">‘Attendez, est-ce que ces choses font tomber des noyaux magiques ?’</p>
+<p>Il s’arrêta en y pensant.</p>
+<p>Chaque bête magique trouvée dans les Portes avait un noyau magique dans son corps ; parfois, une seule bête magique pouvait porter plusieurs noyaux. Si on avait de la chance, on pourrait même trouver une Pierre Rune. Les noyaux magiques, avaient de nombreuses utilisations, et les Pierres Runes, enseignaient des compétences précieuses, pouvaient être vendus à un prix élevé. Il ne serait pas exagéré de dire que l’objectif premier de la plupart des Chasseurs lors d’un raid était d’obtenir des noyaux magiques.</p>
+<p>Jinwoo était un Chasseur. Partir les mains vides d’une chasse le décevait. Juste au cas où, il ouvrit le ventre de l’un des Lycan mais ne trouva rien. On aurait dit que c’était autre chose qu’une bête magique.</p>
+<p>Dans son expérience de chasse, Jinwoo ne se rappelait pas avoir entendu parler d’une bête magique semblable à un loup qui ressemblait à ces Lycans.</p>
+<p>Alors que Jinwoo s’essuyait les mains et se levait pour partir,</p>
+<p class="talk">« Hmm ? »</p>
+<p>Il vit quelque chose briller dans la bouche du Lycan. Jinwoo lui ouvra les mâchoires. Une des dents du Lycan brillait. Lorsqu’il la toucha, un message apparut.</p>
+<div class="border">
+<p class="strong"><strong>Vous avez trouvé une » canine de Lycan « </strong><br/>
+<strong>Souhaitez-vous l’acquérir ?</strong></p>
+</div>
+<p class="talk"><strong>« Acquérir. »</strong></p>
+<div class="border">
+<p class="strong"><strong>canine de Lycan</strong><br/>
+<strong>Rareté : Aucun</strong></p>
+<p class="strong"><strong>Type : camelote</strong></p>
+<p class="strong"><strong>Une canine grande et aiguisée de Lycan.</strong></p>
+<p class="strong"><strong>Vous pouvez garder cet article dans votre inventaire.</strong></p>
+<p class="strong"><strong>Vous pouvez vendre cet article dans la boutique.</strong></p>
+</div>
+<p>Jinwoo lut les informations sur la canine dans sa main et fut surpris.</p>
+<p class="talk">‘Il y a un magasin?’</p>
+<p>D’où vient ce système inutile ? Dire qu’il obligerait l’utilisateur à tout comprendre tout seul. Jinwoo se rappela qu’il ne lui avait donné aucune explication sur la quête de la pénalité ; il l’avait simplement jeté dans la zone de pénalité et voulait qu’il fuie la mort avant que son corps ne soit expulsé.</p>
+<p>Jinwoo grinça des dents et appela le magasin.</p>
+<p class="talk">« Magasin. »</p>
+<p>Il s’attendait à ce qu’un commerçant PNJ surgisse de nulle part. Il fut déçu de constater que la » boutique » n’était qu’un autre écran d’information flottant comme un hologramme. Comme si cela ne suffisait pas, les lettres vertes à l’écran n’affichaient que deux mots.</p>
+<p>Acheter-Vendre</p>
+<p class="talk">“…”</p>
+<p>Wow. Quel magasin incroyable.</p>
+<p>Jinwoo choisit « acheter ». Bien qu’il n’avait pas d’argent dans ses poches, il était curieux de savoir quel genre d’articles on pouvait trouver dans ce magasin. Mais bien sûr, le système n’était pas très gentil.</p>
+<p>Votre niveau est insuffisant pour utiliser la fonction « acheter ».</p>
+<p>Il avait l’habitude d’être détourné des endroits nécessitant de l’argent.</p>
+<p class="talk">« Oui monsieur, oui monsieur. »</p>
+<p>Ne faisant pas attention, il tourna son regard vers l’autre fonction.</p>
+<div class="border">
+<p class="strong"><strong>Voudriez-vous vendre la canine du Lycan ?</strong></p>
+</div>
+<p class="talk">« Bien sûr. »</p>
+<p>Avec un bruit de pièces qui tombaient, son inventaire s’ouvrit. A la base de l’écran d’inventaire, la section qui disait « Or » en affichait maintenant 20. Hier, c’était 0.</p>
+<p>’20 pièces d’or’.</p>
+<p>Incapable de l’utiliser dans la vie réelle ou dans le système, il n’était pas sûr de la valeur de ce montant.</p>
+<p class="talk">‘Je doute que quelque chose d’un donjon de grade E puisse être utile. »</p>
+<p>Même s’il y avait une différence entre un donjon et un donjon instantané. Tout de même, Jinwoo commença à se diriger vers l’autre Lycan et à ramasser ses dents. Il fit un facepalm.</p>
+<p class="talk">« C’est vrai. Je lui ai fait sauter la tête… »</p>
+<p>Déçu, il se retourna pour partir. Il était déçu de la perte de 20 pièces d’or, dont il n’était même pas sûr de la valeur, mais il n’était pas prêt à perdre son temps à chercher une petite dent qui aurait pu s’envoler Dieu sait où. En se retournant, sa déception fondit comme neige au soleil.</p>
+<p>grrrrrrrrl</p>
+<p>grrrrl</p>
+<p class="onomatope">grrrrrrrl~</p>
+<p>Le Lycan qui s’était enfui était revenu avec beaucoup plus de loups !</p>
+<p>Le visage de Jinwoo fleurit en un sourire. Au premier coup d’œil, ils étaient plus de 20.</p>
+<p class="talk">« Eureka ! »</p>
+<p class="talk">‘Attendez, ce n’est pas le mot… Peu importe.’</p>
+<p>Ce qui était certain, c’était son bonheur. Il serra la poignée de son épée.</p>
+<p class="talk">« Merci pour le repas~ »</p>
+<p>Devant son regard avide, les Lycans se crispèrent et tremblaient.</p>
+<p>Jinwoo sauta vers les bêtes.</p>
+<p>________________________________________</p>
+<div class="border">
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+</div>
+<p>Comme prévu, son niveau montait vite. Après avoir parcouru tout le premier étage à la recherche de Lycans, le niveau de Jinwoo était déjà passé à 7. Un assez grand saut de 5 niveaux.</p>
+<p>gémit- !</p>
+<p>En terrassant le dernier Lycan qui restait, un message étrange apparut.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez obtenu le titre de » Tueur de loup « </strong></p>
+</div>
+<p class="talk">« Titre ? »</p>
+<div class="border">
+<p class="strong"><strong>Tueur de loup</strong><br/>
+<strong>Toutes les statistiques augmentent de 40% contre les monstres de type bête.</strong></p>
+<p class="strong"><strong>Un titre donné à un Chasseur expérimenté dans la chasse au loup.</strong></p>
+</div>
+<p>Son écran de statut affichait également le nouveau titre :</p>
+<div class="border">
+<p class="strong"><strong>Nom : Jinwoo</strong><br/>
 <strong>Niveau : 7</strong><br/>
 <strong>Classe : Aucun</strong><br/>
 <strong>Titre : Tueur de loups</strong><br/>
 <strong>HP : 766</strong><br/>
 <strong>MP : 81</strong><br/>
-<strong>Fatigue : 3</strong></p><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Fatigue : 3</strong></p>
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 37</strong><br/>
 <strong>Constitution : 16</strong><br/>
 <strong>Agilité : 16</strong><br/>
 <strong>Intelligence : 16</strong><br/>
-<strong>Perception : 16</strong></p><p class="strong"><strong>(Points statistiques disponibles : 0) Compétences</strong></p><p class="strong"><strong>Compétences passives</strong><br/>
+<strong>Perception : 16</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 0) Compétences</strong></p>
+<p class="strong"><strong>Compétences passives</strong><br/>
 <strong>-(Inconnu) (Lv. Max)</strong><br/>
-<strong>-Esprit inébranlable (Lv. 1)</strong></p><p class="strong"><strong>Compétences actives</strong><br/>
-<strong>-sprint (Lv. 1)</strong></p></div><p class="">Un coup de pouce statistique contre les monstres de type bête. Bien que l’effet soit limité contre certains types, une augmentation de 40 % n’était pas du tout ridicule.</p><p class="talk">‘Il y a beaucoup de bêtes magiques de type bête, je me demande si ça marche contre elles?’</p><p class="">Si c’était le cas, ça aiderait beaucoup pour le Raid. Pourtant, le butin jusqu’à présent était plutôt décevant.</p><p class="">’34 canines, deux poignards rouillés, des vêtements d’aventurier et une pierre de retour.</p><p class="">De temps en temps, le ventre d’un loup contenait des objets. Cependant, la plupart n’étaient pas particulièrement utiles. Les poignards rouillés avaient une puissance d’attaque inférieure à celle de son épée d’acier, et les vêtements d’aventurier étaient en fait des objets inutiles qu’il ne pouvait utiliser. Après avoir vendu toute la ferraille qu’il avait ramassée, Jinwoo avait gagné environ un millier de pièces d’or.</p><div class="border"><p class="strong"><strong>Or actuel : 1 060</strong></p></div><p class="talk">‘…je ne peux pas dire si c’est beaucoup ou peu.’</p><p class="">Peu importe ce qu’il gagnait, il n’avait nulle part où le dépenser.</p><p class="">Ignorant l’or, le seul autre objet qu’il avait maintenant était la pierre de retour. Il se souvenait de la barrière invisible qui l’avait arrêté, quelle que soit la force appliquée. Le système lui avait dit qu’il avait besoin de l’une d’elles pour sortir. Maintenant, il savait qu’il pouvait partir.</p><p class="">Jinwoo était à la croisée des chemins.</p><p class="">Devant se trouvait l’escalier descendant au niveau 2 du sous-sol.</p><p class="">Dans sa main, la pierre de retour.</p><p class="talk">‘Avancez ou s’arrêtez…’</p><p class="">Si c’était son ancienne personnalité, il se serait enfui sans hésiter. Après tout, c’était la seule façon pour lui de survivre aux nombreux raids avec ses faibles capacités. D’autres l’appelaient un miracle, mais il savait que c’était dû à ses manœuvres astucieuses.</p><p class="">Mais c’était différent maintenant.</p><p class="">Il ne voulait pas faire demi-tour.</p><p class="">S’il partait maintenant, il se sentait comme s’il ne pourrait pas revenir.</p><p class="talk">« J’en ai marre de fuir. »</p><p class="">Il était temps de faire face au danger. Il remit la pierre de retour dans ses poches.</p><p class="">Ses pas dans les escaliers étaient légers.</p></body></html>
+<strong>-Esprit inébranlable (Lv. 1)</strong></p>
+<p class="strong"><strong>Compétences actives</strong><br/>
+<strong>-sprint (Lv. 1)</strong></p>
+</div>
+<p>Un coup de pouce statistique contre les monstres de type bête. Bien que l’effet soit limité contre certains types, une augmentation de 40 % n’était pas du tout ridicule.</p>
+<p class="talk">‘Il y a beaucoup de bêtes magiques de type bête, je me demande si ça marche contre elles?’</p>
+<p>Si c’était le cas, ça aiderait beaucoup pour le Raid. Pourtant, le butin jusqu’à présent était plutôt décevant.</p>
+<p>’34 canines, deux poignards rouillés, des vêtements d’aventurier et une pierre de retour.</p>
+<p>De temps en temps, le ventre d’un loup contenait des objets. Cependant, la plupart n’étaient pas particulièrement utiles. Les poignards rouillés avaient une puissance d’attaque inférieure à celle de son épée d’acier, et les vêtements d’aventurier étaient en fait des objets inutiles qu’il ne pouvait utiliser. Après avoir vendu toute la ferraille qu’il avait ramassée, Jinwoo avait gagné environ un millier de pièces d’or.</p>
+<div class="border">
+<p class="strong"><strong>Or actuel : 1 060</strong></p>
+</div>
+<p class="talk">‘…je ne peux pas dire si c’est beaucoup ou peu.’</p>
+<p>Peu importe ce qu’il gagnait, il n’avait nulle part où le dépenser.</p>
+<p>Ignorant l’or, le seul autre objet qu’il avait maintenant était la pierre de retour. Il se souvenait de la barrière invisible qui l’avait arrêté, quelle que soit la force appliquée. Le système lui avait dit qu’il avait besoin de l’une d’elles pour sortir. Maintenant, il savait qu’il pouvait partir.</p>
+<p>Jinwoo était à la croisée des chemins.</p>
+<p>Devant se trouvait l’escalier descendant au niveau 2 du sous-sol.</p>
+<p>Dans sa main, la pierre de retour.</p>
+<p class="talk">‘Avancez ou s’arrêtez…’</p>
+<p>Si c’était son ancienne personnalité, il se serait enfui sans hésiter. Après tout, c’était la seule façon pour lui de survivre aux nombreux raids avec ses faibles capacités. D’autres l’appelaient un miracle, mais il savait que c’était dû à ses manœuvres astucieuses.</p>
+<p>Mais c’était différent maintenant.</p>
+<p>Il ne voulait pas faire demi-tour.</p>
+<p>S’il partait maintenant, il se sentait comme s’il ne pourrait pas revenir.</p>
+<p class="talk">« J’en ai marre de fuir. »</p>
+<p>Il était temps de faire face au danger. Il remit la pierre de retour dans ses poches.</p>
+<p>Ses pas dans les escaliers étaient légers.</p>
+</body>
+</html>

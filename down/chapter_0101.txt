@@ -1,8 +1,123 @@
-<html><body><h1>Chapter 101</h1>
-<div class="border"><p class="strong"><strong>I Alone level up : Chapitre 101</strong></p></div><p class=""> <br/>
-Jinwoo arriva rapidement à Tank. Autour de lui étaient rassemblés un grand nombre d’ours fantômes et une demi-douzaine de hauts orcs.</p><p class="">Il n’y avait aucun doute dans l’esprit de Jinwoo sur leur force. Après tout, Tank avait détruit à lui seul bon nombre de ses soldats de l’ombre, alors qu’il était encore vivant dans la Porte Rouge. Et il était devenu plus fort.</p><p class="">Pourtant, le groupe ne faisait pas le poids face au détachement de Iron, de Ygritte ou de Tusk. Malgré sa force brute, Tank n’était rien de plus qu’un soldat d’élite.</p><p class="">Par conséquent, si l’ennemi visait effectivement les soldats les plus faibles de Jinwoo, il devrait d’abord s’occuper de l’ombre de l’ours géant.</p><p class="talk">« Alors, où te caches-tu ? » Jinwoo respirait silencieusement.</p><p class="">Le rang S gardait de la distance avec Tank afin de ne pas être découvert . Même sa propre armée ne le savait pas encore.</p><p class="">Le temps passait sans que rien ne se passe.</p><p class="talk">« Ai-je eu tort ? Est-ce que j’ai… »</p><p class="">Ses pensées furent interrompues en sentant une forte présence s’approcher. Il sourit.</p><p class="talk">« Enfin.”</p><p class="">Il ne pouvait pas encore les voir, mais sa capacité sensorielle accrue lui permettait de détecter la menace bien avant qu’ils ne soient en vue. C’était un groupe de 4.</p><div class="border"><p class="strong"><strong>[Furtivité activée]</strong></p></div><p class="">Jinwoo courut dans leur direction, prenant grand soin de ne pas les laisser sentir son pouvoir. Il se rapprocha assez pour les voir.</p><p class="">Ils ne ressemblaient pas aux démons qu’il avait vus avant. Ils avaient la forme des humains et étaient tous à cheval, avec une armure lourde intégrale.</p><p class="talk">« [Noble démoniaque] et[Chevaliers maléfiques]. Leurs noms sont écrits en noir. Il n’y a aucun doute, ce sont eux qui ont causé des ennuis à mes soldats, » conclut Jinwoo.</p><p class="">Il pouvait sentir leur hostilité. Ils étaient à un autre niveau que les ennemis qu’il avait rencontrés dans le donjon.</p><p class="">Le rang S décida de ne pas intervenir pour l’instant, car il était curieux de connaître leurs capacités.</p><p class="">Le groupe de quatre poursuivit sa route vers l’armée de Tank, et descendit une fois qu’ils furent jugés assez près.</p><p class="talk">« Euh ? Leurs chevaux ne sont donc qu’un moyen de transport ? »</p><p class="">Tank remarqua l’aura maléfique émanant des démons inhabituels. Sans trop réfléchir, l’ombre de l’ours géant les chargea, suivis par des soldats excités.</p><p class="talk">« UWAAAAAAAAAH ! !!! »</p><p class="">Tank arriva le premier, et attaqua de toutes ses forces. Ses énormes pattes de bête coupaient l’air, désirant prendre la vie de ces démons… Sans succès.</p><p class="">Les démons restèrent calmes et évitèrent toutes les attaques de Tank avec facilité.</p><p class="talk">« GRAAAAAAH !! » Tank renouvela son effort avec rage, accélérant le rythme de sa charge.</p><p class="">Sa vitesse incroyable ne correspondait pas à la taille de son grand corps.</p><p class="">Pourtant, le Noble démoniaque sauta par-dessus l’attaque virulente de Tank, tourna en l’air et frappa la poitrine de l’ours.</p><p class="">KOOOANG – !</p><p class="">La force du coup transperça la bête, laissant Tank étendu sur le sol, impuissant, un énorme trou dans sa poitrine… Pendant ce temps, les ours de l’ombre et les hauts orcs étaient également détruits par les chevaliers maléfiques.</p><p class="talk">« Wow, » Jinwoo était stupéfait.</p><p class="talk">« Ils sont vraiment exceptionnels. Non seulement le noble, mais les trois chevaliers sont aussi remarquablement forts. Mes soldats sont écrasés.”</p><p class="">Jinwoo n’arrêtait pas de régénérer les soldats pour recueillir plus d’informations. Pourtant, il comprit rapidement que c’était inutile. Il avait vu tout ce qu’il y avait à voir. Et il n’aimait pas voir ses ombres détruites par la lance du Noble et les épées des chevaliers… Il arrêta leur régénération.</p><p class="">Voyant le nombre d’ombres diminuer considérablement, les quatre démons se regardèrent et hochèrent la tête, satisfaits. Ils pensaient apparemment que c’était une troisième victoire.</p><p class="">Jinwoo courut vers eux.</p><div class="border"><p class="strong"><strong>Furtivité désactivée</strong></p></div><p class="">Pris par surprise, les démons étaient trop lents à réagir à l’apparition du Chasseur.</p><p class="">BOOM ! BOOM !</p><p class="">Jinwoo tua deux chevaliers à mains nues, et poussa le troisième à terre. Avant de pouvoir faire quoi que ce soit, il reçut l’attaque finale.</p><p class="">BAM !</p><p class="">Les messages du système apparurent rapidement.</p><div class="border"><p class="strong"><strong>Vous avez vaincu un chevalier maléfique</strong><br/>
+<html>
+<body>
+<h1>Chapter 101</h1>
+<div class="border">
+<p class="strong"><strong>I Alone level up : Chapitre 101</strong></p>
+</div>
+<p> <br/>
+Jinwoo arriva rapidement à Tank. Autour de lui étaient rassemblés un grand nombre d’ours fantômes et une demi-douzaine de hauts orcs.</p>
+<p>Il n’y avait aucun doute dans l’esprit de Jinwoo sur leur force. Après tout, Tank avait détruit à lui seul bon nombre de ses soldats de l’ombre, alors qu’il était encore vivant dans la Porte Rouge. Et il était devenu plus fort.</p>
+<p>Pourtant, le groupe ne faisait pas le poids face au détachement de Iron, de Ygritte ou de Tusk. Malgré sa force brute, Tank n’était rien de plus qu’un soldat d’élite.</p>
+<p>Par conséquent, si l’ennemi visait effectivement les soldats les plus faibles de Jinwoo, il devrait d’abord s’occuper de l’ombre de l’ours géant.</p>
+<p class="talk">« Alors, où te caches-tu ? » Jinwoo respirait silencieusement.</p>
+<p>Le rang S gardait de la distance avec Tank afin de ne pas être découvert . Même sa propre armée ne le savait pas encore.</p>
+<p>Le temps passait sans que rien ne se passe.</p>
+<p class="talk">« Ai-je eu tort ? Est-ce que j’ai… »</p>
+<p>Ses pensées furent interrompues en sentant une forte présence s’approcher. Il sourit.</p>
+<p class="talk">« Enfin.”</p>
+<p>Il ne pouvait pas encore les voir, mais sa capacité sensorielle accrue lui permettait de détecter la menace bien avant qu’ils ne soient en vue. C’était un groupe de 4.</p>
+<div class="border">
+<p class="strong"><strong>[Furtivité activée]</strong></p>
+</div>
+<p>Jinwoo courut dans leur direction, prenant grand soin de ne pas les laisser sentir son pouvoir. Il se rapprocha assez pour les voir.</p>
+<p>Ils ne ressemblaient pas aux démons qu’il avait vus avant. Ils avaient la forme des humains et étaient tous à cheval, avec une armure lourde intégrale.</p>
+<p class="talk">« [Noble démoniaque] et[Chevaliers maléfiques]. Leurs noms sont écrits en noir. Il n’y a aucun doute, ce sont eux qui ont causé des ennuis à mes soldats, » conclut Jinwoo.</p>
+<p>Il pouvait sentir leur hostilité. Ils étaient à un autre niveau que les ennemis qu’il avait rencontrés dans le donjon.</p>
+<p>Le rang S décida de ne pas intervenir pour l’instant, car il était curieux de connaître leurs capacités.</p>
+<p>Le groupe de quatre poursuivit sa route vers l’armée de Tank, et descendit une fois qu’ils furent jugés assez près.</p>
+<p class="talk">« Euh ? Leurs chevaux ne sont donc qu’un moyen de transport ? »</p>
+<p>Tank remarqua l’aura maléfique émanant des démons inhabituels. Sans trop réfléchir, l’ombre de l’ours géant les chargea, suivis par des soldats excités.</p>
+<p class="talk">« UWAAAAAAAAAH ! !!! »</p>
+<p>Tank arriva le premier, et attaqua de toutes ses forces. Ses énormes pattes de bête coupaient l’air, désirant prendre la vie de ces démons… Sans succès.</p>
+<p>Les démons restèrent calmes et évitèrent toutes les attaques de Tank avec facilité.</p>
+<p class="talk">« GRAAAAAAH !! » Tank renouvela son effort avec rage, accélérant le rythme de sa charge.</p>
+<p>Sa vitesse incroyable ne correspondait pas à la taille de son grand corps.</p>
+<p>Pourtant, le Noble démoniaque sauta par-dessus l’attaque virulente de Tank, tourna en l’air et frappa la poitrine de l’ours.</p>
+<p>KOOOANG – !</p>
+<p>La force du coup transperça la bête, laissant Tank étendu sur le sol, impuissant, un énorme trou dans sa poitrine… Pendant ce temps, les ours de l’ombre et les hauts orcs étaient également détruits par les chevaliers maléfiques.</p>
+<p class="talk">« Wow, » Jinwoo était stupéfait.</p>
+<p class="talk">« Ils sont vraiment exceptionnels. Non seulement le noble, mais les trois chevaliers sont aussi remarquablement forts. Mes soldats sont écrasés.”</p>
+<p>Jinwoo n’arrêtait pas de régénérer les soldats pour recueillir plus d’informations. Pourtant, il comprit rapidement que c’était inutile. Il avait vu tout ce qu’il y avait à voir. Et il n’aimait pas voir ses ombres détruites par la lance du Noble et les épées des chevaliers… Il arrêta leur régénération.</p>
+<p>Voyant le nombre d’ombres diminuer considérablement, les quatre démons se regardèrent et hochèrent la tête, satisfaits. Ils pensaient apparemment que c’était une troisième victoire.</p>
+<p>Jinwoo courut vers eux.</p>
+<div class="border">
+<p class="strong"><strong>Furtivité désactivée</strong></p>
+</div>
+<p>Pris par surprise, les démons étaient trop lents à réagir à l’apparition du Chasseur.</p>
+<p>BOOM ! BOOM !</p>
+<p>Jinwoo tua deux chevaliers à mains nues, et poussa le troisième à terre. Avant de pouvoir faire quoi que ce soit, il reçut l’attaque finale.</p>
+<p>BAM !</p>
+<p>Les messages du système apparurent rapidement.</p>
+<div class="border">
+<p class="strong"><strong>Vous avez vaincu un chevalier maléfique</strong><br/>
 <strong>3000 expériences acquises</strong><br/>
 <strong>Vous avez vaincu un chevalier maléfique</strong><br/>
 <strong>3000 expériences acquises</strong><br/>
 <strong>Vous avez vaincu un chevalier maléfique</strong><br/>
-<strong>3000 expériences acquises</strong></p></div><p class="">Pourtant, ce n’était pas fini… Le regard du rang S se tourna vers le Noble Démon .</p><p class="talk">« C’est ton tour maintenant.”</p><p class="">Le Noble ferma les yeux en tremblant.</p><p class="talk">« Hmm ? A-t-il peur ? » Pensa le Chasseur.</p><p class="">Jinwoo s’approcha du démon pour lui donner un dernier coup.</p><p class="">C’est là qu’il faillit être touché par la lance du Noble. Sans ses réflexes extraordinaires, ça aurait été sa fin.</p><p class="">Le Noble utilisa la surprise pour poignarder encore quelques fois. Il visait le cœur de Jinwoo. Malheureusement pour lui, Jinwoo réussit rapidement à repris le dessus et, en frappant avec sa Dague Baruka, il coupa la lance du Noble en deux.</p><p class="">Le Noble, vaincu, tomba à genoux. Voir son arme coupée en deux semblait l’avoir beaucoup affecté.</p><p class="">Jinwoo avait été impressionné.</p><p class="talk">« C’était intelligent. Il m’a fait baisser ma garde. C’est vraiment un donjon de rang S. Un Chasseur de rang A n’aurait aucune chance ici, » sourit-il.</p><p class="talk">« Il est temps de mettre fin à tout ça. »</p><p class="">Jinwoo leva sa dague au-dessus de la tête du Noble, et-</p><p class="talk">« Je me rends ! Je me rends ! » Le Noble cria.</p><p class="talk">« …Quoi ? »</p><p class="">Le noble démoniaque enleva son casque et révéla…</p><p class="talk">« …une femme ? »</p><p class="talk">« Je suis désolée. Je n’aurais pas dû essayer de vous tuer. S’il vous plaît, épargnez ma vie. » La femme plaida, la tête baissée.</p><p class="">C’était une autre supercherie ? Ce démon avait déjà feint d’avoir peur pour le poignarder. Jinwoo restait alerte.</p><p class="talk">« Vous avez attaqué mes soldats.</p><p class="talk">-Je n’avais pas le choix, » la femme porta la main sur son front, visiblement troublée, « et mon clan m’a donné l’ordre de protéger cet endroit. Vous tuiez notre peuple. »</p><p class="">Ce n’est pas faux. Il était là pour tuer des démons. Et elle en était une aussi.</p><p class="">Pourtant, il avait du mal à attaquer quelqu’un qui pouvait parler. Surtout si cette personne implorait sa pitié. Il n’aimait pas la façon dont ça se passait.</p><p class="">La noble leva légèrement la tête pour jeter un coup d’œil à Jinwoo.</p><p class="talk">« Si vous m’épargnez, je ferai ce que vous voudrez », Proposa-t-elle.</p><p class="talk">« Tout ce que je veux ? »</p><p class="">Le rang S réfléchit à ce dont il avait besoin. Il n’attendait pas grand-chose des démons, si ce n’était de l’expérience et des objets. Il ne voyait pas en quoi elle pouvait être utile.</p><p class="talk">« Ah… ”</p><p class="">Il y avait quelque chose.</p><p class="talk">« J’ai besoin d’un permis d’entrée à l’étage.”</p><p class="">La Noble Démoniaque leva la tête avec surprise. Elle ne dit rien du tout.</p><p class="talk">« Tu peux l’avoir ? » Jinwoo insista.</p><p class="talk">“…”</p><p class="">La femme resta sans voix .</p><p class="talk">« …je suppose qu’elle n’est pas au courant. « Jinwoo soupira.</p><p class="">Il n’y avait pas d’accord à conclure. Il n’aimait pas ça, mais il devait la tuer. Peut-être qu’elle détenait le permis, et qu’il l’obtiendrait en le faisant. Même s’il ne le faisait pas, il aurait au moins acquis beaucoup d’expérience. Si les chevaliers lui donnaient 3000 chacun, elle lui en donnerait probablement plus.</p><p class="">Il rappela ses dagues.</p><p class="">Mais-</p><p class="talk">« Oui. Je peux vous obtenir le permis.”</p><p class="talk">« Quoi ? » Le Chasseur demanda comme s’il n’avait pas bien entendu.</p><p class="">La femme regarda les poignards de Jinwoo, effrayée.</p><p class="talk">« Je peux vous donner le permis pour l’étage supérieur. Il est gardé au sein de notre Clan . Si vous m’y emmenez saine et sauve, je vous l’apporterai. »</p><p class="">Ça semblait trop facile. Ne mentait-elle pas juste pour sauver sa vie ? Le Chasseur prit le temps d’y réfléchir.</p><p class="">Voyant le rang S réfléchir profondément, la femme Noble eut peur qu’il n’accepte pas. Elle augmenta les prix.</p><p class="talk">« Je sais aussi où vous pouvez obtenir la majorité des permis d’entrée dans les étages supérieurs… Si vous pouvez garantir ma sécurité, ainsi que celle de ma famille, je vous guiderai…”</p><p class="">Les yeux de Jinwoo s’illuminèrent. C’était une proposition attrayante.</p><p class="talk">‘Mais puis-je lui faire confiance ?’</p><p class="">Le Chasseur leva le menton de la Noble avec sa main. Leurs yeux se croisèrent.</p><div class="border"><p class="strong"><strong>[Soif de sang est activée]</strong></p></div><p class="">L’aura de Jinwoo était terrifiante. La femme tremblait.</p><p class="">Il posa une question simple.</p><p class="talk">« Puis-je te faire confiance ? »</p><p class="talk">« O-oui. Je-Je ne mens pas. » Elle frissonnait.</p><p class="talk">« …Bien. »</p><div class="border"><p class="strong">[Soif de sang est désactivée]</p></div><p class="talk">« Si tu tiens ta promesse, je tiendrai la mienne. tu seras en sécurité, ainsi que ta famille. ”</p><p class="talk">« Vraiment ? » Demanda le démon, les larmes aux yeux.</p><p class="">Jinwoo hocha la tête, « Oui… »</p><p class="">Le visage de la femme s’illumina. Le rang S ne savait pas à quel point ses émotions étaient réelles, mais elle semblait vraiment soulagée. Il lui posa une question qu’il avait retenue jusque-là :</p><p class="talk">« Avant tout autre chose… Qu’est-ce que vous êtes ? »</p></body></html>
+<strong>3000 expériences acquises</strong></p>
+</div>
+<p>Pourtant, ce n’était pas fini… Le regard du rang S se tourna vers le Noble Démon .</p>
+<p class="talk">« C’est ton tour maintenant.”</p>
+<p>Le Noble ferma les yeux en tremblant.</p>
+<p class="talk">« Hmm ? A-t-il peur ? » Pensa le Chasseur.</p>
+<p>Jinwoo s’approcha du démon pour lui donner un dernier coup.</p>
+<p>C’est là qu’il faillit être touché par la lance du Noble. Sans ses réflexes extraordinaires, ça aurait été sa fin.</p>
+<p>Le Noble utilisa la surprise pour poignarder encore quelques fois. Il visait le cœur de Jinwoo. Malheureusement pour lui, Jinwoo réussit rapidement à repris le dessus et, en frappant avec sa Dague Baruka, il coupa la lance du Noble en deux.</p>
+<p>Le Noble, vaincu, tomba à genoux. Voir son arme coupée en deux semblait l’avoir beaucoup affecté.</p>
+<p>Jinwoo avait été impressionné.</p>
+<p class="talk">« C’était intelligent. Il m’a fait baisser ma garde. C’est vraiment un donjon de rang S. Un Chasseur de rang A n’aurait aucune chance ici, » sourit-il.</p>
+<p class="talk">« Il est temps de mettre fin à tout ça. »</p>
+<p>Jinwoo leva sa dague au-dessus de la tête du Noble, et-</p>
+<p class="talk">« Je me rends ! Je me rends ! » Le Noble cria.</p>
+<p class="talk">« …Quoi ? »</p>
+<p>Le noble démoniaque enleva son casque et révéla…</p>
+<p class="talk">« …une femme ? »</p>
+<p class="talk">« Je suis désolée. Je n’aurais pas dû essayer de vous tuer. S’il vous plaît, épargnez ma vie. » La femme plaida, la tête baissée.</p>
+<p>C’était une autre supercherie ? Ce démon avait déjà feint d’avoir peur pour le poignarder. Jinwoo restait alerte.</p>
+<p class="talk">« Vous avez attaqué mes soldats.</p>
+<p class="talk">-Je n’avais pas le choix, » la femme porta la main sur son front, visiblement troublée, « et mon clan m’a donné l’ordre de protéger cet endroit. Vous tuiez notre peuple. »</p>
+<p>Ce n’est pas faux. Il était là pour tuer des démons. Et elle en était une aussi.</p>
+<p>Pourtant, il avait du mal à attaquer quelqu’un qui pouvait parler. Surtout si cette personne implorait sa pitié. Il n’aimait pas la façon dont ça se passait.</p>
+<p>La noble leva légèrement la tête pour jeter un coup d’œil à Jinwoo.</p>
+<p class="talk">« Si vous m’épargnez, je ferai ce que vous voudrez », Proposa-t-elle.</p>
+<p class="talk">« Tout ce que je veux ? »</p>
+<p>Le rang S réfléchit à ce dont il avait besoin. Il n’attendait pas grand-chose des démons, si ce n’était de l’expérience et des objets. Il ne voyait pas en quoi elle pouvait être utile.</p>
+<p class="talk">« Ah… ”</p>
+<p>Il y avait quelque chose.</p>
+<p class="talk">« J’ai besoin d’un permis d’entrée à l’étage.”</p>
+<p>La Noble Démoniaque leva la tête avec surprise. Elle ne dit rien du tout.</p>
+<p class="talk">« Tu peux l’avoir ? » Jinwoo insista.</p>
+<p class="talk">“…”</p>
+<p>La femme resta sans voix .</p>
+<p class="talk">« …je suppose qu’elle n’est pas au courant. « Jinwoo soupira.</p>
+<p>Il n’y avait pas d’accord à conclure. Il n’aimait pas ça, mais il devait la tuer. Peut-être qu’elle détenait le permis, et qu’il l’obtiendrait en le faisant. Même s’il ne le faisait pas, il aurait au moins acquis beaucoup d’expérience. Si les chevaliers lui donnaient 3000 chacun, elle lui en donnerait probablement plus.</p>
+<p>Il rappela ses dagues.</p>
+<p>Mais-</p>
+<p class="talk">« Oui. Je peux vous obtenir le permis.”</p>
+<p class="talk">« Quoi ? » Le Chasseur demanda comme s’il n’avait pas bien entendu.</p>
+<p>La femme regarda les poignards de Jinwoo, effrayée.</p>
+<p class="talk">« Je peux vous donner le permis pour l’étage supérieur. Il est gardé au sein de notre Clan . Si vous m’y emmenez saine et sauve, je vous l’apporterai. »</p>
+<p>Ça semblait trop facile. Ne mentait-elle pas juste pour sauver sa vie ? Le Chasseur prit le temps d’y réfléchir.</p>
+<p>Voyant le rang S réfléchir profondément, la femme Noble eut peur qu’il n’accepte pas. Elle augmenta les prix.</p>
+<p class="talk">« Je sais aussi où vous pouvez obtenir la majorité des permis d’entrée dans les étages supérieurs… Si vous pouvez garantir ma sécurité, ainsi que celle de ma famille, je vous guiderai…”</p>
+<p>Les yeux de Jinwoo s’illuminèrent. C’était une proposition attrayante.</p>
+<p class="talk">‘Mais puis-je lui faire confiance ?’</p>
+<p>Le Chasseur leva le menton de la Noble avec sa main. Leurs yeux se croisèrent.</p>
+<div class="border">
+<p class="strong"><strong>[Soif de sang est activée]</strong></p>
+</div>
+<p>L’aura de Jinwoo était terrifiante. La femme tremblait.</p>
+<p>Il posa une question simple.</p>
+<p class="talk">« Puis-je te faire confiance ? »</p>
+<p class="talk">« O-oui. Je-Je ne mens pas. » Elle frissonnait.</p>
+<p class="talk">« …Bien. »</p>
+<div class="border">
+<p class="strong">[Soif de sang est désactivée]</p>
+</div>
+<p class="talk">« Si tu tiens ta promesse, je tiendrai la mienne. tu seras en sécurité, ainsi que ta famille. ”</p>
+<p class="talk">« Vraiment ? » Demanda le démon, les larmes aux yeux.</p>
+<p>Jinwoo hocha la tête, « Oui… »</p>
+<p>Le visage de la femme s’illumina. Le rang S ne savait pas à quel point ses émotions étaient réelles, mais elle semblait vraiment soulagée. Il lui posa une question qu’il avait retenue jusque-là :</p>
+<p class="talk">« Avant tout autre chose… Qu’est-ce que vous êtes ? »</p>
+</body>
+</html>

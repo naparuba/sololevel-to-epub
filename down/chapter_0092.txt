@@ -1,34 +1,296 @@
-<html><body><h1>Chapter 92</h1>
-<p class=""> </p><p class="">Jin décida de prendre la tête. Pendant que tout le monde hésitait, le chef du DSC lut l’humeur et s’approcha de Jinwoo. Il sortit ses papiers d’identité :</p><p class="talk">« Nous sommes du Département de Surveillance des Chasseurs de l’Association. »</p><p class="">Qu’ils soient de rang inférieur ou supérieur, tous les Chasseurs se méfiaient de l’apparition du DSC. Comme prévu, à l’exception de Chain, les membres de la Guilde Hunters arborèrent brièvement une certaine nervosité sur leurs visages. La première étape du plan de Jin avait fonctionné : tous les yeux étaient braqués sur lui maintenant. L’homme continua :</p><p class="talk">« L’identité du Chasseur Jinwoo-nim est actuellement gardée secrète par l’Association. En raison de circonstances particulières, il s’agit d’une information hautement confidentielle que nous ne sommes pas en mesure de révéler à des tierces parties pour le moment. »</p><p class="">Jinwoo était impressionné par les talents d’acteur de Jin. L’expression et les paroles de l’homme étaient si naturelles que le rang E pensait que le chef l’avait répété avant de venir ici. Pourtant, les intentions du chef du DSC étaient claires comme de l’eau de roche pour Jinwoo. Comme un signal, le chef jeta un bref coup d’œil vers lui et lui envoya un message de ses yeux : « Je vais t’aider à partir d’ici sans faire d’histoires ». Jinwoo ne savait pas pourquoi le DSC lui apportait son aide, mais il n’allait pas se plaindre. Le rang E hocha la tête. Même les subalternes de Jin étaient rapides sur le coup ; ils prirent immédiatement place aux côtés de Jinwoo.</p><p class="talk">« Si vous avez des questions, veuillez communiquer avec l’Association. Nous escorterons le Chasseur Jinwoo-nim hors d’ici pour aujourd’hui. »</p><p class="">Les mots du chef du DSC étaient chargés de sens pas si subtil que ça : Ce n’est pas négociable. Les membres de la Guilde Hunters avalèrent les mots et les questions qu’ils avaient pour Jinwoo à cause des mots implacables de l’homme.</p><p class="talk">« Alors, Chasseur-nim, on y va ? »</p><p class="">Jinwoo était escorté par les Chasseurs du DSC autour de lui et quitta la salle du boss.</p><p class="talk">‘Bien que je sois reconnaissant…’</p><p class="">C’était un peu étrange. Pourquoi le chef Jin faisait-il une chose pareille sans qu’on le lui demande ? Après s’être éloigné des autres Chasseurs, Jinwoo demanda tranquillement :</p><p class="talk">« Y a-t-il une raison pour laquelle vous faites ça ?</p><p class="talk">-Si je peux répondre à votre question par une autre question, Chasseur-nim pense-t-il entrer à la Guilde Hunters ? »</p><p class="">Jinwoo secoua la tête. Comme s’il s’attendait à cette réponse, Jin continua rapidement :</p><p class="talk">« Tout à l’heure, Chasseur-nim a montré ses pouvoirs qui ont surpassé la force d’un rang S devant la plus puissante des Guildes du pays. J’avais pensé que faire ce que j’avais fait était la meilleure façon pour vous d’éviter un mal de tête inutile. »</p><p class="">C’était logique. Jinwoo ne pouvait pas imaginer ce que la Guilde Hunters ferait pour essayer de recruter un autre Chasseur de rang S. Alors que d’autres Chasseurs accueilleraient l’attention à bras ouverts, Jinwoo n’était pas un tel homme. Suite au souhait de M.Go, l’Association des Chasseurs voulait aussi empêcher Jinwoo d’entrer dans une grande guilde si possible. Ainsi, comme Jinwoo voulait éviter d’attirer l’attention et que l’Association voulait éviter que trop de pouvoir ne soit concentré dans une seule Guilde, les désirs des deux parties étaient consensuels. Puisqu’ils s’entraidaient, Jinwoo ne se sentait pas accablé par l’aide du DSC cette fois.</p><p class="talk">‘Les choses sont devenues plutôt commodes grâce à l’Association.’</p><p class="">La situation s’étant résolue sans trop de difficultés, un sourire apparut sur le visage de Jinwoo.</p><p class="">Quand Jinwoo et les Chasseurs du DSC n’étaient qu’à quelques pas de la salle du boss, une voix retentit derrière eux :</p><p class="talk">« S’il vous plaît, attendez ! »</p><p class="">En se retournant, Jinwoo vit Son Gihoon boiter vers lui, soutenu par un grand homme. Les blessures du tanker avaient été guéries par les guérisseurs, mais après avoir perdu tant de sang, l’homme était encore pâle.</p><p class="talk">‘Il ne devrait pas bouger comme ça.’</p><p class="">Malgré les inquiétudes de Jinwoo, Son Gihoon s’arrêta finalement devant lui. Puis, le chef de raid de rang A inclina profondément la tête :</p><p class="talk">« Je vous remercie. Grâce au Chasseur-nim, nous avons pu vivre. Au nom de toute l’équipe, j’aimerais vous exprimer notre gratitude. »</p><p class="">Après avoir entendu les paroles du Chasseur du DSC, Son Gihoon réalisa qu’il devait y avoir une raison pour laquelle Jinwoo avait caché sa véritable identité.</p><p class="talk">‘S’il a autant de pouvoir, je suis sûr qu’il y a une bonne raison.’</p><p class="">Malgré cela, Jinwoo avait décidé de prendre le risque de se révéler au monde et d’aider le groupe de Son Gihoon. C’était tout ce que j’avais à dire ? Il ne demanda rien en retour. L’homme avait tout à fait le droit d’obtenir les cadavres et les noyaux magiques des bêtes magiques qu’il avait tuées, mais Jinwoo avait décidé de partir sans dire un mot. Comment Son Gihoon pouvait-il ne pas s’incliner respectueusement en le remerciant ?</p><p class="talk">« …Encore une fois, merci ! »</p><p class="">Bouleversé par ses sentiments, Son Gihoon inclina à nouveau le haut de son corps à 90 degrés. Le mouvement soudain fit hurler de douleur tout son corps, mais le Tanker le supporta. Il se souvenait comment Jinwoo l’avait vengé en jouant avec cette bête magique. Son cœur était rempli d’une étrange sensation de tristesse joyeuse ; il pouvait remercier Jinwoo cent fois en ce moment.</p><p class="">En regardant leur chef de raid s’incliner en signe de gratitude, le reste du groupe de raid sortit finalement du chaos du raid.</p><p class="talk">‘Sans cet homme…’<br/>
+<html>
+<body>
+<h1>Chapter 92</h1>
+
+<p>Jin décida de prendre la tête. Pendant que tout le monde hésitait, le chef du DSC lut l’humeur et s’approcha de Jinwoo. Il sortit ses papiers d’identité :</p>
+<p class="talk">« Nous sommes du Département de Surveillance des Chasseurs de l’Association. »</p>
+<p>Qu’ils soient de rang inférieur ou supérieur, tous les Chasseurs se méfiaient de l’apparition du DSC. Comme prévu, à l’exception de Chain, les membres de la Guilde Hunters arborèrent brièvement une certaine nervosité sur leurs visages. La première étape du plan de Jin avait fonctionné : tous les yeux étaient braqués sur lui maintenant. L’homme continua :</p>
+<p class="talk">« L’identité du Chasseur Jinwoo-nim est actuellement gardée secrète par l’Association. En raison de circonstances particulières, il s’agit d’une information hautement confidentielle que nous ne sommes pas en mesure de révéler à des tierces parties pour le moment. »</p>
+<p>Jinwoo était impressionné par les talents d’acteur de Jin. L’expression et les paroles de l’homme étaient si naturelles que le rang E pensait que le chef l’avait répété avant de venir ici. Pourtant, les intentions du chef du DSC étaient claires comme de l’eau de roche pour Jinwoo. Comme un signal, le chef jeta un bref coup d’œil vers lui et lui envoya un message de ses yeux : « Je vais t’aider à partir d’ici sans faire d’histoires ». Jinwoo ne savait pas pourquoi le DSC lui apportait son aide, mais il n’allait pas se plaindre. Le rang E hocha la tête. Même les subalternes de Jin étaient rapides sur le coup ; ils prirent immédiatement place aux côtés de Jinwoo.</p>
+<p class="talk">« Si vous avez des questions, veuillez communiquer avec l’Association. Nous escorterons le Chasseur Jinwoo-nim hors d’ici pour aujourd’hui. »</p>
+<p>Les mots du chef du DSC étaient chargés de sens pas si subtil que ça : Ce n’est pas négociable. Les membres de la Guilde Hunters avalèrent les mots et les questions qu’ils avaient pour Jinwoo à cause des mots implacables de l’homme.</p>
+<p class="talk">« Alors, Chasseur-nim, on y va ? »</p>
+<p>Jinwoo était escorté par les Chasseurs du DSC autour de lui et quitta la salle du boss.</p>
+<p class="talk">‘Bien que je sois reconnaissant…’</p>
+<p>C’était un peu étrange. Pourquoi le chef Jin faisait-il une chose pareille sans qu’on le lui demande ? Après s’être éloigné des autres Chasseurs, Jinwoo demanda tranquillement :</p>
+<p class="talk">« Y a-t-il une raison pour laquelle vous faites ça ?</p>
+<p class="talk">-Si je peux répondre à votre question par une autre question, Chasseur-nim pense-t-il entrer à la Guilde Hunters ? »</p>
+<p>Jinwoo secoua la tête. Comme s’il s’attendait à cette réponse, Jin continua rapidement :</p>
+<p class="talk">« Tout à l’heure, Chasseur-nim a montré ses pouvoirs qui ont surpassé la force d’un rang S devant la plus puissante des Guildes du pays. J’avais pensé que faire ce que j’avais fait était la meilleure façon pour vous d’éviter un mal de tête inutile. »</p>
+<p>C’était logique. Jinwoo ne pouvait pas imaginer ce que la Guilde Hunters ferait pour essayer de recruter un autre Chasseur de rang S. Alors que d’autres Chasseurs accueilleraient l’attention à bras ouverts, Jinwoo n’était pas un tel homme. Suite au souhait de M.Go, l’Association des Chasseurs voulait aussi empêcher Jinwoo d’entrer dans une grande guilde si possible. Ainsi, comme Jinwoo voulait éviter d’attirer l’attention et que l’Association voulait éviter que trop de pouvoir ne soit concentré dans une seule Guilde, les désirs des deux parties étaient consensuels. Puisqu’ils s’entraidaient, Jinwoo ne se sentait pas accablé par l’aide du DSC cette fois.</p>
+<p class="talk">‘Les choses sont devenues plutôt commodes grâce à l’Association.’</p>
+<p>La situation s’étant résolue sans trop de difficultés, un sourire apparut sur le visage de Jinwoo.</p>
+<p>Quand Jinwoo et les Chasseurs du DSC n’étaient qu’à quelques pas de la salle du boss, une voix retentit derrière eux :</p>
+<p class="talk">« S’il vous plaît, attendez ! »</p>
+<p>En se retournant, Jinwoo vit Son Gihoon boiter vers lui, soutenu par un grand homme. Les blessures du tanker avaient été guéries par les guérisseurs, mais après avoir perdu tant de sang, l’homme était encore pâle.</p>
+<p class="talk">‘Il ne devrait pas bouger comme ça.’</p>
+<p>Malgré les inquiétudes de Jinwoo, Son Gihoon s’arrêta finalement devant lui. Puis, le chef de raid de rang A inclina profondément la tête :</p>
+<p class="talk">« Je vous remercie. Grâce au Chasseur-nim, nous avons pu vivre. Au nom de toute l’équipe, j’aimerais vous exprimer notre gratitude. »</p>
+<p>Après avoir entendu les paroles du Chasseur du DSC, Son Gihoon réalisa qu’il devait y avoir une raison pour laquelle Jinwoo avait caché sa véritable identité.</p>
+<p class="talk">‘S’il a autant de pouvoir, je suis sûr qu’il y a une bonne raison.’</p>
+<p>Malgré cela, Jinwoo avait décidé de prendre le risque de se révéler au monde et d’aider le groupe de Son Gihoon. C’était tout ce que j’avais à dire ? Il ne demanda rien en retour. L’homme avait tout à fait le droit d’obtenir les cadavres et les noyaux magiques des bêtes magiques qu’il avait tuées, mais Jinwoo avait décidé de partir sans dire un mot. Comment Son Gihoon pouvait-il ne pas s’incliner respectueusement en le remerciant ?</p>
+<p class="talk">« …Encore une fois, merci ! »</p>
+<p>Bouleversé par ses sentiments, Son Gihoon inclina à nouveau le haut de son corps à 90 degrés. Le mouvement soudain fit hurler de douleur tout son corps, mais le Tanker le supporta. Il se souvenait comment Jinwoo l’avait vengé en jouant avec cette bête magique. Son cœur était rempli d’une étrange sensation de tristesse joyeuse ; il pouvait remercier Jinwoo cent fois en ce moment.</p>
+<p>En regardant leur chef de raid s’incliner en signe de gratitude, le reste du groupe de raid sortit finalement du chaos du raid.</p>
+<p class="talk">‘Sans cet homme…’<br/>
 ‘C’est le sauveur de notre vie.’<br/>
-‘Ce n’est pas le moment de le regarder fixement.’</p><p class="">Chacun d’entre eux avança et inclina la tête :</p><p class="talk">« Merci porteur- Je veux dire, Chasseur-nim.<br/>
+‘Ce n’est pas le moment de le regarder fixement.’</p>
+<p>Chacun d’entre eux avança et inclina la tête :</p>
+<p class="talk">« Merci porteur- Je veux dire, Chasseur-nim.<br/>
 -Sans toi, Chasseur-nim.<br/>
--Grâce à toi, ma femme ne sera pas veuve. »</p><p class="">Le jeune homme qui était soulagé lorsque Son Gihoon avait décidé d’abandonner le raid il y a quelque temps se présenta avec des larmes dans les yeux :</p><p class="talk">« Chasseur-nim… Je me sens si reconnaissant en ce moment. Je peux te faire un câlin ?<br/>
+-Grâce à toi, ma femme ne sera pas veuve. »</p>
+<p>Le jeune homme qui était soulagé lorsque Son Gihoon avait décidé d’abandonner le raid il y a quelque temps se présenta avec des larmes dans les yeux :</p>
+<p class="talk">« Chasseur-nim… Je me sens si reconnaissant en ce moment. Je peux te faire un câlin ?<br/>
 -Hé, hé, tu vas trop loin.<br/>
 -Il se comporte de nouveau de façon émotive, que quelqu’un l’arrête.<br/>
--Alors tu m’embrasses à la place, hyung ! »</p><p class="">câlin !</p><p class="talk">« Ah ! Lâchez-moi !<br/>
--Ha ha ha ha ! »</p><p class="">Pour la première fois depuis qu’ils étaient entrés dans ce donjon de rang A, des rires se faisaient entendre parmi les membres de l’équipe de raid. Jinwoo regarda leur légèreté avec un sourire. Il ne les avait pas aidés par désir de compliments et de flatteries, mais leur sincérité lui avait touché le cœur.</p><p class="talk">« Oh, c’est vrai. »</p><p class="">Jinwoo remarqua la Guérisseuse qui faisait la fête à l’arrière du groupe et s’approcha d’elle.</p><p class="talk">‘Elle est si petite. Je ne l’avais même pas remarquée à l’arrière.’</p><p class="">Il lui tendit son bloc-notes et elle le prit avec un visage rougi.</p><p class="talk">« Merci… »</p><p class="">La femme se réprimandait elle-même pour ce qui s’était passé.</p><p class="talk">‘Pourquoi ai-je dû aller lui dire tout ça ?’</p><p class="">Elle se rappela comment elle avait écrit et lui avait transmis ce qu’elle pensait être ses derniers mots. À un homme qui venait de nettoyer le donjon à lui tout seul. A quel point avait-elle l’air stupide devant lui ? Ce serait l’un de ces souvenirs qui lui ferait donner des coups de pied dans la couverture d’embarras la nuit. Elle jeta un coup d’œil vers le haut ; heureusement, il ne semblait pas se moquer d’elle. Au lieu de cela, l’homme parla avec une voix sévère :</p><p class="talk">« Guérisseuse-Nim.</p><p class="talk">-Oui ? »</p><p class="">Elle leva la tête comme une élève sur le point d’être grondée.</p><p class="talk">« A partir de maintenant, essaie de ne pas mettre tes affaires personnelles dans les bagages du groupe. C’est un poids inutile.</p><p class="talk">-Hein ? »</p><p class="">La Guérisseuse perdit ses mots et se contenta de regarder avec des yeux ronds. Jinwoo sourit. Il avait dit ce qu’il voulait dire. L’homme se retourna calmement et se dirigea vers les Chasseurs du DSC.</p><p class="talk">« Allons-y. »</p><p class="">Et avec ça, Jinwoo et les Chasseurs du DSC quittèrent le donjon. Les membres de la Guilde Hunters les regardaient disparaître au loin. Chacun d’entre eux put dire quelque chose à Jinwoo, le remerciant surtout de leur avoir sauvé la vie.</p><p class="">Enfin… Presque chacun d’entre eux.</p><p class="talk">‘Ah…’</p><p class="">Chain baissa la main tendue vers Jinwoo.</p><p class="talk">‘Je voulais au moins avoir son numéro…’</p><p class="">Elle voulait juste voir s’il avait le temps. Malheureusement, elle réalisa que ces mots auraient causé un grand nombre de malentendus dans cette situation. Soudain, une autre Chasseuse s’approcha de Chain :</p><p class="talk">« Euh… Maître adjoint ?</p><p class="talk">-Oui ? »</p><p class="">Tandis que le rang S se retournait, la Chasseuse désignait la main de Chain :</p><p class="talk">« C’est quoi cette pioche ? »</p><p class="">Chain leva son « arme » et la fixa du regard. Plus elle regardait, plus son visage rougissait. Elle baissa la pioche et demanda :</p><p class="talk">« Pensez-vous que j’avais l’air bizarre ? »</p><p class="">La Mage inclina la tête et répondit :</p><p class="talk">« Pour qui ? »</p><p class="">La rougeur du visage de Chain se glissa jusqu’à la base de son cou.</p><hr class=""/><p class="">Après avoir quitté la Porte, Jin regarda sa montre et demanda :</p><p class="talk">« Nous allons retourner à l’Association… Si vous êtes d’accord, aimeriez-vous venir avec nous et peut-être dîner avec le président de l’Association ?</p><p class="talk">-Quelle heure est-il ?</p><p class="talk">-Il est 17h15. »</p><p class="talk">‘Hmm…’</p><p class="">C’était un peu tard, mais il pouvait être à l’heure. Jinwoo déclina respectueusement l’offre de Jin,</p><p class="talk">« Désolé, mais j’ai un engagement prévu. »</p><hr class=""/><p class="">huff huff</p><p class="">Jinho essaya quelques exercices de respiration qu’il avait vus dans un film pour se calmer.</p><p class="talk">‘L’heure fatidique arrive.’</p><p class="">La décision de Hyungnim déterminera le sort de Jinho. Comparé à la rencontre avec son père d’il y a quelques jours, le jeune homme se sentait beaucoup plus nerveux et excité.</p><p class="talk">‘Calme-toi. Calme.’</p><p class="">Il avait délibérément choisi le lieu de rendez-vous au café français où il s’était pour la première fois assis avec Hyungnim.</p><p class="talk">‘Sans son aide, je n’aurais même pas pu aller aussi loin.’</p><p class="">En regardant autour du café, un sentiment de nostalgie se répandit à travers le jeune homme. Il était même assis à la même table qu’à l’époque.</p><p class="onomatope">ring~</p><p class="">La clochette fixée à la porte sonna, et avec elle, Jinwoo entra dans le café.</p><p class="talk">« Hyungnim ! »</p><p class="">Jinho se leva avec une expression lumineuse et salua Jinwoo avec un arc profond. Jinwoo répondit par un léger signe de tête et s’assit en face du jeune homme. Jinho suivit son exemple.</p><p class="talk">« Alors qu’est-ce que c’est ? »</p><p class="">En levant la tête, les yeux de Jinho devinrent plus larges :</p><p class="talk">« Hyungnim, tes vêtements… ?</p><p class="talk">-Oh, ça ? »</p><p class="">Jinwoo avait couru ici juste après la bataille avec les hauts orcs. Ses vêtements étaient un peu sales. Il y avait même du sang orc versé un peu sur lui. Il répondit sans réfléchir :</p><p class="talk">« Je reviens d’un Donjon. »</p><p class="talk">‘Quoi !’</p><p class="">Jinho fut une fois de plus surpris par son hyungnim. Comparé aux exploits de son hyungnim, Jinho n’était rien comparé à l’obtention de la licence de maître de guilde. Pourtant, le jeune homme avait passé les jours qui suivirent son « accomplissement » à ne rien faire d’autre que célébrer et boire. Et son hyungnim ? Malgré toute cette puissance, l’homme continua à s’entraîner en entrant dans les Donjons. Jinho avait honte de lui.</p><p class="talk">‘Comme on s’y attendait de hyungnim…’</p><p class="">Dans le même temps, son respect pour hyungnim ne cessait de croître. Le fait que l’homme n’ait même pas pris la peine de changer ses vêtements sales devait être un motif de fierté. La saleté et le sang sur ses vêtements étaient comme l’insigne d’honneur de son entraînement incessant. L’expression de Jinho se durcit. Il était prêt à accepter toute réponse que son hyungnim donnerait.</p><p class="talk">« Hyungnim, la vérité est… »</p><p class="">Jinho raconta sa rencontre avec son père à Jinwoo sans oublier un seul détail. Go Myunghwan. La vérité sur l’incident de la Porte Rouge. L’aide inconnue de White Tiger. Tout.</p><p class="talk">‘Cet ahjussi a fait quelque chose de vraiment inutile…’</p><p class="">Pourtant, il ne pouvait pas se fâcher contre lui. Go Myunghwan l’avait apparemment fait pour Jinwoo. Le visage de Jinho en arrivant à la partie sur la Porte Rouge avait l’air ravi. Bref, Jinwoo savait ce que le jeune homme lui demandait :</p><p class="talk">« Et donc, ce que tu me dis, c’est que tu as besoin de mon aide pour devenir le chef de la guilde Yoojin, non ? »</p><p class="">Après avoir terminé son histoire, Jinho attendait patiemment la réponse de Jinwoo. Contrairement à ce qu’il faisait d’habitude, le jeune homme ne se comportait pas mal, ne cherchait pas à changer d’humeur, ne mendiait pas et n’avait même pas l’air pitoyable.</p><p class="talk">‘C’est hyungnim devant moi.’</p><p class="">Sans aucun plan, il mettrait son avenir entre les mains de Hyungnim. Jinwoo regardait en bas, tombant dans une profonde réflexion. L’homme leva finalement la tête :</p><p class="talk">« Jinho, je… »</p><p class="">gulp</p><p class="">Jinho avala sa salive quand Jinwoo commença.</p><hr class=""/><p class="">Le maître de la Guilde Hunters, Choi, reçut le rapport de l’incident d’aujourd’hui. Il abandonna tout ce qu’il faisait et alla dans sa salle privée.</p><p class="talk">« Quoi ? Jinwoo est venu à notre Raid hier ET aujourd’hui ?! »</p><p class="">Le nouveau Chasseur de rang S. L’homme était apparu à sa guilde, pourquoi n’en avait-il pas été informé ?!! C’était comme jeter un sac d’argent tombé du ciel. C’était une chose incroyablement frustrante à entendre, mais quand il entendit le reste, c’était soudain compréhensible :</p><p class="talk">« Attends, quoi ? Il a travaillé comme mineur hier et aujourd’hui, il était porteur ?! »</p><p class="">…Ouaip. Quelque chose comme ça ne lui aurait pas été signalé directement…</p><p class="talk">‘Pour l’instant, laissons de côté ce qu’il pensait… »</p><p class="">Se concentrer sur ce point n’entraînerait qu’un mal de tête. Ce n’était pas ce qui était important en ce moment.</p><p class="talk">‘Après White Tiger, même notre Guilde Hunters vient de recevoir son aide.’</p><p class="">Choi avait une dette envers Jinwoo. Il avait espéré l’approcher sur un pied d’égalité pour le recruter mais s’était retrouvé dans la même situation que White Tiger.</p><p class="talk">‘Pourtant, j’ai été le premier à apprendre l’existence du dixième rang S.’</p><p class="">Oui. Plus important que le fait qu’ils aient été aidés, Choi voulait savoir quel genre de pouvoir Jinwoo avait :</p><p class="talk">« Le Chasseur Jinwoo, quelle catégorie de Chasseur était-il ? »</p><p class="">…</p><p class="">Alors qu’il écoutait l’explication au téléphone, Choi était complètement à court de mots. La personne à l’autre bout, Son Gihoon, n’était pas un homme qui mentait ou qui embellissait la vérité. Pourtant, comme un certain employé de White Tiger l’avait déjà fait quand il avait entendu parler des exploits de Jinwoo, Choi dit avec réflexion :</p><p class="talk">« Tout cela est-il vraiment vrai ?</p><p class="talk">-Oui, monsieur. C’est tout ce que j’ai vu de mes yeux. »</p><p class="">Tout ce qu’il avait vu… ? Ça veut dire qu’il pourrait y en avoir plus ?</p><p class="">Si cet homme était vraiment si fort…</p><p class="talk">« Si vous me comparez à lui, qui est le plus fort ? »</p><p class="">C’était peut-être une question enfantine, mais il n’y avait pas de meilleure question pour déterminer la force d’une autre. Après un moment d’hésitation, Son Gihoon parla :</p><p class="talk">« Maître de guilde, pourriez-vous nettoyer en solo un donjon de rang A, en particulier un donjon au sommet du rang A ?</p><p class="talk">-…C’est impossible.</p><p class="talk">-Mais cet homme a fait une telle chose. Il a même empêché la Chasseuse Cha-nim de l’aider. »</p><p class="talk">‘Chain était là ?’</p><p class="">Cela souleva une autre question dans la tête de Choi, mais ce n’était pas important en ce moment.</p><p class="talk">« Était-ce possible que ce ne soit pas un donjon au sommet du rang A ?</p><p class="talk">-Si c’était le cas, nous n’aurions pas dû avoir de problèmes. Cet homme nous a sauvé la vie. »</p><p class="talk">“…”</p><p class="">L’homme appelé le Soldat le plus fort, Choi. D’une certaine façon, il avait été regardé de haut tout à l’heure. Cependant, au lieu de se sentir offensé, l’homme était rempli d’excitation.</p><p class="talk">‘Moi, Chain, et Jinwoo.’</p><p class="">Selon les vrais pouvoirs de Jinwoo, leur guilde pourrait se faire un nom à travers le pays, non, l’Asie, non, le monde…</p><p class="talk">« Maître de guilde Choi, je sais que je ne suis pas vraiment en mesure de dire quoi que ce soit sur la gestion de notre guilde mais… »</p><p class="">Honnêtement, Son Gihoon n’était pas le genre d’homme à dire avec effronterie ceci et cela de la guilde en dehors de sa place. A cause de cela, Choi était curieux de savoir ce que l’homme avait à dire :</p><p class="talk">« Non, s’il vous plaît, continuez.</p><p class="talk">-Cet homme… Chasseur Jinwoo-nim. S’il vous plaît, assurez-vous de recruter cet homme. Vous pourriez réaliser vos rêves si vous le faites. »</p><p class="">ba dum</p><p class="">Le cœur de Choi battait la chamade. Il fit tout son possible pour ne pas révéler sa voix tremblante :</p><p class="talk">« Je ferai de mon mieux. »</p><p class=""> </p><p class="">Devant le siège de l’Association des Chasseurs Coréens.</p><p class="">Les journalistes qui voulaient couvrir les résultats de l’Eveil de Lee Minsung étaient alignés comme des fourmis en face de l’immeuble. Dire que la superstar asiatique Lee Minsung deviendrait un Chasseur ! Ce n’était pas exagéré de dire que toutes les caméras du continent étaient concentrées à cet endroit. Avec un si grand nombre d’entre eux, les journalistes commençaient à se battre les uns les autres pour de bonnes places.</p><p class="talk">« Excusez-moi ! On était là les premiers !<br/>
--Va te faire foutre ! Tu vois le nombre de personnes autour de toi ?! Il n’y a pas de points de choix ! Là où on se tient, c’est sa place ! »<br/>
--Soupir… »</p><p class="">A l’intérieur du bâtiment, Lee Minsung regardait la presse avec une expression satisfaite :</p><p class="talk">« Oui, au moins autant de gens devraient venir pour moi. »</p><p class="">Le fait de traîner intentionnellement le temps pour attirer l’attention du monde fonctionnait. En tant que fruit de son « travail » (plan), tous les yeux allaient être tournés vers lui maintenant.</p><p class="talk">« Excusez-moi, Minsung-ssi, ce sera le titre de demain, qu’en pensez-vous ? »</p><p class="">Le journaliste de l’un des plus grands journaux coréens montrait à l’acteur ce qui ferait la une demain.</p><p class="talk">« N’est-ce pas un peu trop simple ?<br/>
+-Alors tu m’embrasses à la place, hyung ! »</p>
+<p>câlin !</p>
+<p class="talk">« Ah ! Lâchez-moi !<br/>
+-Ha ha ha ha ! »</p>
+<p>Pour la première fois depuis qu’ils étaient entrés dans ce donjon de rang A, des rires se faisaient entendre parmi les membres de l’équipe de raid. Jinwoo regarda leur légèreté avec un sourire. Il ne les avait pas aidés par désir de compliments et de flatteries, mais leur sincérité lui avait touché le cœur.</p>
+<p class="talk">« Oh, c’est vrai. »</p>
+<p>Jinwoo remarqua la Guérisseuse qui faisait la fête à l’arrière du groupe et s’approcha d’elle.</p>
+<p class="talk">‘Elle est si petite. Je ne l’avais même pas remarquée à l’arrière.’</p>
+<p>Il lui tendit son bloc-notes et elle le prit avec un visage rougi.</p>
+<p class="talk">« Merci… »</p>
+<p>La femme se réprimandait elle-même pour ce qui s’était passé.</p>
+<p class="talk">‘Pourquoi ai-je dû aller lui dire tout ça ?’</p>
+<p>Elle se rappela comment elle avait écrit et lui avait transmis ce qu’elle pensait être ses derniers mots. À un homme qui venait de nettoyer le donjon à lui tout seul. A quel point avait-elle l’air stupide devant lui ? Ce serait l’un de ces souvenirs qui lui ferait donner des coups de pied dans la couverture d’embarras la nuit. Elle jeta un coup d’œil vers le haut ; heureusement, il ne semblait pas se moquer d’elle. Au lieu de cela, l’homme parla avec une voix sévère :</p>
+<p class="talk">« Guérisseuse-Nim.</p>
+<p class="talk">-Oui ? »</p>
+<p>Elle leva la tête comme une élève sur le point d’être grondée.</p>
+<p class="talk">« A partir de maintenant, essaie de ne pas mettre tes affaires personnelles dans les bagages du groupe. C’est un poids inutile.</p>
+<p class="talk">-Hein ? »</p>
+<p>La Guérisseuse perdit ses mots et se contenta de regarder avec des yeux ronds. Jinwoo sourit. Il avait dit ce qu’il voulait dire. L’homme se retourna calmement et se dirigea vers les Chasseurs du DSC.</p>
+<p class="talk">« Allons-y. »</p>
+<p>Et avec ça, Jinwoo et les Chasseurs du DSC quittèrent le donjon. Les membres de la Guilde Hunters les regardaient disparaître au loin. Chacun d’entre eux put dire quelque chose à Jinwoo, le remerciant surtout de leur avoir sauvé la vie.</p>
+<p>Enfin… Presque chacun d’entre eux.</p>
+<p class="talk">‘Ah…’</p>
+<p>Chain baissa la main tendue vers Jinwoo.</p>
+<p class="talk">‘Je voulais au moins avoir son numéro…’</p>
+<p>Elle voulait juste voir s’il avait le temps. Malheureusement, elle réalisa que ces mots auraient causé un grand nombre de malentendus dans cette situation. Soudain, une autre Chasseuse s’approcha de Chain :</p>
+<p class="talk">« Euh… Maître adjoint ?</p>
+<p class="talk">-Oui ? »</p>
+<p>Tandis que le rang S se retournait, la Chasseuse désignait la main de Chain :</p>
+<p class="talk">« C’est quoi cette pioche ? »</p>
+<p>Chain leva son « arme » et la fixa du regard. Plus elle regardait, plus son visage rougissait. Elle baissa la pioche et demanda :</p>
+<p class="talk">« Pensez-vous que j’avais l’air bizarre ? »</p>
+<p>La Mage inclina la tête et répondit :</p>
+<p class="talk">« Pour qui ? »</p>
+<p>La rougeur du visage de Chain se glissa jusqu’à la base de son cou.</p>
+<hr/>
+<p>Après avoir quitté la Porte, Jin regarda sa montre et demanda :</p>
+<p class="talk">« Nous allons retourner à l’Association… Si vous êtes d’accord, aimeriez-vous venir avec nous et peut-être dîner avec le président de l’Association ?</p>
+<p class="talk">-Quelle heure est-il ?</p>
+<p class="talk">-Il est 17h15. »</p>
+<p class="talk">‘Hmm…’</p>
+<p>C’était un peu tard, mais il pouvait être à l’heure. Jinwoo déclina respectueusement l’offre de Jin,</p>
+<p class="talk">« Désolé, mais j’ai un engagement prévu. »</p>
+<hr/>
+<p>huff huff</p>
+<p>Jinho essaya quelques exercices de respiration qu’il avait vus dans un film pour se calmer.</p>
+<p class="talk">‘L’heure fatidique arrive.’</p>
+<p>La décision de Hyungnim déterminera le sort de Jinho. Comparé à la rencontre avec son père d’il y a quelques jours, le jeune homme se sentait beaucoup plus nerveux et excité.</p>
+<p class="talk">‘Calme-toi. Calme.’</p>
+<p>Il avait délibérément choisi le lieu de rendez-vous au café français où il s’était pour la première fois assis avec Hyungnim.</p>
+<p class="talk">‘Sans son aide, je n’aurais même pas pu aller aussi loin.’</p>
+<p>En regardant autour du café, un sentiment de nostalgie se répandit à travers le jeune homme. Il était même assis à la même table qu’à l’époque.</p>
+<p class="onomatope">ring~</p>
+<p>La clochette fixée à la porte sonna, et avec elle, Jinwoo entra dans le café.</p>
+<p class="talk">« Hyungnim ! »</p>
+<p>Jinho se leva avec une expression lumineuse et salua Jinwoo avec un arc profond. Jinwoo répondit par un léger signe de tête et s’assit en face du jeune homme. Jinho suivit son exemple.</p>
+<p class="talk">« Alors qu’est-ce que c’est ? »</p>
+<p>En levant la tête, les yeux de Jinho devinrent plus larges :</p>
+<p class="talk">« Hyungnim, tes vêtements… ?</p>
+<p class="talk">-Oh, ça ? »</p>
+<p>Jinwoo avait couru ici juste après la bataille avec les hauts orcs. Ses vêtements étaient un peu sales. Il y avait même du sang orc versé un peu sur lui. Il répondit sans réfléchir :</p>
+<p class="talk">« Je reviens d’un Donjon. »</p>
+<p class="talk">‘Quoi !’</p>
+<p>Jinho fut une fois de plus surpris par son hyungnim. Comparé aux exploits de son hyungnim, Jinho n’était rien comparé à l’obtention de la licence de maître de guilde. Pourtant, le jeune homme avait passé les jours qui suivirent son « accomplissement » à ne rien faire d’autre que célébrer et boire. Et son hyungnim ? Malgré toute cette puissance, l’homme continua à s’entraîner en entrant dans les Donjons. Jinho avait honte de lui.</p>
+<p class="talk">‘Comme on s’y attendait de hyungnim…’</p>
+<p>Dans le même temps, son respect pour hyungnim ne cessait de croître. Le fait que l’homme n’ait même pas pris la peine de changer ses vêtements sales devait être un motif de fierté. La saleté et le sang sur ses vêtements étaient comme l’insigne d’honneur de son entraînement incessant. L’expression de Jinho se durcit. Il était prêt à accepter toute réponse que son hyungnim donnerait.</p>
+<p class="talk">« Hyungnim, la vérité est… »</p>
+<p>Jinho raconta sa rencontre avec son père à Jinwoo sans oublier un seul détail. Go Myunghwan. La vérité sur l’incident de la Porte Rouge. L’aide inconnue de White Tiger. Tout.</p>
+<p class="talk">‘Cet ahjussi a fait quelque chose de vraiment inutile…’</p>
+<p>Pourtant, il ne pouvait pas se fâcher contre lui. Go Myunghwan l’avait apparemment fait pour Jinwoo. Le visage de Jinho en arrivant à la partie sur la Porte Rouge avait l’air ravi. Bref, Jinwoo savait ce que le jeune homme lui demandait :</p>
+<p class="talk">« Et donc, ce que tu me dis, c’est que tu as besoin de mon aide pour devenir le chef de la guilde Yoojin, non ? »</p>
+<p>Après avoir terminé son histoire, Jinho attendait patiemment la réponse de Jinwoo. Contrairement à ce qu’il faisait d’habitude, le jeune homme ne se comportait pas mal, ne cherchait pas à changer d’humeur, ne mendiait pas et n’avait même pas l’air pitoyable.</p>
+<p class="talk">‘C’est hyungnim devant moi.’</p>
+<p>Sans aucun plan, il mettrait son avenir entre les mains de Hyungnim. Jinwoo regardait en bas, tombant dans une profonde réflexion. L’homme leva finalement la tête :</p>
+<p class="talk">« Jinho, je… »</p>
+<p>gulp</p>
+<p>Jinho avala sa salive quand Jinwoo commença.</p>
+<hr/>
+<p>Le maître de la Guilde Hunters, Choi, reçut le rapport de l’incident d’aujourd’hui. Il abandonna tout ce qu’il faisait et alla dans sa salle privée.</p>
+<p class="talk">« Quoi ? Jinwoo est venu à notre Raid hier ET aujourd’hui ?! »</p>
+<p>Le nouveau Chasseur de rang S. L’homme était apparu à sa guilde, pourquoi n’en avait-il pas été informé ?!! C’était comme jeter un sac d’argent tombé du ciel. C’était une chose incroyablement frustrante à entendre, mais quand il entendit le reste, c’était soudain compréhensible :</p>
+<p class="talk">« Attends, quoi ? Il a travaillé comme mineur hier et aujourd’hui, il était porteur ?! »</p>
+<p>…Ouaip. Quelque chose comme ça ne lui aurait pas été signalé directement…</p>
+<p class="talk">‘Pour l’instant, laissons de côté ce qu’il pensait… »</p>
+<p>Se concentrer sur ce point n’entraînerait qu’un mal de tête. Ce n’était pas ce qui était important en ce moment.</p>
+<p class="talk">‘Après White Tiger, même notre Guilde Hunters vient de recevoir son aide.’</p>
+<p>Choi avait une dette envers Jinwoo. Il avait espéré l’approcher sur un pied d’égalité pour le recruter mais s’était retrouvé dans la même situation que White Tiger.</p>
+<p class="talk">‘Pourtant, j’ai été le premier à apprendre l’existence du dixième rang S.’</p>
+<p>Oui. Plus important que le fait qu’ils aient été aidés, Choi voulait savoir quel genre de pouvoir Jinwoo avait :</p>
+<p class="talk">« Le Chasseur Jinwoo, quelle catégorie de Chasseur était-il ? »</p>
+<p>…</p>
+<p>Alors qu’il écoutait l’explication au téléphone, Choi était complètement à court de mots. La personne à l’autre bout, Son Gihoon, n’était pas un homme qui mentait ou qui embellissait la vérité. Pourtant, comme un certain employé de White Tiger l’avait déjà fait quand il avait entendu parler des exploits de Jinwoo, Choi dit avec réflexion :</p>
+<p class="talk">« Tout cela est-il vraiment vrai ?</p>
+<p class="talk">-Oui, monsieur. C’est tout ce que j’ai vu de mes yeux. »</p>
+<p>Tout ce qu’il avait vu… ? Ça veut dire qu’il pourrait y en avoir plus ?</p>
+<p>Si cet homme était vraiment si fort…</p>
+<p class="talk">« Si vous me comparez à lui, qui est le plus fort ? »</p>
+<p>C’était peut-être une question enfantine, mais il n’y avait pas de meilleure question pour déterminer la force d’une autre. Après un moment d’hésitation, Son Gihoon parla :</p>
+<p class="talk">« Maître de guilde, pourriez-vous nettoyer en solo un donjon de rang A, en particulier un donjon au sommet du rang A ?</p>
+<p class="talk">-…C’est impossible.</p>
+<p class="talk">-Mais cet homme a fait une telle chose. Il a même empêché la Chasseuse Cha-nim de l’aider. »</p>
+<p class="talk">‘Chain était là ?’</p>
+<p>Cela souleva une autre question dans la tête de Choi, mais ce n’était pas important en ce moment.</p>
+<p class="talk">« Était-ce possible que ce ne soit pas un donjon au sommet du rang A ?</p>
+<p class="talk">-Si c’était le cas, nous n’aurions pas dû avoir de problèmes. Cet homme nous a sauvé la vie. »</p>
+<p class="talk">“…”</p>
+<p>L’homme appelé le Soldat le plus fort, Choi. D’une certaine façon, il avait été regardé de haut tout à l’heure. Cependant, au lieu de se sentir offensé, l’homme était rempli d’excitation.</p>
+<p class="talk">‘Moi, Chain, et Jinwoo.’</p>
+<p>Selon les vrais pouvoirs de Jinwoo, leur guilde pourrait se faire un nom à travers le pays, non, l’Asie, non, le monde…</p>
+<p class="talk">« Maître de guilde Choi, je sais que je ne suis pas vraiment en mesure de dire quoi que ce soit sur la gestion de notre guilde mais… »</p>
+<p>Honnêtement, Son Gihoon n’était pas le genre d’homme à dire avec effronterie ceci et cela de la guilde en dehors de sa place. A cause de cela, Choi était curieux de savoir ce que l’homme avait à dire :</p>
+<p class="talk">« Non, s’il vous plaît, continuez.</p>
+<p class="talk">-Cet homme… Chasseur Jinwoo-nim. S’il vous plaît, assurez-vous de recruter cet homme. Vous pourriez réaliser vos rêves si vous le faites. »</p>
+<p>ba dum</p>
+<p>Le cœur de Choi battait la chamade. Il fit tout son possible pour ne pas révéler sa voix tremblante :</p>
+<p class="talk">« Je ferai de mon mieux. »</p>
+
+<p>Devant le siège de l’Association des Chasseurs Coréens.</p>
+<p>Les journalistes qui voulaient couvrir les résultats de l’Eveil de Lee Minsung étaient alignés comme des fourmis en face de l’immeuble. Dire que la superstar asiatique Lee Minsung deviendrait un Chasseur ! Ce n’était pas exagéré de dire que toutes les caméras du continent étaient concentrées à cet endroit. Avec un si grand nombre d’entre eux, les journalistes commençaient à se battre les uns les autres pour de bonnes places.</p>
+<p class="talk">« Excusez-moi ! On était là les premiers !<br/>
+-Va te faire foutre ! Tu vois le nombre de personnes autour de toi ?! Il n’y a pas de points de choix ! Là où on se tient, c’est sa place ! »<br/>
+-Soupir… »</p>
+<p>A l’intérieur du bâtiment, Lee Minsung regardait la presse avec une expression satisfaite :</p>
+<p class="talk">« Oui, au moins autant de gens devraient venir pour moi. »</p>
+<p>Le fait de traîner intentionnellement le temps pour attirer l’attention du monde fonctionnait. En tant que fruit de son « travail » (plan), tous les yeux allaient être tournés vers lui maintenant.</p>
+<p class="talk">« Excusez-moi, Minsung-ssi, ce sera le titre de demain, qu’en pensez-vous ? »</p>
+<p>Le journaliste de l’un des plus grands journaux coréens montrait à l’acteur ce qui ferait la une demain.</p>
+<p class="talk">« N’est-ce pas un peu trop simple ?<br/>
 -C’est ce que vous croyez ?<br/>
 -Hmm… Que pensez-vous de ça ? L’homme qui a tout, Lee Minsung, obtient maintenant des pouvoirs qui dépassent l’humanité, quelque chose comme ça ?<br/>
 -Ne pensez-vous pas que c’est un peu trop pour le lecteur moyen ?<br/>
 -Ai-je tort ? En plus, qui dans ce pays oserait me contredire ? J’ai toute l’attention des médias et des fans.<br/>
 – D’accord, je vais le faire, alors.<br/>
--Je vous le laisse. »</p><p class="">Lee Minsung fixa avec condescendance la tête courbée du journaliste.</p><p class="talk">‘Faites juste ce qu’on vous dit. Cessez de faire des histoires.’</p><p class="">A ce moment-là, deux voitures de luxe arrivèrent au parking de l’Association.</p><p class="">Deux personnes descendirent de leurs voitures respectives en même temps. C’était Baek de White Tiger et le Choi de la Guilde Hunters.</p><p class="talk">« Quoi ? Regardez par là<br/>
+-Je vous le laisse. »</p>
+<p>Lee Minsung fixa avec condescendance la tête courbée du journaliste.</p>
+<p class="talk">‘Faites juste ce qu’on vous dit. Cessez de faire des histoires.’</p>
+<p>A ce moment-là, deux voitures de luxe arrivèrent au parking de l’Association.</p>
+<p>Deux personnes descendirent de leurs voitures respectives en même temps. C’était Baek de White Tiger et le Choi de la Guilde Hunters.</p>
+<p class="talk">« Quoi ? Regardez par là<br/>
 -C’est Baek !<br/>
--Et Choi ! »</p><p class="">Les journalistes qui bloquaient l’entrée se précipitèrent sur les deux hommes. Les deux rangs S froncèrent les sourcils.</p><p class="talk">‘Qu’est-ce qu’ils ont, ces journalistes ?’<br/>
-‘Pourquoi c’est si plein aujourd’hui ?’</p><p class="">flash click flash flash flash click</p><p class="">Les appareils des journalistes prenaient des photos sans arrêt. Ils entourèrent les deux hommes et crièrent un tas de questions :</p><p class="talk">« Vous êtes là pour recruter Lee Minsung ?!<br/>
+-Et Choi ! »</p>
+<p>Les journalistes qui bloquaient l’entrée se précipitèrent sur les deux hommes. Les deux rangs S froncèrent les sourcils.</p>
+<p class="talk">‘Qu’est-ce qu’ils ont, ces journalistes ?’<br/>
+‘Pourquoi c’est si plein aujourd’hui ?’</p>
+<p>flash click flash flash flash click</p>
+<p>Les appareils des journalistes prenaient des photos sans arrêt. Ils entourèrent les deux hommes et crièrent un tas de questions :</p>
+<p class="talk">« Vous êtes là pour recruter Lee Minsung ?!<br/>
 -En tant que Chasseurs représentant la Corée du Sud, quelle est votre opinion sur la retraite de Lee Minsung en tant que célébrité ?!<br/>
 -Quel sera le rang de Lee Minsung ?!<br/>
--Parlez-nous de Lee Minsung ! »</p><p class="">L’impatient Baek agita la main comme si elle était ennuyée :</p><p class="talk">« Je ne suis pas là pour cet homme. Je n’ai pas de commentaires. »</p><p class="">Le diplomate Choi dit calmement la vérité sans grande émotion :</p><p class="talk">« Je suis sûr que la plupart d’entre vous savent que Lee Minsung-ssi a déjà passé un contrat avec les Faucheuses. Je suis ici pour une autre affaire. »</p><p class="">Devant les réponses plutôt ennuyeuses, les journalistes se retournèrent avec déception :</p><p class="talk">‘C’est quoi ce bordel ?’<br/>
+-Parlez-nous de Lee Minsung ! »</p>
+<p>L’impatient Baek agita la main comme si elle était ennuyée :</p>
+<p class="talk">« Je ne suis pas là pour cet homme. Je n’ai pas de commentaires. »</p>
+<p>Le diplomate Choi dit calmement la vérité sans grande émotion :</p>
+<p class="talk">« Je suis sûr que la plupart d’entre vous savent que Lee Minsung-ssi a déjà passé un contrat avec les Faucheuses. Je suis ici pour une autre affaire. »</p>
+<p>Devant les réponses plutôt ennuyeuses, les journalistes se retournèrent avec déception :</p>
+<p class="talk">‘C’est quoi ce bordel ?’<br/>
 ‘Je pensais que je pourrais prendre un scoop chaud.’<br/>
-‘Merde, ce n’était rien après tout.’</p><p class="">Pourtant, aucun d’entre eux n’osa se plaindre visiblement devant les rangs S. Ils prirent juste une place ici et là pour attendre Lee Minsung.</p><p class="">Quand les journalistes partirent, Baek rencontra le regard de Choi. Le maître de la Guilde White Tiger parla en premier :</p><p class="talk">« J’ai appris la nouvelle. On dirait que la Guilde Hunters a également failli avoir un incident hier. »</p><p class="">Baek souligna délibérément le mot « également ».</p><p class="talk">« On a au moins évité de perdre une nouvelle recrue de rang A comme White Tiger. »</p><p class="">Le concours d’esprit des deux hommes ne perdait pas face à celui des journalistes. Cependant, Baek calma sa colère et soupira légèrement :</p><p class="talk">« Eh bien, à la fin, on dirait qu’on a tous les deux reçu l’aide de cet homme.</p><p class="talk">-Vous avez raison. Sans lui, nous aurions perdu tout notre second groupe de raids. »</p><p class="">C’était le comble de l’orgueil des deux hommes qu’aucun des deux ne prononçait réellement le nom de l’aide. Le nom qu’ils connaissaient tous les deux était connu de l’autre. Choi fit un pas vers Baek,</p><p class="talk">« Et en remerciement, nous voulons prendre soin de cet homme dans notre guilde. »</p><p class="">Baek ne recula pas. Il fit aussi un pas en avant jusqu’à ce que son front soit juste à côté de celui de Choi :</p><p class="talk">« Dans notre incident, nous avons perdu des gens. Afin de renforcer nos nombres, ne pensez-vous pas que vous devriez nous céder cet homme ?</p><p class="talk">-Pour quoi avez-vous besoin d’un renfort de rang S ? Quoi, vous pensez à envahir la Corée du Nord ?</p><p class="talk">-Et vous, alors ? « Prends soin de lui » ? Quand avez-vous été un homme si compatissant et gentil ? « Prends soin de lui… »</p><p class="">Les yeux des deux chasseurs de rang S s’illuminaient de flammes.</p><p class="talk">‘Hein ?’</p><p class="">Arrivé à temps pour la conférence de presse, Lim Taegyu, le maître de la Guilde des Faucheuses, se tourna vers les rangs S qui se disputaient et se mit à rire. Quelle était l’expression ? Compter vos poulets avant qu’ils n’éclosent ? Ayant toujours perdu des ressources au profit des deux guildes, Lim Taegyu était ravi à l’idée de les battre pour changer. Il essaya de cacher son sourire et s’approcha des deux maîtres de guilde.</p><p class="talk">« Oy, les deux maîtres de guilde. Vous vous battez pour notre Minsung en ce moment ? »</p><p class="">Baek et Choi se tournèrent brusquement vers Lim Taegyu.</p><p class="talk">‘Qu’est-ce qu’il a, ce débile ?’<br/>
-‘J’en ai rien à foutre de ce Lee Minsung, de ce Lee Mintard ou je ne sais trop quoi.’</p><p class="">Lim Taegyu hésita et recula d’un pas lorsque les deux hommes le regardèrent fixement.</p><p class="talk">« Qu’est-ce qu’ils ont, ces types ?</p><hr class=""/><p class="talk">« Quoi ? Choi ET Baek ? »</p><p class="">Lee Minsung sourit. L’acteur connaissait déjà Lim Taegyu, l’ayant souvent rencontré au cours du processus contractuel. Même le fait de contracter les Faucheuses, qui étaient tombées de ses jours de gloire, et d’abandonner les Guildes #1 et #2 de la nation, faisaient tous partie du plan de Lee Minsung.</p><p class="talk">‘Mon image ne brillera que quand je serai à côté des faibles.’</p><p class="">En tant que célébrité, vendre son image était une grande partie du travail. Et Lee Minsung s’était assuré de maintenir soigneusement son image jusqu’à présent.</p><p class="talk">‘Dire que les meilleures guildes du pays se battent pour moi…’</p><p class="">Il n’avait pas l’intention de travailler comme Chasseur pendant longtemps, mais cela faisait quand même monter ses épaules avec arrogance. Rapidement, son manager ouvrit la porte et entra à l’intérieur :</p><p class="talk">« Minsung, ils sont tous prêts. Commençons par les interviews.</p><p class="talk">-D’accord. »</p><p class="">Le manager ouvrait la marche. Lorsque Lee Minsung franchit les portes vitrées et montra son visage, les éclairs des caméras rugirent,</p><p class="">flash flash flash click flash click flash click flash flash-</p><p class="">Lee Minsung regarda les centaines d’yeux qui le regardaient et fit un faux sourire affectueux.</p><p class="">A ce moment-là,</p><p class="">Jinwoo arriva à l’Association.</p><hr class=""/><p class="talk">‘…?’</p><p class="">Comme ils lui avaient donné des instructions il y a trois jours, le Chasseur de grade E était arrivé pour son nouveau test à l’Association.</p><p class="talk">‘Pourquoi c’est si plein ?’</p><p class="">Il ne semblait pas qu’il pouvait simplement entrer dans le bâtiment dans cette situation. Bien sûr, il avait la possibilité d’utiliser ‘Furtivité’, de sauter par-dessus les reporters ou même d’utiliser l’entrée arrière. Cependant, il n’aimait pas l’idée d’avoir à éviter les reporters de cette façon, d’autant plus qu’il avait déjà pris un rendez-vous il y a trois jours.</p><p class="talk">‘Ce n’est pas comme si j’avais fait quelque chose de mal.’</p><p class="">Il n’y avait aucune raison pour lui d’éviter d’utiliser la porte d’entrée. Jinwoo se fraya un chemin à travers la foule de journalistes et se dirigea de force vers le bâtiment.</p><p class="talk">« Excusez-moi.<br/>
+‘Merde, ce n’était rien après tout.’</p>
+<p>Pourtant, aucun d’entre eux n’osa se plaindre visiblement devant les rangs S. Ils prirent juste une place ici et là pour attendre Lee Minsung.</p>
+<p>Quand les journalistes partirent, Baek rencontra le regard de Choi. Le maître de la Guilde White Tiger parla en premier :</p>
+<p class="talk">« J’ai appris la nouvelle. On dirait que la Guilde Hunters a également failli avoir un incident hier. »</p>
+<p>Baek souligna délibérément le mot « également ».</p>
+<p class="talk">« On a au moins évité de perdre une nouvelle recrue de rang A comme White Tiger. »</p>
+<p>Le concours d’esprit des deux hommes ne perdait pas face à celui des journalistes. Cependant, Baek calma sa colère et soupira légèrement :</p>
+<p class="talk">« Eh bien, à la fin, on dirait qu’on a tous les deux reçu l’aide de cet homme.</p>
+<p class="talk">-Vous avez raison. Sans lui, nous aurions perdu tout notre second groupe de raids. »</p>
+<p>C’était le comble de l’orgueil des deux hommes qu’aucun des deux ne prononçait réellement le nom de l’aide. Le nom qu’ils connaissaient tous les deux était connu de l’autre. Choi fit un pas vers Baek,</p>
+<p class="talk">« Et en remerciement, nous voulons prendre soin de cet homme dans notre guilde. »</p>
+<p>Baek ne recula pas. Il fit aussi un pas en avant jusqu’à ce que son front soit juste à côté de celui de Choi :</p>
+<p class="talk">« Dans notre incident, nous avons perdu des gens. Afin de renforcer nos nombres, ne pensez-vous pas que vous devriez nous céder cet homme ?</p>
+<p class="talk">-Pour quoi avez-vous besoin d’un renfort de rang S ? Quoi, vous pensez à envahir la Corée du Nord ?</p>
+<p class="talk">-Et vous, alors ? « Prends soin de lui » ? Quand avez-vous été un homme si compatissant et gentil ? « Prends soin de lui… »</p>
+<p>Les yeux des deux chasseurs de rang S s’illuminaient de flammes.</p>
+<p class="talk">‘Hein ?’</p>
+<p>Arrivé à temps pour la conférence de presse, Lim Taegyu, le maître de la Guilde des Faucheuses, se tourna vers les rangs S qui se disputaient et se mit à rire. Quelle était l’expression ? Compter vos poulets avant qu’ils n’éclosent ? Ayant toujours perdu des ressources au profit des deux guildes, Lim Taegyu était ravi à l’idée de les battre pour changer. Il essaya de cacher son sourire et s’approcha des deux maîtres de guilde.</p>
+<p class="talk">« Oy, les deux maîtres de guilde. Vous vous battez pour notre Minsung en ce moment ? »</p>
+<p>Baek et Choi se tournèrent brusquement vers Lim Taegyu.</p>
+<p class="talk">‘Qu’est-ce qu’il a, ce débile ?’<br/>
+‘J’en ai rien à foutre de ce Lee Minsung, de ce Lee Mintard ou je ne sais trop quoi.’</p>
+<p>Lim Taegyu hésita et recula d’un pas lorsque les deux hommes le regardèrent fixement.</p>
+<p class="talk">« Qu’est-ce qu’ils ont, ces types ?</p>
+<hr/>
+<p class="talk">« Quoi ? Choi ET Baek ? »</p>
+<p>Lee Minsung sourit. L’acteur connaissait déjà Lim Taegyu, l’ayant souvent rencontré au cours du processus contractuel. Même le fait de contracter les Faucheuses, qui étaient tombées de ses jours de gloire, et d’abandonner les Guildes #1 et #2 de la nation, faisaient tous partie du plan de Lee Minsung.</p>
+<p class="talk">‘Mon image ne brillera que quand je serai à côté des faibles.’</p>
+<p>En tant que célébrité, vendre son image était une grande partie du travail. Et Lee Minsung s’était assuré de maintenir soigneusement son image jusqu’à présent.</p>
+<p class="talk">‘Dire que les meilleures guildes du pays se battent pour moi…’</p>
+<p>Il n’avait pas l’intention de travailler comme Chasseur pendant longtemps, mais cela faisait quand même monter ses épaules avec arrogance. Rapidement, son manager ouvrit la porte et entra à l’intérieur :</p>
+<p class="talk">« Minsung, ils sont tous prêts. Commençons par les interviews.</p>
+<p class="talk">-D’accord. »</p>
+<p>Le manager ouvrait la marche. Lorsque Lee Minsung franchit les portes vitrées et montra son visage, les éclairs des caméras rugirent,</p>
+<p>flash flash flash click flash click flash click flash flash-</p>
+<p>Lee Minsung regarda les centaines d’yeux qui le regardaient et fit un faux sourire affectueux.</p>
+<p>A ce moment-là,</p>
+<p>Jinwoo arriva à l’Association.</p>
+<hr/>
+<p class="talk">‘…?’</p>
+<p>Comme ils lui avaient donné des instructions il y a trois jours, le Chasseur de grade E était arrivé pour son nouveau test à l’Association.</p>
+<p class="talk">‘Pourquoi c’est si plein ?’</p>
+<p>Il ne semblait pas qu’il pouvait simplement entrer dans le bâtiment dans cette situation. Bien sûr, il avait la possibilité d’utiliser ‘Furtivité’, de sauter par-dessus les reporters ou même d’utiliser l’entrée arrière. Cependant, il n’aimait pas l’idée d’avoir à éviter les reporters de cette façon, d’autant plus qu’il avait déjà pris un rendez-vous il y a trois jours.</p>
+<p class="talk">‘Ce n’est pas comme si j’avais fait quelque chose de mal.’</p>
+<p>Il n’y avait aucune raison pour lui d’éviter d’utiliser la porte d’entrée. Jinwoo se fraya un chemin à travers la foule de journalistes et se dirigea de force vers le bâtiment.</p>
+<p class="talk">« Excusez-moi.<br/>
 -Hé !<br/>
 -C’est quoi ce bordel !<br/>
--Qui est-ce ?! »</p><p class="">C’était la force d’un rang S. Les journalistes n’avaient pas d’autre choix que d’être mis à l’écart et ne pouvaient que froisser le visage. En un instant, Jinwoo atteignit les marches devant l’entrée de l’immeuble. Mais avant de pouvoir faire un pas, un homme musclé lui bloqua la route.</p><p class="talk">« Hé ! »</p><p class="">C’était le manager de Lee Minsung. Le manager écarquilla les yeux et cria sur Jinwoo :</p><p class="talk">« Qui êtes-vous ? Vous êtes de l’Association ? »</p><p class="">Jinwoo regarda droit dans les yeux de l’homme et secoua la tête.</p><p class="talk">‘Qu’est-ce que c’est que ce bordel ? Regarde cette merde.’</p><p class="">Le manager avait les sourcils épais qui tremblaient.</p><p class="talk">« Vous ne voyez pas tous les journalistes ici ?! »</p><p class="">Jinwoo se retourna brièvement et regarda la foule. Chacun d’entre eux le fixait avec irritation. Il comprit qu’ils étaient ici pour une interview, mais ce n’était pas comme si la route leur appartenait. Comme il ne pouvait pas chasser personnellement les journalistes, les journalistes n’avaient pas le droit de le chasser. Pourtant, il y avait trop d’yeux qui regardaient, Jinwoo voulait juste entrer tranquillement dans le bâtiment sans attirer trop d’attention.</p><p class="talk">« Vous ne pouvez pas passer. Dégage d’ici, crétin. »</p><p class="">Le manager bloqua à nouveau son chemin et poussa la poitrine de Jinwoo. Avec cette provocation, les yeux du rang E changèrent.</p><p class="talk">‘Quoi ?’</p><p class="">Le manager fut choqué. Il voulait ridiculiser Jinwoo en le poussant. Mais même si une classe combattante de rang D l’avait poussé, Jinwoo n’avait pas bougé d’un poil. Le manager avait poussé avec une force suffisante pour blesser un homme ordinaire. Bien sûr, Jinwoo le savait.</p><p class="talk">“…”</p><p class="">D’un air contrarié, il regardait le manager en face. Et juste avec ça, le manager pâlit.</p><p class="talk">« Que se passe-t-il ? »<br/>
-« Vont-ils se battre ? »</p><p class="">Un vacarme surgit parmi les journalistes qui regardaient la scène. Le manager commença à transpirer. S’il n’y avait personne qui regardait, le manager était tout à fait prêt à se retirer. Malheureusement, les yeux des journalistes et de son patron, Lee Minsung, étaient sur lui en ce moment même. Lee Minsung s’approcha du manager et chuchota :</p><p class="talk">« Bon sang, qu’est-ce qui se passe ? Occupez-vous de lui.</p><p class="talk">-Oh… ouais, compris. »</p><p class="">S’il ne pouvait pas faire son travail ici, le manager pourrait être viré. L’homme fit de son mieux et cria :</p><p class="talk">« Je vous l’ai dit, vous ne pouvez pas passer par ici ! Alors dégagez d’ici !</p><p class="talk">-Avec quelle autorité vous bloquez le chemin de cet homme. »</p><p class="talk">‘Hein ?’</p><p class="">La voix venait de derrière lui. Le manager se retourna.</p><p class="">Le président de l’Association des Chasseurs Coréens, M.Go, se tenait devant les portes vitrées.</p><p class="">Les yeux des journalistes devinrent plus larges. Leur choc était si grand qu’ils ne pouvaient même pas prendre de photos.</p><p class="talk">« M.Go ? »<br/>
-« Le président de l’Association M.Go ? »</p><p class="">Le chaos exubérant d’il y a quelques instants fut complètement réduit au silence par l’apparition inattendue d’un seul homme. M.Go vint jusqu’à l’escalier et parla :</p><p class="talk">« Cet homme est notre invité. »</p><p class="">M.Go se tourna vers Lee Minsung :</p><p class="talk">« Lee Minsung-ssi, vous vous souvenez qui vous a permis d’avoir tous ces reporters ici, n’est-ce pas ? »</p><p class="">Lee Minsung attira l’attention :</p><p class="talk">« B- bien sûr, monsieur. »</p><p class="">S’il se trompait, il perdrait le précieux temps de conférence de presse alloué par l’Association. Il ne pouvait pas être ridiculisé devant tant d’yeux. Lee Minsung fronça les sourcils et fit signe à son manager, et le manager inclina la tête devant M.Go et Jinwoo puis se retira à côté.</p><p class="talk">« S’il vous plaît, entrez, Chasseur Jinwoo-nim. »</p><p class="">Comme Jinwoo était escorté par M.Go dans le bâtiment, les journalistes ne pouvaient pas cacher leur choc.</p><p class="">bavarde bavarde</p><p class="talk">« Que s’est-il passé ?<br/>
+-Qui est-ce ?! »</p>
+<p>C’était la force d’un rang S. Les journalistes n’avaient pas d’autre choix que d’être mis à l’écart et ne pouvaient que froisser le visage. En un instant, Jinwoo atteignit les marches devant l’entrée de l’immeuble. Mais avant de pouvoir faire un pas, un homme musclé lui bloqua la route.</p>
+<p class="talk">« Hé ! »</p>
+<p>C’était le manager de Lee Minsung. Le manager écarquilla les yeux et cria sur Jinwoo :</p>
+<p class="talk">« Qui êtes-vous ? Vous êtes de l’Association ? »</p>
+<p>Jinwoo regarda droit dans les yeux de l’homme et secoua la tête.</p>
+<p class="talk">‘Qu’est-ce que c’est que ce bordel ? Regarde cette merde.’</p>
+<p>Le manager avait les sourcils épais qui tremblaient.</p>
+<p class="talk">« Vous ne voyez pas tous les journalistes ici ?! »</p>
+<p>Jinwoo se retourna brièvement et regarda la foule. Chacun d’entre eux le fixait avec irritation. Il comprit qu’ils étaient ici pour une interview, mais ce n’était pas comme si la route leur appartenait. Comme il ne pouvait pas chasser personnellement les journalistes, les journalistes n’avaient pas le droit de le chasser. Pourtant, il y avait trop d’yeux qui regardaient, Jinwoo voulait juste entrer tranquillement dans le bâtiment sans attirer trop d’attention.</p>
+<p class="talk">« Vous ne pouvez pas passer. Dégage d’ici, crétin. »</p>
+<p>Le manager bloqua à nouveau son chemin et poussa la poitrine de Jinwoo. Avec cette provocation, les yeux du rang E changèrent.</p>
+<p class="talk">‘Quoi ?’</p>
+<p>Le manager fut choqué. Il voulait ridiculiser Jinwoo en le poussant. Mais même si une classe combattante de rang D l’avait poussé, Jinwoo n’avait pas bougé d’un poil. Le manager avait poussé avec une force suffisante pour blesser un homme ordinaire. Bien sûr, Jinwoo le savait.</p>
+<p class="talk">“…”</p>
+<p>D’un air contrarié, il regardait le manager en face. Et juste avec ça, le manager pâlit.</p>
+<p class="talk">« Que se passe-t-il ? »<br/>
+« Vont-ils se battre ? »</p>
+<p>Un vacarme surgit parmi les journalistes qui regardaient la scène. Le manager commença à transpirer. S’il n’y avait personne qui regardait, le manager était tout à fait prêt à se retirer. Malheureusement, les yeux des journalistes et de son patron, Lee Minsung, étaient sur lui en ce moment même. Lee Minsung s’approcha du manager et chuchota :</p>
+<p class="talk">« Bon sang, qu’est-ce qui se passe ? Occupez-vous de lui.</p>
+<p class="talk">-Oh… ouais, compris. »</p>
+<p>S’il ne pouvait pas faire son travail ici, le manager pourrait être viré. L’homme fit de son mieux et cria :</p>
+<p class="talk">« Je vous l’ai dit, vous ne pouvez pas passer par ici ! Alors dégagez d’ici !</p>
+<p class="talk">-Avec quelle autorité vous bloquez le chemin de cet homme. »</p>
+<p class="talk">‘Hein ?’</p>
+<p>La voix venait de derrière lui. Le manager se retourna.</p>
+<p>Le président de l’Association des Chasseurs Coréens, M.Go, se tenait devant les portes vitrées.</p>
+<p>Les yeux des journalistes devinrent plus larges. Leur choc était si grand qu’ils ne pouvaient même pas prendre de photos.</p>
+<p class="talk">« M.Go ? »<br/>
+« Le président de l’Association M.Go ? »</p>
+<p>Le chaos exubérant d’il y a quelques instants fut complètement réduit au silence par l’apparition inattendue d’un seul homme. M.Go vint jusqu’à l’escalier et parla :</p>
+<p class="talk">« Cet homme est notre invité. »</p>
+<p>M.Go se tourna vers Lee Minsung :</p>
+<p class="talk">« Lee Minsung-ssi, vous vous souvenez qui vous a permis d’avoir tous ces reporters ici, n’est-ce pas ? »</p>
+<p>Lee Minsung attira l’attention :</p>
+<p class="talk">« B- bien sûr, monsieur. »</p>
+<p>S’il se trompait, il perdrait le précieux temps de conférence de presse alloué par l’Association. Il ne pouvait pas être ridiculisé devant tant d’yeux. Lee Minsung fronça les sourcils et fit signe à son manager, et le manager inclina la tête devant M.Go et Jinwoo puis se retira à côté.</p>
+<p class="talk">« S’il vous plaît, entrez, Chasseur Jinwoo-nim. »</p>
+<p>Comme Jinwoo était escorté par M.Go dans le bâtiment, les journalistes ne pouvaient pas cacher leur choc.</p>
+<p>bavarde bavarde</p>
+<p class="talk">« Que s’est-il passé ?<br/>
 -Qui était cet homme, que le président de l’association viendrait le chercher lui-même ?<br/>
--Quelqu’un sait qui était cet homme ? »</p><p class="">Les journalistes criaient de frustration, mais personne ne répondait.</p></body></html>
+-Quelqu’un sait qui était cet homme ? »</p>
+<p>Les journalistes criaient de frustration, mais personne ne répondait.</p>
+</body>
+</html>

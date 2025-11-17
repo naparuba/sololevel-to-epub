@@ -1,16 +1,163 @@
-<html><body><h1>Chapter 38</h1>
-<div class="border"><p class="strong"> <br/>
+<html>
+<body>
+<h1>Chapter 38</h1>
+<div class="border">
+<p class="strong"> <br/>
 <strong>Sprint (Lv. 2)</strong><br/>
-<strong>Compétence active</strong></p><p class="strong"><strong>Coût en Mana : 5 (+1/minute)</strong></p><p class="strong"><strong>Activer pour augmenter votre vitesse de déplacement de 40%.</strong><br/>
-<strong>Coûte 1 mana par minute pour le maintenir.</strong></p></div><p class="talk"><strong>« Votre course a renforcé vos jambes. »</strong></p><p class="talk">‘La vitesse de déplacement a augmenté.’</p><p class="">La compétence était passée de 30% à 40% d’augmentation de la vitesse de mouvement. Même une amélioration de 10 % seulement était énorme. Après tout, le sprint était sa compétence la plus utilisée.</p><div class="border"><p class="strong"><strong>Maîtrise avancée de la dague (Lv. 1)</strong><br/>
-<strong>Compétence passive</strong></p><p class="strong"><strong>Mana en Coût : 0</strong></p><p class="strong"><strong>Spécifique à la dague</strong></p><p class="strong"><strong>+33 % Dommages causés avec les Dagues.</strong></p></div><p class="talk"><strong>« Après avoir utilisé une dague pendant longtemps, vous êtes capable de les manier avec plus de maîtrise. »</strong></p><p class="">Dommages accrus en combattant avec une dague ! Il semblerait que comme il n’avait jusqu’à présent utilisé qu’une dague, il avait reçu une compétence spécifique à la dague.</p><p class="talk">‘On dirait qu’il sera moins efficace d’utiliser d’autres armes maintenant.’</p><p class="">D’un autre côté, il sera maintenant plus efficace que jamais d’utiliser une dague. De plus, il s’était habitué à manier une dague, et il ne semblait pas qu’il changerait d’arme pour le moment.</p><p class="talk">‘Enfin.’</p><p class="">Jinwoo regarda l’autre nouvelle compétence avec intérêt.</p><div class="border"><p class="strong"><strong>Frappe vitale (Lv. 1)</strong><br/>
-<strong>Compétence active</strong></p><p class="strong"><strong>Coût en Mana : 70</strong></p><p class="strong"><strong>Spécifique à la dague</strong></p><p class="strong"><strong>Poignardez les organes vitaux de l’ennemi avec des dégâts mortels.</strong></p></div><p class="talk"><strong>« Vous avez appris à frapper efficacement. »</strong></p><p class="">C’était aussi une compétence spécifique à la dague.</p><p class="talk">‘Un moyen de frapper efficacement…’</p><p class="">Maintenant qu’il y songeait, la dernière attaque qu’il avait utilisée sur Kang Taeshik et la dernière attaque sur le dernier zombie tout à l’heure lui avait laissé un sentiment similaire dans la main. On pourrait dire que c’était un peu plaisant. Dès qu’il poignardait avec la dague, la sensation dans sa main lui disait que le combat était terminé.</p><p class="talk">‘C’était donc ‘Frappe vitale’.’</p><p class="">Dire qu’il pourrait maintenant utiliser à plusieurs reprises la compétence qu’il avait découverte par accident !</p><p class="">Le cœur de Jinwoo s’emballa. Après avoir coupé et poignardé sans réfléchir avec la dague jusqu’à maintenant, recevoir une compétence offensive officielle était comme trouver de l’eau dans un désert.</p><p class="talk">‘Génial !’</p><p class="">Niveau monté et nouvelles compétences.</p><p class="">C’était un bon début.</p><hr class=""/><p class="">Jour 2.</p><div class="border"><p class="strong"><strong>Vous avez gagné un niveau !</strong></p><p class="strong"><strong>Vous avez gagné un niveau !</strong></p></div><p class="">Avec la nouvelle technique offensive, la vitesse de chasse était devenue beaucoup plus rapide.</p><div class="border"><p class="strong"><strong>Vous avez gagné un niveau !</strong></p></div><p class="">Un coup, un mort !</p><p class="">Chaque fois que Jinwoo utilisait ‘Frappe vitale’, une bête magique tombait. Jinho regardait chaque victime avec les yeux grands ouverts.</p><p class="talk">‘Où cachait-il une telle compétence ?’</p><p class="">Quelle était la limite des capacités de Hyungnim ? Jinho ne pouvait faire autrement que d’être étonné. En même temps, il devenait curieux de savoir quel était le véritable rang de Jinwoo.</p><p class="talk">‘Il a facilement battu les chasseurs de rang C, donc il est au moins de rang B…’</p><p class="">Malheureusement, le jeune homme avait trop peur de demander directement à Jinwoo, alors il se contentait de le regarder avec la bouche ouverte.</p><p class="">Entre-temps, Jinwoo découvrit un défaut dans la chasse avec sa nouvelle compétence.</p><div class="border"><p class="strong"><strong>Mana insuffisant pour utiliser la compétence.</strong></p><p class="strong"><strong>Mana insuffisant pour utiliser la compétence.</strong></p></div><p class="">Jinwoo grimaça d’ennui.</p><p class="talk">‘Encore ?’</p><p class="">Comme avant, Jinwoo sortit une potion de mana de son inventaire pour remplir son mana. Elle avait été achetée à l’atelier du système.</p><p class="talk">« Qu’est-ce que c’est, hyungnim ? »</p><p class="">Demanda curieusement Jinho. Chaque fois qu’il passait du temps avec Jinwoo, Jinho vivait beaucoup de choses incroyables et merveilleuses. Bien qu’il ait tenu sa langue par respect et par crainte jusqu’à présent, sa curiosité prit le dessus quand il vit Jinwoo boire ce mystérieux liquide bleu.</p><p class="talk">« Ça ? »</p><p class="">Avant de répondre, Jinwoo regarda les informations de la potion de mana.</p><div class="border"><p class="strong"><strong>Potion de mana</strong><br/>
-<strong>Rareté : E</strong></p><p class="strong"><strong>Type : Consommable</strong></p><p class="strong"><strong>Boire pour récupérer 500 MP.</strong></p></div><p class="talk"><strong>« C’est une potion pour récupérer le mana. »</strong></p><div class="border"><p class="strong"><strong>Vous pouvez garder cet article dans votre inventaire.</strong></p><p class="strong"><strong>Ne peut être échangé. </strong></p></div><p class="talk">« Ne peut pas être échangé »…Je me demande ce qui se passera si j’essaie ?</p><p class="">Jinwoo avait aussi son lot de curiosités. Il donna la potion de mana à Jinho. Au moment où le jeune homme l’attrapait, la bouteille disparut dans les airs.</p><p class="talk">« C- c’était de la magie, hyungnim ? »</p><p class="talk">‘Alors, c’est ce qu’ils voulaient dire par « ne peut être échangé »’</p><p class="">Jinwoo avait appris quelque chose de nouveau. Les objets qui ne pouvaient pas être échangés disparaissaient lorsqu’ils étaient placés entre les mains de quelqu’un d’autre. Et si ça ne touchait pas leurs mains ? Jinwoo ouvrit le magasin et acheta une autre potion. Cette fois, au lieu de la potion bleue de mana, il acheta une potion de guérison rouge. Après avoir confirmé l’achat, la potion apparut dans la main de Jinwoo.</p><p class="talk">« H-hyungnim ! C’était trop cool ! Le liquide est devenu rouge ! »</p><p class="">Voyant la potion bleue de mana disparaître de ses propres mains et apparemment réapparaître dans la main de Jinwoo comme rouge, Jinho pensait regarder un tour de magie. Cependant, Jinwoo avait une raison de changer les potions.</p><p class="talk">‘Je veux savoir s’il peut être « utilisé » sur une autre personne.’</p><p class="">Jinwoo pencha le corps de Jinho.</p><p class="talk">« Ouvre la bouche et penche la tête en arrière.</p><p class="">Jinwoo versa la potion de guérison dans la bouche de Jinho.</p><p class="">coule</p><p class="">Jinho fut surpris,</p><p class="talk">« Hein ? C’est quoi, hyungnim ? Je me sens soudainement énergisée ! »</p><p class="">Jinho était épuisé de jouer le garçon porte bagages. Une fois la potion absorbée, la lumière et l’énergie revinrent sur le visage du jeune homme. Jinwoo était satisfait.</p><p class="talk">‘Alors je pourrais utiliser ses effets comme ça.’</p><p class="">Il avait appris autre chose. Désormais, même s’ils n’avaient pas de guérisseur, Jinwoo serait capable de guérir une personne blessée avec cette méthode. Il imaginait que ce serait utile à l’avenir.</p><p class="talk">« Tiens-moi au courant si tu te sens épuisé. Il y en a plein d’autres. »</p><p class="">Ce n’était pas un acte de bonté inutile. Si le garçon qui transportait les bagages devenait plus lent à cause de la fatigue, leur vitesse de chasse diminuerait. En fin de compte, Jinwoo décida cela après avoir pesé le coût de la potion de guérison contre le taux de leur chasse. Cependant, pour Jinho, le geste avait une grande signification.</p><p class="talk">« H-hyungnim….</p><p class="">Les larmes aux yeux, Jinho traînait après Jinwoo, émerveillé par le grand cœur de l’homme.</p><hr class=""/><p class="">Jour 3</p><p class="talk">« Ah, avant que j’oublie. C’est pour toi, hyungnim. »</p><p class="">Jinho regarda dans son sac et sortit un livret de banque.</p><p class="talk">« Qu’est-ce que c’est ? »</p><p class="talk">« C’est le revenu des noyaux magiques des deux derniers jours, hyungnim. »</p><p class="talk">‘Pourquoi me donner ça en plein milieu de… gah, peu importe.’</p><p class="">Le couple se trouvait au plus profond d’un donjon rempli de bêtes magiques.</p><p class="talk">‘Six cents millions ?’</p><p class="">Les yeux de Jinwoo s’élargirent après avoir regardé à l’intérieur du livret de banque.</p><p class="talk">« Tu me donnes tous les revenus des noyaux magiques ? »</p><p class="">Jinho hocha la tête.</p><p class="talk">« Bien sûr, hyungnim. Ce n’est pas comme si je faisais un raid parce que j’avais besoin de cet argent. Plus que ça, c’est toi qui tues vraiment toutes les bêtes magiques, non ? Quel droit ai-je de penser à partager ces revenus ? »</p><p class="">Les yeux du jeune homme brillaient, espérant des louanges.</p><p class="talk">‘Oy… Regarde ce gamin…’</p><p class="">Ces derniers jours, Jinwoo avait l’impression que l’attitude de Jinho à son égard avait changé. Au début, le jeune homme l’avait suivi sans choix par peur. Maintenant, c’était comme s’il était un petit dongsaeng qui respectait vraiment son sunbae. [1]</p><p class="talk">‘Tu sais, il est adorable dans ce sens.’</p><p class="">Jinwoo sourit largement.</p><p class="talk">« Je peux prendre tout ça, pas vrai ?</p><p class="">Jinwoo gloussa et agita le livret de banque.</p><p class="talk">« D’accord, je prends ça avec gratitude, alors.</p><p class="">Jinho inclina son corps à 90 degrés. Si quelqu’un regardait de loin, il ne serait pas en mesure de dire exactement qui donnait de l’argent à qui.</p><hr class=""/><p class="">Pendant ce temps, à l’extérieur du Donjon. Les « coéquipiers » du duo avaient trouvé leur propre façon de passer le temps. Quand Jinho le chef du raid et son assistant Jinwoo entraient dans les Portes, les autres chasseurs prenaient place ici et là et s’amusaient. Comme on pouvait s’y attendre, le passe-temps le plus populaire pour un groupe d’entre eux était le « Go-Stop »[2]. Cinq des chasseurs étaient assis en cercle, jouant à ce jeu.</p><p class="talk">« Avec Ce Raid ça fait combien ?<br/>
+<strong>Compétence active</strong></p>
+<p class="strong"><strong>Coût en Mana : 5 (+1/minute)</strong></p>
+<p class="strong"><strong>Activer pour augmenter votre vitesse de déplacement de 40%.</strong><br/>
+<strong>Coûte 1 mana par minute pour le maintenir.</strong></p>
+</div>
+<p class="talk"><strong>« Votre course a renforcé vos jambes. »</strong></p>
+<p class="talk">‘La vitesse de déplacement a augmenté.’</p>
+<p>La compétence était passée de 30% à 40% d’augmentation de la vitesse de mouvement. Même une amélioration de 10 % seulement était énorme. Après tout, le sprint était sa compétence la plus utilisée.</p>
+<div class="border">
+<p class="strong"><strong>Maîtrise avancée de la dague (Lv. 1)</strong><br/>
+<strong>Compétence passive</strong></p>
+<p class="strong"><strong>Mana en Coût : 0</strong></p>
+<p class="strong"><strong>Spécifique à la dague</strong></p>
+<p class="strong"><strong>+33 % Dommages causés avec les Dagues.</strong></p>
+</div>
+<p class="talk"><strong>« Après avoir utilisé une dague pendant longtemps, vous êtes capable de les manier avec plus de maîtrise. »</strong></p>
+<p>Dommages accrus en combattant avec une dague ! Il semblerait que comme il n’avait jusqu’à présent utilisé qu’une dague, il avait reçu une compétence spécifique à la dague.</p>
+<p class="talk">‘On dirait qu’il sera moins efficace d’utiliser d’autres armes maintenant.’</p>
+<p>D’un autre côté, il sera maintenant plus efficace que jamais d’utiliser une dague. De plus, il s’était habitué à manier une dague, et il ne semblait pas qu’il changerait d’arme pour le moment.</p>
+<p class="talk">‘Enfin.’</p>
+<p>Jinwoo regarda l’autre nouvelle compétence avec intérêt.</p>
+<div class="border">
+<p class="strong"><strong>Frappe vitale (Lv. 1)</strong><br/>
+<strong>Compétence active</strong></p>
+<p class="strong"><strong>Coût en Mana : 70</strong></p>
+<p class="strong"><strong>Spécifique à la dague</strong></p>
+<p class="strong"><strong>Poignardez les organes vitaux de l’ennemi avec des dégâts mortels.</strong></p>
+</div>
+<p class="talk"><strong>« Vous avez appris à frapper efficacement. »</strong></p>
+<p>C’était aussi une compétence spécifique à la dague.</p>
+<p class="talk">‘Un moyen de frapper efficacement…’</p>
+<p>Maintenant qu’il y songeait, la dernière attaque qu’il avait utilisée sur Kang Taeshik et la dernière attaque sur le dernier zombie tout à l’heure lui avait laissé un sentiment similaire dans la main. On pourrait dire que c’était un peu plaisant. Dès qu’il poignardait avec la dague, la sensation dans sa main lui disait que le combat était terminé.</p>
+<p class="talk">‘C’était donc ‘Frappe vitale’.’</p>
+<p>Dire qu’il pourrait maintenant utiliser à plusieurs reprises la compétence qu’il avait découverte par accident !</p>
+<p>Le cœur de Jinwoo s’emballa. Après avoir coupé et poignardé sans réfléchir avec la dague jusqu’à maintenant, recevoir une compétence offensive officielle était comme trouver de l’eau dans un désert.</p>
+<p class="talk">‘Génial !’</p>
+<p>Niveau monté et nouvelles compétences.</p>
+<p>C’était un bon début.</p>
+<hr/>
+<p>Jour 2.</p>
+<div class="border">
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+</div>
+<p>Avec la nouvelle technique offensive, la vitesse de chasse était devenue beaucoup plus rapide.</p>
+<div class="border">
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+</div>
+<p>Un coup, un mort !</p>
+<p>Chaque fois que Jinwoo utilisait ‘Frappe vitale’, une bête magique tombait. Jinho regardait chaque victime avec les yeux grands ouverts.</p>
+<p class="talk">‘Où cachait-il une telle compétence ?’</p>
+<p>Quelle était la limite des capacités de Hyungnim ? Jinho ne pouvait faire autrement que d’être étonné. En même temps, il devenait curieux de savoir quel était le véritable rang de Jinwoo.</p>
+<p class="talk">‘Il a facilement battu les chasseurs de rang C, donc il est au moins de rang B…’</p>
+<p>Malheureusement, le jeune homme avait trop peur de demander directement à Jinwoo, alors il se contentait de le regarder avec la bouche ouverte.</p>
+<p>Entre-temps, Jinwoo découvrit un défaut dans la chasse avec sa nouvelle compétence.</p>
+<div class="border">
+<p class="strong"><strong>Mana insuffisant pour utiliser la compétence.</strong></p>
+<p class="strong"><strong>Mana insuffisant pour utiliser la compétence.</strong></p>
+</div>
+<p>Jinwoo grimaça d’ennui.</p>
+<p class="talk">‘Encore ?’</p>
+<p>Comme avant, Jinwoo sortit une potion de mana de son inventaire pour remplir son mana. Elle avait été achetée à l’atelier du système.</p>
+<p class="talk">« Qu’est-ce que c’est, hyungnim ? »</p>
+<p>Demanda curieusement Jinho. Chaque fois qu’il passait du temps avec Jinwoo, Jinho vivait beaucoup de choses incroyables et merveilleuses. Bien qu’il ait tenu sa langue par respect et par crainte jusqu’à présent, sa curiosité prit le dessus quand il vit Jinwoo boire ce mystérieux liquide bleu.</p>
+<p class="talk">« Ça ? »</p>
+<p>Avant de répondre, Jinwoo regarda les informations de la potion de mana.</p>
+<div class="border">
+<p class="strong"><strong>Potion de mana</strong><br/>
+<strong>Rareté : E</strong></p>
+<p class="strong"><strong>Type : Consommable</strong></p>
+<p class="strong"><strong>Boire pour récupérer 500 MP.</strong></p>
+</div>
+<p class="talk"><strong>« C’est une potion pour récupérer le mana. »</strong></p>
+<div class="border">
+<p class="strong"><strong>Vous pouvez garder cet article dans votre inventaire.</strong></p>
+<p class="strong"><strong>Ne peut être échangé. </strong></p>
+</div>
+<p class="talk">« Ne peut pas être échangé »…Je me demande ce qui se passera si j’essaie ?</p>
+<p>Jinwoo avait aussi son lot de curiosités. Il donna la potion de mana à Jinho. Au moment où le jeune homme l’attrapait, la bouteille disparut dans les airs.</p>
+<p class="talk">« C- c’était de la magie, hyungnim ? »</p>
+<p class="talk">‘Alors, c’est ce qu’ils voulaient dire par « ne peut être échangé »’</p>
+<p>Jinwoo avait appris quelque chose de nouveau. Les objets qui ne pouvaient pas être échangés disparaissaient lorsqu’ils étaient placés entre les mains de quelqu’un d’autre. Et si ça ne touchait pas leurs mains ? Jinwoo ouvrit le magasin et acheta une autre potion. Cette fois, au lieu de la potion bleue de mana, il acheta une potion de guérison rouge. Après avoir confirmé l’achat, la potion apparut dans la main de Jinwoo.</p>
+<p class="talk">« H-hyungnim ! C’était trop cool ! Le liquide est devenu rouge ! »</p>
+<p>Voyant la potion bleue de mana disparaître de ses propres mains et apparemment réapparaître dans la main de Jinwoo comme rouge, Jinho pensait regarder un tour de magie. Cependant, Jinwoo avait une raison de changer les potions.</p>
+<p class="talk">‘Je veux savoir s’il peut être « utilisé » sur une autre personne.’</p>
+<p>Jinwoo pencha le corps de Jinho.</p>
+<p class="talk">« Ouvre la bouche et penche la tête en arrière.</p>
+<p>Jinwoo versa la potion de guérison dans la bouche de Jinho.</p>
+<p>coule</p>
+<p>Jinho fut surpris,</p>
+<p class="talk">« Hein ? C’est quoi, hyungnim ? Je me sens soudainement énergisée ! »</p>
+<p>Jinho était épuisé de jouer le garçon porte bagages. Une fois la potion absorbée, la lumière et l’énergie revinrent sur le visage du jeune homme. Jinwoo était satisfait.</p>
+<p class="talk">‘Alors je pourrais utiliser ses effets comme ça.’</p>
+<p>Il avait appris autre chose. Désormais, même s’ils n’avaient pas de guérisseur, Jinwoo serait capable de guérir une personne blessée avec cette méthode. Il imaginait que ce serait utile à l’avenir.</p>
+<p class="talk">« Tiens-moi au courant si tu te sens épuisé. Il y en a plein d’autres. »</p>
+<p>Ce n’était pas un acte de bonté inutile. Si le garçon qui transportait les bagages devenait plus lent à cause de la fatigue, leur vitesse de chasse diminuerait. En fin de compte, Jinwoo décida cela après avoir pesé le coût de la potion de guérison contre le taux de leur chasse. Cependant, pour Jinho, le geste avait une grande signification.</p>
+<p class="talk">« H-hyungnim….</p>
+<p>Les larmes aux yeux, Jinho traînait après Jinwoo, émerveillé par le grand cœur de l’homme.</p>
+<hr/>
+<p>Jour 3</p>
+<p class="talk">« Ah, avant que j’oublie. C’est pour toi, hyungnim. »</p>
+<p>Jinho regarda dans son sac et sortit un livret de banque.</p>
+<p class="talk">« Qu’est-ce que c’est ? »</p>
+<p class="talk">« C’est le revenu des noyaux magiques des deux derniers jours, hyungnim. »</p>
+<p class="talk">‘Pourquoi me donner ça en plein milieu de… gah, peu importe.’</p>
+<p>Le couple se trouvait au plus profond d’un donjon rempli de bêtes magiques.</p>
+<p class="talk">‘Six cents millions ?’</p>
+<p>Les yeux de Jinwoo s’élargirent après avoir regardé à l’intérieur du livret de banque.</p>
+<p class="talk">« Tu me donnes tous les revenus des noyaux magiques ? »</p>
+<p>Jinho hocha la tête.</p>
+<p class="talk">« Bien sûr, hyungnim. Ce n’est pas comme si je faisais un raid parce que j’avais besoin de cet argent. Plus que ça, c’est toi qui tues vraiment toutes les bêtes magiques, non ? Quel droit ai-je de penser à partager ces revenus ? »</p>
+<p>Les yeux du jeune homme brillaient, espérant des louanges.</p>
+<p class="talk">‘Oy… Regarde ce gamin…’</p>
+<p>Ces derniers jours, Jinwoo avait l’impression que l’attitude de Jinho à son égard avait changé. Au début, le jeune homme l’avait suivi sans choix par peur. Maintenant, c’était comme s’il était un petit dongsaeng qui respectait vraiment son sunbae. [1]</p>
+<p class="talk">‘Tu sais, il est adorable dans ce sens.’</p>
+<p>Jinwoo sourit largement.</p>
+<p class="talk">« Je peux prendre tout ça, pas vrai ?</p>
+<p>Jinwoo gloussa et agita le livret de banque.</p>
+<p class="talk">« D’accord, je prends ça avec gratitude, alors.</p>
+<p>Jinho inclina son corps à 90 degrés. Si quelqu’un regardait de loin, il ne serait pas en mesure de dire exactement qui donnait de l’argent à qui.</p>
+<hr/>
+<p>Pendant ce temps, à l’extérieur du Donjon. Les « coéquipiers » du duo avaient trouvé leur propre façon de passer le temps. Quand Jinho le chef du raid et son assistant Jinwoo entraient dans les Portes, les autres chasseurs prenaient place ici et là et s’amusaient. Comme on pouvait s’y attendre, le passe-temps le plus populaire pour un groupe d’entre eux était le « Go-Stop »[2]. Cinq des chasseurs étaient assis en cercle, jouant à ce jeu.</p>
+<p class="talk">« Avec Ce Raid ça fait combien ?<br/>
 – Voyons… nous en avons fait trois le premier jour, deux hier, et c’est le deuxième aujourd’hui. C’est la septième ?<br/>
 – Ces deux-là peuvent-ils continuer à ce rythme ? Normalement, les raids ont tendance à prendre une semaine de repos après un seul raid, non ?<br/>
 – Eh, ne t’inquiète pas pour ces gars. Chaque fois qu’ils sortent de la Porte, ils ne transpirent même pas. En plus, on gagne trois millions à chaque fois sans rien faire. Nous ne sommes pas en position de nous plaindre. Oy, c’est ton tour.<br/>
-– Ah, d’accord. »</p><p class="">Comme ils l’avaient remarqué, Jinwoo et Jinho ne semblaient pas fatigués du tout. Ils ne le savaient pas, mais c’était dû à l’effet des potions. Grâce à cela, ils avaient fait plus du tiers des 19 raids dont ils avaient besoin. Bientôt, la Porte commença à onduler et la paire apparut devant les chasseurs qui attendaient.</p><p class="talk">« Oy, voilà le chef.<br/>
-– Debout, on se lève »</p><p class="">Les Chasseurs commencèrent à nettoyer leurs places.</p><p class="talk">« N’oublie pas vos affaires.<br/>
-– Réveillez ceux qui dorment. Assurez-vous de ne rien oublier. »</p><p class="">Les Chasseurs se déplaçaient avec une parfaite coordination. Les Chasseurs endormis se levèrent aussi rapidement et se préparèrent à bouger.</p><p class="talk">« Allons-y ! »</p><p class="">Tout le monde s’habituait à cette étrange méthode de raid.</p><hr class=""/><p class="">Bureau de la Guilde White Tiger, tout près.</p><p class="">Le chef de la deuxième division de gestion, Ahn Sangmin, était en train d’enlever un sceau tôt le matin.</p><p class="talk">« Adjoint Hyun ! La formation des nouvelles recrues est demain ! Pourquoi on n’a pas de Porte réservée ? »</p><p class="">L’adjoint Hyun Gicheol baissa la tête profondément.</p><p class="talk">« Je m’excuse, chef. Il y a eu une équipe qui a pris toutes les portes de rang C de la zone avant qu’on puisse mettre la main dessus…</p><p class="">En entendant les cris de Ahn Sangmin, toute la Deuxième Division de Gestion se tut comme lors d’un enterrement. Ahn Sangmin n’était pas aussi en colère depuis un certain temps.</p><p class="">Qu’est-ce qu’ils pensaient que la Guilde White Tiger était ?</p><p class="">C’était l’une des 5 premières Guildes de Corée du Sud.</p><p class="">Ses employés devaient être très compétents. L’adjoint Hyun Gicheol était également un employé fier qui n’avait jamais fait d’erreur jusqu’à présent. Et dire qu’un tel homme ne pourrait même pas réserver une Porte pour l’entraînement des nouvelles recrues ! C’était une grave erreur. Le chef Ahn Sangmin était à la tête de la deuxième division de gestion, qui était l’équipe chargée de recruter de nouveaux Chasseurs et de les former. (La première division de gestion était responsable de la gestion des Chasseurs officiels de la guilde).</p><p class="talk">« J-Jetez juste un coup d’œil à ça, chef ! »</p><p class="">Hyun Gicheol tendit un ordinateur portable.</p><p class="talk">« Espèce de fils de… »</p><p class="">Ahn Sangmin était sur le point de le réprimander à nouveau, mais il regarda les chiffres sur l’ordinateur portable et s’étonna du résultat,</p><p class="talk">« Deux cent cinquante millions ? Il y a quelqu’un qui a utilisé 250 millions pour réserver une porte de rang C ?! »</p><p class=""> </p><p class="">Notes du traducteur :<br/>
-[1] : Pour rappel, « dongsaeng » (동생) = « petit frère ou petite sœur », parties n/b non apparentées utilisables. « Sunbae » (선배) : « senior », c’est-à-dire quelqu’un qui est dans votre profession depuis plus longtemps que vous.<br/>
-[2] : « Go-Stop » (고스톱) : Jeu de cartes coréen.</p></body></html>
+– Ah, d’accord. »</p>
+<p>Comme ils l’avaient remarqué, Jinwoo et Jinho ne semblaient pas fatigués du tout. Ils ne le savaient pas, mais c’était dû à l’effet des potions. Grâce à cela, ils avaient fait plus du tiers des 19 raids dont ils avaient besoin. Bientôt, la Porte commença à onduler et la paire apparut devant les chasseurs qui attendaient.</p>
+<p class="talk">« Oy, voilà le chef.<br/>
+– Debout, on se lève »</p>
+<p>Les Chasseurs commencèrent à nettoyer leurs places.</p>
+<p class="talk">« N’oublie pas vos affaires.<br/>
+– Réveillez ceux qui dorment. Assurez-vous de ne rien oublier. »</p>
+<p>Les Chasseurs se déplaçaient avec une parfaite coordination. Les Chasseurs endormis se levèrent aussi rapidement et se préparèrent à bouger.</p>
+<p class="talk">« Allons-y ! »</p>
+<p>Tout le monde s’habituait à cette étrange méthode de raid.</p>
+<hr/>
+<p>Bureau de la Guilde White Tiger, tout près.</p>
+<p>Le chef de la deuxième division de gestion, Ahn Sangmin, était en train d’enlever un sceau tôt le matin.</p>
+<p class="talk">« Adjoint Hyun ! La formation des nouvelles recrues est demain ! Pourquoi on n’a pas de Porte réservée ? »</p>
+<p>L’adjoint Hyun Gicheol baissa la tête profondément.</p>
+<p class="talk">« Je m’excuse, chef. Il y a eu une équipe qui a pris toutes les portes de rang C de la zone avant qu’on puisse mettre la main dessus…</p>
+<p>En entendant les cris de Ahn Sangmin, toute la Deuxième Division de Gestion se tut comme lors d’un enterrement. Ahn Sangmin n’était pas aussi en colère depuis un certain temps.</p>
+<p>Qu’est-ce qu’ils pensaient que la Guilde White Tiger était ?</p>
+<p>C’était l’une des 5 premières Guildes de Corée du Sud.</p>
+<p>Ses employés devaient être très compétents. L’adjoint Hyun Gicheol était également un employé fier qui n’avait jamais fait d’erreur jusqu’à présent. Et dire qu’un tel homme ne pourrait même pas réserver une Porte pour l’entraînement des nouvelles recrues ! C’était une grave erreur. Le chef Ahn Sangmin était à la tête de la deuxième division de gestion, qui était l’équipe chargée de recruter de nouveaux Chasseurs et de les former. (La première division de gestion était responsable de la gestion des Chasseurs officiels de la guilde).</p>
+<p class="talk">« J-Jetez juste un coup d’œil à ça, chef ! »</p>
+<p>Hyun Gicheol tendit un ordinateur portable.</p>
+<p class="talk">« Espèce de fils de… »</p>
+<p>Ahn Sangmin était sur le point de le réprimander à nouveau, mais il regarda les chiffres sur l’ordinateur portable et s’étonna du résultat,</p>
+<p class="talk">« Deux cent cinquante millions ? Il y a quelqu’un qui a utilisé 250 millions pour réserver une porte de rang C ?! »</p>
+
+<p>Notes du traducteur :<br/>
+[1] : Pour rappel, « dongsaeng » (동생) = « petit frère ou petite sœur », parties n/b non apparentées utilisables. « Sunbae » (선배) : « senior », c’est-à-dire quelqu’un qui est dans votre profession depuis plus longtemps que vous.<br/>
+[2] : « Go-Stop » (고스톱) : Jeu de cartes coréen.</p>
+</body>
+</html>

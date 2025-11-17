@@ -1,182 +1,363 @@
-<html><body><h1>Chapter 4</h1>
-<p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">-4. Les Trois Commandements.-</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo cria en direction des autres Chasseurs.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Tout le monde ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Ils tournèrent la tête vers lui.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Vous devez vous prosterner devant la Statue de Dieu ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs inclinèrent la tête de confusion.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Se prosterner… ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Se prosterner devant ce truc ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs qui se regardaient commencèrent par lancer des jurons à Jinwoo,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Putain… Qu’est-ce que tu racontes ?! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Est-ce que c’est une situation où on peut dire quelque chose comme ça ?! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« T’es devenu fou, Jinwoo ?! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Kim avait les narines évasées.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« On dirait que je t’ai mal jugé ! Si je pouvais me lever d’ici, je te frapperais droit dans le nez ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo se mordit les lèvres.  Après tout, 6 de leurs camarades avaient été tués par la Statue de Dieu.  Dire qu’il demandait aux autres de s’incliner devant lui, c’était tout simplement invraisemblable, ce qui les avait mis en colère.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Plus important encore… »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Il n’y avait aucune preuve solide à ses suppositions.  Juste une intuition.  On ne pouvait pas facilement expliquer ou traduire en mots ce qu’ils ressentaient par instinct.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Alors qu’il hésitait entre les mots, quelqu’un parla : « Je vais le faire. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La voix venait de derrière Jinwoo.  Les Chasseurs tournèrent les yeux vers le chef du raid qui avait parlé.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« M. Song… ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Tu vas te prosterner devant cette putain de statue ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Tandis que les Chasseurs s’exprimaient avec confusion, M. Song se retourna et rencontra les yeux de Jinwoo.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Qu’as-tu découvert ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo secoua la tête.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Juste une intuition ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« …Oui, pour l’instant. »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Je vois. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">L’instinct de Jinwoo avait permis à 11 d’entre eux d’être encore en vie, eh bien, 10 après la mort de M. Joo. En tant que tel, n’en valait-il pas la peine d’essayer de lui faire confiance ? C’est ce que M. Song croyait.  Alors que le chef du raid s’inclinait devant la Statue de Dieu, l’humeur dans l’air devint plus sombre.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Tu vas vraiment le faire ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Profitant de l’occasion offerte par M. Song, Jinwoo prit la parole,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« S’il vous plaît ! Inclinez-vous devant la statue de Dieu.  C’est peut-être notre seul moyen de sortir d’ici vivants ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Vivant.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">De sortir d’ici vivant.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Cette phrase atteignit les oreilles des autres avec un grand poids.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Sortir d’ici vivant ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« On peut sortir d’ici ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Juste en s’inclinant devant cette chose ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Un à un, les Chasseurs hésitants commencèrent à se prosterner devant la statue, imitant une scène de culte.  Finalement, même M. Kim, en colère, finit par s’incliner devant la statue.  Cependant, il n’y avait pas de réponse de la Statue de Dieu.  Ses deux yeux brillaient encore de la terrifiante lumière cramoisie.  Jinwoo sentit son cœur s’enfoncer dans son estomac.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Avais-je tort ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Et son regard se tourna vers Juhee à ses côtés.  Allongée sur le sol, les mains couvrant la tête, il était difficile de dire qu’elle était prosterner devant la statue.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ah… »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo saisit doucement le poignet de Juhee.  Surprise, Juhee le regarda comme une proie terrifiée.  Il hocha la tête sans rien dire, puis lâcha la main.  Lentement, Jinwoo aida Juhee à se mettre en position d’adoration devant la statue de Dieu.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ça devrait le faire. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Et puis il y en avait un.  Lui-même.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo fit face à la statue, s’agenouilla, puis posa les mains par terre et inclina lentement la tête.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Et un changement se produisit.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Oh, ooh ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs qui l’avaient remarqué commencèrent à faire du bruit.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« La Statue de Dieu ? Regardez tous la statue de Dieu ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ses yeux ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La lumière cramoisie qui ornait les yeux de la statue se dissipait.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Quoi ? Tu veux dire que ça marche vraiment ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Et comme ça, les lumières disparurent complètement des yeux de la statue.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs acclamèrent à l’unisson.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« La lumière a disparu ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Nous sommes vivants ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs excités se levèrent de leurs positions et applaudirent, mais la Statue de Dieu ne réagit pas.  Jinwoo, qui emboîta le pas, soupira de soulagement.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Phew-« </p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Comme il l’avait deviné.  Cette salle fonctionnait selon un ensemble de règles et de conditions, tout comme un jeu.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Si c’est vrai, »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La partie n’était pas encore terminée.  Il y avait deux autres commandements.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Deuxièmement : Louez le Seigneur ; Troisièmement : Prouvez votre foi.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Soudain, avec un grondement profond, toute la pièce se mit à trembler.  L’expression de Jinwoo devint rigide.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Comme je le pensais…</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Ses suppositions étaient correctes.  Ce n’était pas fini.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La statue de l’énorme corps de Dieu s’élevait lentement de son siège.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Eh, hein ?! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les chasseurs qui fêtaient ensemble avec des larmes de joie se figèrent.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Quoi ? Quoi ?! Ce n’était pas fini ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Non, c’est impossible ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Gelés par la peur, les chasseurs ne pouvaient pas en dire plus.  Leurs visages étaient remplis de terreur et de désespoir.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Non… non… »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La statue de Dieu se mit debout.  Il regarda autour de lui, s’approcha des alentours, puis se mit à marcher vers les Chasseurs.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">A chaque pas qu’elle faisait, la Statue de Dieu secouait la terre.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Sa silhouette imposante était telle que sa tête atteignait presque le plafond.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Sa taille à elle seule mettait la pression sur les Chasseurs, ce qui réduisait lentement l’écart entre eux et lui.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Hé, M. Sung ! M. Jinwoo ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Qu’est-ce qu’on fait ?! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les chasseurs qui maudissaient Jinwoo il y a quelques instants se tournaient maintenant vers lui à la recherche d’espoir.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Il y a autre chose qu’on doit faire ?! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Dis quelque chose ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Même adultes, les Chasseurs étaient sur le point de s’effondrer en larmes.  Pourtant, ils considéraient Jinwoo comme leur seul espoir.  Jinwoo aida soigneusement Juhee, figée par la peur, à se relever, et il lui expliqua le Second Commandement.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Il a dit :  » Louez le Seigneur  » c’est notre indice. »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ah, ça c’est ! » M. Kim parla en connaissance de cause : « C’était écrit sur la tablette, non ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« C’est vrai, « Louez le Seigneur », « Prouvez votre foi », nous devons accomplir les trois commandements. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les mots de Jinwoo étaient pleins d’urgence.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM~ !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Avec un dernier pas, la Statue de Dieu était déjà arrivée devant leur groupe.  Son ombre gigantesque couvrait les Chasseurs, dont les visages devenaient pâles.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Je vais essayer. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">L’un des chasseurs, normalement timide et jeune, s’avança.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Hé ! Qu’est-ce que tu vas essayer ?! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Je fais partie de la chorale de mon église.  Si c’est un  » louange « , j’ai confiance. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Le jeune homme répondit à M. Kim et se dirigea vers la statue de Dieu.  En approchant de la statue, il prit une grande respiration et se mit à chanter,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« ~Alors que je marche vers le Seigneur~  » Sa voix juvénile résonna dans toute la pièce.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« ~Renouvelez-moi et donnez-moi votre bénédiction~ »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La statue de Dieu s’arrêta devant lui.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les chasseurs sursautèrent de surprise et de crainte.  Comme satisfaite par le chant, la Statue de Dieu restait immobile.  Tous les autres sons de la pièce disparurent, seule la voix de l’adolescent était entendue dans la pièce.  Prenant courage en voyant le résultat apparent, le Chasseur renforça sa voix et continua à chanter,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« ~Toutes mes faiblesses seront lavées par la grâce de mon Seigneur~ »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Au milieu des Chasseurs pleins d’espoir, Jinwoo n’arrivait pas à se débarrasser de ce sentiment de malaise.  Le sentiment qu’il leur manquait quelque chose.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Non… c’est tout faux. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Il n’arrêtait pas de se répéter.  Cette pièce avait ses propres règles.  En ce moment, le jeune Chasseur suivait la règle du christianisme, pas celle de cette pièce.  Mais heureusement, la Statue de Dieu ne bougeait pas.  C’était peut-être suffisant pour satisfaire aux conditions ?</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo pencha la tête.  La raison pour laquelle il n’avait pas arrêté de chanter était qu’il ne pouvait penser à aucun autre moyen d’arrêter la Statue de Dieu.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Soudainement,</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Un grand fracas interrompit le chant, suivi d’un cri,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Kiyaaaaaaaah ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Quand la Statue de Dieu leva à nouveau le pied, les restes mutilés du Chasseur qui chantait tombèrent de sa semelle.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les autres chasseurs se mirent à crier aussi.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ahhhhh ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Uwaaaaaak ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Le visage de la Statue de Dieu, autrefois sans émotion, était maintenant rempli d’une rage incroyable.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Il est en colère ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« C- Courez ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les Chasseurs s’enfuirent rapidement loin de la Statue.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Kiyaaaaaaah !!!!! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Après avoir perdu toute pensée et toute raison en voyant le jeune homme se faire écraser par le pied de la Statue de Dieu, une Chasseuse se tint simplement en place et cria.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">‘Merde… !’</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo, qui courait avec Juhee dans les bras, se retourna rapidement pour essayer de l’aider.  Mais il fut bloqué par M. Song.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ahjussi… ? »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« C’est trop tard ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Comme une mouche, la Statue de Dieu écrasa la Chasseuse avec sa main.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BANG !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo se détourna.  C’était une scène atroce dont il ne pouvait pas être témoin.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« On ne peut pas traîner ici !  Essaies-tu de faire tuer cette jeune femme aussi ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">A la réprimande de M. Song, Jinwoo revint à lui.  M. Song avait raison.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Uwaaaaak ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Aidez-moi ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Ne marchant plus, la Statue de Dieu courait de chasseur en chasseur, les écrasant sous ses pieds.  A chaque pas, il secouait tout le temple.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo courait les dents serrées.  Les yeux fermés, Juhee s’accrocha à Jinwoo pendant qu’ils couraient.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Séparons-nous ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« D’accord ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Sachant que courir ensemble en faisait une meilleure cible, Jinwoo et M. Song se séparèrent l’un de l’autre.  Tentant de maintenir la plus grande distance entre eux et la Statue de Dieu, Jinwoo courut vers un endroit près des murs.  Il vit que M. Park était déjà là, ayant couru de toutes ses forces, sachant qu’il y avait plus en jeu pour lui que sa propre vie.  L’image de sa famille se reflétait sur ses yeux larmoyants.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Son fils, qui ressemblait à son père.  Sa femme, avec son deuxième enfant.  M. Park ne pouvait pas se permettre de mourir dans un tel endroit.  Utilisant toutes ses forces, M. Park atteignit les murs plus vite que les autres chasseurs.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Huff… Huff… »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Soudain, M. Kim, qui était ami avec l’homme, cria en haletant à M. Park.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« M. Park ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">À la voix familière, M. Park se tourna vers M. Kim,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Hmm ? »</p><p class="" style="text-align:left;">
-</p><p class="">Kim fit un geste vers le dos de M. Park et cria,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Tourne ! Tourne-toi ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Et quelque chose de pointu éclata derrière M. Park.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Hein…. ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">slash-</p><p class="" style="text-align:left;">
-</p><p class="">Park fut fendu proprement du haut de la tête jusqu’à la base de l’entrejambe. Les côtés uniformément séparés de son corps tombaient dans des directions différentes sur le sol.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« MR. PARK !!! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">La statue qui avait tranché M. Park en deux avec son épée retourna simplement et prit place sur les murs, comme si rien ne s’était passé.</p><p class="" style="text-align:left;">
-</p><p class="">Kim retint les larmes aux yeux en voyant la mort de son ami.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ces putains de pièces de… ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">BOOM !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Derrière lui, la Statue de Dieu géante allait de Chasseur en Chasseur, les écrasant avec ses pieds.  Ceux qui s’étaient enfuis vers les murs furent attaqués par les statues.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Ahhhhhhh ! »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Mon bras ! Mon bras ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">L’intérieur du temple était devenu une zone de terreur et de carnage.</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Jinwoo haleta sauvagement pendant qu’il courait, son front dégoulinant de sueurs froides.  Ses jambes devenaient de plus en plus lourdes, son souffle de moins en moins profond.  Mais sa tête était remplie d’une seule pensée, répétée encore et encore :</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Louez le Seigneur. Louez le Seigneur. Louez le Seigneur. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Le second commandement était dans sa tête. La clé pour résoudre la signification des commandements doit être cachée dans cette pièce.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Il doit bien y avoir quelque chose qu’on est censés utiliser !</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Mais quand les chasseurs étaient initialement entrés dans le temple et avaient regardé autour d’eux, ils n’avaient trouvé aucun outil ou mécanisme.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« La seule chose ici, ce sont ces satanées statues. »</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Attendez. »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Une pensée surgit dans la tête de Jinwoo.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« La seule chose qu’il y a ici, ce sont ces statues ? »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Les yeux de Jinwoo s’élargirent.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Pourquoi n’y ai-je pas pensé ?! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Si les statues étaient la seule chose dans cette pièce.  Alors les statues doivent être la clé pour résoudre le mystère.  Les statues ne bougeaient que lorsque quelqu’un pénétrait dans leur zone. Cela doit être la clé pour les utiliser d’une certaine manière.</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« Si c’est exact… ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">Rassemblant l’énergie qu’il lui restait, Jinwoo cria à travers son souffle haletant,</p><p class="" style="text-align:left;">
-</p><p class="talk" style="text-align:left;">« TOUT LE MONDE, DIRIGEZ-VOUS VERS LES STATUES AVEC DES INSTRUMENTS ! »</p><p class="" style="text-align:left;">
-</p><p class="" style="text-align:left;">
-</p></body></html>
+<html>
+<body>
+<h1>Chapter 4</h1>
+
+<p class="talk" style="text-align:left;">-4. Les Trois Commandements.-</p>
+
+<p style="text-align:left;">Jinwoo cria en direction des autres Chasseurs.</p>
+
+<p class="talk" style="text-align:left;">« Tout le monde ! »</p>
+
+<p style="text-align:left;">Ils tournèrent la tête vers lui.</p>
+
+<p class="talk" style="text-align:left;">« Vous devez vous prosterner devant la Statue de Dieu ! »</p>
+
+<p style="text-align:left;">Les Chasseurs inclinèrent la tête de confusion.</p>
+
+<p class="talk" style="text-align:left;">« Se prosterner… ? »</p>
+
+<p class="talk" style="text-align:left;">« Se prosterner devant ce truc ? »</p>
+
+<p style="text-align:left;">Les Chasseurs qui se regardaient commencèrent par lancer des jurons à Jinwoo,</p>
+
+<p class="talk" style="text-align:left;">« Putain… Qu’est-ce que tu racontes ?! »</p>
+
+<p class="talk" style="text-align:left;">« Est-ce que c’est une situation où on peut dire quelque chose comme ça ?! »</p>
+
+<p class="talk" style="text-align:left;">« T’es devenu fou, Jinwoo ?! »</p>
+
+<p style="text-align:left;">Kim avait les narines évasées.</p>
+
+<p class="talk" style="text-align:left;">« On dirait que je t’ai mal jugé ! Si je pouvais me lever d’ici, je te frapperais droit dans le nez ! »</p>
+
+<p style="text-align:left;">Jinwoo se mordit les lèvres. Après tout, 6 de leurs camarades avaient été tués par la Statue de Dieu. Dire qu’il demandait aux autres de s’incliner devant lui, c’était tout simplement invraisemblable, ce qui les avait mis en colère.</p>
+
+<p class="talk" style="text-align:left;">« Plus important encore… »</p>
+
+<p style="text-align:left;">Il n’y avait aucune preuve solide à ses suppositions. Juste une intuition. On ne pouvait pas facilement expliquer ou traduire en mots ce qu’ils ressentaient par instinct.</p>
+
+<p style="text-align:left;">Alors qu’il hésitait entre les mots, quelqu’un parla : « Je vais le faire. »</p>
+
+<p style="text-align:left;">La voix venait de derrière Jinwoo. Les Chasseurs tournèrent les yeux vers le chef du raid qui avait parlé.</p>
+
+<p class="talk" style="text-align:left;">« M. Song… ? »</p>
+
+<p class="talk" style="text-align:left;">« Tu vas te prosterner devant cette putain de statue ? »</p>
+
+<p style="text-align:left;">Tandis que les Chasseurs s’exprimaient avec confusion, M. Song se retourna et rencontra les yeux de Jinwoo.</p>
+
+<p class="talk" style="text-align:left;">« Qu’as-tu découvert ? »</p>
+
+<p style="text-align:left;">Jinwoo secoua la tête.</p>
+
+<p class="talk" style="text-align:left;">« Juste une intuition ? »</p>
+
+<p class="talk" style="text-align:left;">« …Oui, pour l’instant. »</p>
+
+<p class="talk" style="text-align:left;">« Je vois. »</p>
+
+<p style="text-align:left;">L’instinct de Jinwoo avait permis à 11 d’entre eux d’être encore en vie, eh bien, 10 après la mort de M. Joo. En tant que tel, n’en valait-il pas la peine d’essayer de lui faire confiance ? C’est ce que M. Song croyait. Alors que le chef du raid s’inclinait devant la Statue de Dieu, l’humeur dans l’air devint plus sombre.</p>
+
+<p class="talk" style="text-align:left;">« Tu vas vraiment le faire ? »</p>
+
+<p style="text-align:left;">Profitant de l’occasion offerte par M. Song, Jinwoo prit la parole,</p>
+
+<p class="talk" style="text-align:left;">« S’il vous plaît ! Inclinez-vous devant la statue de Dieu. C’est peut-être notre seul moyen de sortir d’ici vivants ! »</p>
+
+<p style="text-align:left;">Vivant.</p>
+
+<p style="text-align:left;">De sortir d’ici vivant.</p>
+
+<p style="text-align:left;">Cette phrase atteignit les oreilles des autres avec un grand poids.</p>
+
+<p class="talk" style="text-align:left;">« Sortir d’ici vivant ? »</p>
+
+<p class="talk" style="text-align:left;">« On peut sortir d’ici ? »</p>
+
+<p class="talk" style="text-align:left;">« Juste en s’inclinant devant cette chose ? »</p>
+
+<p style="text-align:left;">Un à un, les Chasseurs hésitants commencèrent à se prosterner devant la statue, imitant une scène de culte. Finalement, même M. Kim, en colère, finit par s’incliner devant la statue. Cependant, il n’y avait pas de réponse de la Statue de Dieu. Ses deux yeux brillaient encore de la terrifiante lumière cramoisie. Jinwoo sentit son cœur s’enfoncer dans son estomac.</p>
+
+<p class="talk" style="text-align:left;">« Avais-je tort ? »</p>
+
+<p style="text-align:left;">Et son regard se tourna vers Juhee à ses côtés. Allongée sur le sol, les mains couvrant la tête, il était difficile de dire qu’elle était prosterner devant la statue.</p>
+
+<p class="talk" style="text-align:left;">« Ah… »</p>
+
+<p style="text-align:left;">Jinwoo saisit doucement le poignet de Juhee. Surprise, Juhee le regarda comme une proie terrifiée. Il hocha la tête sans rien dire, puis lâcha la main. Lentement, Jinwoo aida Juhee à se mettre en position d’adoration devant la statue de Dieu.</p>
+
+<p class="talk" style="text-align:left;">« Ça devrait le faire. »</p>
+
+<p style="text-align:left;">Et puis il y en avait un. Lui-même.</p>
+
+<p style="text-align:left;">Jinwoo fit face à la statue, s’agenouilla, puis posa les mains par terre et inclina lentement la tête.</p>
+
+<p style="text-align:left;">Et un changement se produisit.</p>
+
+<p class="talk" style="text-align:left;">« Oh, ooh ? »</p>
+
+<p style="text-align:left;">Les Chasseurs qui l’avaient remarqué commencèrent à faire du bruit.</p>
+
+<p class="talk" style="text-align:left;">« La Statue de Dieu ? Regardez tous la statue de Dieu ! »</p>
+
+<p class="talk" style="text-align:left;">« Ses yeux ! »</p>
+
+<p style="text-align:left;">La lumière cramoisie qui ornait les yeux de la statue se dissipait.</p>
+
+<p class="talk" style="text-align:left;">« Quoi ? Tu veux dire que ça marche vraiment ? »</p>
+
+<p style="text-align:left;">Et comme ça, les lumières disparurent complètement des yeux de la statue.</p>
+
+<p style="text-align:left;">Les Chasseurs acclamèrent à l’unisson.</p>
+
+<p class="talk" style="text-align:left;">« La lumière a disparu ! »</p>
+
+<p class="talk" style="text-align:left;">« Nous sommes vivants ! »</p>
+
+<p style="text-align:left;">Les Chasseurs excités se levèrent de leurs positions et applaudirent, mais la Statue de Dieu ne réagit pas. Jinwoo, qui emboîta le pas, soupira de soulagement.</p>
+
+<p class="talk" style="text-align:left;">« Phew-« </p>
+
+<p style="text-align:left;">Comme il l’avait deviné. Cette salle fonctionnait selon un ensemble de règles et de conditions, tout comme un jeu.</p>
+
+<p class="talk" style="text-align:left;">« Si c’est vrai, »</p>
+
+<p style="text-align:left;">La partie n’était pas encore terminée. Il y avait deux autres commandements.</p>
+
+<p style="text-align:left;">Deuxièmement : Louez le Seigneur ; Troisièmement : Prouvez votre foi.</p>
+
+<p style="text-align:left;">Soudain, avec un grondement profond, toute la pièce se mit à trembler. L’expression de Jinwoo devint rigide.</p>
+
+<p style="text-align:left;">Comme je le pensais…</p>
+
+<p style="text-align:left;">Ses suppositions étaient correctes. Ce n’était pas fini.</p>
+
+<p style="text-align:left;">La statue de l’énorme corps de Dieu s’élevait lentement de son siège.</p>
+
+<p class="talk" style="text-align:left;">« Eh, hein ?! »</p>
+
+<p style="text-align:left;">Les chasseurs qui fêtaient ensemble avec des larmes de joie se figèrent.</p>
+
+<p class="talk" style="text-align:left;">« Quoi ? Quoi ?! Ce n’était pas fini ? »</p>
+
+<p class="talk" style="text-align:left;">« Non, c’est impossible ! »</p>
+
+<p style="text-align:left;">Gelés par la peur, les chasseurs ne pouvaient pas en dire plus. Leurs visages étaient remplis de terreur et de désespoir.</p>
+
+<p class="talk" style="text-align:left;">« Non… non… »</p>
+
+<p style="text-align:left;">La statue de Dieu se mit debout. Il regarda autour de lui, s’approcha des alentours, puis se mit à marcher vers les Chasseurs.</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">A chaque pas qu’elle faisait, la Statue de Dieu secouait la terre.</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">Sa silhouette imposante était telle que sa tête atteignait presque le plafond.</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">Sa taille à elle seule mettait la pression sur les Chasseurs, ce qui réduisait lentement l’écart entre eux et lui.</p>
+
+<p class="talk" style="text-align:left;">« Hé, M. Sung ! M. Jinwoo ! »</p>
+
+<p class="talk" style="text-align:left;">« Qu’est-ce qu’on fait ?! »</p>
+
+<p style="text-align:left;">Les chasseurs qui maudissaient Jinwoo il y a quelques instants se tournaient maintenant vers lui à la recherche d’espoir.</p>
+
+<p class="talk" style="text-align:left;">« Il y a autre chose qu’on doit faire ?! »</p>
+
+<p class="talk" style="text-align:left;">« Dis quelque chose ! »</p>
+
+<p style="text-align:left;">Même adultes, les Chasseurs étaient sur le point de s’effondrer en larmes. Pourtant, ils considéraient Jinwoo comme leur seul espoir. Jinwoo aida soigneusement Juhee, figée par la peur, à se relever, et il lui expliqua le Second Commandement.</p>
+
+<p class="talk" style="text-align:left;">« Il a dit : » Louez le Seigneur » c’est notre indice. »</p>
+
+<p class="talk" style="text-align:left;">« Ah, ça c’est ! » M. Kim parla en connaissance de cause : « C’était écrit sur la tablette, non ? »</p>
+
+<p class="talk" style="text-align:left;">« C’est vrai, « Louez le Seigneur », « Prouvez votre foi », nous devons accomplir les trois commandements. »</p>
+
+<p style="text-align:left;">Les mots de Jinwoo étaient pleins d’urgence.</p>
+
+<p style="text-align:left;">BOOM~ !</p>
+
+<p style="text-align:left;">Avec un dernier pas, la Statue de Dieu était déjà arrivée devant leur groupe. Son ombre gigantesque couvrait les Chasseurs, dont les visages devenaient pâles.</p>
+
+<p class="talk" style="text-align:left;">« Je vais essayer. »</p>
+
+<p style="text-align:left;">L’un des chasseurs, normalement timide et jeune, s’avança.</p>
+
+<p class="talk" style="text-align:left;">« Hé ! Qu’est-ce que tu vas essayer ?! »</p>
+
+<p class="talk" style="text-align:left;">« Je fais partie de la chorale de mon église. Si c’est un » louange « , j’ai confiance. »</p>
+
+<p style="text-align:left;">Le jeune homme répondit à M. Kim et se dirigea vers la statue de Dieu. En approchant de la statue, il prit une grande respiration et se mit à chanter,</p>
+
+<p class="talk" style="text-align:left;">« ~Alors que je marche vers le Seigneur~ » Sa voix juvénile résonna dans toute la pièce.</p>
+
+<p class="talk" style="text-align:left;">« ~Renouvelez-moi et donnez-moi votre bénédiction~ »</p>
+
+<p style="text-align:left;">La statue de Dieu s’arrêta devant lui.</p>
+
+<p style="text-align:left;">Les chasseurs sursautèrent de surprise et de crainte. Comme satisfaite par le chant, la Statue de Dieu restait immobile. Tous les autres sons de la pièce disparurent, seule la voix de l’adolescent était entendue dans la pièce. Prenant courage en voyant le résultat apparent, le Chasseur renforça sa voix et continua à chanter,</p>
+
+<p class="talk" style="text-align:left;">« ~Toutes mes faiblesses seront lavées par la grâce de mon Seigneur~ »</p>
+
+<p style="text-align:left;">Au milieu des Chasseurs pleins d’espoir, Jinwoo n’arrivait pas à se débarrasser de ce sentiment de malaise. Le sentiment qu’il leur manquait quelque chose.</p>
+
+<p class="talk" style="text-align:left;">« Non… c’est tout faux. »</p>
+
+<p style="text-align:left;">Il n’arrêtait pas de se répéter. Cette pièce avait ses propres règles. En ce moment, le jeune Chasseur suivait la règle du christianisme, pas celle de cette pièce. Mais heureusement, la Statue de Dieu ne bougeait pas. C’était peut-être suffisant pour satisfaire aux conditions ?</p>
+
+<p style="text-align:left;">Jinwoo pencha la tête. La raison pour laquelle il n’avait pas arrêté de chanter était qu’il ne pouvait penser à aucun autre moyen d’arrêter la Statue de Dieu.</p>
+
+<p style="text-align:left;">Soudainement,</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">Un grand fracas interrompit le chant, suivi d’un cri,</p>
+
+<p class="talk" style="text-align:left;">« Kiyaaaaaaaah ! »</p>
+
+<p style="text-align:left;">Quand la Statue de Dieu leva à nouveau le pied, les restes mutilés du Chasseur qui chantait tombèrent de sa semelle.</p>
+
+<p style="text-align:left;">Les autres chasseurs se mirent à crier aussi.</p>
+
+<p class="talk" style="text-align:left;">« Ahhhhh ! »</p>
+
+<p class="talk" style="text-align:left;">« Uwaaaaaak ! »</p>
+
+<p style="text-align:left;">Le visage de la Statue de Dieu, autrefois sans émotion, était maintenant rempli d’une rage incroyable.</p>
+
+<p class="talk" style="text-align:left;">« Il est en colère ! »</p>
+
+<p class="talk" style="text-align:left;">« C- Courez ! »</p>
+
+<p style="text-align:left;">Les Chasseurs s’enfuirent rapidement loin de la Statue.</p>
+
+<p class="talk" style="text-align:left;">« Kiyaaaaaaah !!!!! »</p>
+
+<p style="text-align:left;">Après avoir perdu toute pensée et toute raison en voyant le jeune homme se faire écraser par le pied de la Statue de Dieu, une Chasseuse se tint simplement en place et cria.</p>
+
+<p class="talk" style="text-align:left;">‘Merde… !’</p>
+
+<p style="text-align:left;">Jinwoo, qui courait avec Juhee dans les bras, se retourna rapidement pour essayer de l’aider. Mais il fut bloqué par M. Song.</p>
+
+<p class="talk" style="text-align:left;">« Ahjussi… ? »</p>
+
+<p class="talk" style="text-align:left;">« C’est trop tard ! »</p>
+
+<p style="text-align:left;">Comme une mouche, la Statue de Dieu écrasa la Chasseuse avec sa main.</p>
+
+<p style="text-align:left;">BANG !</p>
+
+<p style="text-align:left;">Jinwoo se détourna. C’était une scène atroce dont il ne pouvait pas être témoin.</p>
+
+<p class="talk" style="text-align:left;">« On ne peut pas traîner ici ! Essaies-tu de faire tuer cette jeune femme aussi ? »</p>
+
+<p style="text-align:left;">A la réprimande de M. Song, Jinwoo revint à lui. M. Song avait raison.</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p class="talk" style="text-align:left;">« Uwaaaaak ! »</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p class="talk" style="text-align:left;">« Aidez-moi ! »</p>
+
+<p style="text-align:left;">Ne marchant plus, la Statue de Dieu courait de chasseur en chasseur, les écrasant sous ses pieds. A chaque pas, il secouait tout le temple.</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">Jinwoo courait les dents serrées. Les yeux fermés, Juhee s’accrocha à Jinwoo pendant qu’ils couraient.</p>
+
+<p class="talk" style="text-align:left;">« Séparons-nous ! »</p>
+
+<p class="talk" style="text-align:left;">« D’accord ! »</p>
+
+<p style="text-align:left;">Sachant que courir ensemble en faisait une meilleure cible, Jinwoo et M. Song se séparèrent l’un de l’autre. Tentant de maintenir la plus grande distance entre eux et la Statue de Dieu, Jinwoo courut vers un endroit près des murs. Il vit que M. Park était déjà là, ayant couru de toutes ses forces, sachant qu’il y avait plus en jeu pour lui que sa propre vie. L’image de sa famille se reflétait sur ses yeux larmoyants.</p>
+
+<p style="text-align:left;">Son fils, qui ressemblait à son père. Sa femme, avec son deuxième enfant. M. Park ne pouvait pas se permettre de mourir dans un tel endroit. Utilisant toutes ses forces, M. Park atteignit les murs plus vite que les autres chasseurs.</p>
+
+<p class="talk" style="text-align:left;">« Huff… Huff… »</p>
+
+<p style="text-align:left;">Soudain, M. Kim, qui était ami avec l’homme, cria en haletant à M. Park.</p>
+
+<p class="talk" style="text-align:left;">« M. Park ! »</p>
+
+<p style="text-align:left;">À la voix familière, M. Park se tourna vers M. Kim,</p>
+
+<p class="talk" style="text-align:left;">« Hmm ? »</p>
+
+<p>Kim fit un geste vers le dos de M. Park et cria,</p>
+
+<p class="talk" style="text-align:left;">« Tourne ! Tourne-toi ! »</p>
+
+<p style="text-align:left;">Et quelque chose de pointu éclata derrière M. Park.</p>
+
+<p class="talk" style="text-align:left;">« Hein…. ? »</p>
+
+<p style="text-align:left;">slash-</p>
+
+<p>Park fut fendu proprement du haut de la tête jusqu’à la base de l’entrejambe. Les côtés uniformément séparés de son corps tombaient dans des directions différentes sur le sol.</p>
+
+<p class="talk" style="text-align:left;">« MR. PARK !!! »</p>
+
+<p style="text-align:left;">La statue qui avait tranché M. Park en deux avec son épée retourna simplement et prit place sur les murs, comme si rien ne s’était passé.</p>
+
+<p>Kim retint les larmes aux yeux en voyant la mort de son ami.</p>
+
+<p class="talk" style="text-align:left;">« Ces putains de pièces de… ! »</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">BOOM !</p>
+
+<p style="text-align:left;">Derrière lui, la Statue de Dieu géante allait de Chasseur en Chasseur, les écrasant avec ses pieds. Ceux qui s’étaient enfuis vers les murs furent attaqués par les statues.</p>
+
+<p class="talk" style="text-align:left;">« Ahhhhhhh ! »</p>
+
+<p class="talk" style="text-align:left;">« Mon bras ! Mon bras ! »</p>
+
+<p style="text-align:left;">L’intérieur du temple était devenu une zone de terreur et de carnage.</p>
+
+<p style="text-align:left;">Jinwoo haleta sauvagement pendant qu’il courait, son front dégoulinant de sueurs froides. Ses jambes devenaient de plus en plus lourdes, son souffle de moins en moins profond. Mais sa tête était remplie d’une seule pensée, répétée encore et encore :</p>
+
+<p class="talk" style="text-align:left;">« Louez le Seigneur. Louez le Seigneur. Louez le Seigneur. »</p>
+
+<p style="text-align:left;">Le second commandement était dans sa tête. La clé pour résoudre la signification des commandements doit être cachée dans cette pièce.</p>
+
+<p class="talk" style="text-align:left;">« Il doit bien y avoir quelque chose qu’on est censés utiliser !</p>
+
+<p style="text-align:left;">Mais quand les chasseurs étaient initialement entrés dans le temple et avaient regardé autour d’eux, ils n’avaient trouvé aucun outil ou mécanisme.</p>
+
+<p class="talk" style="text-align:left;">« La seule chose ici, ce sont ces satanées statues. »</p>
+
+<p class="talk" style="text-align:left;">« Attendez. »</p>
+
+<p style="text-align:left;">Une pensée surgit dans la tête de Jinwoo.</p>
+
+<p class="talk" style="text-align:left;">« La seule chose qu’il y a ici, ce sont ces statues ? »</p>
+
+<p style="text-align:left;">Les yeux de Jinwoo s’élargirent.</p>
+
+<p class="talk" style="text-align:left;">« Pourquoi n’y ai-je pas pensé ?! »</p>
+
+<p style="text-align:left;">Si les statues étaient la seule chose dans cette pièce. Alors les statues doivent être la clé pour résoudre le mystère. Les statues ne bougeaient que lorsque quelqu’un pénétrait dans leur zone. Cela doit être la clé pour les utiliser d’une certaine manière.</p>
+
+<p class="talk" style="text-align:left;">« Si c’est exact… ! »</p>
+
+<p style="text-align:left;">Rassemblant l’énergie qu’il lui restait, Jinwoo cria à travers son souffle haletant,</p>
+
+<p class="talk" style="text-align:left;">« TOUT LE MONDE, DIRIGEZ-VOUS VERS LES STATUES AVEC DES INSTRUMENTS ! »</p>
+
+
+</body>
+</html>

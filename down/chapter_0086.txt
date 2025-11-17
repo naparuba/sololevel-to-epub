@@ -1,21 +1,165 @@
-<html><body><h1>Chapter 86</h1>
-<p class=""> </p><p class="">C’était une longue distance qui était en même temps courte.</p><p class="">Concentrant un peu de force dans ses jambes, Jinwoo sauta et s’éloigna immédiatement du sol. Quand il atterrit, il était derrière les grands dos des hauts orcs.</p><p class="">marche</p><p class="">Avec l’atterrissage, une énigme se posa dans sa tête.</p><p class="talk">‘C’est facile pour moi de tuer les hauts orcs comme ça.’</p><p class="">Mais alors il n’y avait pas de raison d’utiliser ‘Furtivité’. Y compris Son Gihoon, les Chasseurs ici présents pouvaient être considérés comme étant les meilleurs du pays. S’ils voyaient les hauts orcs déchirer par une force invisible, chacun d’entre eux se rendrait rapidement compte que quelqu’un utilisait ‘Furtivité’. Et bien, presque chacun… La Chasseuse naïve n’avait pas réalisé.</p><p class="talk">‘Ce n’est pas comme si ça n’avait pas d’importance si je me faisais prendre.’</p><p class="">Néanmoins, avec son nouveau test qui approchait, il ne voulait pas attirer la colère inutile de la Guilde Hunters. À cause de cela, Jinwoo avait prévu d’attendre jusqu’à ce que le raid ait complètement échoué… Mais il semblait que le mal causé aux Chasseurs allait être trop grand. La Guérisseuse avait déjà failli mourir à l’instant.</p><p class="">Et ainsi de suite.</p><p class="">Une lumière se rassembla dans les yeux de Jinwoo.</p><p class="talk">‘Je dois agir sans me faire remarquer.’</p><p class="">Il décida de son attitude face à cette bataille. Il fallut à Jinwoo environ une, voire deux secondes pour réfléchir à l’ensemble du passage ci-dessus. Un instant plus tard, le Tanto de Baruka et le Tueur de Chevalier étaient dans ses mains. Ces jours-ci, les dagues étaient invoquées avant même d’avoir donné l’ordre mental.</p><p class="talk">‘Quand les ai-je appelés ?’</p><p class="">Au milieu de la bataille, Jinwoo sourit avec amusement. Les poignées familières des dagues calmèrent son cœur qui battait. Dieu merci, il ne pouvait pas le voir en ce moment. Il aurait eu l’air d’un fou, souriant au milieu de cette mêlée chaotique. Le chef du Raid en sueur qui repoussait trois hauts orcs aurait été furieux.</p><p class="talk">‘D’abord, ces types.’</p><p class="">Jinwoo passa à l’action. Le corps abaissé, il maniait les dagues en prise inversée et taillada le tendon d’Achille d’un orc de haut calibre.</p><p class="talk">« Kuaaaaaaaak ! »</p><p class="">Quand ses tendons furent découpées comme par magie, le guerrier orc s’écria de douleur.</p><p class="">Ce n’était que le début.</p><p class="">Avec des mouvements fluides que l’on pourrait qualifier de danse, Jinwoo se faufilait entre les hauts orcs. L’un avait été poignardé par le tanto de Baruka dans les côtes. Un autre avait été coupé aux genoux par le Tueur de Chevalier.</p><p class="talk">« Kreureuk ! »<br/>
-« Kuhak ! »</p><p class="">L’adrénaline de la bataille ne suffisait pas à endiguer leur douleur. Ayant été coupé et poignardé d’une manière tout à fait inattendue, les hauts orcs guerriers se raidirent. C’était plus que suffisant. Son Gihoon sauta immédiatement pour contre-attaquer quand les hauts orcs avaient montré un moment de faiblesse.</p><p class="">poignarde !</p><p class="talk">« Kreu… kreureuk. »</p><p class="talk">« halète, halète »</p><p class="">Son Gihoon leva la tête. L’épée longue qu’il tenait dans la main traversait le cœur d’un haut orc.</p><p class="talk">« Kkreuk. »</p><p class="">Le haut orc qui regardait avec ses lèvres tremblantes ne tarda pas à montrer le blanc de ses yeux et tomba vers l’arrière.</p><p class="">thud</p><p class="">Le Tanker serra les poings.</p><p class="talk">‘Oui ! On peut le faire !’</p><p class="">L’homme tua un à un les hauts orcs qui l’entouraient. Pendant ce temps, Jinwoo se déplaçait sans cesse autour du donjon.</p><p class="talk">« Kuaaaaak ! »<br/>
-« Kwoook ! »</p><p class="">Dans le monde du temps ralenti, il se déplaçait avec désinvolture et rompait l’équilibre des différentes batailles tout en faisant de son mieux pour ne pas le rendre perceptible.</p><p class="">taillade !</p><p class="">Chaque fois qu’il passait devant un haut orc, des petites blessures, mais efficaces, apparaissaient sur son corps.</p><p class="talk">« Kreureuk ! »<br/>
-« Kuwak ? »</p><p class="">Lorsque les hauts orcs furent jetés dans le chaos par les blessures soudaines apparaissant sur leur corps, les Chasseurs d’élite ne manquèrent pas l’occasion d’attaquer.</p><p class="talk">‘Est-ce que… est-ce que le combat est devenu plus facile ?’<br/>
+<html>
+<body>
+<h1>Chapter 86</h1>
+
+<p>C’était une longue distance qui était en même temps courte.</p>
+<p>Concentrant un peu de force dans ses jambes, Jinwoo sauta et s’éloigna immédiatement du sol. Quand il atterrit, il était derrière les grands dos des hauts orcs.</p>
+<p>marche</p>
+<p>Avec l’atterrissage, une énigme se posa dans sa tête.</p>
+<p class="talk">‘C’est facile pour moi de tuer les hauts orcs comme ça.’</p>
+<p>Mais alors il n’y avait pas de raison d’utiliser ‘Furtivité’. Y compris Son Gihoon, les Chasseurs ici présents pouvaient être considérés comme étant les meilleurs du pays. S’ils voyaient les hauts orcs déchirer par une force invisible, chacun d’entre eux se rendrait rapidement compte que quelqu’un utilisait ‘Furtivité’. Et bien, presque chacun… La Chasseuse naïve n’avait pas réalisé.</p>
+<p class="talk">‘Ce n’est pas comme si ça n’avait pas d’importance si je me faisais prendre.’</p>
+<p>Néanmoins, avec son nouveau test qui approchait, il ne voulait pas attirer la colère inutile de la Guilde Hunters. À cause de cela, Jinwoo avait prévu d’attendre jusqu’à ce que le raid ait complètement échoué… Mais il semblait que le mal causé aux Chasseurs allait être trop grand. La Guérisseuse avait déjà failli mourir à l’instant.</p>
+<p>Et ainsi de suite.</p>
+<p>Une lumière se rassembla dans les yeux de Jinwoo.</p>
+<p class="talk">‘Je dois agir sans me faire remarquer.’</p>
+<p>Il décida de son attitude face à cette bataille. Il fallut à Jinwoo environ une, voire deux secondes pour réfléchir à l’ensemble du passage ci-dessus. Un instant plus tard, le Tanto de Baruka et le Tueur de Chevalier étaient dans ses mains. Ces jours-ci, les dagues étaient invoquées avant même d’avoir donné l’ordre mental.</p>
+<p class="talk">‘Quand les ai-je appelés ?’</p>
+<p>Au milieu de la bataille, Jinwoo sourit avec amusement. Les poignées familières des dagues calmèrent son cœur qui battait. Dieu merci, il ne pouvait pas le voir en ce moment. Il aurait eu l’air d’un fou, souriant au milieu de cette mêlée chaotique. Le chef du Raid en sueur qui repoussait trois hauts orcs aurait été furieux.</p>
+<p class="talk">‘D’abord, ces types.’</p>
+<p>Jinwoo passa à l’action. Le corps abaissé, il maniait les dagues en prise inversée et taillada le tendon d’Achille d’un orc de haut calibre.</p>
+<p class="talk">« Kuaaaaaaaak ! »</p>
+<p>Quand ses tendons furent découpées comme par magie, le guerrier orc s’écria de douleur.</p>
+<p>Ce n’était que le début.</p>
+<p>Avec des mouvements fluides que l’on pourrait qualifier de danse, Jinwoo se faufilait entre les hauts orcs. L’un avait été poignardé par le tanto de Baruka dans les côtes. Un autre avait été coupé aux genoux par le Tueur de Chevalier.</p>
+<p class="talk">« Kreureuk ! »<br/>
+« Kuhak ! »</p>
+<p>L’adrénaline de la bataille ne suffisait pas à endiguer leur douleur. Ayant été coupé et poignardé d’une manière tout à fait inattendue, les hauts orcs guerriers se raidirent. C’était plus que suffisant. Son Gihoon sauta immédiatement pour contre-attaquer quand les hauts orcs avaient montré un moment de faiblesse.</p>
+<p>poignarde !</p>
+<p class="talk">« Kreu… kreureuk. »</p>
+<p class="talk">« halète, halète »</p>
+<p>Son Gihoon leva la tête. L’épée longue qu’il tenait dans la main traversait le cœur d’un haut orc.</p>
+<p class="talk">« Kkreuk. »</p>
+<p>Le haut orc qui regardait avec ses lèvres tremblantes ne tarda pas à montrer le blanc de ses yeux et tomba vers l’arrière.</p>
+<p>thud</p>
+<p>Le Tanker serra les poings.</p>
+<p class="talk">‘Oui ! On peut le faire !’</p>
+<p>L’homme tua un à un les hauts orcs qui l’entouraient. Pendant ce temps, Jinwoo se déplaçait sans cesse autour du donjon.</p>
+<p class="talk">« Kuaaaaak ! »<br/>
+« Kwoook ! »</p>
+<p>Dans le monde du temps ralenti, il se déplaçait avec désinvolture et rompait l’équilibre des différentes batailles tout en faisant de son mieux pour ne pas le rendre perceptible.</p>
+<p>taillade !</p>
+<p>Chaque fois qu’il passait devant un haut orc, des petites blessures, mais efficaces, apparaissaient sur son corps.</p>
+<p class="talk">« Kreureuk ! »<br/>
+« Kuwak ? »</p>
+<p>Lorsque les hauts orcs furent jetés dans le chaos par les blessures soudaines apparaissant sur leur corps, les Chasseurs d’élite ne manquèrent pas l’occasion d’attaquer.</p>
+<p class="talk">‘Est-ce que… est-ce que le combat est devenu plus facile ?’<br/>
 ‘Quel est ce sentiment ?’<br/>
-‘Est-ce qu’on gagne contre autant de hauts orcs sans perte ?’</p><p class="">Les Chasseurs étaient résolus qu’au moins un ou deux d’entre eux mourraient dans cette bataille. Contrairement à leurs attentes, la bataille allait très fort en leur faveur.</p><p class="">smash !</p><p class="">Une masse projetée par l’un des Chasseurs frappa la tête d’un haut orc. Une voix accueillante retentit dans la tête de Jinwoo.</p><div class="border"><p class="strong"><strong>Vous avez gagné un niveau !</strong></p></div><p class="talk">‘Oooh.’</p><p class="">Ses efforts n’avaient pas été vains. Il avait gagné un niveau. Même s’il n’avait pas tué ou infligé de blessure mortelle, il semblait qu’il gagnait encore des points d’expérience en aidant.</p><p class="talk">‘Les seuls que j’ai vraiment tués étaient deux d’entre eux.’</p><p class="">Ceux qu’il avait aidés à tuer étaient au nombre de treize. Si ses actions lui donnaient encore des points d’expérience, il était logique qu’il monte en niveau. Excités, les mouvements de Jinwoo devinrent plus rapides.</p><p class="">taillade !<br/>
-poignarde !</p><p class="talk">« Kaaak ! »</p><p class="">Grâce au support invisible de Jinwoo, le rideau se refermait sur la bataille.</p><p class="talk">‘Phew- !’</p><p class="">Il prit un peu de recul par rapport à la mêlée et remit ses dagues dans l’inventaire. L’homme regarda autour du champ de bataille.</p><p class="talk">‘Je crois que j’en ai fait assez…’</p><p class="">La situation était presque réglée ; son opération fut un succès. Et il avait gagné un niveau en plus de ça en bonus. Jinwoo regarda par terre. Près d’une vingtaine de cadavres des hauts orcs étaient éparpillés.</p><p class="talk">‘Si je les avais tués tout seul, j’aurais probablement pu gagner un autre niveau.’</p><p class="">Regrettable, mais c’était le terrain de chasse de la Guilde Hunters ; la guilde avait payé une grosse somme d’argent pour les droits de raid. Il avait fait de son mieux.</p><p class="talk">‘Parfait.’</p><p class="">Avec une expression satisfaite, Jinwoo retourna dans le coin où le porteur aurait dû se cacher.</p><p class="talk">« Kaaaaah ! »</p><p class="">Leur situation initiale s’était inversée, les Chasseurs entourèrent le dernier haut orc. Son cri retentit bruyamment dans toute la grotte. Regardant l’ennemi final tomber, Jinwoo libéra ‘Furtivité’.</p><p class="">Shoooo-</p><p class="">Les Chasseurs reprirent leur souffle. En regardant autour d’eux, ils confirmèrent que tous les hauts orcs étaient morts.</p><p class="talk">« C’est… c’est fini ?<br/>
+‘Est-ce qu’on gagne contre autant de hauts orcs sans perte ?’</p>
+<p>Les Chasseurs étaient résolus qu’au moins un ou deux d’entre eux mourraient dans cette bataille. Contrairement à leurs attentes, la bataille allait très fort en leur faveur.</p>
+<p>smash !</p>
+<p>Une masse projetée par l’un des Chasseurs frappa la tête d’un haut orc. Une voix accueillante retentit dans la tête de Jinwoo.</p>
+<div class="border">
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+</div>
+<p class="talk">‘Oooh.’</p>
+<p>Ses efforts n’avaient pas été vains. Il avait gagné un niveau. Même s’il n’avait pas tué ou infligé de blessure mortelle, il semblait qu’il gagnait encore des points d’expérience en aidant.</p>
+<p class="talk">‘Les seuls que j’ai vraiment tués étaient deux d’entre eux.’</p>
+<p>Ceux qu’il avait aidés à tuer étaient au nombre de treize. Si ses actions lui donnaient encore des points d’expérience, il était logique qu’il monte en niveau. Excités, les mouvements de Jinwoo devinrent plus rapides.</p>
+<p>taillade !<br/>
+poignarde !</p>
+<p class="talk">« Kaaak ! »</p>
+<p>Grâce au support invisible de Jinwoo, le rideau se refermait sur la bataille.</p>
+<p class="talk">‘Phew- !’</p>
+<p>Il prit un peu de recul par rapport à la mêlée et remit ses dagues dans l’inventaire. L’homme regarda autour du champ de bataille.</p>
+<p class="talk">‘Je crois que j’en ai fait assez…’</p>
+<p>La situation était presque réglée ; son opération fut un succès. Et il avait gagné un niveau en plus de ça en bonus. Jinwoo regarda par terre. Près d’une vingtaine de cadavres des hauts orcs étaient éparpillés.</p>
+<p class="talk">‘Si je les avais tués tout seul, j’aurais probablement pu gagner un autre niveau.’</p>
+<p>Regrettable, mais c’était le terrain de chasse de la Guilde Hunters ; la guilde avait payé une grosse somme d’argent pour les droits de raid. Il avait fait de son mieux.</p>
+<p class="talk">‘Parfait.’</p>
+<p>Avec une expression satisfaite, Jinwoo retourna dans le coin où le porteur aurait dû se cacher.</p>
+<p class="talk">« Kaaaaah ! »</p>
+<p>Leur situation initiale s’était inversée, les Chasseurs entourèrent le dernier haut orc. Son cri retentit bruyamment dans toute la grotte. Regardant l’ennemi final tomber, Jinwoo libéra ‘Furtivité’.</p>
+<p>Shoooo-</p>
+<p>Les Chasseurs reprirent leur souffle. En regardant autour d’eux, ils confirmèrent que tous les hauts orcs étaient morts.</p>
+<p class="talk">« C’est… c’est fini ?<br/>
 -Nous avons fini ?<br/>
--Attends un peu. »</p><p class="">Avant qu’ils ne puissent fêter ça, le chef du raid, Son Gihoon, vérifia s’il y avait des blessés.</p><p class="talk">« Blessés ! Quelqu’un est touché ? »</p><p class="">En réalité, il y avait rarement des blessés à la fin des batailles avec un guérisseur de haut rang. Tant qu’ils s’accrochaient à une once de vie, ils pouvaient être guéris. Quand Son Gihoon demandait si quelqu’un était blessé, il ne le demandait pas. Il demandait si quelqu’un était mort. En rencontrant ses yeux, la Guérisseuse secoua la tête. Il y avait eu des blessés, mais aucun mort.</p><p class="talk">« Alors…. »</p><p class="">Les visages de tous les membres de l’équipe se mirent à briller.</p><p class="talk">« Nous avons gagné !<br/>
+-Attends un peu. »</p>
+<p>Avant qu’ils ne puissent fêter ça, le chef du raid, Son Gihoon, vérifia s’il y avait des blessés.</p>
+<p class="talk">« Blessés ! Quelqu’un est touché ? »</p>
+<p>En réalité, il y avait rarement des blessés à la fin des batailles avec un guérisseur de haut rang. Tant qu’ils s’accrochaient à une once de vie, ils pouvaient être guéris. Quand Son Gihoon demandait si quelqu’un était blessé, il ne le demandait pas. Il demandait si quelqu’un était mort. En rencontrant ses yeux, la Guérisseuse secoua la tête. Il y avait eu des blessés, mais aucun mort.</p>
+<p class="talk">« Alors…. »</p>
+<p>Les visages de tous les membres de l’équipe se mirent à briller.</p>
+<p class="talk">« Nous avons gagné !<br/>
 -On a vraiment gagné !<br/>
--Waaaah ! »</p><p class="">Les Chasseurs fêtaient à l’unisson. Jinwoo regardait avec les bras croisés.</p><p class="talk">‘Les orcs sont si forts que ça ?’</p><p class="">D’après ce qu’il venait de voir… peut-être pas. N’ayant aucune expérience avec un Raid de haut niveau, le climat de fête du groupe de raid ne régnait pas sur Jinwoo.</p><p class="">A ce moment-là, Jinwoo ne le savait pas. Lorsqu’il s’agissait de donjons de grade B et de grade A, le rang du donjon n’était pas la seule chose prise en considération pour déterminer la difficulté. Le pouvoir magique mesuré était soigneusement passé en revue pour déterminer l’approche et la composition du groupe pour le Raid. Même pour un donjon de grade A, les orcs de haut rang se trouvaient à l’extrémité supérieure des bêtes magiques de haut niveau. Et s’il ne s’agissait pas seulement d’un haut orc ordinaire, mais de plus de vingt hauts orcs guerriers… ? La victoire obtenue tout à l’heure n’était pas différente d’un miracle.</p><p class="">Le responsable de ce miracle ne savait même pas le poids de ce qu’il avait fait. Jinwoo félicita discrètement la victoire du raid.</p><p class="talk">‘Hmm ?’</p><p class="">Il vit la Chasseuse s’approcher de Son Gihoon avec une expression sérieuse. Ses yeux disaient qu’elle avait quelque chose à dire. Jinwoo concentra son audition sur leur conversation.</p><p class="talk">« Gihoon oppa.<br/>
+-Waaaah ! »</p>
+<p>Les Chasseurs fêtaient à l’unisson. Jinwoo regardait avec les bras croisés.</p>
+<p class="talk">‘Les orcs sont si forts que ça ?’</p>
+<p>D’après ce qu’il venait de voir… peut-être pas. N’ayant aucune expérience avec un Raid de haut niveau, le climat de fête du groupe de raid ne régnait pas sur Jinwoo.</p>
+<p>A ce moment-là, Jinwoo ne le savait pas. Lorsqu’il s’agissait de donjons de grade B et de grade A, le rang du donjon n’était pas la seule chose prise en considération pour déterminer la difficulté. Le pouvoir magique mesuré était soigneusement passé en revue pour déterminer l’approche et la composition du groupe pour le Raid. Même pour un donjon de grade A, les orcs de haut rang se trouvaient à l’extrémité supérieure des bêtes magiques de haut niveau. Et s’il ne s’agissait pas seulement d’un haut orc ordinaire, mais de plus de vingt hauts orcs guerriers… ? La victoire obtenue tout à l’heure n’était pas différente d’un miracle.</p>
+<p>Le responsable de ce miracle ne savait même pas le poids de ce qu’il avait fait. Jinwoo félicita discrètement la victoire du raid.</p>
+<p class="talk">‘Hmm ?’</p>
+<p>Il vit la Chasseuse s’approcher de Son Gihoon avec une expression sérieuse. Ses yeux disaient qu’elle avait quelque chose à dire. Jinwoo concentra son audition sur leur conversation.</p>
+<p class="talk">« Gihoon oppa.<br/>
 -Hmm ?<br/>
--Quand nous combattions les hauts orcs tout à l’heure… »</p><p class="">La Guérisseuse expliqua soigneusement ce qu’elle avait vu. Qu’un haut orc avait soudainement flotté en l’air et que sa tête s’était détachée, puis s’était envolé pour frapper et tuer un autre haut orc. Son visage était complètement sérieux.</p><p class="talk">“…”</p><p class="">Son Gihoon était à court de mots.</p><p class="talk">« Je te dis la vérité ! »</p><p class="">Regardant le visage rouge mortifié de la Guérisseuse, Jinwoo luttait pour ne pas rire de lui.</p><p class="">Entre-temps, les célébrations des Chasseurs ne durèrent que peu de temps. Ils se rassemblèrent autour du chef du raid, Son Gihoon.</p><p class="talk">« Leader, allons-nous continuer ?<br/>
+-Quand nous combattions les hauts orcs tout à l’heure… »</p>
+<p>La Guérisseuse expliqua soigneusement ce qu’elle avait vu. Qu’un haut orc avait soudainement flotté en l’air et que sa tête s’était détachée, puis s’était envolé pour frapper et tuer un autre haut orc. Son visage était complètement sérieux.</p>
+<p class="talk">“…”</p>
+<p>Son Gihoon était à court de mots.</p>
+<p class="talk">« Je te dis la vérité ! »</p>
+<p>Regardant le visage rouge mortifié de la Guérisseuse, Jinwoo luttait pour ne pas rire de lui.</p>
+<p>Entre-temps, les célébrations des Chasseurs ne durèrent que peu de temps. Ils se rassemblèrent autour du chef du raid, Son Gihoon.</p>
+<p class="talk">« Leader, allons-nous continuer ?<br/>
 -C’est pas un peu dangereux ? Dire que de hauts orcs apparaîtraient juste devant l’entrée.<br/>
--Pourquoi ne pas se retirer pour l’instant ? »</p><p class="">Son Gihoon regarda la grotte et ferma la bouche.</p><p class="talk">‘Ce n’est probablement pas facile pour lui.’</p><p class="">Jinwoo comprenait les sentiments de Son Gihoon. Dans une guilde avec deux Chasseurs de rang S, c’était probablement la première et dernière fois que Son Gihoon se voyait confier le commandement d’un groupe de raid. Penser qu’il devrait mettre fin à ce qui pourrait être le summum de sa carrière si rapidement…</p><p class="talk">‘N’importe qui voudrait continuer et nettoyer l’endroit.’</p><p class="">A moins d’être un leader raisonnable…</p><p class="">Ayant pris sa décision, Son Gihoon ouvrit lentement la bouche. Les yeux de Jinwoo rétrécirent. Heureusement, Son Gihoon n’était pas un homme stupide.</p><p class="talk">« Retirons-nous pour l’instant. »</p><p class="">Les décisions du chef de raid étaient absolues dans le donjon. Tant qu’on faisait partie de l’équipe de raid, c’était une règle tacite qu’il fallait suivre les ordres du chef de raid. Dans l’Antiquité, les soldats désobéissants n’étaient-ils pas exécutés avant même une bataille ? D’une certaine façon, un donjon était un endroit beaucoup plus dangereux qu’un ancien champ de bataille. À cause de cela, celui qui était votre chef déterminait souvent votre sécurité dans un donjon. Son Gihoon n’avait pas déçu ses coéquipiers.</p><p class="">Sur son ordre de retraite, tout le groupe d’attaque poussa un soupir de soulagement.</p><p class="talk">« Phew- »</p><p class="talk">« Je pensais que Son Hyung irait jusqu’au bout. »</p><p class="">Son Gihoon sourit et tapa sur les épaules de l’homme qui venait de parler.</p><p class="talk">« Je ne suis pas si bête que ça.</p><p class="talk">-Je sais. Mec, regarde Hyung, mes mains tremblent.</p><p class="talk">-Arrête de faire le bébé. Très bien, tout le monde ! Allons-y ! »</p><p class="">Jinwoo ramassa les bagages. Comme on l’avait ordonné, l’équipe du raid commença à retourner à l’entrée. Jinwoo sourit avec un air vaincu.</p><p class="talk">‘Je voulais aller un peu plus loin.’</p><p class="">Pourtant, il n’était qu’un invité ici. Un simple invité ne devrait pas contester la volonté du propriétaire. Regrettable, mais on aurait dit que ce serait tout pour aujourd’hui.</p><p class="talk">« Merde… »</p><p class="">Frustrée par le fait que le chef du raid ne la croyait pas, la Chasseuse s’approcha de Jinwoo en boudant.</p><p class="talk">« C’est vraiment arrivé. »</p><p class="">Les joues gonflées comme une enfant, elle demanda à Jinwoo avec un espoir :</p><p class="talk">« As-tu vu par hasard ce haut orc-<br/>
+-Pourquoi ne pas se retirer pour l’instant ? »</p>
+<p>Son Gihoon regarda la grotte et ferma la bouche.</p>
+<p class="talk">‘Ce n’est probablement pas facile pour lui.’</p>
+<p>Jinwoo comprenait les sentiments de Son Gihoon. Dans une guilde avec deux Chasseurs de rang S, c’était probablement la première et dernière fois que Son Gihoon se voyait confier le commandement d’un groupe de raid. Penser qu’il devrait mettre fin à ce qui pourrait être le summum de sa carrière si rapidement…</p>
+<p class="talk">‘N’importe qui voudrait continuer et nettoyer l’endroit.’</p>
+<p>A moins d’être un leader raisonnable…</p>
+<p>Ayant pris sa décision, Son Gihoon ouvrit lentement la bouche. Les yeux de Jinwoo rétrécirent. Heureusement, Son Gihoon n’était pas un homme stupide.</p>
+<p class="talk">« Retirons-nous pour l’instant. »</p>
+<p>Les décisions du chef de raid étaient absolues dans le donjon. Tant qu’on faisait partie de l’équipe de raid, c’était une règle tacite qu’il fallait suivre les ordres du chef de raid. Dans l’Antiquité, les soldats désobéissants n’étaient-ils pas exécutés avant même une bataille ? D’une certaine façon, un donjon était un endroit beaucoup plus dangereux qu’un ancien champ de bataille. À cause de cela, celui qui était votre chef déterminait souvent votre sécurité dans un donjon. Son Gihoon n’avait pas déçu ses coéquipiers.</p>
+<p>Sur son ordre de retraite, tout le groupe d’attaque poussa un soupir de soulagement.</p>
+<p class="talk">« Phew- »</p>
+<p class="talk">« Je pensais que Son Hyung irait jusqu’au bout. »</p>
+<p>Son Gihoon sourit et tapa sur les épaules de l’homme qui venait de parler.</p>
+<p class="talk">« Je ne suis pas si bête que ça.</p>
+<p class="talk">-Je sais. Mec, regarde Hyung, mes mains tremblent.</p>
+<p class="talk">-Arrête de faire le bébé. Très bien, tout le monde ! Allons-y ! »</p>
+<p>Jinwoo ramassa les bagages. Comme on l’avait ordonné, l’équipe du raid commença à retourner à l’entrée. Jinwoo sourit avec un air vaincu.</p>
+<p class="talk">‘Je voulais aller un peu plus loin.’</p>
+<p>Pourtant, il n’était qu’un invité ici. Un simple invité ne devrait pas contester la volonté du propriétaire. Regrettable, mais on aurait dit que ce serait tout pour aujourd’hui.</p>
+<p class="talk">« Merde… »</p>
+<p>Frustrée par le fait que le chef du raid ne la croyait pas, la Chasseuse s’approcha de Jinwoo en boudant.</p>
+<p class="talk">« C’est vraiment arrivé. »</p>
+<p>Les joues gonflées comme une enfant, elle demanda à Jinwoo avec un espoir :</p>
+<p class="talk">« As-tu vu par hasard ce haut orc-<br/>
 -Non.<br/>
--Hiiiiiiing… »</p><p class="">Ses espoirs furent anéantis en un instant. Jinwoo pensait qu’il allait se faire mal à l’estomac à force de rire.</p><hr class=""/><p class="">Combien de temps avaient-ils marché ?</p><p class="">Soudain, l’avant-garde du groupe s’arrêta. Son Gihoon leva la main droite.</p><p class="talk">« S-stop ! »</p><p class="">Sa voix était pleine de panique. Les Chasseurs étaient fatigués de marcher et Jinwoo, qui avait concentré ses sens pour déceler toute bête magique en embuscade, s’arrêta aussi.</p><p class="">Une agitation éclata entre les Chasseurs.</p><p class="talk">« Que se passe-t-il ?<br/>
+-Hiiiiiiing… »</p>
+<p>Ses espoirs furent anéantis en un instant. Jinwoo pensait qu’il allait se faire mal à l’estomac à force de rire.</p>
+<hr/>
+<p>Combien de temps avaient-ils marché ?</p>
+<p>Soudain, l’avant-garde du groupe s’arrêta. Son Gihoon leva la main droite.</p>
+<p class="talk">« S-stop ! »</p>
+<p>Sa voix était pleine de panique. Les Chasseurs étaient fatigués de marcher et Jinwoo, qui avait concentré ses sens pour déceler toute bête magique en embuscade, s’arrêta aussi.</p>
+<p>Une agitation éclata entre les Chasseurs.</p>
+<p class="talk">« Que se passe-t-il ?<br/>
 -Qu’est-ce que c’est que ça ?<br/>
--Pourquoi la route est-elle bloquée ? C’était bien sur le chemin ! »</p><p class="">Jinwoo traversa le chaos et tendit la main. Ses yeux s’élargirent.</p><p class="talk">‘C’est… bloqué ?’</p><p class="">Il y avait une barrière invisible qui bloquait leur passage.</p><p class="">La première chose qui lui vint à l’esprit fut le Donjon Instantané. Ce mur invisible qui séparait le Donjon Instantané et la réalité, comme les deux, étaient de dimensions différentes. Mais Jinwoo secoua la tête.</p><p class="talk">‘Non, ce n’est pas pareil.’</p><p class="">Le mur puait la fabrication artificielle. Sentant un pouvoir magique mêlé en elle, c’était clair que c’était la magie d’une bête magique avec une intelligence.</p><p class="talk">‘Mais pourquoi ?’</p><p class="">Pourquoi les empêchait-il de partir au lieu de les empêcher d’entrer ?</p><p class="">Soudain, Jinwoo tourna brusquement la tête.</p><p class="talk">‘…?’</p><p class="">Comme si elle attendait, une terrifiante vague de pouvoir magique déferla en torrents depuis les profondeurs du Donjon.</p><p class="talk">‘Mon Dieu…’</p><p class="">C’est le boss du donjon ? C’était à une autre échelle que le pouvoir magique qu’il avait ressenti de l’extérieur de la Porte ou même dans le donjon jusqu’à maintenant. Les autres Chasseurs ressentirent aussi le pouvoir et frissonnèrent.</p><p class="talk">« Qu-Quoi ?<br/>
--Je viens d’avoir des frissons. »</p><p class="">En regardant les visages des Chasseurs devenir blancs, Jinwoo imagina une théorie,</p><p class="talk">‘Si c’est un boss qui peut effacer ou cacher son énergie…’</p><p class="">Le mur qui n’était pas là en arrivant. Et le boss qui révélait son pouvoir magique après avoir créé le mur.</p><p class="talk">‘Est-ce que ça a…. créé un piège pour les chasseurs ?’</p><p class="">En pensant de cette façon, il eut un frisson dans le dos.</p><p class="">Comme si c’était le bon moment,</p><p class="">marche marche</p><p class="">marche marche</p><p class="">Des ténèbres lointaines du donjon, des bruits de pas incomparablement plus forts que ceux du premier groupe de haut Orc se faisaient entendre.</p></body></html>
+-Pourquoi la route est-elle bloquée ? C’était bien sur le chemin ! »</p>
+<p>Jinwoo traversa le chaos et tendit la main. Ses yeux s’élargirent.</p>
+<p class="talk">‘C’est… bloqué ?’</p>
+<p>Il y avait une barrière invisible qui bloquait leur passage.</p>
+<p>La première chose qui lui vint à l’esprit fut le Donjon Instantané. Ce mur invisible qui séparait le Donjon Instantané et la réalité, comme les deux, étaient de dimensions différentes. Mais Jinwoo secoua la tête.</p>
+<p class="talk">‘Non, ce n’est pas pareil.’</p>
+<p>Le mur puait la fabrication artificielle. Sentant un pouvoir magique mêlé en elle, c’était clair que c’était la magie d’une bête magique avec une intelligence.</p>
+<p class="talk">‘Mais pourquoi ?’</p>
+<p>Pourquoi les empêchait-il de partir au lieu de les empêcher d’entrer ?</p>
+<p>Soudain, Jinwoo tourna brusquement la tête.</p>
+<p class="talk">‘…?’</p>
+<p>Comme si elle attendait, une terrifiante vague de pouvoir magique déferla en torrents depuis les profondeurs du Donjon.</p>
+<p class="talk">‘Mon Dieu…’</p>
+<p>C’est le boss du donjon ? C’était à une autre échelle que le pouvoir magique qu’il avait ressenti de l’extérieur de la Porte ou même dans le donjon jusqu’à maintenant. Les autres Chasseurs ressentirent aussi le pouvoir et frissonnèrent.</p>
+<p class="talk">« Qu-Quoi ?<br/>
+-Je viens d’avoir des frissons. »</p>
+<p>En regardant les visages des Chasseurs devenir blancs, Jinwoo imagina une théorie,</p>
+<p class="talk">‘Si c’est un boss qui peut effacer ou cacher son énergie…’</p>
+<p>Le mur qui n’était pas là en arrivant. Et le boss qui révélait son pouvoir magique après avoir créé le mur.</p>
+<p class="talk">‘Est-ce que ça a…. créé un piège pour les chasseurs ?’</p>
+<p>En pensant de cette façon, il eut un frisson dans le dos.</p>
+<p>Comme si c’était le bon moment,</p>
+<p>marche marche</p>
+<p>marche marche</p>
+<p>Des ténèbres lointaines du donjon, des bruits de pas incomparablement plus forts que ceux du premier groupe de haut Orc se faisaient entendre.</p>
+</body>
+</html>

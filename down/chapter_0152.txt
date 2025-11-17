@@ -1,5 +1,7 @@
-<html><body><h1>Chapter 152</h1>
-<p class="">Chapitre 152 :<br/>
+<html>
+<body>
+<h1>Chapter 152</h1>
+<p>Chapitre 152 :<br/>
 <br/>
 La première chose que Jinwoo avait faite après son retour à la maison avait
 été d’afficher sa fenêtre de statut.<br/>
@@ -15,10 +17,11 @@ fenêtre des compétences.<br/>
 Competences passive<br/>
 – (Inconnu) Niv. MAX<br/>
 – Ténacité Niv. 1<br/>
-– Maitre des armes courtes : Niv. MAX</p><p class="">Compétences actives<br/>
+– Maitre des armes courtes : Niv. MAX</p>
+<p>Compétences actives<br/>
 – Sprint<br/>
 – Intimidation Niv. 2<br/>
-– Taillade Brutale Niv. MAX<br/>
+– Taillade Brutale Niv. MAX<br/>
 – Ruée de poignard Niv. MAX<br/>
 – Intimidation Niv. 1<br/>
 – Furtivité nouvelle. 2<br/>
@@ -34,15 +37,15 @@ cessait d’augmenter plus haut. Toutefois, s’il continuait d’améliorer ses
 compétences, elles atteindraient leurs versions définitives. L’écart entre
 l’efficacité de la compétence avant et après son évolution était considérable.<br/>
 <br/>
-La compétence « Dash » s’était transformée en « Sprint ».<br/>
+La compétence « Dash » s’était transformée en « Sprint ».<br/>
 <br/>
 La compétence &lt;&lt; Visée des points vitaux &gt;&gt; s’est transformée en :
-&lt;&lt; Taillade brutale &gt;&gt;.<br/>
+&lt;&lt; Taillade brutale &gt;&gt;.<br/>
 <br/>
 Et &lt;&lt; Lancer de dague &gt;&gt; s’était transformé en &lt;&lt; Ruée de
 poignard &gt;&gt;.<br/>
 <br/>
-Même l’habileté passive qui aidait à manier les dagues et les lames
+Même l’habileté passive qui aidait à manier les dagues et les lames
 courtes &lt;&lt; Technique de dague de haut rang &gt;&gt; avait évolué en
 &lt;&lt; Maître des lames courtes &gt;&gt;.<br/>
 <br/>
@@ -50,27 +53,27 @@ Le résultat de cette dernière évolution était quelque chose comme ceci. Jinw
 avait invoqué la &lt;&lt; Dague du Roi Demon &gt;&gt; et commencé à la
 manipuler de différentes façons dans sa main.<br/>
 <br/>
-Il faisait tourner l’arme avec fluidité autour de son index avant de
-la laisser glisser jusqu’à la paume. Elle glisse ensuite doucement sur le
+Il faisait tourner l’arme avec fluidité autour de son index avant de
+la laisser glisser jusqu’à la paume. Elle glisse ensuite doucement sur le
 dos de sa main.<br/>
 <br/>
-Les mouvements soyeux presque acrobatiques se sont poursuivis pendant un
+Les mouvements soyeux presque acrobatiques se sont poursuivis pendant un
 petit moment, avant qu’il ne jette légèrement l’arme par-dessus sa tête et la
 rattrape. Jinwoo claque lentement ses lèvres.<br/>
 <br/>
 &lt;&lt; Quel dommage qu’il n’y ait personne ici pour apprécier ça. &gt;&gt;<br/>
 <br/>
-La dague était comme une extension de son propre membre, et tout cela était
+La dague était comme une extension de son propre membre, et tout cela était
 dû à la capacité passive, &lt;&lt; Maitre des armes courtes &gt;&gt;.<br/>
 <br/>
 Jinwoo déplaça son regard vers la Fenêtre de Compétences tout en lançant la
 dague de haut en bas à plusieurs reprises.<br/>
 <br/>
-&lt;&lt; Donc, « Intimidation » et « Furtivité » sont les deux
-seules qui ont de réelles chances de devenir plus fortes, hein
+&lt;&lt; Donc, « Intimidation » et « Furtivité » sont les deux
+seules qui ont de réelles chances de devenir plus fortes, hein
 &gt;&gt; .<br/>
 <br/>
-Malheureusement, il ne semblait pas y avoir beaucoup de chances pour que
+Malheureusement, il ne semblait pas y avoir beaucoup de chances pour que
 la compétence &lt;&lt; Ténacité &gt;&gt; s’améliore au-delà du niveau 1, où
 elle est restée bloquée depuis qu’il a acquis cette compétence. Mais, c’était
 inévitable, vraiment.<br/>
@@ -126,7 +129,7 @@ basique.<br/>
 moment, mais… &gt;&gt;<br/>
 <br/>
 Est-ce que cette compétence exigeait aussi qu’il remplisse une sorte de
-condition pour être déverrouillé ? Parce qu’elle a été étiquetée &lt;&lt; 
+condition pour être déverrouillé ? Parce qu’elle a été étiquetée &lt;&lt; 
 MAX &gt;&gt; dès le début, il avait vraiment hâte de savoir de quel genre de
 compétence il s’agissait, mais cette……<br/>
 <br/>
@@ -265,13 +268,13 @@ Le regard de Jinwoo dériva vers ce vide devant lui.<br/>
 <br/>
 Bien sûr, il ne reçut pas de réponse en retour.<br/>
 <br/>
-« Je veux dire, est-ce que vous ne pouvez pas me dire ce qui se passe pour
-le moment ? »<br/>
+« Je veux dire, est-ce que vous ne pouvez pas me dire ce qui se passe pour
+le moment ? »<br/>
 <br/>
 Il regardait tranquillement dans le vide comme s’il s’attendait à ce qu’une
 réponse lui parvienne, mais de toute évidence, rien n’arrivait.<br/>
 <br/>
-« Inventaire ».<br/>
+« Inventaire ».<br/>
 <br/>
 Jinwoo a ouvrait son espace de stockage pour extraire la clé noire.<br/>
 <br/>
@@ -287,35 +290,36 @@ C’était là, l’invitation envoyée par le Système.<br/>
 Un temps d’une semaine s’était déjà écoulée et il ne restait plus qu’environ
 250 heures.<br/>
 <br/>
-« Quel genre de réponses vais-je trouver dans cet endroit ? »<br/>
+« Quel genre de réponses vais-je trouver dans cet endroit ? »<br/>
 <br/>
 La moitié de lui est remplie d’attentes. Et l’autre moitié, d’une profonde
 curiosité. Son rythme cardiaque qui s’était calmé pendant un certain temps
-avait recommencé à battre plus vite. Jinwoo enleva sa main de sa poitrine.</p><p class=""><br/>
+avait recommencé à battre plus vite. Jinwoo enleva sa main de sa poitrine.</p>
+<p><br/>
 Son projet de faire tout ce qu’il pouvait pendant le temps restant n’avait pas
 changé du tout. Il a pris son téléphone et passa rapidement un coup de fil.<br/>
 <br/>
-– « Que puis-je faire pour toi, hyung-nim ? »<br/>
+– « Que puis-je faire pour toi, hyung-nim ? »<br/>
 <br/>
 Yu Jin-Ho a repondait d’une voix joyeuse au téléphone. Jinwoo ne perdit pas de
 temps et aborda directement le sujet principal.<br/>
 <br/>
-« Hé, Jin-Ho ? »<br/>
+« Hé, Jin-Ho ? »<br/>
 <br/>
-– « Oui, hyung-nim ? »<br/>
+– « Oui, hyung-nim ? »<br/>
 <br/>
- » Tu crois qu’on pourra réserver toutes les portes de haut rang qui
-s’ouvriront dans notre région à partir de demain ? »<br/>
+ » Tu crois qu’on pourra réserver toutes les portes de haut rang qui
+s’ouvriront dans notre région à partir de demain ? »<br/>
 <br/>
-– « Comme à l’époque où on réservait toutes ces portes de rang C, hyung-nim
-? »<br/>
+– « Comme à l’époque où on réservait toutes ces portes de rang C, hyung-nim
+? »<br/>
 <br/>
-« Ouais, comme ça. »<br/>
+« Ouais, comme ça. »<br/>
 <br/>
 Yu Jin-Ho réfléchit un petit moment, avant de répondre par une voix sonore et
 lumineuse.<br/>
 <br/>
-– « Compris, hyung-nim ! »<br/>
+– « Compris, hyung-nim ! »<br/>
 <br/>
 ***<br/>
 <br/>
@@ -346,9 +350,9 @@ même plus relever la tête.<br/>
 <br/>
 Matsumoto Shigeo se morda la lèvre inférieure.<br/>
 <br/>
-« C’est Yuri Orlov !! »<br/>
+« C’est Yuri Orlov !! »<br/>
 <br/>
-« C’est lui, Yuri ! »<br/>
+« C’est lui, Yuri ! »<br/>
 <br/>
 Les journalistes des quatre coins du monde découvraient la figure triomphante
 de Yuri Orlov et commençaient à s’emporter avec leurs caméras.<br/>
@@ -370,9 +374,9 @@ jusqu’à maintenant.<br/>
 Pour sa part, Yuri Orlov n’avait pas hésité à utiliser ce surnom qui lui avait
 permis d’acquérir toute la richesse et la renommée du monde.<br/>
 <br/>
-« Êtes-vous prêt, Monsieur Yuri Orlov ? »<br/>
+« Êtes-vous prêt, Monsieur Yuri Orlov ? »<br/>
 <br/>
-« Bien sûr. »<br/>
+« Bien sûr. »<br/>
 <br/>
 Ce soir-là, il été transféré dans une certaine chaîne de télévision pour une
 interview en direct. Il était évident que l’attention de toute la nation
@@ -380,39 +384,39 @@ japonaise était focalisée sur cette émission.<br/>
 <br/>
 Une fois la procédure entamée, l’intervieweur demanda au Russe.<br/>
 <br/>
-« Comment allez-vous bloquer la Porte, Monsieur Yuri ? »<br/>
+« Comment allez-vous bloquer la Porte, Monsieur Yuri ? »<br/>
 <br/>
- » Comme je l’ai toujours fait jusqu’à maintenant, évidemment. »<br/>
+ » Comme je l’ai toujours fait jusqu’à maintenant, évidemment. »<br/>
 <br/>
 L’expression de Yuri Orlov était débordante de confiance, détendue et assurée.
 Il leva les deux mains en l’air et dessina un grand cercle.<br/>
 <br/>
-« Je vais créer un immense cercle magique. Comme ça, autour de la Porte
-elle-même. »<br/>
+« Je vais créer un immense cercle magique. Comme ça, autour de la Porte
+elle-même. »<br/>
 <br/>
 L’écran avait changé pendant un bref instant pour montrer la Porte à Shinjuku.
 Puis le diagramme 3D du cercle magique avait été superposé à l’image de cette
 gigantesque Porte.<br/>
 <br/>
-« Et puis, tout sera fini quand j’y aurai versé mon énergie magique. Quoi
+« Et puis, tout sera fini quand j’y aurai versé mon énergie magique. Quoi
 qu’il y ait à l’intérieur de cette Porte, ils ne pourront plus jamais en
-sortir. »<br/>
+sortir. »<br/>
 <br/>
 Malheureusement, une explication aussi simple ne suffisait pas à calmer les
 craintes du peuple japonais. L’intervieweur penchait la tête, l’air sceptique.<br/>
 <br/>
-« Excusez-moi, mais… est ce seulement possible ? »<br/>
+« Excusez-moi, mais… est ce seulement possible ? »<br/>
 <br/>
 Les sourcils de Yuri Orlov tremblaient légèrement.<br/>
 <br/>
-« Quoi donc ? »<br/>
+« Quoi donc ? »<br/>
 <br/>
 L’intervieweur avait étudié avec prudence l’humeur du Russe, tout en posant à
 nouveau la question.<br/>
 <br/>
-« Eh bien, l’affirmation selon laquelle un chasseur de rang S peut bloquer
+« Eh bien, l’affirmation selon laquelle un chasseur de rang S peut bloquer
 une porte de rang S entière est…. Dois-je vous le dire, c’est un peu
-difficile à croire ? »<br/>
+difficile à croire ? »<br/>
 <br/>
 Soudain, Yuri Orlov se mit à sourire avec mépris.<br/>
 <br/>
@@ -425,8 +429,8 @@ contre échelle de l’homme en question.<br/>
 <br/>
 Par chance, Yuri Orlov avait conservé son sourire.<br/>
 <br/>
-« Si je devais continuer à dépenser mon énergie magique pour maintenir
-cette barrière alors bien sûr, même moi, je n’y arriverais pas. »<br/>
+« Si je devais continuer à dépenser mon énergie magique pour maintenir
+cette barrière alors bien sûr, même moi, je n’y arriverais pas. »<br/>
 <br/>
 Il n’y arriverait pas ?<br/>
 <br/>
@@ -441,21 +445,21 @@ plus d’autres solutions pour le peuple japonais.<br/>
 Le Russe a pris son temps et appreciait la vue sur le visage raide de
 l’interviewer avant de continuer avec ses paroles.<br/>
 <br/>
- » Mais le truc avec mon pouvoir, c’est que…. Le cercle magique barrière
+ » Mais le truc avec mon pouvoir, c’est que…. Le cercle magique barrière
 que j’utilise absorbe l’énergie magique de son environnement pour se
-maintenir. »<br/>
+maintenir. »<br/>
 <br/>
 “….!!!”<br/>
 <br/>
 En un instant, l’expression de l’intervieweur avait changé.<br/>
 <br/>
-« Si c’est le cas, que vouliez-vous dire quand vous avez dit que votre
-propre énergie magique était nécessaire… ? »<br/>
+« Si c’est le cas, que vouliez-vous dire quand vous avez dit que votre
+propre énergie magique était nécessaire… ? »<br/>
 <br/>
-« C’est le même principe que de mettre le contact d’une voiture. Une fois
+« C’est le même principe que de mettre le contact d’une voiture. Une fois
 que ma barrière se mettra en marche, elle commencera à absorber l’énergie
 magique et deviendra un mur de forteresse encore plus solide et plus
-grande. »<br/>
+grande. »<br/>
 <br/>
 Un faisceau de lumière était apparu sur le visage de l’intervieweur et de
 l’équipe de tournage après avoir entendu cette explication.<br/>
@@ -476,7 +480,7 @@ envergure ?<br/>
 <br/>
 Elle s’immobiliserait toute seul, voilà ce qui se passerait. Où trouverait-on
 une situation qui correspondrait le mieux à l’idée de tomber dans un piège
-tendu soi-même ?<br/>
+tendu soi-même ?<br/>
 <br/>
 À ce rythme, la dureté de cette barrière deviendrait la plus grande de
 l’histoire de l’humanité.<br/>
@@ -485,8 +489,8 @@ Yuri Orlov pointa la caméra. Il désignait probablement du doigt le nombre
 indéterminé de téléspectateurs chez eux. D’épaisses veines gonflaient dans son
 cou alors qu’il criait.<br/>
 <br/>
-« Je vous sauverai tous ! Alors, tout ce que vous avez à faire, c’est de
-vous rappeler  qui vous sauve ! »<br/>
+« Je vous sauverai tous ! Alors, tout ce que vous avez à faire, c’est de
+vous rappeler qui vous sauve ! »<br/>
 <br/>
 ***<br/>
 <br/>
@@ -496,11 +500,11 @@ La télé géante s’était éteinte.<br/>
 <br/>
 Le président de l’Association des chasseurs coréens, M.Go,posa la
 télécommande de la télévision, mais son expression n’était pas très bonne du
-tout.  Jin, debout à côté de lui demanda.<br/>
+tout. Jin, debout à côté de lui demanda.<br/>
 <br/>
-« Qu’en pensez-vous, monsieur ? »<br/>
+« Qu’en pensez-vous, monsieur ? »<br/>
 <br/>
-« Je n’en suis pas sûr. »<br/>
+« Je n’en suis pas sûr. »<br/>
 <br/>
 M.Go s’appuya contre le canapé, son expression maintenant pleine
 d’inquiétude. Il était différent de son homologue japonais ; il n’était
@@ -511,16 +515,16 @@ Mais cela ne signifie pas pour autant qu’il était prêt à les aider tout en
 assumant le lourd tribut que sa propre nation pourrait avoir à supporter. Il
 réfléchit un court instant, avant de rouvrir la bouche.<br/>
 <br/>
-« Je ne sais pas si Yuri Orlov réussira à bloquer cette porte de rang S ou
-pas, mais…. »<br/>
+« Je ne sais pas si Yuri Orlov réussira à bloquer cette porte de rang S ou
+pas, mais…. »<br/>
 <br/>
 Les yeux du Président de l’Association M.Go etaient devenus beaucoup
 plus perçants.<br/>
 <br/>
-« ….Mais, je suis bien conscient de ce qui arrivera s’il échoue dans sa
-tâche. »<br/>
+« ….Mais, je suis bien conscient de ce qui arrivera s’il échoue dans sa
+tâche. »<br/>
 <br/>
-« …..C’est un tel soulagement, monsieur. »<br/>
+« …..C’est un tel soulagement, monsieur. »<br/>
 <br/>
 “…..?”<br/>
 <br/>
@@ -528,13 +532,13 @@ M.Go leva les yeux vers Jin avec un visage surpris. Ce n’est
 qu’alors que ce dernier se rendit compte que son patron avait mal compris ses
 paroles. Jin se hâtait de faire des signes avec ses mains.<br/>
 <br/>
-« Je ne parlais pas de la situation au Japon, monsieur. Mais…. »<br/>
+« Je ne parlais pas de la situation au Japon, monsieur. Mais…. »<br/>
 <br/>
 Jin s’arreta une seconde ou deux avant de finir son explication.<br/>
 <br/>
-« Contrairement aux Japonais, je suis soulagé par le fait que nous avons un
+« Contrairement aux Japonais, je suis soulagé par le fait que nous avons un
 chasseur en qui nous pouvons entièrement avoir confiance. C’est ce que je
-voulais dire, monsieur. »<br/>
+voulais dire, monsieur. »<br/>
 <br/>
 *Hoche la tête, hoche la tête.*<br/>
 <br/>
@@ -542,8 +546,8 @@ M.Go hochait la tête fortement. Il n’avait pas non plus besoin de
 demander spécifiquement qui était ce chasseur. La seule présence de ce chasseur
 lui avait donné un tel sentiment de sécurité.<br/>
 <br/>
-« Oh, au fait. Comment ça se passe avec le chasseur Seong Jinwoo-nim
-de nos jours ? »<br/>
+« Oh, au fait. Comment ça se passe avec le chasseur Seong Jinwoo-nim
+de nos jours ? »<br/>
 <br/>
 Jin avait poussé sans mot un bout de texte imprimé à son patron.<br/>
 <br/>
@@ -551,21 +555,23 @@ On pouvait y trouver les emplacements listés de toutes les portes de haut rang
 apparues récemment autour de la ville de Séoul et de la province de Gyeonggi
 environnante.<br/>
 <br/>
-« Pourquoi me donnez-vous ça, tout d’un coup… ? »<br/>
+« Pourquoi me donnez-vous ça, tout d’un coup… ? »<br/>
 <br/>
-« Monsieur, pouvez-vous voir combien d’endroits ont été entourés en rouge
-? »<br/>
+« Monsieur, pouvez-vous voir combien d’endroits ont été entourés en rouge
+? »<br/>
 <br/>
-« On dirait que c’est la moitié des donjons. »<br/>
+« On dirait que c’est la moitié des donjons. »<br/>
 <br/>
 Jin essuya rapidement les sueurs froides qui coulaient sur son front
 et répondit.<br/>
 <br/>
-« La Guilde Ah-Jin veut les permis de perquisition de toutes les Portes mises
-en évidence, monsieur. »<br/>
+« La Guilde Ah-Jin veut les permis de perquisition de toutes les Portes mises
+en évidence, monsieur. »<br/>
 <br/>
 Les yeux de M.Go étaient presque sortis de leurs orbites.<br/>
 <br/>
-« Toutes, toutes ?! »<br/>
+« Toutes, toutes ?! »<br/>
 <br/>
-« Oui, monsieur. C’est exact. »</p></body></html>
+« Oui, monsieur. C’est exact. »</p>
+</body>
+</html>

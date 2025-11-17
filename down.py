@@ -169,9 +169,28 @@ def _get_chapter_file(chapter_nb):
 def _do_write_chapter(chapter_nb, lines):
     pth = _get_chapter_file(chapter_nb)
     f = io.open(pth + '.tmp', 'w', encoding="utf-8")
-    f.write(u'<html><body><h1>Chapter %s</h1>\n' % chapter_nb)
-    f.write(''.join(lines))
-    f.write(u'</body></html>\n')
+    f.write(u'<html>\n<body>\n<h1>Chapter %s</h1>\n' % chapter_nb)
+    
+    # Nettoyage du contenu HTML
+    content = '\n'.join(lines)
+    
+    # Suppression d'attributs vides (ex: class="")
+    content = re.sub(r"\s+\w+(?:[:\w+]*)?\s*=\s*(\"\"|'')", '', content)
+    # Supprimer <p> qui ne contiennent que des espaces ou &nbsp;
+    content = re.sub(r'<p[^>]*>\s*(?:&nbsp;|\u00A0|&#160;|&#xa0;|\s)*\s*</p>', '', content, flags=re.I)
+
+    # Remplacer entités et caractère NBSP par un espace
+    content = re.sub(r'&nbsp;|&#160;|&#x00A0;|&#xa0;', ' ', content, flags=re.I)
+    content = content.replace('\u00A0', ' ')
+
+    # Réduire suites d'espaces/tabs en un seul espace (léger)
+    content = re.sub(r'[ \t]{2,}', ' ', content)
+
+    # Collapser plus de 2 lignes vides
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    
+    f.write(content)
+    f.write(u'\n</body>\n</html>\n')
     f.close()
     shutil.move(pth + '.tmp', pth)
 

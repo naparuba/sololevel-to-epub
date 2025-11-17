@@ -1,14 +1,207 @@
-<html><body><h1>Chapter 70</h1>
-<p class=""> </p><div class="border"><p class="strong"><strong>Vous avez vaincu un démon de bas niveau.</strong><br/>
+<html>
+<body>
+<h1>Chapter 70</h1>
+
+<div class="border">
+<p class="strong"><strong>Vous avez vaincu un démon de bas niveau.</strong><br/>
 <strong>Vous avez gagné 100 points d’expérience.</strong><br/>
-<strong>Vous avez gagné 1 âme démoniaque.</strong></p></div><p class="">…</p><p class="">…</p><div class="border"><p class="strong"><strong>Vous avez vaincu un démon de bas niveau.</strong><br/>
+<strong>Vous avez gagné 1 âme démoniaque.</strong></p>
+</div>
+<p>…</p>
+<p>…</p>
+<div class="border">
+<p class="strong"><strong>Vous avez vaincu un démon de bas niveau.</strong><br/>
 <strong>Vous avez gagné 100 points d’expérience.</strong><br/>
-<strong>Vous avez gagné 1 âme démoniaque.</strong></p></div><p class="">Jinwoo chassait les démons de bas niveau depuis deux heures maintenant. Il vérifia le nombre actuel d’âmes.</p><div class="border"><p class="strong"><strong>Collectes d’âmes de démons : 309 / 10,000</strong></p></div><p class="">La quête était terminée à 3 %. De plus, au rythme actuel, il atteindrait le niveau suivant après environ deux heures de chasse de plus. Son niveau actuel était de 61. Il avait fallu neuf donjons de grade C pour passer de 60 à 61, et cela s’était fait en deux jours. Comparé à cela, il serait en mesure de gagner un niveau après quatre heures de chasse ici.</p><p class="talk">‘C’est de la folie.’</p><p class="">Un sourire apparut sur le visage de Jinwoo. Ça faisait combien de temps qu’il n’avait pas autant aimé chasser ?</p><p class="talk">‘Je pense que c’est la première fois depuis ce jour-là.’</p><p class="">Il se rappela son premier donjon instantané avec nostalgie. Jinwoo avait alterné la chasse entre le premier et le deuxième niveau du métro Donjon sans arrêt jusqu’à ce qu’il ne puisse plus monter son niveau.</p><p class="talk">« Kiek ! »</p><p class="">Chaque fois que la dague de Jinwoo flashait, un démon de bas niveau tombait.</p><p class="talk">« Kiaaak ! »<br/>
-« Kiek. »<br/>
-« Keh geck, kek ! »</p><p class="">Parfois, plus d’un avec une seule frappe. En un rien de temps, il avait abattu 20 autres démons de bas niveau.</p><p class="talk">‘C’est incroyable.’</p><p class="">Les points d’expérience et le nombre d’âmes augmentaient de façon appropriée avec les démons tombés. En plus, il y avait des drops. Un sourire fleurit sur le visage du Chasseur qui collectionnait des objets.</p><p class="talk">‘On dirait que les cornes sont un drop garanti. »</p><div class="border"><p class="strong"><strong>Corne de démon de bas niveau</strong><br/>
-<strong>Rareté : Aucun</strong></p><p class="strong"><strong>Type : Pacotille</strong></p><p class="strong"><strong>Une corne de la tête du démon de bas niveau. En tant que réactif magique précieux, la corne d’un démon se vend assez cher.</strong></p></div><p class="">L’objet pacotille, « La Corne du Démon ». Le vendre au magasin lui rapportait 200 000 pièces d’or.</p><p class="talk">‘Même les dents de Cerbère se sont vendues 150 000 chacune… Les monstres du Château du Démon sont généreux.’</p><p class="">Après avoir goûté à la valeur de la boutique récemment, les objets de pacotille n’étaient plus seulement de la  » pacotille  » pour Jinwoo. C’était de l’or précieux qui allait devenir sa chair et son sang.</p><p class="talk">‘Il n’y a vraiment rien à jeter.’</p><p class="">Jinwoo vendait volontiers ce qu’il fallait vendre et entreposait ce qu’il ne vendait pas. En fouillant les cadavres, il découvrit quelque chose.</p><p class="talk">‘Qu’est-ce que c’est ?’</p><p class="">Il trouva un objet qu’il n’avait jamais vu auparavant.</p><div class="border"><p class="strong"><strong>Permis d’entrée</strong><br/>
+<strong>Vous avez gagné 1 âme démoniaque.</strong></p>
+</div>
+<p>Jinwoo chassait les démons de bas niveau depuis deux heures maintenant. Il vérifia le nombre actuel d’âmes.</p>
+<div class="border">
+<p class="strong"><strong>Collectes d’âmes de démons : 309 / 10,000</strong></p>
+</div>
+<p>La quête était terminée à 3 %. De plus, au rythme actuel, il atteindrait le niveau suivant après environ deux heures de chasse de plus. Son niveau actuel était de 61. Il avait fallu neuf donjons de grade C pour passer de 60 à 61, et cela s’était fait en deux jours. Comparé à cela, il serait en mesure de gagner un niveau après quatre heures de chasse ici.</p>
+<p class="talk">‘C’est de la folie.’</p>
+<p>Un sourire apparut sur le visage de Jinwoo. Ça faisait combien de temps qu’il n’avait pas autant aimé chasser ?</p>
+<p class="talk">‘Je pense que c’est la première fois depuis ce jour-là.’</p>
+<p>Il se rappela son premier donjon instantané avec nostalgie. Jinwoo avait alterné la chasse entre le premier et le deuxième niveau du métro Donjon sans arrêt jusqu’à ce qu’il ne puisse plus monter son niveau.</p>
+<p class="talk">« Kiek ! »</p>
+<p>Chaque fois que la dague de Jinwoo flashait, un démon de bas niveau tombait.</p>
+<p class="talk">« Kiaaak ! »<br/>
+« Kiek. »<br/>
+« Keh geck, kek ! »</p>
+<p>Parfois, plus d’un avec une seule frappe. En un rien de temps, il avait abattu 20 autres démons de bas niveau.</p>
+<p class="talk">‘C’est incroyable.’</p>
+<p>Les points d’expérience et le nombre d’âmes augmentaient de façon appropriée avec les démons tombés. En plus, il y avait des drops. Un sourire fleurit sur le visage du Chasseur qui collectionnait des objets.</p>
+<p class="talk">‘On dirait que les cornes sont un drop garanti. »</p>
+<div class="border">
+<p class="strong"><strong>Corne de démon de bas niveau</strong><br/>
+<strong>Rareté : Aucun</strong></p>
+<p class="strong"><strong>Type : Pacotille</strong></p>
+<p class="strong"><strong>Une corne de la tête du démon de bas niveau. En tant que réactif magique précieux, la corne d’un démon se vend assez cher.</strong></p>
+</div>
+<p>L’objet pacotille, « La Corne du Démon ». Le vendre au magasin lui rapportait 200 000 pièces d’or.</p>
+<p class="talk">‘Même les dents de Cerbère se sont vendues 150 000 chacune… Les monstres du Château du Démon sont généreux.’</p>
+<p>Après avoir goûté à la valeur de la boutique récemment, les objets de pacotille n’étaient plus seulement de la » pacotille » pour Jinwoo. C’était de l’or précieux qui allait devenir sa chair et son sang.</p>
+<p class="talk">‘Il n’y a vraiment rien à jeter.’</p>
+<p>Jinwoo vendait volontiers ce qu’il fallait vendre et entreposait ce qu’il ne vendait pas. En fouillant les cadavres, il découvrit quelque chose.</p>
+<p class="talk">‘Qu’est-ce que c’est ?’</p>
+<p>Il trouva un objet qu’il n’avait jamais vu auparavant.</p>
+<div class="border">
+<p class="strong"><strong>Permis d’entrée</strong><br/>
 <strong>Rareté : ???</strong><br/>
-<strong>Type : ???</strong></p><p class="strong"><strong>C’est un permis pour entrer au 2ème étage.</strong></p><p class="strong"><strong>Utilisable dans le cercle magique de déplacement du 1er étage.</strong></p></div><p class="">C’était un papier enroulé comme un parchemin.</p><p class="talk">‘Permis d’entrée ?’</p><p class="">En déroulant le parchemin, Jinwoo trouva un tas de lettres et de formes qu’il ne pouvait interpréter. La seule information qu’il pouvait trouver se trouvait dans l’encadré informatif de l’article.</p><p class="talk">‘Un objet qui me permet d’aller du premier étage au deuxième…’</p><p class="">Serait-ce possible ? Jinwoo regarda autour de lui. Bien qu’il s’agisse de l’intérieur du château du Démon, en quelque sorte, sa base était la tour Daesung. Si le château du Démon était divisé en étages comme la tour Daesung, ce serait le 1er étage.</p><p class="talk">‘Il ne m’est jamais venu à l’esprit qu’un donjon de type champs pouvait avoir plusieurs étages…’</p><p class="">Est-ce que ça signifiait que cet endroit avait aussi une centaine d’étages comme la tour Daesung ? Imaginant l’échelle du Donjon, Jinwoo sortit la langue.</p><p class="talk">‘…Ça ne peut pas être une centaine d’étages, n’est-ce pas ?’</p><p class="">Il n’y avait qu’un moyen de le savoir. Il devait trouver ce cercle magique.</p><p class="talk">‘Le seul endroit où le cercle magique de déplacement entre les étages pourrait se trouver est…’</p><p class="">Jinwoo regarda la colonne de lumière qui atteignait le ciel.</p><p class="talk">‘…Ça.’</p><p class="">Eh bien, c’était son but depuis le début, mais il avait été distrait par la chasse aux démons de bas niveau et avait fini dans l’autre direction.</p><p class="talk">‘Je suppose que je vais y aller maintenant.’</p><p class="">Il avait chassé tous les démons de bas niveau dans la zone de toute façon. Jinwoo sourit.</p><p class="talk">‘Sortez.’</p><p class="">Les Soldats de l’Ombre stockés dans le Stockage de l’Ombre n’avaient pas besoin d’un ordre particulier pour être appelés. Tout ce qu’il avait à faire, c’était juste avoir l’intention de faire appel à eux.</p><p class="">shooo-</p><p class="">La Bête de l’Ombre, issue de l’ours de glace alpha, se tenait devant Jinwoo.</p><p class="">grrrrrrl</p><p class="">L’ours monstrueux se tenait sur ses pattes arrière. Il surplombait une maison. Cependant, devant Jinwoo, ce n’était pas différent d’un chiot dressé.</p><p class="talk">« À terre. »</p><p class="">gémir</p><p class="">La Bête de l’Ombre abaissa docilement son corps, et Jinwoo se mit sur son dos.</p><p class="talk">« Hiyah ! »</p><p class="">Jinwoo donna un coup de pied sur le flanc de la bête, et sa monture se dirigea vers la colonne de lumière avec une vitesse terrifiante.</p><p class="">koong koong koong koong !</p><p class="">Avec les grandes enjambées de son corps géant, doublées de sa vitesse anormalement rapide, l’objectif se rapprochait à toute allure. Il y avait un obstacle de temps en temps.</p><p class="talk">« Kirik ! »<br/>
-« Kik kik ! »</p><p class="">ROOAR !</p><p class="">La bête faisait voler ses griffes à la vitesse de l’éclair, et les obstacles disparaissaient en un instant.</p><p class="">Oh ?</p><p class="">Jinwoo acquiesça de satisfaction.</p><p class="talk">‘Je me suis amusé avec lui, mais il est meilleur que je ne le pensais.’</p><p class="">Jinwoo décida de l’utiliser comme monture à l’avenir et lui donna même un nom.</p><p class="talk">« A partir de maintenant, tu t’appelles Tank. »</p><p class="talk">« Guoooooo ! »</p><p class="">La Bête de l’Ombre, non, Tank leva la tête et hurla. Jinwoo n’était pas sûr s’il aimait ou n’aimait pas le nom. Ralentissant, Tank atteignit et s’arrêta devant la colonne de lumière.</p><p class="talk">« Bon garçon. »</p><p class="">Jinwoo descendit, caressa la Bête de l’Ombre puis le ramena à son ombre. Il se retourna.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez découvert le cercle magique de déplacement inter-étages.</strong></p></div><p class="">Un sceau magique circulaire avait été dessiné sur le sol. La lumière du cercle magique atteignait le ciel. Jinwoo marcha dans la lumière.</p><p class="talk">‘…’</p><p class="">Il ne se passait rien. Confus, Jinwoo fit quelques pas de plus et atteignit le centre du cercle.</p><div class="border"><p class="strong"><strong>Il n’y a pas d’autres étages ouverts.</strong><br/>
-<strong>A quel étage voulez-vous aller ?</strong></p></div><p class="talk">« Combien y a-t-il d’étages ? »</p><p class="">Il ne reçut pas de réponse.</p><p class="talk">‘Pour voir le sommet, je n’ai qu’à grimper la tour, hein ?’</p><p class="">Jinwoo réfléchit un instant. Il était sur le point de passer au niveau supérieur. Devrait-il monter son niveau ici ou monter à l’étage ?</p><p class="">Comparé aux autres donjons instantanés, les monstres ne réapparaissent pas ici. Il n’y avait aucune raison de rester au même endroit.</p><p class="">En plus de cela, la quête lui avait dit que des démons aux âmes multiples se trouveraient dans les étages supérieurs. Pour les points d’expérience comme pour les âmes, Jinwoo avait opté pour des étages supérieurs.</p><p class="talk">‘Bien.’</p><p class="">Allons en haut.</p><p class="">Jinwoo s’envola,</p><p class="talk">« 2ème étage. »</p><div class="border"><p class="strong"><strong>Un permis d’entrée est requis.</strong></p></div><p class="">Suivant les instructions, Jinwoo retira le parchemin de l’inventaire. Dès qu’il quitta l’inventaire, le parchemin disparut avec un éclair de lumière.</p><div class="border"><p class="strong"><strong>Le 2ème étage du Château du Démon a été ouvert…</strong><br/>
-<strong>Vous allez maintenant monter au 2ème étage.</strong></p></div><p class="">wooooong-</p><p class="">Le cercle magique commença à briller férocement. En même temps, Jinwoo comprenait ce qui se passait.</p><p class="talk">‘Oh… donc c’est…’</p><p class="">Juste un ascenseur.</p><p class="">Dès qu’il comprit le but du pilier de la lumière, Jinwoo fut envoyé au 2ème étage avec un flash aveuglant.</p><hr class=""/><p class="">2e étage, 3e étage, 4e étage… Et maintenant, 27e étage.</p><p class="">C’était le progrès de Jinwoo ces deux derniers jours. Il avait dit à Jinah qu’il voyagerait pendant une semaine.</p><p class="talk">‘Il me reste cinq jours.’</p><p class="">Compte tenu de la vitesse croissante à laquelle il nettoyait chaque étage, Jinwoo espérait qu’il pourrait atteindre le 100e étage avant la fin des cinq jours qui lui restaient. Jinwoo regarda autour de lui. C’était une ville complètement détruite.</p><p class="talk">‘Je ne peux même pas dire dans quelle ville c’est.’</p><p class="">Chaque étage était une ville différente. De plus, la destruction des villes empirait à mesure qu’il montait les étages. Au 27e étage, il devenait de plus en plus difficile de l’appeler une ville. C’est à ça que ressemblerait une ville si elle était bombardée ? Jinwoo rejeta l’idée et secoua la tête.</p><p class="talk">‘Ce n’est pas le moment pour de telles pensées.’</p><p class="">Il vérifia sa montre ; il était 23 heures. Il n’y avait ni nuit ni jour dans cet endroit. Il devait compter sur sa montre pour suivre l’heure. S’il était 11 heures, il devrait se reposer. Un sommeil suffisant était nécessaire pour poursuivre le raid. Avant ça,</p><p class="talk">‘Vérifions les progrès.’</p><div class="border"><p class="strong"><strong>Nombre d’âmes démoniaques rassemblées : 2 116 / 10 000</strong></p></div><p class="talk">‘2,100…’</p><p class="">C’était un taux d’environ un millier de démons par jour. Il avait bien progressé au cours des deux derniers jours. Il y avait encore un long chemin à parcourir jusqu’à dix mille, mais Jinwoo avait de grandes attentes à l’égard de ces démons aux âmes multiples dans les étages supérieurs.</p><p class="talk">‘On dirait que le plus important, c’est de continuer à monter.’</p><p class="">Après ça, ce serait le niveau.</p><p class="talk">« Wow ! »</p><p class="">Jinwoo écarquilla les yeux.</p><div class="border"><p class="strong"><strong>Niveau : 67</strong></p></div><p class="">Il avait atteint le niveau 67 en un rien de temps. En passant des démons de bas niveau qui donnaient 100 points d’expérience aux démons de niveau intermédiaire qui en donnaient 300, les progrès qu’il avait fait dans l’amélioration de son niveau avaient connu une augmentation explosive.</p><p class="talk">‘Mec, je suis vraiment en train de m’améliorer rapidement.’</p><p class="">Des tonnes de monstres. Des points d’expérience généreux. Une vraie difficulté.</p><p class="">Le Château du Démon était vraiment un paradis pour améliorer le niveau. Et ce n’était pas tout. Jinwoo avait travaillé avec diligence à l’amélioration de ses compétences pour ce qui était de tuer. Même maintenant, il faisait planer le Tueur de Chevalier au-dessus de sa main. Les « mains du souverain ». C’était une compétence qui lui permettait de déplacer des objets physiques sans les toucher.</p><p class="talk">‘Heureusement, les « Mains du souverain » ne coûtent aucun mana.’</p><p class="">C’était un peu fatigant de garder son esprit concentré sur le maintien de la compétence, mais comparé aux avantages d’augmenter sa compétence, cela valait la peine. Comme si c’était le bon moment, Jinwoo reçut une bonne nouvelle.</p><div class="border"><p class="strong"><strong>Les « Mains du souverain » a atteint un niveau supérieur !</strong></p></div><p class="talk">‘Parfait !’</p><p class="">Jinwoo rayonnait de bonheur et reposait son dos contre le mur. Chaque fois qu’il devenait plus fort, son cœur se détendait un peu. Ses paupières commencèrent à baisser.</p><p class="talk">‘Hmm, il aurait déjà dû avoir sa licence maintenant.’</p><p class="">Se demandant si Jinho allait bien ? Ça faisait longtemps que Jinwoo n’avait pas bougé tout seul. Cela lui faisait penser au jeune homme qui s’était toujours accroché à son dos dans les donjons. La lutte entre le frère aîné qui avait déjà fait ses preuves dans le monde financier et le frère cadet qui n’était qu’un étudiant de niveau collégial avec une licence de maître de guilde. Ce ne serait pas une bataille facile.</p><p class="talk">‘Reste fort, Jinho.’</p><p class="">Encourageant Jinho dans son cœur, Jinwoo tomba lentement dans un profond sommeil.</p><hr class=""/><p class="">Jinho entra dans le restaurant coréen haut de gamme avec un visage déterminé. Il avait choisi l’endroit en fonction des goûts de son père.</p><p class="talk">« Le président ?</p><p class="talk">-Il attend à l’intérieur. »</p><p class="">Jinho avala sa salive.</p><p class="talk">« S’il vous plaît, par ici. »</p><p class="">Jinho fut conduit dans la pièce où se trouvait son père.</p><p class="">glisse-</p><p class="">La porte coulissante s’ouvrit, et le jeune homme vit le visage de son père de l’autre côté de la pièce. Sa nervosité se multiplia. Le moment de faiblesse ne dura qu’un instant, Jinho rassembla son courage et s’assit devant son père.</p><p class="talk">« Alors de quoi s’agit-il ? Dire que toi, plus que quiconque, tu aurais organisé une réunion avec moi.</p><p class="talk">-Père, avant que je dise ce que j’ai à dire, jette un coup d’œil à ça.</p><p class="talk">-C’est… ?</p><p class="talk">-C’est ma licence de maître de guilde et mon dossier de raids.</p><p class="talk">-Une licence… de maître de guilde ? Toi ? »</p><p class="">Quand Yoo Myunghan le regarda d’un regard soupçonneux, Jinho hocha la tête avec joie :</p><p class="talk">« Oui, père. »</p><p class="">Sans un mot, Yoo Myunghan prit les documents que Jinho sortit et les examina. Tandis que le président examinait l’information, une lumière apparut dans ses yeux.</p><p class="talk">« Alors, »</p><p class="">Yoo Myunghan posa les documents sur la table.</p><p class="talk">« Tu veux dire que tu veux la guilde Yoojin ?</p><p class="talk">-Oui, monsieur.</p><p class="talk">-Hmm… »</p><p class="">Pendant un bref instant, des traces de surprise et de contemplation apparurent sur le visage de Yoo Myunghan.</p><p class="talk">‘Dire que père doit prendre le temps de choisir entre moi et mon frère.’</p><p class="">Jinho était stupéfait. Même cela était un grand résultat pour le jeune homme. Si c’était lui dans le passé, il en aurait été satisfait. Cependant, Jinho avait changé. Le jeune homme ne voulait pas reculer après être arrivé si loin.</p><p class="talk">« Père devrait déjà le savoir, mais laisser le poste de maître de guilde à un étranger donne trop de pouvoir à quelqu’un qui n’est pas sous- »</p><p class="talk">-Assez. »</p><p class="">Yoo Myunghan leva la main. En même temps, Jinho ferma sa bouche. Dans le clan Yoo, le mot « assez » de Yoo Myunghan était un ordre absolu que personne n’oserait refuser.</p><p class="talk">« Il y a quelqu’un que je veux te présenter.</p><p class="talk">-Monsieur ? »</p><p class="">Jinho fut pris au dépourvu. C’est lui qui avait convoqué cette réunion, alors comment son père pouvait-il avoir quelqu’un à lui présenter ? Qui ça pourrait être ? Alors que la curiosité du jeune homme atteignait son apogée, une autre entrée de la pièce s’ouvrit.</p><p class="talk">« Euh… Bonjour. »</p><p class="">Un homme d’une vingtaine d’années se tint à la porte et les salua maladroitement.</p><p class="">Qui ?</p><p class="">Jinho ne reconnaissait pas l’homme. Yoo Myunghan fit un geste du menton et l’homme s’assit à côté de lui.</p><p class="talk">« Voici le Chasseur Go Myunghwan. »</p><p class="talk">‘Go Myunghwan ?’</p><p class="">Jinho était confus. C’était un nom dont il n’avait jamais entendu parler. Son père acquiesça d’un signe de tête, puis continua :</p><p class="talk">« Le rapport de la Porte Rouge de la Guilde White Tiger qui a fait la une dernièrement, c’est l’un des survivants de cet incident. »</p></body></html>
+<strong>Type : ???</strong></p>
+<p class="strong"><strong>C’est un permis pour entrer au 2ème étage.</strong></p>
+<p class="strong"><strong>Utilisable dans le cercle magique de déplacement du 1er étage.</strong></p>
+</div>
+<p>C’était un papier enroulé comme un parchemin.</p>
+<p class="talk">‘Permis d’entrée ?’</p>
+<p>En déroulant le parchemin, Jinwoo trouva un tas de lettres et de formes qu’il ne pouvait interpréter. La seule information qu’il pouvait trouver se trouvait dans l’encadré informatif de l’article.</p>
+<p class="talk">‘Un objet qui me permet d’aller du premier étage au deuxième…’</p>
+<p>Serait-ce possible ? Jinwoo regarda autour de lui. Bien qu’il s’agisse de l’intérieur du château du Démon, en quelque sorte, sa base était la tour Daesung. Si le château du Démon était divisé en étages comme la tour Daesung, ce serait le 1er étage.</p>
+<p class="talk">‘Il ne m’est jamais venu à l’esprit qu’un donjon de type champs pouvait avoir plusieurs étages…’</p>
+<p>Est-ce que ça signifiait que cet endroit avait aussi une centaine d’étages comme la tour Daesung ? Imaginant l’échelle du Donjon, Jinwoo sortit la langue.</p>
+<p class="talk">‘…Ça ne peut pas être une centaine d’étages, n’est-ce pas ?’</p>
+<p>Il n’y avait qu’un moyen de le savoir. Il devait trouver ce cercle magique.</p>
+<p class="talk">‘Le seul endroit où le cercle magique de déplacement entre les étages pourrait se trouver est…’</p>
+<p>Jinwoo regarda la colonne de lumière qui atteignait le ciel.</p>
+<p class="talk">‘…Ça.’</p>
+<p>Eh bien, c’était son but depuis le début, mais il avait été distrait par la chasse aux démons de bas niveau et avait fini dans l’autre direction.</p>
+<p class="talk">‘Je suppose que je vais y aller maintenant.’</p>
+<p>Il avait chassé tous les démons de bas niveau dans la zone de toute façon. Jinwoo sourit.</p>
+<p class="talk">‘Sortez.’</p>
+<p>Les Soldats de l’Ombre stockés dans le Stockage de l’Ombre n’avaient pas besoin d’un ordre particulier pour être appelés. Tout ce qu’il avait à faire, c’était juste avoir l’intention de faire appel à eux.</p>
+<p>shooo-</p>
+<p>La Bête de l’Ombre, issue de l’ours de glace alpha, se tenait devant Jinwoo.</p>
+<p>grrrrrrl</p>
+<p>L’ours monstrueux se tenait sur ses pattes arrière. Il surplombait une maison. Cependant, devant Jinwoo, ce n’était pas différent d’un chiot dressé.</p>
+<p class="talk">« À terre. »</p>
+<p>gémir</p>
+<p>La Bête de l’Ombre abaissa docilement son corps, et Jinwoo se mit sur son dos.</p>
+<p class="talk">« Hiyah ! »</p>
+<p>Jinwoo donna un coup de pied sur le flanc de la bête, et sa monture se dirigea vers la colonne de lumière avec une vitesse terrifiante.</p>
+<p>koong koong koong koong !</p>
+<p>Avec les grandes enjambées de son corps géant, doublées de sa vitesse anormalement rapide, l’objectif se rapprochait à toute allure. Il y avait un obstacle de temps en temps.</p>
+<p class="talk">« Kirik ! »<br/>
+« Kik kik ! »</p>
+<p>ROOAR !</p>
+<p>La bête faisait voler ses griffes à la vitesse de l’éclair, et les obstacles disparaissaient en un instant.</p>
+<p>Oh ?</p>
+<p>Jinwoo acquiesça de satisfaction.</p>
+<p class="talk">‘Je me suis amusé avec lui, mais il est meilleur que je ne le pensais.’</p>
+<p>Jinwoo décida de l’utiliser comme monture à l’avenir et lui donna même un nom.</p>
+<p class="talk">« A partir de maintenant, tu t’appelles Tank. »</p>
+<p class="talk">« Guoooooo ! »</p>
+<p>La Bête de l’Ombre, non, Tank leva la tête et hurla. Jinwoo n’était pas sûr s’il aimait ou n’aimait pas le nom. Ralentissant, Tank atteignit et s’arrêta devant la colonne de lumière.</p>
+<p class="talk">« Bon garçon. »</p>
+<p>Jinwoo descendit, caressa la Bête de l’Ombre puis le ramena à son ombre. Il se retourna.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez découvert le cercle magique de déplacement inter-étages.</strong></p>
+</div>
+<p>Un sceau magique circulaire avait été dessiné sur le sol. La lumière du cercle magique atteignait le ciel. Jinwoo marcha dans la lumière.</p>
+<p class="talk">‘…’</p>
+<p>Il ne se passait rien. Confus, Jinwoo fit quelques pas de plus et atteignit le centre du cercle.</p>
+<div class="border">
+<p class="strong"><strong>Il n’y a pas d’autres étages ouverts.</strong><br/>
+<strong>A quel étage voulez-vous aller ?</strong></p>
+</div>
+<p class="talk">« Combien y a-t-il d’étages ? »</p>
+<p>Il ne reçut pas de réponse.</p>
+<p class="talk">‘Pour voir le sommet, je n’ai qu’à grimper la tour, hein ?’</p>
+<p>Jinwoo réfléchit un instant. Il était sur le point de passer au niveau supérieur. Devrait-il monter son niveau ici ou monter à l’étage ?</p>
+<p>Comparé aux autres donjons instantanés, les monstres ne réapparaissent pas ici. Il n’y avait aucune raison de rester au même endroit.</p>
+<p>En plus de cela, la quête lui avait dit que des démons aux âmes multiples se trouveraient dans les étages supérieurs. Pour les points d’expérience comme pour les âmes, Jinwoo avait opté pour des étages supérieurs.</p>
+<p class="talk">‘Bien.’</p>
+<p>Allons en haut.</p>
+<p>Jinwoo s’envola,</p>
+<p class="talk">« 2ème étage. »</p>
+<div class="border">
+<p class="strong"><strong>Un permis d’entrée est requis.</strong></p>
+</div>
+<p>Suivant les instructions, Jinwoo retira le parchemin de l’inventaire. Dès qu’il quitta l’inventaire, le parchemin disparut avec un éclair de lumière.</p>
+<div class="border">
+<p class="strong"><strong>Le 2ème étage du Château du Démon a été ouvert…</strong><br/>
+<strong>Vous allez maintenant monter au 2ème étage.</strong></p>
+</div>
+<p>wooooong-</p>
+<p>Le cercle magique commença à briller férocement. En même temps, Jinwoo comprenait ce qui se passait.</p>
+<p class="talk">‘Oh… donc c’est…’</p>
+<p>Juste un ascenseur.</p>
+<p>Dès qu’il comprit le but du pilier de la lumière, Jinwoo fut envoyé au 2ème étage avec un flash aveuglant.</p>
+<hr/>
+<p>2e étage, 3e étage, 4e étage… Et maintenant, 27e étage.</p>
+<p>C’était le progrès de Jinwoo ces deux derniers jours. Il avait dit à Jinah qu’il voyagerait pendant une semaine.</p>
+<p class="talk">‘Il me reste cinq jours.’</p>
+<p>Compte tenu de la vitesse croissante à laquelle il nettoyait chaque étage, Jinwoo espérait qu’il pourrait atteindre le 100e étage avant la fin des cinq jours qui lui restaient. Jinwoo regarda autour de lui. C’était une ville complètement détruite.</p>
+<p class="talk">‘Je ne peux même pas dire dans quelle ville c’est.’</p>
+<p>Chaque étage était une ville différente. De plus, la destruction des villes empirait à mesure qu’il montait les étages. Au 27e étage, il devenait de plus en plus difficile de l’appeler une ville. C’est à ça que ressemblerait une ville si elle était bombardée ? Jinwoo rejeta l’idée et secoua la tête.</p>
+<p class="talk">‘Ce n’est pas le moment pour de telles pensées.’</p>
+<p>Il vérifia sa montre ; il était 23 heures. Il n’y avait ni nuit ni jour dans cet endroit. Il devait compter sur sa montre pour suivre l’heure. S’il était 11 heures, il devrait se reposer. Un sommeil suffisant était nécessaire pour poursuivre le raid. Avant ça,</p>
+<p class="talk">‘Vérifions les progrès.’</p>
+<div class="border">
+<p class="strong"><strong>Nombre d’âmes démoniaques rassemblées : 2 116 / 10 000</strong></p>
+</div>
+<p class="talk">‘2,100…’</p>
+<p>C’était un taux d’environ un millier de démons par jour. Il avait bien progressé au cours des deux derniers jours. Il y avait encore un long chemin à parcourir jusqu’à dix mille, mais Jinwoo avait de grandes attentes à l’égard de ces démons aux âmes multiples dans les étages supérieurs.</p>
+<p class="talk">‘On dirait que le plus important, c’est de continuer à monter.’</p>
+<p>Après ça, ce serait le niveau.</p>
+<p class="talk">« Wow ! »</p>
+<p>Jinwoo écarquilla les yeux.</p>
+<div class="border">
+<p class="strong"><strong>Niveau : 67</strong></p>
+</div>
+<p>Il avait atteint le niveau 67 en un rien de temps. En passant des démons de bas niveau qui donnaient 100 points d’expérience aux démons de niveau intermédiaire qui en donnaient 300, les progrès qu’il avait fait dans l’amélioration de son niveau avaient connu une augmentation explosive.</p>
+<p class="talk">‘Mec, je suis vraiment en train de m’améliorer rapidement.’</p>
+<p>Des tonnes de monstres. Des points d’expérience généreux. Une vraie difficulté.</p>
+<p>Le Château du Démon était vraiment un paradis pour améliorer le niveau. Et ce n’était pas tout. Jinwoo avait travaillé avec diligence à l’amélioration de ses compétences pour ce qui était de tuer. Même maintenant, il faisait planer le Tueur de Chevalier au-dessus de sa main. Les « mains du souverain ». C’était une compétence qui lui permettait de déplacer des objets physiques sans les toucher.</p>
+<p class="talk">‘Heureusement, les « Mains du souverain » ne coûtent aucun mana.’</p>
+<p>C’était un peu fatigant de garder son esprit concentré sur le maintien de la compétence, mais comparé aux avantages d’augmenter sa compétence, cela valait la peine. Comme si c’était le bon moment, Jinwoo reçut une bonne nouvelle.</p>
+<div class="border">
+<p class="strong"><strong>Les « Mains du souverain » a atteint un niveau supérieur !</strong></p>
+</div>
+<p class="talk">‘Parfait !’</p>
+<p>Jinwoo rayonnait de bonheur et reposait son dos contre le mur. Chaque fois qu’il devenait plus fort, son cœur se détendait un peu. Ses paupières commencèrent à baisser.</p>
+<p class="talk">‘Hmm, il aurait déjà dû avoir sa licence maintenant.’</p>
+<p>Se demandant si Jinho allait bien ? Ça faisait longtemps que Jinwoo n’avait pas bougé tout seul. Cela lui faisait penser au jeune homme qui s’était toujours accroché à son dos dans les donjons. La lutte entre le frère aîné qui avait déjà fait ses preuves dans le monde financier et le frère cadet qui n’était qu’un étudiant de niveau collégial avec une licence de maître de guilde. Ce ne serait pas une bataille facile.</p>
+<p class="talk">‘Reste fort, Jinho.’</p>
+<p>Encourageant Jinho dans son cœur, Jinwoo tomba lentement dans un profond sommeil.</p>
+<hr/>
+<p>Jinho entra dans le restaurant coréen haut de gamme avec un visage déterminé. Il avait choisi l’endroit en fonction des goûts de son père.</p>
+<p class="talk">« Le président ?</p>
+<p class="talk">-Il attend à l’intérieur. »</p>
+<p>Jinho avala sa salive.</p>
+<p class="talk">« S’il vous plaît, par ici. »</p>
+<p>Jinho fut conduit dans la pièce où se trouvait son père.</p>
+<p>glisse-</p>
+<p>La porte coulissante s’ouvrit, et le jeune homme vit le visage de son père de l’autre côté de la pièce. Sa nervosité se multiplia. Le moment de faiblesse ne dura qu’un instant, Jinho rassembla son courage et s’assit devant son père.</p>
+<p class="talk">« Alors de quoi s’agit-il ? Dire que toi, plus que quiconque, tu aurais organisé une réunion avec moi.</p>
+<p class="talk">-Père, avant que je dise ce que j’ai à dire, jette un coup d’œil à ça.</p>
+<p class="talk">-C’est… ?</p>
+<p class="talk">-C’est ma licence de maître de guilde et mon dossier de raids.</p>
+<p class="talk">-Une licence… de maître de guilde ? Toi ? »</p>
+<p>Quand Yoo Myunghan le regarda d’un regard soupçonneux, Jinho hocha la tête avec joie :</p>
+<p class="talk">« Oui, père. »</p>
+<p>Sans un mot, Yoo Myunghan prit les documents que Jinho sortit et les examina. Tandis que le président examinait l’information, une lumière apparut dans ses yeux.</p>
+<p class="talk">« Alors, »</p>
+<p>Yoo Myunghan posa les documents sur la table.</p>
+<p class="talk">« Tu veux dire que tu veux la guilde Yoojin ?</p>
+<p class="talk">-Oui, monsieur.</p>
+<p class="talk">-Hmm… »</p>
+<p>Pendant un bref instant, des traces de surprise et de contemplation apparurent sur le visage de Yoo Myunghan.</p>
+<p class="talk">‘Dire que père doit prendre le temps de choisir entre moi et mon frère.’</p>
+<p>Jinho était stupéfait. Même cela était un grand résultat pour le jeune homme. Si c’était lui dans le passé, il en aurait été satisfait. Cependant, Jinho avait changé. Le jeune homme ne voulait pas reculer après être arrivé si loin.</p>
+<p class="talk">« Père devrait déjà le savoir, mais laisser le poste de maître de guilde à un étranger donne trop de pouvoir à quelqu’un qui n’est pas sous- »</p>
+<p class="talk">-Assez. »</p>
+<p>Yoo Myunghan leva la main. En même temps, Jinho ferma sa bouche. Dans le clan Yoo, le mot « assez » de Yoo Myunghan était un ordre absolu que personne n’oserait refuser.</p>
+<p class="talk">« Il y a quelqu’un que je veux te présenter.</p>
+<p class="talk">-Monsieur ? »</p>
+<p>Jinho fut pris au dépourvu. C’est lui qui avait convoqué cette réunion, alors comment son père pouvait-il avoir quelqu’un à lui présenter ? Qui ça pourrait être ? Alors que la curiosité du jeune homme atteignait son apogée, une autre entrée de la pièce s’ouvrit.</p>
+<p class="talk">« Euh… Bonjour. »</p>
+<p>Un homme d’une vingtaine d’années se tint à la porte et les salua maladroitement.</p>
+<p>Qui ?</p>
+<p>Jinho ne reconnaissait pas l’homme. Yoo Myunghan fit un geste du menton et l’homme s’assit à côté de lui.</p>
+<p class="talk">« Voici le Chasseur Go Myunghwan. »</p>
+<p class="talk">‘Go Myunghwan ?’</p>
+<p>Jinho était confus. C’était un nom dont il n’avait jamais entendu parler. Son père acquiesça d’un signe de tête, puis continua :</p>
+<p class="talk">« Le rapport de la Porte Rouge de la Guilde White Tiger qui a fait la une dernièrement, c’est l’un des survivants de cet incident. »</p>
+</body>
+</html>

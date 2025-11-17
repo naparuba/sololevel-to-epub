@@ -1,21 +1,207 @@
-<html><body><h1>Chapter 23</h1>
-<p class=""> </p><p class=""> </p><p class="">Avec les yeux d’un prédateur qui taille sa proie, Jinwoo déplaçait son regard d’un Chasseur à l’autre.</p><p class="">Hwang Dongseok avala sa salive.</p><p class="">Le fait qu’une dague soit apparue de nulle part dans sa main était surprenant, mais ce qui l’avait encore plus choqué était la mort de Park Joontae.</p><p class="talk">‘Comment un rang E a-t-il tué un rang D en un coup ?’</p><p class="">Indépendamment de la ruse qu’il avait utilisée, il ne pouvait plus être sous-estimé. Il fallait se concentrer. Hwang Dongseok jeta un coup d’œil à coté de lui : ‘Jette-lui en un autre ‘</p><p class="">Jo Gyuhwan hocha la tête. Il ne ferait pas la même erreur ! Les mains déterminées s’éclairaient à nouveau en elles.</p><p class="">Mais avant de pouvoir lancer la flèche de lumière, Jinwoo apparut devant Jo Gyuhwan.</p><p class="talk">« Hein ? »</p><p class="">La bouche de Jo Gyuhwan s’ouvrit de surprise. Les yeux de Jinwoo étaient féroces.</p><p class="talk">‘D’abord, le Chasseur de classe Mage avec une forte puissance de feu mais une faible constitution.’</p><p class="">Il avait déjà fait tous les calculs.</p><p class="">La dague s’incrusta dans le cou de Jo Gyuhwan.</p><p class="">poignarde !</p><p class="">tousse !</p><p class="">Jo Gyuhwan attrapa son cou et tomba.</p><p class="">thud</p><p class="talk">« Tuez-le ! »<br/>
-« Ahh !!! »</p><p class="">La mort de l’homme marqua le début du combat ; tous les Chasseurs se précipitaient vers Jinwoo. Jinwoo avait les sens affûtés et se concentrait sur chacun de leurs mouvements.</p><p class="">Le son disparut, et le temps ralentit.</p><p class="">La puissance de la stat agilité, portée à 38 points, commença à se montrer.</p><p class="">Il bloqua et évita le torrent d’épées, de lances et de flèches qui venaient vers lui.</p><p class="">Les yeux des chasseurs s’élargirent,</p><p class="talk">‘Comment, comment un rang E peut bouger comme ça ?!’<br/>
+<html>
+<body>
+<h1>Chapter 23</h1>
+
+
+<p>Avec les yeux d’un prédateur qui taille sa proie, Jinwoo déplaçait son regard d’un Chasseur à l’autre.</p>
+<p>Hwang Dongseok avala sa salive.</p>
+<p>Le fait qu’une dague soit apparue de nulle part dans sa main était surprenant, mais ce qui l’avait encore plus choqué était la mort de Park Joontae.</p>
+<p class="talk">‘Comment un rang E a-t-il tué un rang D en un coup ?’</p>
+<p>Indépendamment de la ruse qu’il avait utilisée, il ne pouvait plus être sous-estimé. Il fallait se concentrer. Hwang Dongseok jeta un coup d’œil à coté de lui : ‘Jette-lui en un autre ‘</p>
+<p>Jo Gyuhwan hocha la tête. Il ne ferait pas la même erreur ! Les mains déterminées s’éclairaient à nouveau en elles.</p>
+<p>Mais avant de pouvoir lancer la flèche de lumière, Jinwoo apparut devant Jo Gyuhwan.</p>
+<p class="talk">« Hein ? »</p>
+<p>La bouche de Jo Gyuhwan s’ouvrit de surprise. Les yeux de Jinwoo étaient féroces.</p>
+<p class="talk">‘D’abord, le Chasseur de classe Mage avec une forte puissance de feu mais une faible constitution.’</p>
+<p>Il avait déjà fait tous les calculs.</p>
+<p>La dague s’incrusta dans le cou de Jo Gyuhwan.</p>
+<p>poignarde !</p>
+<p>tousse !</p>
+<p>Jo Gyuhwan attrapa son cou et tomba.</p>
+<p>thud</p>
+<p class="talk">« Tuez-le ! »<br/>
+« Ahh !!! »</p>
+<p>La mort de l’homme marqua le début du combat ; tous les Chasseurs se précipitaient vers Jinwoo. Jinwoo avait les sens affûtés et se concentrait sur chacun de leurs mouvements.</p>
+<p>Le son disparut, et le temps ralentit.</p>
+<p>La puissance de la stat agilité, portée à 38 points, commença à se montrer.</p>
+<p>Il bloqua et évita le torrent d’épées, de lances et de flèches qui venaient vers lui.</p>
+<p>Les yeux des chasseurs s’élargirent,</p>
+<p class="talk">‘Comment, comment un rang E peut bouger comme ça ?!’<br/>
 ‘Il est trop rapide !’<br/>
-‘Je n’arrive pas à le toucher !’</p><p class="">Leurs visages devinrent pâles.</p><p class="">La vitesse était relative. À leurs yeux, les mouvements de Jinwoo étaient d’une rapidité terrifiante.</p><p class="">Jinwoo se faufilait entre les chasseurs, les poignardant un par un.</p><div class="border"><p class="strong"><strong>Paralysie a été infligée.</strong></p><p class="strong"><strong>Saignement a été infligé.</strong></p><p class="strong"><strong>Paralysie a été infligée.</strong></p></div><p class="">Le Croc empoisonné du Casaka infligeait ses débuffs à droite et à gauche, jetant les chasseurs dans le chaos.</p><p class="talk">« Je ne peux pas bouger mon corps ! Uwak !<br/>
+‘Je n’arrive pas à le toucher !’</p>
+<p>Leurs visages devinrent pâles.</p>
+<p>La vitesse était relative. À leurs yeux, les mouvements de Jinwoo étaient d’une rapidité terrifiante.</p>
+<p>Jinwoo se faufilait entre les chasseurs, les poignardant un par un.</p>
+<div class="border">
+<p class="strong"><strong>Paralysie a été infligée.</strong></p>
+<p class="strong"><strong>Saignement a été infligé.</strong></p>
+<p class="strong"><strong>Paralysie a été infligée.</strong></p>
+</div>
+<p>Le Croc empoisonné du Casaka infligeait ses débuffs à droite et à gauche, jetant les chasseurs dans le chaos.</p>
+<p class="talk">« Je ne peux pas bouger mon corps ! Uwak !<br/>
 – De la magie ? C’est de la magie ?<br/>
-– Ce fils de pute ! »</p><div class="border"><p class="strong"><strong>Saignement a été infligé.</strong></p><p class="strong"><strong>Paralysie a été infligée.</strong></p><p class="strong"><strong>Paralysie a été infligée.</strong></p></div><p class="talk">« Ahh !<br/>
+– Ce fils de pute ! »</p>
+<div class="border">
+<p class="strong"><strong>Saignement a été infligé.</strong></p>
+<p class="strong"><strong>Paralysie a été infligée.</strong></p>
+<p class="strong"><strong>Paralysie a été infligée.</strong></p>
+</div>
+<p class="talk">« Ahh !<br/>
 – Qu’est-ce qu’il est ?!<br/>
-– Uwaaaaak ! »</p><p class="">Tout autour de la pièce, les cris des Chasseurs se répandirent. Cinq des ennemis environnants étaient déjà tombés.</p><p class="">thud</p><p class="">thud</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Ennemis à affronter : 1</strong></p><p class="strong"><strong>Ennemis vaincus : 7</strong></p></div><p class="">Jinwoo affronta le dernier homme qui restait.</p><p class="">L’homme poilu avec un grand physique, Hwang Dongseok.</p><p class="">Avec un visage déterminé, il écarta son bouclier et rassembla son énergie.</p><p class="talk">« Waaaaaah !!! »</p><p class="">Il frappa le sol et chargea.</p><p class="">boum boum boum boum !</p><p class="">Alors qu’il courait, il se dit. C’était un Tanker qui brillait dans l’échelon supérieur des rang C. La cible était probablement un dealer. Ses mouvements étaient rapides, mais il n’y avait aucune chance qu’il ait le pouvoir de passer sa défense, fortifié par la compétence  » Renforcer « [1].</p><p class="talk">‘Tu ne peux pas me blesser mortellement avec une simple dague !’</p><p class="">Celui qui sera détruit dans leur affrontement sera Jinwoo !</p><p class="">Il tacla avec son épaule en se rapprochant.</p><p class="talk">« Renforcer ! »</p><p class="">La pièce tourna soudain autour de lui, et le plafond du donjon apparut sous ses yeux.</p><p class="">Frappe !</p><p class="">Sa tête trembla et il sentit une grande douleur au cou et au dos. Il tenta de se lever mais son corps ne l’écouta pas. Le combattant Hwang Dongseok s’étendit sur le sol.</p><p class="talk">« tousse ! »</p><p class="">Du sang sortait de sa bouche.</p><p class="talk">‘Est-ce… est-ce qu’il vient de me projeter ?’</p><p class="">Lui, Hwang Dongseok, venait juste de perdre ?</p><p class="">Dans un concours de force ?</p><p class="talk">« Un simple déchet de rang E comme toi… »</p><p class="">Il réalisa son erreur. 5 rang C et 4 rang D avaient été battus en un instant. Jinwoo ne pouvait pas être un rang E.</p><p class="">Jinwoo se tenait à côté de Hwang Dongseok. L’homme ne pouvait même pas bouger son corps. Le résultat du combat était clair. S’il s’agissait d’une compétition sportive, c’est ici que ça s’arrêterait.</p><p class="">Cela n’allait pas s’arrêter là.</p><p class="talk">« A-Attends. »</p><p class="">Hwang Dongseok leva la main.</p><p class="talk">« S’il te plaît, laisse-moi vivre. Si tu veux de l’argent, je te le donnerai. Beaucoup, laisse-moi vivre… »</p><p class="talk">« Trois fois. »</p><p class="">Répondit Jinwoo avec une voix glaciale,</p><p class="talk">« N’es-tu pas gêné de demander pitié à quelqu’un que tu as essayé de tuer trois fois ? »</p><p class="">Un. En bloquant l’entrée.</p><p class="">Deux. En demandant à Jinho.</p><p class="">Trois. Avec la magie de Jo Gyuhwan.</p><p class="">Hwang Dongseok avait tenté à trois reprises de tuer Jinwoo, sans tenir compte du combat de tout à l’heure.</p><p class="">Donner et recevoir.</p><p class="">En revenant vivant du temple, Jinwoo avait fait ce credo.</p><p class="">Donner autant qu’on a donné, et recevoir autant qu’on a reçu.</p><p class="">Que ce soit en bien ou en mal.</p><p class="">Il n’y aurait pas de compromis.</p><p class="">Réalisant qu’il ne pouvait pas implorer la pitié, Hwang Dongseok ouvrit les yeux grand et expulsa l’écume de sa bouche,</p><p class="talk">« Tu, tu crois que tu vas t’en tirer comme ça ?! Sais-tu qui est mon petit frère- »</p><p class="">Écrase !</p><p class="">Hwang Dongseok ne pouvait pas continuer avec son cou écrasé.</p><p class="">Ses yeux se retournèrent pour révéler leurs blancs.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Ennemis à affronter : 0</strong></p><p class="strong"><strong>Ennemis vaincus : 8</strong></p></div><p class="">La quête était enfin terminée.</p><p class="talk">« Phew- »</p><p class="">Le long soupir de Jinwoo avait plusieurs significations. Il ôta sa main de la gorge de Hwang Dongseok et la regarda. Bien qu’il s’agissait d’une bataille à sens unique, ses mains tremblaient devant le fait qu’il venait de prendre huit vies.</p><p class="talk">‘Est-ce que c’est vraiment bien ?’</p><p class="">Il plaça la main sur sa poitrine et sentit son cœur.</p><p class="">ba dum ba dum ba dum</p><p class="">Il battait normalement.</p><p class="talk">‘Je me demande…’</p><p class="">Depuis le jour où il était revenu du temple souterrain, le Système n’était peut-être pas le seul changement dans Jinwoo. Mais ses inquiétudes étaient brèves, interrompues par le ton électronique familier.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez terminé la ‘Quête d’urgence : Affrontez les ennemis’</strong><br/>
+– Uwaaaaak ! »</p>
+<p>Tout autour de la pièce, les cris des Chasseurs se répandirent. Cinq des ennemis environnants étaient déjà tombés.</p>
+<p>thud</p>
+<p>thud</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Ennemis à affronter : 1</strong></p>
+<p class="strong"><strong>Ennemis vaincus : 7</strong></p>
+</div>
+<p>Jinwoo affronta le dernier homme qui restait.</p>
+<p>L’homme poilu avec un grand physique, Hwang Dongseok.</p>
+<p>Avec un visage déterminé, il écarta son bouclier et rassembla son énergie.</p>
+<p class="talk">« Waaaaaah !!! »</p>
+<p>Il frappa le sol et chargea.</p>
+<p>boum boum boum boum !</p>
+<p>Alors qu’il courait, il se dit. C’était un Tanker qui brillait dans l’échelon supérieur des rang C. La cible était probablement un dealer. Ses mouvements étaient rapides, mais il n’y avait aucune chance qu’il ait le pouvoir de passer sa défense, fortifié par la compétence » Renforcer « [1].</p>
+<p class="talk">‘Tu ne peux pas me blesser mortellement avec une simple dague !’</p>
+<p>Celui qui sera détruit dans leur affrontement sera Jinwoo !</p>
+<p>Il tacla avec son épaule en se rapprochant.</p>
+<p class="talk">« Renforcer ! »</p>
+<p>La pièce tourna soudain autour de lui, et le plafond du donjon apparut sous ses yeux.</p>
+<p>Frappe !</p>
+<p>Sa tête trembla et il sentit une grande douleur au cou et au dos. Il tenta de se lever mais son corps ne l’écouta pas. Le combattant Hwang Dongseok s’étendit sur le sol.</p>
+<p class="talk">« tousse ! »</p>
+<p>Du sang sortait de sa bouche.</p>
+<p class="talk">‘Est-ce… est-ce qu’il vient de me projeter ?’</p>
+<p>Lui, Hwang Dongseok, venait juste de perdre ?</p>
+<p>Dans un concours de force ?</p>
+<p class="talk">« Un simple déchet de rang E comme toi… »</p>
+<p>Il réalisa son erreur. 5 rang C et 4 rang D avaient été battus en un instant. Jinwoo ne pouvait pas être un rang E.</p>
+<p>Jinwoo se tenait à côté de Hwang Dongseok. L’homme ne pouvait même pas bouger son corps. Le résultat du combat était clair. S’il s’agissait d’une compétition sportive, c’est ici que ça s’arrêterait.</p>
+<p>Cela n’allait pas s’arrêter là.</p>
+<p class="talk">« A-Attends. »</p>
+<p>Hwang Dongseok leva la main.</p>
+<p class="talk">« S’il te plaît, laisse-moi vivre. Si tu veux de l’argent, je te le donnerai. Beaucoup, laisse-moi vivre… »</p>
+<p class="talk">« Trois fois. »</p>
+<p>Répondit Jinwoo avec une voix glaciale,</p>
+<p class="talk">« N’es-tu pas gêné de demander pitié à quelqu’un que tu as essayé de tuer trois fois ? »</p>
+<p>Un. En bloquant l’entrée.</p>
+<p>Deux. En demandant à Jinho.</p>
+<p>Trois. Avec la magie de Jo Gyuhwan.</p>
+<p>Hwang Dongseok avait tenté à trois reprises de tuer Jinwoo, sans tenir compte du combat de tout à l’heure.</p>
+<p>Donner et recevoir.</p>
+<p>En revenant vivant du temple, Jinwoo avait fait ce credo.</p>
+<p>Donner autant qu’on a donné, et recevoir autant qu’on a reçu.</p>
+<p>Que ce soit en bien ou en mal.</p>
+<p>Il n’y aurait pas de compromis.</p>
+<p>Réalisant qu’il ne pouvait pas implorer la pitié, Hwang Dongseok ouvrit les yeux grand et expulsa l’écume de sa bouche,</p>
+<p class="talk">« Tu, tu crois que tu vas t’en tirer comme ça ?! Sais-tu qui est mon petit frère- »</p>
+<p>Écrase !</p>
+<p>Hwang Dongseok ne pouvait pas continuer avec son cou écrasé.</p>
+<p>Ses yeux se retournèrent pour révéler leurs blancs.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Ennemis à affronter : 0</strong></p>
+<p class="strong"><strong>Ennemis vaincus : 8</strong></p>
+</div>
+<p>La quête était enfin terminée.</p>
+<p class="talk">« Phew- »</p>
+<p>Le long soupir de Jinwoo avait plusieurs significations. Il ôta sa main de la gorge de Hwang Dongseok et la regarda. Bien qu’il s’agissait d’une bataille à sens unique, ses mains tremblaient devant le fait qu’il venait de prendre huit vies.</p>
+<p class="talk">‘Est-ce que c’est vraiment bien ?’</p>
+<p>Il plaça la main sur sa poitrine et sentit son cœur.</p>
+<p>ba dum ba dum ba dum</p>
+<p>Il battait normalement.</p>
+<p class="talk">‘Je me demande…’</p>
+<p>Depuis le jour où il était revenu du temple souterrain, le Système n’était peut-être pas le seul changement dans Jinwoo. Mais ses inquiétudes étaient brèves, interrompues par le ton électronique familier.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez terminé la ‘Quête d’urgence : Affrontez les ennemis’</strong><br/>
 <strong>La récompense pour avoir terminé la quête est arrivée.</strong><br/>
-<strong>Voulez-vous vérifier ? (O/N)</strong></p></div><p class="">Il s’y attendait. Sans tarder, il confirma les récompenses.</p><p class="talk">« Vérifier. »</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez reçu les récompenses ci-dessous.</strong><br/>
+<strong>Voulez-vous vérifier ? (O/N)</strong></p>
+</div>
+<p>Il s’y attendait. Sans tarder, il confirma les récompenses.</p>
+<p class="talk">« Vérifier. »</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez reçu les récompenses ci-dessous.</strong><br/>
 <strong>Récompense 1. Rétablissement du Statut</strong><br/>
 <strong>Récompense 2. +10 points de stat.</strong><br/>
-<strong>Récompense 3. Compétence : « soif de sang »[2].</strong><br/>
-<strong>Tout accepter ?</strong></p></div><p class="">’10 points de stat et même une nouvelle compétence?’</p><p class="">Les yeux de Jinwoo s’élargirent à l’incroyable récompense. En mettant de côté les points attribut, l’idée d’une nouvelle compétence suscita beaucoup son intérêt.</p><p class="talk">‘Si je n’avais pas fait un sprint en combattant l’araignée…’</p><p class="">La raison pour laquelle il avait réussi à vaincre le boss était grâce à une compétence. Leur efficacité dans les batailles ne saurait être sous-estimée. Il y avait une raison pour laquelle les pierres runes étaient incroyablement chères.</p><p class="">Jinwoo vérifia immédiatement la compétence ‘Soif de sang’.</p><p class="talk">‘Vérifiez récompense 3.’</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Soif de sang (Lv. 1)</strong><br/>
-<strong>Compétence active</strong></p><p class="strong"><strong>Coût Mana : 100</strong></p><p class="strong"><strong>Activer pour infliger ‘Peur’ à une cible pendant 1 minute. </strong><br/>
+<strong>Récompense 3. Compétence : « soif de sang »[2].</strong><br/>
+<strong>Tout accepter ?</strong></p>
+</div>
+<p>’10 points de stat et même une nouvelle compétence?’</p>
+<p>Les yeux de Jinwoo s’élargirent à l’incroyable récompense. En mettant de côté les points attribut, l’idée d’une nouvelle compétence suscita beaucoup son intérêt.</p>
+<p class="talk">‘Si je n’avais pas fait un sprint en combattant l’araignée…’</p>
+<p>La raison pour laquelle il avait réussi à vaincre le boss était grâce à une compétence. Leur efficacité dans les batailles ne saurait être sous-estimée. Il y avait une raison pour laquelle les pierres runes étaient incroyablement chères.</p>
+<p>Jinwoo vérifia immédiatement la compétence ‘Soif de sang’.</p>
+<p class="talk">‘Vérifiez récompense 3.’</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Soif de sang (Lv. 1)</strong><br/>
+<strong>Compétence active</strong></p>
+<p class="strong"><strong>Coût Mana : 100</strong></p>
+<p class="strong"><strong>Activer pour infliger ‘Peur’ à une cible pendant 1 minute. </strong><br/>
 <strong>Plusieurs cibles peuvent être sélectionnées.</strong><br/>
-<strong>‘Peur’ : Toutes les statistiques -50</strong></p></div><p class="talk">« Vous émettez une intention meurtrière. »</p><p class="">Bien que temporaire, elle avait le pouvoir très souhaitable d’abaisser tous les attributs d’une cible. Jinwoo était sûr que cela ne fonctionnerait pas contre des cibles à haute résistance, mais pour les autres, elles deviendraient de la nourriture devant ses mains. En plus de cela, il était capable d’affecter plusieurs cibles.</p><p class="talk">‘C’est incroyable.’</p><p class="">Comme la pénalité était grande, la récompense l’était aussi.</p><p class="talk">‘Eh bien…. c’est logique, non?’</p><p class="">Sa vie était en jeu cette fois. Non seulement ça-</p><p class="">Jinwoo regarda autour de lui. Il fronça les sourcils sur les lieux du massacre. Il avait déjà été témoin de la mort de nombreux Chasseurs, mais il n’était toujours pas habitué à la vue de leurs cadavres. C’était le résultat que la quête voulait. Comparé au nombre de vies qu’il avait prises, la récompense semblait maintenant petite. Non pas qu’il aurait pu éviter tout ça, même sans la quête.</p><p class="talk">‘L’avidité de l’homme n’a pas de fin…’</p><p class="">Il secoua la tête.</p><p class="">La grotte trembla à nouveau.</p><p class="">Treeeeemble !</p><p class="">C’était beaucoup plus fort qu’avant. Il était temps de quitter le donjon.</p><p class="">Mais il y avait un détail à régler avant de partir.</p><p class="">Jinho.</p><p class="">Jinwoo tourna son regard vers le jeune homme. La forme pitoyable de Jinho, gelé par la peur, posa ses yeux sur le regard de Jinwoo.</p><p class="talk">‘Que faire de lui…’</p><p class="">Bien sûr, il ne pensait pas à tuer Jinho. Il n’y avait aucune raison ou besoin.</p><p class="">Mais si tout ce qui s’était passé ici fuyait, cela deviendrait très gênant.</p><p class="talk">‘Faisons en sorte qu’il reste silencieux.’</p><p class="">Comme si c’était le bon moment, Jinho courut vers l’avant et s’agenouilla devant Jinwoo,</p><p class="talk">« Hyungnim ! S’il vous plaît, laissez-moi vivre ! »</p><p class="talk">“…”</p><p class="">Jinwoo réalisa que ce serait plus facile qu’il ne le pensait.</p><p class="">________________________________________</p><p class="">Jinho tremblait fortement. Son visage était complètement pâle. Après tout, il venait de voir Jinwoo massacrer huit personnes. L’une des armes les plus puissantes pour gouverner une personne était la  » peur « . Jinwoo décida donc d’utiliser cela à son avantage.</p><p class="talk">« Pourquoi je devrais ? »</p><p class="">Jinwoo pouvait jurer qu’il avait entendu le cœur de Jinho se briser littéralement.</p><p class="talk">‘C’était trop?’</p><p class="talk">« Ar- Argent- si tu as besoin d’argent, je peux demander à mon- »</p><p class="talk">« Pour qui me prends-tu ?! »</p><p class="">Jinwoo s’enflamma d’une véritable colère. Il avait vécu toute sa vie dans la pauvreté, mais il n’avait pas l’intention d’utiliser quelqu’un comme otage pour l’argent. S’il faisait cela, il ne serait pas différent de Hwang Dongseok.</p><p class="talk">« Je m’excuse. »</p><p class="">Si Jinho ne tremblait pas de peur, il l’aurait frappé à l’arrière de sa tête. Mais s’il le faisait, il avait l’impression que le jeune homme allait s’effondrer de crise cardiaque, alors Jinwoo ne le toucha pas.</p><p class="">Voyant l’expression austère de Jinwoo, Jinho avala sa salive.</p><p class="talk">«Maintenant que j’y pense, il a aussi refusé l’offre d’argent de Hwang Dongseok… Est-il un homme qui a abandonné les besoins matériels et qui marche sur un chemin de chair et de sang ?’</p><p class="">L’image de Jinwoo dans la tête de Jinho devint plus étrange. Mais il était trop tôt pour décider,</p><p class="talk">‘Alors pourquoi a-t-il ramassé les noyaux magiques?’</p><p class="">Quelques instants plus tôt, Jinwoo avait ouvert l’estomac de l’araignée pour arracher les derniers morceaux des noyaux magiques. Source d’une grande puissance, les noyaux magiques avaient beaucoup d’utilisations au-delà de la simple fabrication d’objets magiques. Mais pour un Chasseur, ils n’étaient pas différents de l’argent.</p><p class="">La tête de Jinho tournait avec ses pensées.</p><p class="talk">‘Alors ça doit être ça !’</p><p class="">C’était le prix du sang. La raison pour laquelle il avait sali ses mains pour regarder à l’intérieur du cadavre était qu’il s’était battu contre le boss araignée pour cela. Il n’aurait aucune pitié pour ceux qui allaient à son encontre, mais il n’aurait rien à voir avec ce qui n’avait pas été gagné avec la sueur et le sang. Un véritable mécène de l’effort[3] !</p><p class="talk">‘Dire que j’ai essayé d’acheter avec de l’argent la miséricorde de hyungnim. Bien sûr qu’il m’en voudrait.’</p><p class="">En ce moment, ce dont il avait besoin, ce n’était pas de  » l’argent de son père « , mais de  » valeur  » pour avoir la vie sauve. Il jeta un coup d’œil sur le visage de Jinwoo, mais l’homme semblait toujours en colère.</p><p class="">Jinho parla rapidement :</p><p class="talk">« Hyungnim. Si tu m’épargnes, je donnerai tous les revenus de ce donjon à Hyungnim.</p><p class="talk">– Hmm ? »</p><p class="">Comme il s’y attendait, Jinwoo était intéressé.</p><p class="talk">« Penses-y, hyungnim. Si neuf des dix personnes mouraient dans ce donjon et que Hyungnim emportait tous les profits, n’importe qui aurait des doutes, non ? »</p><p class="">Jinho était sûr que Jinwoo était un faux rang. En plus de cela, un puissant faussaire qui aimait tuer ! Une personne comme elle ne pouvait pas se permettre d’attirer l’attention des autres sur elle.</p><p class="talk">« Et alors ?</p><p class="talk">– Par contre, si hyungnim et moi partons d’ici ensemble, selon le contrat, tous les noyaux magiques deviendraient miens. Même avec les huit autres morts, puisqu’il n’y avait aucun avantage pour Hyungnim, personne ne vous soupçonnerait. »</p><p class="">Bien sûr, personne ne soupçonnerait Jinho non plus. Il était le fils de l’un des présidents les plus puissants du pays. Les noyaux magiques n’auraient aucune valeur pour lui.</p><p class="talk">« Bien sûr, l’argent reviendrait à toi, hyungnim. C’est le « juste prix » pour avoir tué le groupe de Hwang Dongseok et sauvé ma vie. »</p><p class=""> </p><p class=""> </p><p class="">Notes du traducteur :<br/>
-[1] :  » Renforcer  » (강화) : lit.  » renforcement  »<br/>
-[2] :  » Soif de sang  » (살기) :  » Meurtre  » 살 + « énergie/esprit » 기. Se traduit directement par « soif de sang / désir de sang ». Il pourrait aussi s’agir de « l’intention de tuer ».<br/>
-[3] : « mécène de l’effort  » (피의 수도자) : Mes excuses, ma traduction est en fait complètement différente de l’original coréen. La traduction littérale serait « ascète de sang », ce qui, à mon avis, ne traduisait pas le sens du passage. L’image que Jinho se fait de Jinwoo est essentiellement qu’il ne prend que ce qu’il a gagné. Dans la culture coréenne, le « sang » porte une signification symbolique très commune de l’effort, d’où le titre « ascète du sang ».</p></body></html>
+<strong>‘Peur’ : Toutes les statistiques -50</strong></p>
+</div>
+<p class="talk">« Vous émettez une intention meurtrière. »</p>
+<p>Bien que temporaire, elle avait le pouvoir très souhaitable d’abaisser tous les attributs d’une cible. Jinwoo était sûr que cela ne fonctionnerait pas contre des cibles à haute résistance, mais pour les autres, elles deviendraient de la nourriture devant ses mains. En plus de cela, il était capable d’affecter plusieurs cibles.</p>
+<p class="talk">‘C’est incroyable.’</p>
+<p>Comme la pénalité était grande, la récompense l’était aussi.</p>
+<p class="talk">‘Eh bien…. c’est logique, non?’</p>
+<p>Sa vie était en jeu cette fois. Non seulement ça-</p>
+<p>Jinwoo regarda autour de lui. Il fronça les sourcils sur les lieux du massacre. Il avait déjà été témoin de la mort de nombreux Chasseurs, mais il n’était toujours pas habitué à la vue de leurs cadavres. C’était le résultat que la quête voulait. Comparé au nombre de vies qu’il avait prises, la récompense semblait maintenant petite. Non pas qu’il aurait pu éviter tout ça, même sans la quête.</p>
+<p class="talk">‘L’avidité de l’homme n’a pas de fin…’</p>
+<p>Il secoua la tête.</p>
+<p>La grotte trembla à nouveau.</p>
+<p>Treeeeemble !</p>
+<p>C’était beaucoup plus fort qu’avant. Il était temps de quitter le donjon.</p>
+<p>Mais il y avait un détail à régler avant de partir.</p>
+<p>Jinho.</p>
+<p>Jinwoo tourna son regard vers le jeune homme. La forme pitoyable de Jinho, gelé par la peur, posa ses yeux sur le regard de Jinwoo.</p>
+<p class="talk">‘Que faire de lui…’</p>
+<p>Bien sûr, il ne pensait pas à tuer Jinho. Il n’y avait aucune raison ou besoin.</p>
+<p>Mais si tout ce qui s’était passé ici fuyait, cela deviendrait très gênant.</p>
+<p class="talk">‘Faisons en sorte qu’il reste silencieux.’</p>
+<p>Comme si c’était le bon moment, Jinho courut vers l’avant et s’agenouilla devant Jinwoo,</p>
+<p class="talk">« Hyungnim ! S’il vous plaît, laissez-moi vivre ! »</p>
+<p class="talk">“…”</p>
+<p>Jinwoo réalisa que ce serait plus facile qu’il ne le pensait.</p>
+<p>________________________________________</p>
+<p>Jinho tremblait fortement. Son visage était complètement pâle. Après tout, il venait de voir Jinwoo massacrer huit personnes. L’une des armes les plus puissantes pour gouverner une personne était la » peur « . Jinwoo décida donc d’utiliser cela à son avantage.</p>
+<p class="talk">« Pourquoi je devrais ? »</p>
+<p>Jinwoo pouvait jurer qu’il avait entendu le cœur de Jinho se briser littéralement.</p>
+<p class="talk">‘C’était trop?’</p>
+<p class="talk">« Ar- Argent- si tu as besoin d’argent, je peux demander à mon- »</p>
+<p class="talk">« Pour qui me prends-tu ?! »</p>
+<p>Jinwoo s’enflamma d’une véritable colère. Il avait vécu toute sa vie dans la pauvreté, mais il n’avait pas l’intention d’utiliser quelqu’un comme otage pour l’argent. S’il faisait cela, il ne serait pas différent de Hwang Dongseok.</p>
+<p class="talk">« Je m’excuse. »</p>
+<p>Si Jinho ne tremblait pas de peur, il l’aurait frappé à l’arrière de sa tête. Mais s’il le faisait, il avait l’impression que le jeune homme allait s’effondrer de crise cardiaque, alors Jinwoo ne le toucha pas.</p>
+<p>Voyant l’expression austère de Jinwoo, Jinho avala sa salive.</p>
+<p class="talk">«Maintenant que j’y pense, il a aussi refusé l’offre d’argent de Hwang Dongseok… Est-il un homme qui a abandonné les besoins matériels et qui marche sur un chemin de chair et de sang ?’</p>
+<p>L’image de Jinwoo dans la tête de Jinho devint plus étrange. Mais il était trop tôt pour décider,</p>
+<p class="talk">‘Alors pourquoi a-t-il ramassé les noyaux magiques?’</p>
+<p>Quelques instants plus tôt, Jinwoo avait ouvert l’estomac de l’araignée pour arracher les derniers morceaux des noyaux magiques. Source d’une grande puissance, les noyaux magiques avaient beaucoup d’utilisations au-delà de la simple fabrication d’objets magiques. Mais pour un Chasseur, ils n’étaient pas différents de l’argent.</p>
+<p>La tête de Jinho tournait avec ses pensées.</p>
+<p class="talk">‘Alors ça doit être ça !’</p>
+<p>C’était le prix du sang. La raison pour laquelle il avait sali ses mains pour regarder à l’intérieur du cadavre était qu’il s’était battu contre le boss araignée pour cela. Il n’aurait aucune pitié pour ceux qui allaient à son encontre, mais il n’aurait rien à voir avec ce qui n’avait pas été gagné avec la sueur et le sang. Un véritable mécène de l’effort[3] !</p>
+<p class="talk">‘Dire que j’ai essayé d’acheter avec de l’argent la miséricorde de hyungnim. Bien sûr qu’il m’en voudrait.’</p>
+<p>En ce moment, ce dont il avait besoin, ce n’était pas de » l’argent de son père « , mais de » valeur » pour avoir la vie sauve. Il jeta un coup d’œil sur le visage de Jinwoo, mais l’homme semblait toujours en colère.</p>
+<p>Jinho parla rapidement :</p>
+<p class="talk">« Hyungnim. Si tu m’épargnes, je donnerai tous les revenus de ce donjon à Hyungnim.</p>
+<p class="talk">– Hmm ? »</p>
+<p>Comme il s’y attendait, Jinwoo était intéressé.</p>
+<p class="talk">« Penses-y, hyungnim. Si neuf des dix personnes mouraient dans ce donjon et que Hyungnim emportait tous les profits, n’importe qui aurait des doutes, non ? »</p>
+<p>Jinho était sûr que Jinwoo était un faux rang. En plus de cela, un puissant faussaire qui aimait tuer ! Une personne comme elle ne pouvait pas se permettre d’attirer l’attention des autres sur elle.</p>
+<p class="talk">« Et alors ?</p>
+<p class="talk">– Par contre, si hyungnim et moi partons d’ici ensemble, selon le contrat, tous les noyaux magiques deviendraient miens. Même avec les huit autres morts, puisqu’il n’y avait aucun avantage pour Hyungnim, personne ne vous soupçonnerait. »</p>
+<p>Bien sûr, personne ne soupçonnerait Jinho non plus. Il était le fils de l’un des présidents les plus puissants du pays. Les noyaux magiques n’auraient aucune valeur pour lui.</p>
+<p class="talk">« Bien sûr, l’argent reviendrait à toi, hyungnim. C’est le « juste prix » pour avoir tué le groupe de Hwang Dongseok et sauvé ma vie. »</p>
+
+<p>Notes du traducteur :<br/>
+[1] : » Renforcer » (강화) : lit. » renforcement »<br/>
+[2] : » Soif de sang » (살기) : » Meurtre » 살 + « énergie/esprit » 기. Se traduit directement par « soif de sang / désir de sang ». Il pourrait aussi s’agir de « l’intention de tuer ».<br/>
+[3] : « mécène de l’effort » (피의 수도자) : Mes excuses, ma traduction est en fait complètement différente de l’original coréen. La traduction littérale serait « ascète de sang », ce qui, à mon avis, ne traduisait pas le sens du passage. L’image que Jinho se fait de Jinwoo est essentiellement qu’il ne prend que ce qu’il a gagné. Dans la culture coréenne, le « sang » porte une signification symbolique très commune de l’effort, d’où le titre « ascète du sang ».</p>
+</body>
+</html>

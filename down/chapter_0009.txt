@@ -1,24 +1,197 @@
-<html><body><h1>Chapter 9</h1>
-<p class=""> </p><p class="talk" style="text-align:left;">« Tu t’es fait mal à la tête ? »</p><p class="" style="text-align:left;">Sa petite sœur lui demanda de la porte.  Jinwoo secoua la tête.</p><p class="talk" style="text-align:left;">« Non. »</p><p class="" style="text-align:left;">Non rassurée par ses paroles, les yeux de sa sœur étaient remplis d’inquiétude.</p><p class="talk" style="text-align:left;">« Tu vas vraiment bien, n’est-ce pas ? »</p><p class="talk" style="text-align:left;">« Je te l’ai dit, oui. »</p><p class="" style="text-align:left;">Sa petite sœur inspira et expira en s’approchant de lui d’un regard perçant.  Habitué à ses réactions dans des situations comme celle-ci, Jinwoo se mit en garde lorsque sa petite sœur commença à le frapper.</p><p class="talk" style="text-align:left;">« Je t’ai dit d’arrêter de te blesser ! Tu sais à quel point j’étais inquiète ?! »</p><p class="talk" style="text-align:left;">« …Désolé. »</p><p class="talk" style="text-align:left;">« Tout le monde a l’air d’aller très bien, pourquoi es-tu le seul à être blessé tout le temps ! »</p><p class="talk" style="text-align:left;">« …Désolé… »</p><p class="" style="text-align:left;">Les mains qui le frappaient perdirent lentement leur force.  Finalement, Jinah se tint debout, la tête basse, les larmes tombant sur ses joues.  Jinwoo tapota sa sœur dans le dos, faisant de son mieux pour la réconforter.  Il retenait les larmes qui se formaient dans ses propres yeux.</p><p class="" style="text-align:left;"><em>Dire que j’étais prêt à mourir… et à la laisser derrière…</em></p><p class="" style="text-align:left;">Dieu merci, il était revenu vivant.  En examinant ce moment, il se rendit compte combien de fois il s’était approché de la mort.  C’était comme un cauchemar.</p><p class="" style="text-align:left;">Jinwoo tourna son regard vers les mots suspendus dans l’air.</p><div class="border"><p class="strong" style="text-align:left;"><strong>  Vous avez des messages non lus.</strong></p></div><p class="" style="text-align:left;"><em>Et j’ai toujours l’impression de ne pas m’être réveillé…</em></p><p class="" style="text-align:left;">Il ne comprenait pas le sens des mots.  Mais que pouvait-il faire ? Le plus important, c’était qu’il avait pu retourner dans sa famille vivant.</p><p class="talk" style="text-align:left;">« Sniff »</p><p class="" style="text-align:left;">Heureusement, sa sœur avait cessé de pleurer.  Malheureusement, elle fulmina sur son état pendant encore une heure…</p><p class="talk" style="text-align:left;">« Alors tu comprends ? Si tu te blesses encore, j’abandonne mes études et je me mets directement au travail, alors tu ne pourras plus jamais travailler comme chasseur ! »</p><p class="" style="text-align:left;">Avec un regard aiguisé, perçant et indigne de son joli visage, elle était vraiment la sœur de son frère.</p><p class="talk" style="text-align:left;">« J’ai compris, j’ai compris. »</p><p class="" style="text-align:left;">Jinwoo hocha la tête en signe de résignation.  Après qu’il ait confirmé à plusieurs reprises, Jinah se leva, satisfaite.</p><p class="talk" style="text-align:left;">« Où vas-tu ? »</p><p class="talk" style="text-align:left;">« A l’école.  J’ai juste eu la permission de partir brièvement pour venir te voir, mais je dois y retourner. »</p><p class="talk" style="text-align:left;">« C’est vrai, c’est vrai.  Les examens d’entrée à l’université sont l’année prochaine. »</p><p class="" style="text-align:left;">Bien qu’il n’ait pas les moyens de fournir un tuteur ou de l’envoyer dans une école privée, Jinah avait quand même réussi à devenir l’un des meilleurs élèves de l’école. Son objectif : devenir médecin.  La petite fille qui ne pouvait pas s’éloigner des jeux vidéo était soudainement devenue une fervente élève quand leur mère tomba malade, il y a quelques années.</p><p class="" style="text-align:left;">Jinwoo voulait s’assurer que ses rêves se réalisent.</p><p class="" style="text-align:left;"><em>Attendez… jeux vidéo ?</em></p><p class="" style="text-align:left;">Ses yeux s’ouvrirent soudainement.</p><p class="talk" style="text-align:left;">« J’y vais. »</p><p class="" style="text-align:left;">Jinwoo attrapa rapidement sa sœur, qui partait,</p><p class="talk" style="text-align:left;">« Jinah. »</p><p class="talk" style="text-align:left;">« Quoi ? »</p><p class="talk" style="text-align:left;">« Quand tu joues à un jeu… »</p><p class="" style="text-align:left;">Jinah sourit : « Je ne joue plus à des jeux ces jours-ci.  Il reste si peu de temps avant ma dernière année. »</p><p class="talk" style="text-align:left;">« Je sais, je sais, mais je voulais quand même demander, »</p><p class="talk" style="text-align:left;">« A propos de quoi ? Oppa, tu as joué à des jeux dernièrement ? »</p><p class="" style="text-align:left;">Bien qu’elle les ait laissés derrière elle, elle était très bonne dans le passé.  Ainsi, la question de son frère éveilla son intérêt.  Jinwoo continua à fixer les lettres flottantes et demanda,</p><p class="talk" style="text-align:left;">« Si j’ai un message non lu dans un jeu, comment puis-je l’ouvrir ou y accéder ? »</p><p class="talk" style="text-align:left;">« D’abord, tu dois ouvrir la boîte aux lettres. »</p><p class="talk" style="text-align:left;"> « Ouvrir la boîte aux lettres ? »</p><p class="onomatope" style="text-align:left;">ring~</p><p class="" style="text-align:left;">Dès qu’il prononça les mots « ouvrir », un bip électronique suivit l’ouverture de la boîte aux lettres.</p><p class="" style="text-align:left;">Vous avez 2 messages non lus.</p><p class="" style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Non lu)</p><p class="" style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p><p class="" style="text-align:left;">Jinwoo se sentait rempli de joie.</p><p class="" style="text-align:left;">Ça a marché !</p><p class="" style="text-align:left;">Surpris par l’apparition soudaine du bonheur sur son visage, Jinah demanda nerveusement,</p><p class="talk" style="text-align:left;">« Quoi ? De quel jeu s’agit-il ? As-tu besoin de mon aide ? »</p><p class="" style="text-align:left;">Jinwoo secoua fermement la tête,</p><p class="talk" style="text-align:left;">« Non, je veux l’essayer seul. »</p><p class="" style="text-align:left;">Comment réagirait sa sœur s’il lui racontait tout ce qui lui arrivait ?</p><p class="talk" style="text-align:left;">« Je ne veux pas que ma propre sœur me dise que je suis fou.</p><p class="" style="text-align:left;">Alors Jinwoo avala les mots qu’il voulait dire et lui fit ses adieux.</p><p class="" style="text-align:left;">________________________________________</p><p class="" style="text-align:left;">Après avoir confirmé qu’elle était sortie de l’hôpital par l’ascenseur, Jinwoo retourna dans sa chambre.</p><p class="" style="text-align:left;">Je ne peux pas répéter la même erreur.</p><p class="" style="text-align:left;">click-</p><p class="" style="text-align:left;">Verrouiller-</p><p class="" style="text-align:left;">Pour éviter toute attention indésirable, il verrouilla les portes.  Finissant sa préparation, Jinwoo s’assit sur le côté de son lit et commença à lire les messages flottant devant ses yeux.</p><p class="" style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Non lu)</p><p class="" style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p><p class="" style="text-align:left;">Le premier message lui semblait familier.</p><p class="" style="text-align:left;">Où c’était, j’ai déjà entendu ça avant.</p><p class="" style="text-align:left;">Il commença par le premier message.</p><p class="" style="text-align:left;">Ouvrir.</p><p class="onomatope" style="text-align:left;">ring~</p><p class="" style="text-align:left;">Ce système aidera à la croissance du « joueur ».</p><p class="" style="text-align:left;">Le non-respect des instructions de ce système peut entraîner une pénalité.</p><p class="" style="text-align:left;">Votre récompense a été reçue.</p><p class="talk" style="text-align:left;">« Ah… »</p><p class="" style="text-align:left;">Il s’en souvenait maintenant.  Ce sont les mots qu’il avait entendu avant de perdre connaissance.</p><p class="" style="text-align:left;">Ça disait quelque chose sur un joueur à l’époque aussi…</p><p class="" style="text-align:left;">Mais comme à l’époque, il n’avait aucune idée de ce que cela signifiait.</p><p class="" style="text-align:left;">Système.  Croissance.  Pénalité.  Récompense.</p><p class="" style="text-align:left;">C’était un défilé de mots peu clairs.</p><p class="talk" style="text-align:left;">« Qu’est-ce qui contribue à la croissance et qu’est-ce qui est récompensé ?</p><p class="" style="text-align:left;">Il avait du mal à appliquer ces mots qu’il voyait dans les jeux vidéo auparavant.</p><p class="" style="text-align:left;">Ignorant le sens des mots pour l’instant, il passa au message suivant.</p><p class="" style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p><p class="" style="text-align:left;">Gulp.</p><p class="" style="text-align:left;">Jinwoo avala sa salive devant le titre suspect du message.  Son rythme cardiaque s’accéléra.</p><p class="talk" style="text-align:left;">« Ouvrir.</p><p class="onomatope" style="text-align:left;">ring~</p><table class=" table">
+<html>
+<body>
+<h1>Chapter 9</h1>
+
+<p class="talk" style="text-align:left;">« Tu t’es fait mal à la tête ? »</p>
+<p style="text-align:left;">Sa petite sœur lui demanda de la porte. Jinwoo secoua la tête.</p>
+<p class="talk" style="text-align:left;">« Non. »</p>
+<p style="text-align:left;">Non rassurée par ses paroles, les yeux de sa sœur étaient remplis d’inquiétude.</p>
+<p class="talk" style="text-align:left;">« Tu vas vraiment bien, n’est-ce pas ? »</p>
+<p class="talk" style="text-align:left;">« Je te l’ai dit, oui. »</p>
+<p style="text-align:left;">Sa petite sœur inspira et expira en s’approchant de lui d’un regard perçant. Habitué à ses réactions dans des situations comme celle-ci, Jinwoo se mit en garde lorsque sa petite sœur commença à le frapper.</p>
+<p class="talk" style="text-align:left;">« Je t’ai dit d’arrêter de te blesser ! Tu sais à quel point j’étais inquiète ?! »</p>
+<p class="talk" style="text-align:left;">« …Désolé. »</p>
+<p class="talk" style="text-align:left;">« Tout le monde a l’air d’aller très bien, pourquoi es-tu le seul à être blessé tout le temps ! »</p>
+<p class="talk" style="text-align:left;">« …Désolé… »</p>
+<p style="text-align:left;">Les mains qui le frappaient perdirent lentement leur force. Finalement, Jinah se tint debout, la tête basse, les larmes tombant sur ses joues. Jinwoo tapota sa sœur dans le dos, faisant de son mieux pour la réconforter. Il retenait les larmes qui se formaient dans ses propres yeux.</p>
+<p style="text-align:left;"><em>Dire que j’étais prêt à mourir… et à la laisser derrière…</em></p>
+<p style="text-align:left;">Dieu merci, il était revenu vivant. En examinant ce moment, il se rendit compte combien de fois il s’était approché de la mort. C’était comme un cauchemar.</p>
+<p style="text-align:left;">Jinwoo tourna son regard vers les mots suspendus dans l’air.</p>
+<div class="border">
+<p class="strong" style="text-align:left;"><strong> Vous avez des messages non lus.</strong></p>
+</div>
+<p style="text-align:left;"><em>Et j’ai toujours l’impression de ne pas m’être réveillé…</em></p>
+<p style="text-align:left;">Il ne comprenait pas le sens des mots. Mais que pouvait-il faire ? Le plus important, c’était qu’il avait pu retourner dans sa famille vivant.</p>
+<p class="talk" style="text-align:left;">« Sniff »</p>
+<p style="text-align:left;">Heureusement, sa sœur avait cessé de pleurer. Malheureusement, elle fulmina sur son état pendant encore une heure…</p>
+<p class="talk" style="text-align:left;">« Alors tu comprends ? Si tu te blesses encore, j’abandonne mes études et je me mets directement au travail, alors tu ne pourras plus jamais travailler comme chasseur ! »</p>
+<p style="text-align:left;">Avec un regard aiguisé, perçant et indigne de son joli visage, elle était vraiment la sœur de son frère.</p>
+<p class="talk" style="text-align:left;">« J’ai compris, j’ai compris. »</p>
+<p style="text-align:left;">Jinwoo hocha la tête en signe de résignation. Après qu’il ait confirmé à plusieurs reprises, Jinah se leva, satisfaite.</p>
+<p class="talk" style="text-align:left;">« Où vas-tu ? »</p>
+<p class="talk" style="text-align:left;">« A l’école. J’ai juste eu la permission de partir brièvement pour venir te voir, mais je dois y retourner. »</p>
+<p class="talk" style="text-align:left;">« C’est vrai, c’est vrai. Les examens d’entrée à l’université sont l’année prochaine. »</p>
+<p style="text-align:left;">Bien qu’il n’ait pas les moyens de fournir un tuteur ou de l’envoyer dans une école privée, Jinah avait quand même réussi à devenir l’un des meilleurs élèves de l’école. Son objectif : devenir médecin. La petite fille qui ne pouvait pas s’éloigner des jeux vidéo était soudainement devenue une fervente élève quand leur mère tomba malade, il y a quelques années.</p>
+<p style="text-align:left;">Jinwoo voulait s’assurer que ses rêves se réalisent.</p>
+<p style="text-align:left;"><em>Attendez… jeux vidéo ?</em></p>
+<p style="text-align:left;">Ses yeux s’ouvrirent soudainement.</p>
+<p class="talk" style="text-align:left;">« J’y vais. »</p>
+<p style="text-align:left;">Jinwoo attrapa rapidement sa sœur, qui partait,</p>
+<p class="talk" style="text-align:left;">« Jinah. »</p>
+<p class="talk" style="text-align:left;">« Quoi ? »</p>
+<p class="talk" style="text-align:left;">« Quand tu joues à un jeu… »</p>
+<p style="text-align:left;">Jinah sourit : « Je ne joue plus à des jeux ces jours-ci. Il reste si peu de temps avant ma dernière année. »</p>
+<p class="talk" style="text-align:left;">« Je sais, je sais, mais je voulais quand même demander, »</p>
+<p class="talk" style="text-align:left;">« A propos de quoi ? Oppa, tu as joué à des jeux dernièrement ? »</p>
+<p style="text-align:left;">Bien qu’elle les ait laissés derrière elle, elle était très bonne dans le passé. Ainsi, la question de son frère éveilla son intérêt. Jinwoo continua à fixer les lettres flottantes et demanda,</p>
+<p class="talk" style="text-align:left;">« Si j’ai un message non lu dans un jeu, comment puis-je l’ouvrir ou y accéder ? »</p>
+<p class="talk" style="text-align:left;">« D’abord, tu dois ouvrir la boîte aux lettres. »</p>
+<p class="talk" style="text-align:left;"> « Ouvrir la boîte aux lettres ? »</p>
+<p class="onomatope" style="text-align:left;">ring~</p>
+<p style="text-align:left;">Dès qu’il prononça les mots « ouvrir », un bip électronique suivit l’ouverture de la boîte aux lettres.</p>
+<p style="text-align:left;">Vous avez 2 messages non lus.</p>
+<p style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Non lu)</p>
+<p style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p>
+<p style="text-align:left;">Jinwoo se sentait rempli de joie.</p>
+<p style="text-align:left;">Ça a marché !</p>
+<p style="text-align:left;">Surpris par l’apparition soudaine du bonheur sur son visage, Jinah demanda nerveusement,</p>
+<p class="talk" style="text-align:left;">« Quoi ? De quel jeu s’agit-il ? As-tu besoin de mon aide ? »</p>
+<p style="text-align:left;">Jinwoo secoua fermement la tête,</p>
+<p class="talk" style="text-align:left;">« Non, je veux l’essayer seul. »</p>
+<p style="text-align:left;">Comment réagirait sa sœur s’il lui racontait tout ce qui lui arrivait ?</p>
+<p class="talk" style="text-align:left;">« Je ne veux pas que ma propre sœur me dise que je suis fou.</p>
+<p style="text-align:left;">Alors Jinwoo avala les mots qu’il voulait dire et lui fit ses adieux.</p>
+<p style="text-align:left;">________________________________________</p>
+<p style="text-align:left;">Après avoir confirmé qu’elle était sortie de l’hôpital par l’ascenseur, Jinwoo retourna dans sa chambre.</p>
+<p style="text-align:left;">Je ne peux pas répéter la même erreur.</p>
+<p style="text-align:left;">click-</p>
+<p style="text-align:left;">Verrouiller-</p>
+<p style="text-align:left;">Pour éviter toute attention indésirable, il verrouilla les portes. Finissant sa préparation, Jinwoo s’assit sur le côté de son lit et commença à lire les messages flottant devant ses yeux.</p>
+<p style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Non lu)</p>
+<p style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p>
+<p style="text-align:left;">Le premier message lui semblait familier.</p>
+<p style="text-align:left;">Où c’était, j’ai déjà entendu ça avant.</p>
+<p style="text-align:left;">Il commença par le premier message.</p>
+<p style="text-align:left;">Ouvrir.</p>
+<p class="onomatope" style="text-align:left;">ring~</p>
+<p style="text-align:left;">Ce système aidera à la croissance du « joueur ».</p>
+<p style="text-align:left;">Le non-respect des instructions de ce système peut entraîner une pénalité.</p>
+<p style="text-align:left;">Votre récompense a été reçue.</p>
+<p class="talk" style="text-align:left;">« Ah… »</p>
+<p style="text-align:left;">Il s’en souvenait maintenant. Ce sont les mots qu’il avait entendu avant de perdre connaissance.</p>
+<p style="text-align:left;">Ça disait quelque chose sur un joueur à l’époque aussi…</p>
+<p style="text-align:left;">Mais comme à l’époque, il n’avait aucune idée de ce que cela signifiait.</p>
+<p style="text-align:left;">Système. Croissance. Pénalité. Récompense.</p>
+<p style="text-align:left;">C’était un défilé de mots peu clairs.</p>
+<p class="talk" style="text-align:left;">« Qu’est-ce qui contribue à la croissance et qu’est-ce qui est récompensé ?</p>
+<p style="text-align:left;">Il avait du mal à appliquer ces mots qu’il voyait dans les jeux vidéo auparavant.</p>
+<p style="text-align:left;">Ignorant le sens des mots pour l’instant, il passa au message suivant.</p>
+<p style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Non lu)</p>
+<p style="text-align:left;">Gulp.</p>
+<p style="text-align:left;">Jinwoo avala sa salive devant le titre suspect du message. Son rythme cardiaque s’accéléra.</p>
+<p class="talk" style="text-align:left;">« Ouvrir.</p>
+<p class="onomatope" style="text-align:left;">ring~</p>
+<table class=" table">
 <tbody>
 <tr>
 <td>Quête quotidienne : Préparations pour devenir puissant</td>
 </tr>
 <tr>
-<td>Faites 100 pompes :<p></p>
+<td>Faites 100 pompes :
 <p>(Incomplet) (0/100)</p>
-<p> </p>
+
 <p>Faites 100 abdos :</p>
 <p>(Incomplet) (0/100)</p>
-<p> </p>
-<p> </p>
+
 <p>Faites 100 flexions des jambes :</p>
 <p>(Incomplet) (0/100)</p>
-<p> </p>
+
 <p>Courir 10 kilomètres :</p>
 <p>(Incomplet) (0/10)</p>
-<p> </p>
+
 <p>*Alerte : Si vous ne complétez pas la Quête Quotidienne, une Quête de Pénalité sera déclenchée.</p></td>
 </tr>
 </tbody>
-</table><p class="" style="text-align:left;">Jinwoo grogna après avoir confirmé le message.</p><p class="talk" style="text-align:left;">« Soupir… qu’est-ce que c’est… »</p><p class="" style="text-align:left;">Quête quotidienne.  En plus de cela, une « préparation pour devenir puissant ».  Il s’attendait à plus que de simples exercices avec un tel titre.  Au moins, il était certain que s’il complétait les exercices de la quête, son corps s’améliorerait probablement un peu.  Était-ce là la croissance et la récompense dont le système parlait ?</p><p class="" style="text-align:left;">Maintenant que j’y pense…</p><p class="" style="text-align:left;">Il se rappela avoir lu « ceux qui ont des problèmes intérieurs devraient écouter leur voix intérieure » dans un livre précédent.</p><p class="" style="text-align:left;">Je suppose que j’hallucine juste ce que me dit mon corps.</p><p class="" style="text-align:left;">Son désir de devenir plus fort devait être si fort qu’il voyait maintenant ces mots absurdes dans l’air.  Plus que ridicule, il était déçu.</p><p class="talk" style="text-align:left;">« Si on pouvait devenir fort comme ça, qui ne l’aurait pas déjà fait… ? »</p><p class="" style="text-align:left;">Il secoua la tête sans y croire.  Il se sentait pathétique en espérant trouver toutes les réponses dans ces messages.</p><p class="" style="text-align:left;">Eh, je m’en fiche.</p><p class="" style="text-align:left;">Jinwoo alla s’allonger dans le lit.  Il regardait le plafond.</p><p class="talk" style="text-align:left;">“…”</p><p class="" style="text-align:left;">Bien qu’il ne faisait rien de particulier, le temps passait vite.  Alors qu’il commençait à ressentir le poids du silence dans tout l’hôpital, il se leva tout à coup.</p><p class="" style="text-align:left;">Encore…</p><p class="" style="text-align:left;">Et si cela apportait un changement ? La moitié dans l’anticipation, l’autre moitié dans la suspicion, la pensée du « si j’essayais » lui trotta dans la tête.</p><p class="" style="text-align:left;">Ça ne peut pas faire de mal après tout.</p><p class="" style="text-align:left;">Et s’il essayait juste de tester l’un des mouvements ?</p><p class="" style="text-align:left;">Après mûre réflexion, il décida d’essayer.</p><p class="" style="text-align:left;">S’étirant légèrement après s’être levé du lit, il tenta de faire des abdos à demi sincères.  Au lieu de se mettre à terre, il se leva et s’inclina et poussa du lit.</p><p class="talk" style="text-align:left;">“1, 2, 3…”</p><p class="" style="text-align:left;">En 1 heure, il ne tarda pas à franchir la ligne d’arrivée.</p><p class="talk" style="text-align:left;">“…97, 98, 99, 100.”</p><p class="" style="text-align:left;">Finissant ce qu’il avait commencé, il atteignit son 100e « abdos »  Contrairement à ses attentes, rien ne semblait changer.  Sauf ses bras légèrement endoloris.</p><p class="talk" style="text-align:left;">« …Alors maintenant quoi… »</p><p class="" style="text-align:left;">Il se leva avec un sourire sur le visage.</p><p class="" style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Lu)</p><p class="" style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Lu)</p><p class="" style="text-align:left;">Les messages précédemment « non lus » étaient devenus « lus ».  Les mots lui disant qu’il n’avait pas lu les messages avaient disparu, mais il n’avait plus l’intention de continuer à entretenir ces illusions.  Il sentait qu’il en avait fait assez.</p><p class="" style="text-align:left;">Sans regrets, il ferma la fenêtre de message.</p><p class="" style="text-align:left;">Avec un bâillement, il retourna dans son lit.  Après avoir bougé après si longtemps, il se sentait somnolent.  La fenêtre extérieure brillait en orange au coucher du soleil.</p><p class="" style="text-align:left;">Il est déjà si tard ?</p><p class="" style="text-align:left;">L’homme du Département de Surveillance des Chasseurs avait expliqué plus tôt que ses factures d’hôpital seraient prises en charge par l’Association.  Dans cet esprit, Jinwoo n’était pas pressé d’être libéré.</p><p class="" style="text-align:left;">Je vais peut-être faire faire des examens à l’hôpital, pour m’assurer que je suis en bonne santé.</p><p class="" style="text-align:left;">Il pensait, allongé dans son lit.</p><p class="" style="text-align:left;">Je suis sûr que les hallucinations disparaîtront après un certain temps.</p><p class="" style="text-align:left;">Ses paupières se fermèrent lentement.  Bientôt, il tomba dans un profond sommeil.</p><p class="" style="text-align:left;">tick tick tick</p><p class="" style="text-align:left;">Pendant qu’il dormait, l’horloge sur le mur d’en face continuait à tinter.  Au fil du temps, les aiguilles de l’horloge indiquaient finalement 11:59:57.</p><p class="" style="text-align:left;">tick</p><p class="" style="text-align:left;">58.</p><p class="" style="text-align:left;">tick</p><p class="" style="text-align:left;">59.</p><p class="" style="text-align:left;">tick</p><p class="" style="text-align:left;">60.</p><p class="" style="text-align:left;">L’horloge indiquait 12:00:00.</p><p class="onomatope" style="text-align:left;">ring~</p><div class="border"><p class="strong" style="text-align:left;">[Vous n’avez pas réussi à accomplir la Quête du jour.  Vous serez déplacé dans la zone de pénalité pour une durée déterminée.]</p></div><p class="" style="text-align:left;">________________________________________</p><p class="onomatope" style="text-align:left;">TREMBLE ! ~</p><p class="" style="text-align:left;">Jinwoo rouvrit les yeux face à un tremblement intense qui secoua tout son corps.</p><p class="talk" style="text-align:left;">« Tremblement de terre ?! »</p><p class="" style="text-align:left;">Il se leva et saisit le sommier au pied du lit.  Le tremblement était si fort qu’il avait de la difficulté à tenir le coup.</p><p class="onomatope" style="text-align:left;">TREMBLE!~</p><p class="" style="text-align:left;">Mais à chaque seconde qui passait, les tremblements s’aggravaient.</p><p class="" style="text-align:left;">Soudainement,</p><p class="onomatope" style="text-align:left;">psssh~</p><p class="" style="text-align:left;">Le sommier auquel il s’était accroché pour sauver sa vie se brisa.  Non, elle avait disparu de ses mains.  Il vérifia ses mains, il n’y avait aucun signe du cadre du lit.  Au lieu de cela, il y avait du sable sur ses paumes.</p><p class="talk" style="text-align:left;">« Du sable ?</p><p class="onomatope" style="text-align:left;">psssssh~</p><p class="" style="text-align:left;">Le reste des cadres sur le lit se transforma en sable, et le tremblement devint encore plus fort.</p><p class="onomatope" style="text-align:left;">TREMBLE!~</p><p class="talk" style="text-align:left;">« Uwaaak ! »</p><p class="" style="text-align:left;">Incapable de tenir le coup, il finit par se jeter du lit.  Jinwoo cria en bondissant de sa chambre.  Un à un, tous les meubles et objets de sa chambre se transformèrent en sable.</p><p class="talk" style="text-align:left;">« Uwaaaaaaah ! »</p><p class="" style="text-align:left;">Crash !</p><p class="" style="text-align:left;">Jinwoo se retrouva subitement coincé dans quelque chose.  Le bout de ses doigts sentait la douceur du sable autour de lui.  Le tremblement de terre s’était arrêté.</p><p class="" style="text-align:left;">crache crache</p><p class="" style="text-align:left;">En crachant le sable qui était entré dans sa bouche, il leva la tête.</p><p class="talk" style="text-align:left;">“…?”</p><p class="" style="text-align:left;">Il s’était retrouvé au milieu d’un vaste désert. En tapotant le sable de son corps, il se leva et regarda autour de lui. Dans toutes les directions, il vit un champ de sable sans fin, s’étendant jusqu’à l’horizon.</p><p class="talk" style="text-align:left;">« Un désert… ? »</p><p class="" style="text-align:left;">Il n’y avait pas d’explication logique à cela.  Jusqu’à il y a quelques instants, il se reposait sur un lit d’hôpital au milieu de Séoul.</p><p class="" style="text-align:left;">Il saisit une poignée de sable et la laissa tomber.  Le sable tombait en ligne droite sur le sol.</p><p class="" style="text-align:left;">Il n’y a pas de vent.</p><p class="" style="text-align:left;">Il n’y avait pas que le vent, il n’y avait ni soleil, ni lune, ni même d’étoiles.</p><p class="" style="text-align:left;">Un ciel vide comme de l’encre noire était répendu comme sur une toile.</p><p class="" style="text-align:left;">Plus étrange encore, malgré l’absence d’une source de lumière visible, il n’avait aucune difficulté à voir ce qui l’entourait.</p><p class="talk" style="text-align:left;">« Où suis-je ? »</p></body></html>
+</table>
+<p style="text-align:left;">Jinwoo grogna après avoir confirmé le message.</p>
+<p class="talk" style="text-align:left;">« Soupir… qu’est-ce que c’est… »</p>
+<p style="text-align:left;">Quête quotidienne. En plus de cela, une « préparation pour devenir puissant ». Il s’attendait à plus que de simples exercices avec un tel titre. Au moins, il était certain que s’il complétait les exercices de la quête, son corps s’améliorerait probablement un peu. Était-ce là la croissance et la récompense dont le système parlait ?</p>
+<p style="text-align:left;">Maintenant que j’y pense…</p>
+<p style="text-align:left;">Il se rappela avoir lu « ceux qui ont des problèmes intérieurs devraient écouter leur voix intérieure » dans un livre précédent.</p>
+<p style="text-align:left;">Je suppose que j’hallucine juste ce que me dit mon corps.</p>
+<p style="text-align:left;">Son désir de devenir plus fort devait être si fort qu’il voyait maintenant ces mots absurdes dans l’air. Plus que ridicule, il était déçu.</p>
+<p class="talk" style="text-align:left;">« Si on pouvait devenir fort comme ça, qui ne l’aurait pas déjà fait… ? »</p>
+<p style="text-align:left;">Il secoua la tête sans y croire. Il se sentait pathétique en espérant trouver toutes les réponses dans ces messages.</p>
+<p style="text-align:left;">Eh, je m’en fiche.</p>
+<p style="text-align:left;">Jinwoo alla s’allonger dans le lit. Il regardait le plafond.</p>
+<p class="talk" style="text-align:left;">“…”</p>
+<p style="text-align:left;">Bien qu’il ne faisait rien de particulier, le temps passait vite. Alors qu’il commençait à ressentir le poids du silence dans tout l’hôpital, il se leva tout à coup.</p>
+<p style="text-align:left;">Encore…</p>
+<p style="text-align:left;">Et si cela apportait un changement ? La moitié dans l’anticipation, l’autre moitié dans la suspicion, la pensée du « si j’essayais » lui trotta dans la tête.</p>
+<p style="text-align:left;">Ça ne peut pas faire de mal après tout.</p>
+<p style="text-align:left;">Et s’il essayait juste de tester l’un des mouvements ?</p>
+<p style="text-align:left;">Après mûre réflexion, il décida d’essayer.</p>
+<p style="text-align:left;">S’étirant légèrement après s’être levé du lit, il tenta de faire des abdos à demi sincères. Au lieu de se mettre à terre, il se leva et s’inclina et poussa du lit.</p>
+<p class="talk" style="text-align:left;">“1, 2, 3…”</p>
+<p style="text-align:left;">En 1 heure, il ne tarda pas à franchir la ligne d’arrivée.</p>
+<p class="talk" style="text-align:left;">“…97, 98, 99, 100.”</p>
+<p style="text-align:left;">Finissant ce qu’il avait commencé, il atteignit son 100e « abdos » Contrairement à ses attentes, rien ne semblait changer. Sauf ses bras légèrement endoloris.</p>
+<p class="talk" style="text-align:left;">« …Alors maintenant quoi… »</p>
+<p style="text-align:left;">Il se leva avec un sourire sur le visage.</p>
+<p style="text-align:left;">Bienvenue pour devenir un [Joueur]. (Lu)</p>
+<p style="text-align:left;">[Quête quotidienne : Préparation pour devenir puissant] est arrivée. (Lu)</p>
+<p style="text-align:left;">Les messages précédemment « non lus » étaient devenus « lus ». Les mots lui disant qu’il n’avait pas lu les messages avaient disparu, mais il n’avait plus l’intention de continuer à entretenir ces illusions. Il sentait qu’il en avait fait assez.</p>
+<p style="text-align:left;">Sans regrets, il ferma la fenêtre de message.</p>
+<p style="text-align:left;">Avec un bâillement, il retourna dans son lit. Après avoir bougé après si longtemps, il se sentait somnolent. La fenêtre extérieure brillait en orange au coucher du soleil.</p>
+<p style="text-align:left;">Il est déjà si tard ?</p>
+<p style="text-align:left;">L’homme du Département de Surveillance des Chasseurs avait expliqué plus tôt que ses factures d’hôpital seraient prises en charge par l’Association. Dans cet esprit, Jinwoo n’était pas pressé d’être libéré.</p>
+<p style="text-align:left;">Je vais peut-être faire faire des examens à l’hôpital, pour m’assurer que je suis en bonne santé.</p>
+<p style="text-align:left;">Il pensait, allongé dans son lit.</p>
+<p style="text-align:left;">Je suis sûr que les hallucinations disparaîtront après un certain temps.</p>
+<p style="text-align:left;">Ses paupières se fermèrent lentement. Bientôt, il tomba dans un profond sommeil.</p>
+<p style="text-align:left;">tick tick tick</p>
+<p style="text-align:left;">Pendant qu’il dormait, l’horloge sur le mur d’en face continuait à tinter. Au fil du temps, les aiguilles de l’horloge indiquaient finalement 11:59:57.</p>
+<p style="text-align:left;">tick</p>
+<p style="text-align:left;">58.</p>
+<p style="text-align:left;">tick</p>
+<p style="text-align:left;">59.</p>
+<p style="text-align:left;">tick</p>
+<p style="text-align:left;">60.</p>
+<p style="text-align:left;">L’horloge indiquait 12:00:00.</p>
+<p class="onomatope" style="text-align:left;">ring~</p>
+<div class="border">
+<p class="strong" style="text-align:left;">[Vous n’avez pas réussi à accomplir la Quête du jour. Vous serez déplacé dans la zone de pénalité pour une durée déterminée.]</p>
+</div>
+<p style="text-align:left;">________________________________________</p>
+<p class="onomatope" style="text-align:left;">TREMBLE ! ~</p>
+<p style="text-align:left;">Jinwoo rouvrit les yeux face à un tremblement intense qui secoua tout son corps.</p>
+<p class="talk" style="text-align:left;">« Tremblement de terre ?! »</p>
+<p style="text-align:left;">Il se leva et saisit le sommier au pied du lit. Le tremblement était si fort qu’il avait de la difficulté à tenir le coup.</p>
+<p class="onomatope" style="text-align:left;">TREMBLE!~</p>
+<p style="text-align:left;">Mais à chaque seconde qui passait, les tremblements s’aggravaient.</p>
+<p style="text-align:left;">Soudainement,</p>
+<p class="onomatope" style="text-align:left;">psssh~</p>
+<p style="text-align:left;">Le sommier auquel il s’était accroché pour sauver sa vie se brisa. Non, elle avait disparu de ses mains. Il vérifia ses mains, il n’y avait aucun signe du cadre du lit. Au lieu de cela, il y avait du sable sur ses paumes.</p>
+<p class="talk" style="text-align:left;">« Du sable ?</p>
+<p class="onomatope" style="text-align:left;">psssssh~</p>
+<p style="text-align:left;">Le reste des cadres sur le lit se transforma en sable, et le tremblement devint encore plus fort.</p>
+<p class="onomatope" style="text-align:left;">TREMBLE!~</p>
+<p class="talk" style="text-align:left;">« Uwaaak ! »</p>
+<p style="text-align:left;">Incapable de tenir le coup, il finit par se jeter du lit. Jinwoo cria en bondissant de sa chambre. Un à un, tous les meubles et objets de sa chambre se transformèrent en sable.</p>
+<p class="talk" style="text-align:left;">« Uwaaaaaaah ! »</p>
+<p style="text-align:left;">Crash !</p>
+<p style="text-align:left;">Jinwoo se retrouva subitement coincé dans quelque chose. Le bout de ses doigts sentait la douceur du sable autour de lui. Le tremblement de terre s’était arrêté.</p>
+<p style="text-align:left;">crache crache</p>
+<p style="text-align:left;">En crachant le sable qui était entré dans sa bouche, il leva la tête.</p>
+<p class="talk" style="text-align:left;">“…?”</p>
+<p style="text-align:left;">Il s’était retrouvé au milieu d’un vaste désert. En tapotant le sable de son corps, il se leva et regarda autour de lui. Dans toutes les directions, il vit un champ de sable sans fin, s’étendant jusqu’à l’horizon.</p>
+<p class="talk" style="text-align:left;">« Un désert… ? »</p>
+<p style="text-align:left;">Il n’y avait pas d’explication logique à cela. Jusqu’à il y a quelques instants, il se reposait sur un lit d’hôpital au milieu de Séoul.</p>
+<p style="text-align:left;">Il saisit une poignée de sable et la laissa tomber. Le sable tombait en ligne droite sur le sol.</p>
+<p style="text-align:left;">Il n’y a pas de vent.</p>
+<p style="text-align:left;">Il n’y avait pas que le vent, il n’y avait ni soleil, ni lune, ni même d’étoiles.</p>
+<p style="text-align:left;">Un ciel vide comme de l’encre noire était répendu comme sur une toile.</p>
+<p style="text-align:left;">Plus étrange encore, malgré l’absence d’une source de lumière visible, il n’avait aucune difficulté à voir ce qui l’entourait.</p>
+<p class="talk" style="text-align:left;">« Où suis-je ? »</p>
+</body>
+</html>

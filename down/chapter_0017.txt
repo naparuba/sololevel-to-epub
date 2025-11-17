@@ -1,28 +1,167 @@
-<html><body><h1>Chapter 17</h1>
-<p class=""> </p><p class="">Alors qu’elle secouait la tête avec incrédulité, Jinwoo réapparut soudainement et tendit un parapluie vers elle.</p><p class="talk">« Pourquoi un parapluie ? »</p><p class="">Elle prit le parapluie et leva les yeux vers le ciel. Il faisait encore nuit à l’aube, mais le ciel semblait clair.</p><p class="talk">« Je ne pense pas qu’il va pleuvoir aujourd’hui. »</p><p class="talk">« Prends-le. »</p><p class="talk">« Ça va être un problème… »</p><p class="talk">« Prends-le tout simplement. Ce n’est pas si lourd, arrête de plaindre. »</p><p class="">Il ferma la porte et retourna à l’intérieur.</p><p class="talk">« Soupir… toujours si têtu. »</p><p class="">Elle tapa plusieurs fois sur la porte avec son pied, puis mit le parapluie dans son sac et se mit à marcher.</p><p class="talk">‘Attends…’</p><p class="">Elle se rappela la silhouette de son frère tout à l’heure. C’était étrange. Son frère était nettement plus grand qu’elle ne s’en souvenait.</p><p class="talk">« Les hommes grandissent-ils encore après 20 ans ? »</p><p class="talk">«C’est impossible… »</p><p class="">Elle secoua de nouveau la tête et se dirigea vers l’école.</p><p class="">________________________________________</p><p class="">clic</p><p class="">Jinwoo ferma la porte et ouvrit son inventaire.</p><p class="talk">« Stockage. »</p><p class="">Stockage. Inv. inventaire.</p><p class="">Après avoir fait des expériences, il découvrit qu’il n’était pas nécessaire que la commande vocale soit aussi exacte. Pareil pour les messages. Diverses phrases avec l’intention et signification du mot « ouverture » fonctionnaient.</p><p class="">Il prit le parapluie obtenu de la Boîte Aléatoire d’aujourd’hui et le plaça dans le stockage numérique sous ses yeux.</p><p class="talk">« La journée d’aujourd’hui a encore été un fiasco. »</p><p class="">Quatre jours s’étaient écoulés depuis son premier périple dans un Donjon Instantané. Depuis lors, il avait espéré une autre clé des Boîtes Aléatoires mais n’avait pas eu cette chance.</p><p class="talk">‘Comme c’est décevant.’</p><p class="">Il alla dans sa chambre et s’assit sur son lit.</p><p class="">Il y avait quelque chose qu’il devait décider aujourd’hui.</p><p class="talk">« Stat. »</p><div class="border"><p class="strong"><strong>Statistiques</strong><br/>
+<html>
+<body>
+<h1>Chapter 17</h1>
+
+<p>Alors qu’elle secouait la tête avec incrédulité, Jinwoo réapparut soudainement et tendit un parapluie vers elle.</p>
+<p class="talk">« Pourquoi un parapluie ? »</p>
+<p>Elle prit le parapluie et leva les yeux vers le ciel. Il faisait encore nuit à l’aube, mais le ciel semblait clair.</p>
+<p class="talk">« Je ne pense pas qu’il va pleuvoir aujourd’hui. »</p>
+<p class="talk">« Prends-le. »</p>
+<p class="talk">« Ça va être un problème… »</p>
+<p class="talk">« Prends-le tout simplement. Ce n’est pas si lourd, arrête de plaindre. »</p>
+<p>Il ferma la porte et retourna à l’intérieur.</p>
+<p class="talk">« Soupir… toujours si têtu. »</p>
+<p>Elle tapa plusieurs fois sur la porte avec son pied, puis mit le parapluie dans son sac et se mit à marcher.</p>
+<p class="talk">‘Attends…’</p>
+<p>Elle se rappela la silhouette de son frère tout à l’heure. C’était étrange. Son frère était nettement plus grand qu’elle ne s’en souvenait.</p>
+<p class="talk">« Les hommes grandissent-ils encore après 20 ans ? »</p>
+<p class="talk">«C’est impossible… »</p>
+<p>Elle secoua de nouveau la tête et se dirigea vers l’école.</p>
+<p>________________________________________</p>
+<p>clic</p>
+<p>Jinwoo ferma la porte et ouvrit son inventaire.</p>
+<p class="talk">« Stockage. »</p>
+<p>Stockage. Inv. inventaire.</p>
+<p>Après avoir fait des expériences, il découvrit qu’il n’était pas nécessaire que la commande vocale soit aussi exacte. Pareil pour les messages. Diverses phrases avec l’intention et signification du mot « ouverture » fonctionnaient.</p>
+<p>Il prit le parapluie obtenu de la Boîte Aléatoire d’aujourd’hui et le plaça dans le stockage numérique sous ses yeux.</p>
+<p class="talk">« La journée d’aujourd’hui a encore été un fiasco. »</p>
+<p>Quatre jours s’étaient écoulés depuis son premier périple dans un Donjon Instantané. Depuis lors, il avait espéré une autre clé des Boîtes Aléatoires mais n’avait pas eu cette chance.</p>
+<p class="talk">‘Comme c’est décevant.’</p>
+<p>Il alla dans sa chambre et s’assit sur son lit.</p>
+<p>Il y avait quelque chose qu’il devait décider aujourd’hui.</p>
+<p class="talk">« Stat. »</p>
+<div class="border">
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 48</strong><br/>
 <strong>Constitution : 27</strong><br/>
 <strong>Agilité : 27</strong><br/>
 <strong>Intelligence : 27</strong><br/>
-<strong>Perception : 27</strong></p><p class="strong"><strong>(Points statistiques disponibles : 12)</strong></p></div><p class="">Quatre jours de points de stat avaient été accumulés sur son écran de stat. Il n’avait pas manqué une seule quête quotidienne et, bien sûr, il en récoltait les fruits avec diligence. Mais il n’avait encore utilisé aucun des points. Il ne savait pas quoi en faire.</p><p class="talk">« …C’est dur. »</p><p class="">En effet, ça l’était. Ce n’était pas une décision facile à prendre.</p><p class="">La force. Stat bon. Pas de regrets d’avoir déversé chaque point jusqu’à présent.</p><p class="">Agilité. C’est aussi une bonne stat. Pas nécessaire contre les ennemis de bas niveau, mais absolument indispensable contre les ennemis les plus forts. La vitesse était relative, après tout.</p><p class="">Constitution et perception. Avoir une meilleure santé a toujours été une bonne chose, et la perception s’est avérée étonnamment utile aussi.</p><p class="">Intelligence…</p><p class="">…C’était le problème. C’était le seul attribut sur lequel il n’avait aucune information valable. Même après l’élévation de son niveau, il ne se sentait pas vraiment plus intelligent. Sa mémorisation ne s’était pas vraiment améliorée, et ses maths mentales n’étaient pas devenues plus rapides.</p><p class="talk">‘Je suis sûr que c’est lié à la magie…’</p><p class="">Peut-être qu’il n’en avait pas besoin après tout.</p><p class="">Il ne restait que la force, l’agilité, la constitution et la perception.</p><p class="talk">« …quand même, c’est dur. »</p><p class="">Même avec un choix de moins, il n’était toujours pas sûr. La synergie entre la force et l’agilité était évidente ; peu importe à quel point il pouvait frapper fort, cela ne signifiait rien s’il ne pouvait pas atteindre sa cible. De la même façon, même s’il était précis, cela ne signifiait rien sans la puissance derrière l’attaque. Dans cet esprit, la force et l’agilité étaient un ensemble.</p><p class="talk">‘Puisque ma force est bonne, je devrais élever l’agilité à un niveau similaire.’</p><p class="">En même temps, s’il décidait d’augmenter la stat agilité, il devrait accorder moins à la constitution. La synergie entre l’agilité et la constitution était mauvaise. Avec une grande agilité, sa capacité à esquiver l’attaque de l’ennemi augmenterait ; d’autre part, la constitution ne brillait que lorsqu’il prenait l’attaque de l’ennemi de front.</p><p class="talk">‘Bien sûr, j’aurai toujours besoin d’un minimum, juste au cas où…’</p><p class="">Cependant, augmenter l’agilité et la constitution en même temps ne semblait pas être la meilleure façon de répartir ses points.</p><p class="">Après y avoir réfléchi pendant un certain temps, il en conclut :</p><p class="">D’abord, l’agilité. Deuxièmement, la perception. Troisièmement, la constitution.</p><p class="">Il avait déjà donné pas mal à sa force, alors il la laissera telle quelle. Il mettra l’accent sur l’agilité à un niveau correspondant ; en mettant l’accent sur l’agilité, il fera aussi passer la perception avant la constitution.</p><p class="">Ayant pris sa décision, Jinwoo mit 2 points en force.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Perception : 27</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 12)</strong></p>
+</div>
+<p>Quatre jours de points de stat avaient été accumulés sur son écran de stat. Il n’avait pas manqué une seule quête quotidienne et, bien sûr, il en récoltait les fruits avec diligence. Mais il n’avait encore utilisé aucun des points. Il ne savait pas quoi en faire.</p>
+<p class="talk">« …C’est dur. »</p>
+<p>En effet, ça l’était. Ce n’était pas une décision facile à prendre.</p>
+<p>La force. Stat bon. Pas de regrets d’avoir déversé chaque point jusqu’à présent.</p>
+<p>Agilité. C’est aussi une bonne stat. Pas nécessaire contre les ennemis de bas niveau, mais absolument indispensable contre les ennemis les plus forts. La vitesse était relative, après tout.</p>
+<p>Constitution et perception. Avoir une meilleure santé a toujours été une bonne chose, et la perception s’est avérée étonnamment utile aussi.</p>
+<p>Intelligence…</p>
+<p>…C’était le problème. C’était le seul attribut sur lequel il n’avait aucune information valable. Même après l’élévation de son niveau, il ne se sentait pas vraiment plus intelligent. Sa mémorisation ne s’était pas vraiment améliorée, et ses maths mentales n’étaient pas devenues plus rapides.</p>
+<p class="talk">‘Je suis sûr que c’est lié à la magie…’</p>
+<p>Peut-être qu’il n’en avait pas besoin après tout.</p>
+<p>Il ne restait que la force, l’agilité, la constitution et la perception.</p>
+<p class="talk">« …quand même, c’est dur. »</p>
+<p>Même avec un choix de moins, il n’était toujours pas sûr. La synergie entre la force et l’agilité était évidente ; peu importe à quel point il pouvait frapper fort, cela ne signifiait rien s’il ne pouvait pas atteindre sa cible. De la même façon, même s’il était précis, cela ne signifiait rien sans la puissance derrière l’attaque. Dans cet esprit, la force et l’agilité étaient un ensemble.</p>
+<p class="talk">‘Puisque ma force est bonne, je devrais élever l’agilité à un niveau similaire.’</p>
+<p>En même temps, s’il décidait d’augmenter la stat agilité, il devrait accorder moins à la constitution. La synergie entre l’agilité et la constitution était mauvaise. Avec une grande agilité, sa capacité à esquiver l’attaque de l’ennemi augmenterait ; d’autre part, la constitution ne brillait que lorsqu’il prenait l’attaque de l’ennemi de front.</p>
+<p class="talk">‘Bien sûr, j’aurai toujours besoin d’un minimum, juste au cas où…’</p>
+<p>Cependant, augmenter l’agilité et la constitution en même temps ne semblait pas être la meilleure façon de répartir ses points.</p>
+<p>Après y avoir réfléchi pendant un certain temps, il en conclut :</p>
+<p>D’abord, l’agilité. Deuxièmement, la perception. Troisièmement, la constitution.</p>
+<p>Il avait déjà donné pas mal à sa force, alors il la laissera telle quelle. Il mettra l’accent sur l’agilité à un niveau correspondant ; en mettant l’accent sur l’agilité, il fera aussi passer la perception avant la constitution.</p>
+<p>Ayant pris sa décision, Jinwoo mit 2 points en force.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 50</strong><br/>
 <strong>Constitution : 27</strong><br/>
 <strong>Agilité : 27</strong><br/>
 <strong>Intelligence : 27</strong><br/>
-<strong>Perception : 27</strong></p><p class="strong"><strong>(Points statistiques disponibles : 10)</strong></p></div><p class="">Il voulait juste avoir sa force à 50. Tout le monde n’en ferait-il pas autant ?</p><p class="">Il mit les 8 points suivants en agilité pour la même raison. Il voulait que le chiffre se termine sur un beau « 5 ».</p><div class="border"><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Perception : 27</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 10)</strong></p>
+</div>
+<p>Il voulait juste avoir sa force à 50. Tout le monde n’en ferait-il pas autant ?</p>
+<p>Il mit les 8 points suivants en agilité pour la même raison. Il voulait que le chiffre se termine sur un beau « 5 ».</p>
+<div class="border">
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 50</strong><br/>
 <strong>Constitution : 27</strong><br/>
 <strong>Agilité : 35</strong><br/>
 <strong>Intelligence : 27</strong><br/>
-<strong>Perception : 27</strong></p><p class="strong"><strong>(Points statistiques disponibles : 2)</strong></p></div><p class="talk">‘Les chiffres sont toujours beaux quand ils sont en multiples de 5. »</p><p class="">50 en force et 35 en agilité. Les multiples de 5 lui donnaient un sentiment de satisfaction sans raison.</p><p class="talk">‘Et les deux derniers points’</p><p class="">Il les mit en perception. Et avec cela, la distribution de ses points était terminée.</p><div class="border"><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Perception : 27</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 2)</strong></p>
+</div>
+<p class="talk">‘Les chiffres sont toujours beaux quand ils sont en multiples de 5. »</p>
+<p>50 en force et 35 en agilité. Les multiples de 5 lui donnaient un sentiment de satisfaction sans raison.</p>
+<p class="talk">‘Et les deux derniers points’</p>
+<p>Il les mit en perception. Et avec cela, la distribution de ses points était terminée.</p>
+<div class="border">
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 50</strong><br/>
 <strong>Constitution : 27</strong><br/>
 <strong>Agilité : 35</strong><br/>
 <strong>Intelligence : 27</strong><br/>
-<strong>Perception : 29</strong></p><p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p></div><p class="">Le fait qu’il n’arrivait pas à atteindre 30 en perception était un peu triste.</p><p class="talk">‘Je ne peux pas faire grand-chose sans points.’</p><p class="">A part ça, tout lui paraissait bien. La constitution et l’intelligence devraient être améliorées par le biais de la montée de niveau.</p><p class="talk">« Est-ce suffisant ? »</p><p class="">Bien sûr, il ne pouvait pas être satisfait à 100% en tout. Néanmoins, après avoir pris sa décision après mûre réflexion, il estimait que c’était suffisant.</p><p class="onomatope">ring~ ring~</p><p class="">Il entendit le téléphone sonner du salon.</p><p class="talk">« Est-ce un appel de l’Association ?</p><p class="">Dans le passé, il se retirait aussi longtemps qu’il le pouvait, de peur d’être appelé au Raid. Mais maintenant, son corps avait des démangeaisons de se confronter à des bêtes magiques avec ses attributs élevés. Il alla rapidement décrocher le combiné.</p><p class="talk">« C’est le Chasseur Jinwoo. »</p><p class="talk">« Ah, vous voilà. »</p><p class="">Ce n’était pas l’Association. Jinwoo était un peu déçu.</p><p class="talk">« Élève Jinwoo, pourquoi n’avez-vous pas décroché le téléphone depuis un moment ? »</p><p class="">C’était une voix familière. Cela faisait 4 ans que Jinwoo avait obtenu son diplôme d’études secondaires et laissé derrière lui le titre d’étudiant, mais le propriétaire, qui veillait sur Jinwoo depuis son enfance, l’appelait encore un.</p><p class="talk">« Désolé propriétaire ahjjussi. J’ai été hospitalisé pendant un certain temps après un accident. »</p><p class="talk">« Oh non. Vraiment ? C’est vrai ? Cela explique cela. Donc, euh… Étudiant Jinwoo, je n’ai pas encore reçu le loyer de ce mois-ci. Alors, vous voulez repousser ça au mois prochain ? »</p><p class="talk">« Oh non, c’est bon. Je vais l’envoyer maintenant. »</p><p class="talk">« Ah, d’accord. Ne vous poussez pas trop. Je sais que vous travaillez dur pour prendre soin de votre mère et de votre petite sœur. L’argent, c’est de l’argent, mais ne négligez pas votre corps. »</p><p class="talk">« Je comprends. Merci beaucoup. »</p><p class="">Il mit fin à la conversation et sortit son livret de banque[1] d’un tiroir. Son compte avait 800 000 wons.</p><p class="talk">« Soupir… »</p><p class="">Il ne put s’empêcher de respirer longtemps. Après 500 000 won pour le loyer, le montant restant pour les frais de subsistance ce mois-ci ne serait que de 300 000 won[2]. Même le loyer de 500 000 était dû au fait qu’il vivait dans un appartement délabré aux abords de la ville ; en plus, le propriétaire, qui avait un cœur tendre pour la situation de Jinwoo, n’avait pas augmenté le loyer au cours des quelques dernières années.</p><p class="">Ce serait difficile de trouver une place pour 500 000 ces jours-ci. Ce serait encore plus difficile de vivre avec 300 000 pour le mois.</p><p class="talk">« D’abord, gagnons de l’argent. »</p><p class="">Il avait choisi l’objectif prioritaire.</p><p class="">Il n’était pas le même homme qui avait lutté pour abattre une seule bête magique de rang E.</p><p class="">________________________________________</p><p class="">Comment un chasseur gagne-t-il de l’argent ?</p><p class="">Le meilleur moyen était de tuer des bêtes magiques.</p><p class="">Les chasseurs de grade A et de grade S avaient le luxe d’être commandités, de faire des spots publicitaires et de passer à la télévision, mais ils étaient minoritaires. Pour les autres, les Chasseurs gagnaient leur vie dans les Donjons.</p><p class="">Le revenu dépendait de la qualité et de la quantité de donjons. Et le donjon dépendait des capacités de chacun.</p><p class="">Plus haut était le Rang, plus haut était le Donjon. Plus on avait d’expérience, plus on pouvait entrer dans des donjons.</p><p class="">En tant que Chasseur de rang E sous l’Association, Jinwoo n’était jamais entré dans une Porte de rang D. En tant que tel, il n’avait ni le grade ni l’expérience pour prouver sa valeur.</p><p class="">Jinwoo fronça les sourcils.</p><p class="talk">‘Oublions toutes les conditions, si seulement je pouvais entrer dans un groupe de raid…’</p><p class="">Il parcourut les offres de job sur les sites de Chasseur et passa même quelques coups de fil mais ne fit aucun progrès. Personne ne voulait d’un chasseur de rang E. Les chasseurs qui affichaient des annonces sur les sites le faisaient pour des raids personnels. À ce titre, ils recherchaient des personnes fiables pour assurer leurs arrières et étaient stricts dans leurs critères de sélection.</p><p class="">Ces gens étaient ceux qui étaient tombés dans une situation délicate dans le monde des Chasseurs. Trop faible pour les guildes, mais trop fort pour travailler sous l’égide de l’Association.</p><p class="talk">‘Même ces chasseurs gagnent plusieurs dizaines de millions par mois.’</p><p class="">Risque élevé, rendement élevé. Mettant leur vie en jeu, la récompense était tout aussi grande. Il y avait une raison pour laquelle les Chasseurs étaient la cible d’envie. Pour Jinwoo, c’était plutôt frustrant.</p><p class="talk">‘Dois-je simplement me faire réévaluer et augmenter mon rang?’</p><p class="">Jinwoo secoua la tête. Peu importe combien de temps il y pensait, c’était une idée stupide. Peu importait que son nouveau grade soit de grade A, B ou même C. Le rééveil d’un Chasseur serait une grande nouvelle. Les gens adoraient les ragots, et les Chasseurs faisaient des ragots de première qualité. S’il était soumis à un nouveau test maintenant et qu’il était dans la tête du public, ce ne serait qu’une question de temps avant que sa situation particulière ne soit découverte. Après tout, il n’avait aucun plan pour arrêter sa croissance.</p><p class="talk">« Un chasseur qui peut augmenter ses capacités ? »<br/>
-« Il devient plus fort avec le temps ? »<br/>
-« Qui est ce Chasseur ? »<br/>
-« Comment a-t-il pu faire une telle chose ? »<br/>
-« Comment ai-je pu faire une chose pareille ? »</p><p class="">Certes, beaucoup de gens s’y intéresseraient. Il n’y avait jamais eu un Chasseur comme lui dans l’histoire. Au milieu de leur intérêt, il y aurait certainement ceux qui essaieraient de l’utiliser ou de le contrarier.</p><p class="talk">‘Et si l’un d’eux est plus fort que moi…’</p><p class="">L’idée effrayait Jinwoo. Il manquait encore de puissance. Jusqu’à ce qu’il ait confiance en sa capacité à se protéger, il ne voulait pas se révéler au monde. Il n’était donc pas question d’un nouveau test de classement.</p><p class="talk">‘J’ai quand même besoin d’un moyen de gagner de l’argent d’une manière ou d’une autre…’</p><p class="">Il ne pouvait pas trouver un travail ordinaire. Il ne savait pas quand l’Association allait appeler. S’il était appelé à un Raid, il pourrait gagner des points d’expérience et de l’argent ; il ne voulait pas gâcher cette chance pour de l’argent de poche.</p><p class="">Tandis que Jinwoo réfléchissait à ce qu’il pouvait faire, il remarqua une nouvelle inscription sur le site.</p><p class="">Nous prendrons n’importe qui, quel que soit son classement, premier arrivé, premier servi !</p><p class="">Ses yeux s’ouvrirent. C’était un poste nouvellement créé. En vérifiant rapidement les détails, il se rendit compte que l’endroit n’était pas loin de sa maison. Jinwoo décrocha rapidement le téléphone. Comme s’ils attendaient, l’autre côté répondit rapidement.</p><p class="talk">« Allô ? »</p><p class="">Jinwoo se présenta brièvement et s’informa sur l’offre.</p><p class="talk">« Ah, t’es un rang E ? »</p><p class="">La réponse fut meilleure que ce qu’il avait espéré.</p><p class="talk">« C’est très bien. Tu n’as qu’à venir nous aider à compléter l’effectif. Mais comme c’est une Porte de rang C, tu ne seras probablement pas d’une grande aide dans les combats. On va donc devoir te retirer de la distribution de butin. Au lieu de cela, nous te donnerons un montant fixe de 2 millions, qu’est-ce que tu en penses ? Tu veux bien venir ? »</p><p class="">Montant forfaitaire de 2 millions !</p><p class="">C’était une rémunération incroyable pour le simple fait de compléter le groupe. Les conditions n’étaient pas si mauvaises. Bien que regrettable qu’il soit exclu du butin, il ne pouvait pas laisser échapper 2 millions de ses mains.</p><p class="talk">‘Pour l’instant, commençons par ça.’</p><p class="">Une telle occasion ne se présentait pas tous les jours. 2 millions serait plus que suffisant pour le mois.</p><p class="">Jinwoo accepta la proposition,</p><p class="talk">« Je serai là dans 15 minutes. »</p><p class=""> </p><p class="">Notes du traducteur :<br/>
-[1] : « livre de banque » (통장) : En Corée, les gens ont souvent ces représentations physiques de leur solde bancaire, qui enregistre également les dépôts et les retraits. Une relique des jours avant les services bancaires en ligne, il faudrait les apporter aux banques pour obtenir une mise à jour sur l’état de votre compte.<br/>
-[2] : Pour rappel, lors de la conversion de KRW en USD, il suffit de le diviser par mille (il sera réduit de quelques %, mais assez bon pour les besoins de l’histoire). Son loyer est d’environ 500 $ et il lui resterait environ 300 $ pour le mois.</p></body></html>
+<strong>Perception : 29</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p>
+</div>
+<p>Le fait qu’il n’arrivait pas à atteindre 30 en perception était un peu triste.</p>
+<p class="talk">‘Je ne peux pas faire grand-chose sans points.’</p>
+<p>A part ça, tout lui paraissait bien. La constitution et l’intelligence devraient être améliorées par le biais de la montée de niveau.</p>
+<p class="talk">« Est-ce suffisant ? »</p>
+<p>Bien sûr, il ne pouvait pas être satisfait à 100% en tout. Néanmoins, après avoir pris sa décision après mûre réflexion, il estimait que c’était suffisant.</p>
+<p class="onomatope">ring~ ring~</p>
+<p>Il entendit le téléphone sonner du salon.</p>
+<p class="talk">« Est-ce un appel de l’Association ?</p>
+<p>Dans le passé, il se retirait aussi longtemps qu’il le pouvait, de peur d’être appelé au Raid. Mais maintenant, son corps avait des démangeaisons de se confronter à des bêtes magiques avec ses attributs élevés. Il alla rapidement décrocher le combiné.</p>
+<p class="talk">« C’est le Chasseur Jinwoo. »</p>
+<p class="talk">« Ah, vous voilà. »</p>
+<p>Ce n’était pas l’Association. Jinwoo était un peu déçu.</p>
+<p class="talk">« Élève Jinwoo, pourquoi n’avez-vous pas décroché le téléphone depuis un moment ? »</p>
+<p>C’était une voix familière. Cela faisait 4 ans que Jinwoo avait obtenu son diplôme d’études secondaires et laissé derrière lui le titre d’étudiant, mais le propriétaire, qui veillait sur Jinwoo depuis son enfance, l’appelait encore un.</p>
+<p class="talk">« Désolé propriétaire ahjjussi. J’ai été hospitalisé pendant un certain temps après un accident. »</p>
+<p class="talk">« Oh non. Vraiment ? C’est vrai ? Cela explique cela. Donc, euh… Étudiant Jinwoo, je n’ai pas encore reçu le loyer de ce mois-ci. Alors, vous voulez repousser ça au mois prochain ? »</p>
+<p class="talk">« Oh non, c’est bon. Je vais l’envoyer maintenant. »</p>
+<p class="talk">« Ah, d’accord. Ne vous poussez pas trop. Je sais que vous travaillez dur pour prendre soin de votre mère et de votre petite sœur. L’argent, c’est de l’argent, mais ne négligez pas votre corps. »</p>
+<p class="talk">« Je comprends. Merci beaucoup. »</p>
+<p>Il mit fin à la conversation et sortit son livret de banque[1] d’un tiroir. Son compte avait 800 000 wons.</p>
+<p class="talk">« Soupir… »</p>
+<p>Il ne put s’empêcher de respirer longtemps. Après 500 000 won pour le loyer, le montant restant pour les frais de subsistance ce mois-ci ne serait que de 300 000 won[2]. Même le loyer de 500 000 était dû au fait qu’il vivait dans un appartement délabré aux abords de la ville ; en plus, le propriétaire, qui avait un cœur tendre pour la situation de Jinwoo, n’avait pas augmenté le loyer au cours des quelques dernières années.</p>
+<p>Ce serait difficile de trouver une place pour 500 000 ces jours-ci. Ce serait encore plus difficile de vivre avec 300 000 pour le mois.</p>
+<p class="talk">« D’abord, gagnons de l’argent. »</p>
+<p>Il avait choisi l’objectif prioritaire.</p>
+<p>Il n’était pas le même homme qui avait lutté pour abattre une seule bête magique de rang E.</p>
+<p>________________________________________</p>
+<p>Comment un chasseur gagne-t-il de l’argent ?</p>
+<p>Le meilleur moyen était de tuer des bêtes magiques.</p>
+<p>Les chasseurs de grade A et de grade S avaient le luxe d’être commandités, de faire des spots publicitaires et de passer à la télévision, mais ils étaient minoritaires. Pour les autres, les Chasseurs gagnaient leur vie dans les Donjons.</p>
+<p>Le revenu dépendait de la qualité et de la quantité de donjons. Et le donjon dépendait des capacités de chacun.</p>
+<p>Plus haut était le Rang, plus haut était le Donjon. Plus on avait d’expérience, plus on pouvait entrer dans des donjons.</p>
+<p>En tant que Chasseur de rang E sous l’Association, Jinwoo n’était jamais entré dans une Porte de rang D. En tant que tel, il n’avait ni le grade ni l’expérience pour prouver sa valeur.</p>
+<p>Jinwoo fronça les sourcils.</p>
+<p class="talk">‘Oublions toutes les conditions, si seulement je pouvais entrer dans un groupe de raid…’</p>
+<p>Il parcourut les offres de job sur les sites de Chasseur et passa même quelques coups de fil mais ne fit aucun progrès. Personne ne voulait d’un chasseur de rang E. Les chasseurs qui affichaient des annonces sur les sites le faisaient pour des raids personnels. À ce titre, ils recherchaient des personnes fiables pour assurer leurs arrières et étaient stricts dans leurs critères de sélection.</p>
+<p>Ces gens étaient ceux qui étaient tombés dans une situation délicate dans le monde des Chasseurs. Trop faible pour les guildes, mais trop fort pour travailler sous l’égide de l’Association.</p>
+<p class="talk">‘Même ces chasseurs gagnent plusieurs dizaines de millions par mois.’</p>
+<p>Risque élevé, rendement élevé. Mettant leur vie en jeu, la récompense était tout aussi grande. Il y avait une raison pour laquelle les Chasseurs étaient la cible d’envie. Pour Jinwoo, c’était plutôt frustrant.</p>
+<p class="talk">‘Dois-je simplement me faire réévaluer et augmenter mon rang?’</p>
+<p>Jinwoo secoua la tête. Peu importe combien de temps il y pensait, c’était une idée stupide. Peu importait que son nouveau grade soit de grade A, B ou même C. Le rééveil d’un Chasseur serait une grande nouvelle. Les gens adoraient les ragots, et les Chasseurs faisaient des ragots de première qualité. S’il était soumis à un nouveau test maintenant et qu’il était dans la tête du public, ce ne serait qu’une question de temps avant que sa situation particulière ne soit découverte. Après tout, il n’avait aucun plan pour arrêter sa croissance.</p>
+<p class="talk">« Un chasseur qui peut augmenter ses capacités ? »<br/>
+« Il devient plus fort avec le temps ? »<br/>
+« Qui est ce Chasseur ? »<br/>
+« Comment a-t-il pu faire une telle chose ? »<br/>
+« Comment ai-je pu faire une chose pareille ? »</p>
+<p>Certes, beaucoup de gens s’y intéresseraient. Il n’y avait jamais eu un Chasseur comme lui dans l’histoire. Au milieu de leur intérêt, il y aurait certainement ceux qui essaieraient de l’utiliser ou de le contrarier.</p>
+<p class="talk">‘Et si l’un d’eux est plus fort que moi…’</p>
+<p>L’idée effrayait Jinwoo. Il manquait encore de puissance. Jusqu’à ce qu’il ait confiance en sa capacité à se protéger, il ne voulait pas se révéler au monde. Il n’était donc pas question d’un nouveau test de classement.</p>
+<p class="talk">‘J’ai quand même besoin d’un moyen de gagner de l’argent d’une manière ou d’une autre…’</p>
+<p>Il ne pouvait pas trouver un travail ordinaire. Il ne savait pas quand l’Association allait appeler. S’il était appelé à un Raid, il pourrait gagner des points d’expérience et de l’argent ; il ne voulait pas gâcher cette chance pour de l’argent de poche.</p>
+<p>Tandis que Jinwoo réfléchissait à ce qu’il pouvait faire, il remarqua une nouvelle inscription sur le site.</p>
+<p>Nous prendrons n’importe qui, quel que soit son classement, premier arrivé, premier servi !</p>
+<p>Ses yeux s’ouvrirent. C’était un poste nouvellement créé. En vérifiant rapidement les détails, il se rendit compte que l’endroit n’était pas loin de sa maison. Jinwoo décrocha rapidement le téléphone. Comme s’ils attendaient, l’autre côté répondit rapidement.</p>
+<p class="talk">« Allô ? »</p>
+<p>Jinwoo se présenta brièvement et s’informa sur l’offre.</p>
+<p class="talk">« Ah, t’es un rang E ? »</p>
+<p>La réponse fut meilleure que ce qu’il avait espéré.</p>
+<p class="talk">« C’est très bien. Tu n’as qu’à venir nous aider à compléter l’effectif. Mais comme c’est une Porte de rang C, tu ne seras probablement pas d’une grande aide dans les combats. On va donc devoir te retirer de la distribution de butin. Au lieu de cela, nous te donnerons un montant fixe de 2 millions, qu’est-ce que tu en penses ? Tu veux bien venir ? »</p>
+<p>Montant forfaitaire de 2 millions !</p>
+<p>C’était une rémunération incroyable pour le simple fait de compléter le groupe. Les conditions n’étaient pas si mauvaises. Bien que regrettable qu’il soit exclu du butin, il ne pouvait pas laisser échapper 2 millions de ses mains.</p>
+<p class="talk">‘Pour l’instant, commençons par ça.’</p>
+<p>Une telle occasion ne se présentait pas tous les jours. 2 millions serait plus que suffisant pour le mois.</p>
+<p>Jinwoo accepta la proposition,</p>
+<p class="talk">« Je serai là dans 15 minutes. »</p>
+
+<p>Notes du traducteur :<br/>
+[1] : « livre de banque » (통장) : En Corée, les gens ont souvent ces représentations physiques de leur solde bancaire, qui enregistre également les dépôts et les retraits. Une relique des jours avant les services bancaires en ligne, il faudrait les apporter aux banques pour obtenir une mise à jour sur l’état de votre compte.<br/>
+[2] : Pour rappel, lors de la conversion de KRW en USD, il suffit de le diviser par mille (il sera réduit de quelques %, mais assez bon pour les besoins de l’histoire). Son loyer est d’environ 500 $ et il lui resterait environ 300 $ pour le mois.</p>
+</body>
+</html>

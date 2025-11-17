@@ -1,24 +1,160 @@
-<html><body><h1>Chapter 59</h1>
-<p class=""> </p><p class="talk">« Une Porte Rouge ? Comment est-ce arrivé ? »</p><p class="">Le maître de la guilde White Tiger, Baek, débarqua immédiatement sur les lieux après avoir reçu la nouvelle. Hyun Gicheol, le responsable de l’entraînement, avait un visage sombre.</p><p class="talk">« C’est…<br/>
--Laissez-moi regarder. »</p><p class="">Baek passa devant les employés, qui se préparaient pratiquement à des funérailles dans leur tête, et se dirigea vers la Porte.</p><p class="talk">‘C’est vraiment une Porte Rouge !’</p><p class="">Le visage de Baek durcit.</p><p class="">Les Portes Rouges. C’était un phénomène terrifiant observé sur des Portes aléatoires de haut niveau. Au lieu de transporter dans un petit donjon confiné, il se connecterait à un monde complètement différent, complet avec leurs propres environnements et formes de vie. Une fois la Porte solidifiée dans sa couleur rouge, personne ne pouvait entrer ou sortir avant que le boss ne soit tué ou qu’un Donjon Brisé se soit produit. Elle était complètement fermée de l’extérieur.</p><p class="">Baek posa une main sur la Porte. C’était définitivement bloqué.</p><p class="talk">‘Ce n’est pas bon.’</p><p class="">Ils ne pouvaient rien faire. Contrairement à d’autres urgences, aucune aide ne pouvait être apportée à ceux qui se trouvaient à l’intérieur. Baek se tourna vers Hyun Gicheol,</p><p class="talk">« N’était-ce pas une porte de rang C ?<br/>
+<html>
+<body>
+<h1>Chapter 59</h1>
+
+<p class="talk">« Une Porte Rouge ? Comment est-ce arrivé ? »</p>
+<p>Le maître de la guilde White Tiger, Baek, débarqua immédiatement sur les lieux après avoir reçu la nouvelle. Hyun Gicheol, le responsable de l’entraînement, avait un visage sombre.</p>
+<p class="talk">« C’est…<br/>
+-Laissez-moi regarder. »</p>
+<p>Baek passa devant les employés, qui se préparaient pratiquement à des funérailles dans leur tête, et se dirigea vers la Porte.</p>
+<p class="talk">‘C’est vraiment une Porte Rouge !’</p>
+<p>Le visage de Baek durcit.</p>
+<p>Les Portes Rouges. C’était un phénomène terrifiant observé sur des Portes aléatoires de haut niveau. Au lieu de transporter dans un petit donjon confiné, il se connecterait à un monde complètement différent, complet avec leurs propres environnements et formes de vie. Une fois la Porte solidifiée dans sa couleur rouge, personne ne pouvait entrer ou sortir avant que le boss ne soit tué ou qu’un Donjon Brisé se soit produit. Elle était complètement fermée de l’extérieur.</p>
+<p>Baek posa une main sur la Porte. C’était définitivement bloqué.</p>
+<p class="talk">‘Ce n’est pas bon.’</p>
+<p>Ils ne pouvaient rien faire. Contrairement à d’autres urgences, aucune aide ne pouvait être apportée à ceux qui se trouvaient à l’intérieur. Baek se tourna vers Hyun Gicheol,</p>
+<p class="talk">« N’était-ce pas une porte de rang C ?<br/>
 -Ça l’était.<br/>
 -Avez-vous confirmé auprès de l’Association ?<br/>
 -Oui, mais… Ils ont été exceptionnellement catégoriques sur le fait que c’était une Porte de rang C.<br/>
--Ces fils de pute ! »</p><p class="">Baek jura haut et fort. Les Portes Rouges étaient un phénomène limité aux Portes de haut niveau. Elle mènerait à un monde complètement différent de l’autre côté, et ils disaient que le pouvoir magique qui s’échappait était seulement celui d’une Porte de rang C ? C’était des conneries impensables. La Porte devant lui était au moins de rang B. S’ils étaient malchanceux, ça pourrait être un rang A. S’ils avaient vraiment pas de chance, quelque chose au-dessus de ça…</p><p class="">Entre-temps, il y avait une raison pour laquelle l’Association pouvait s’obstiner à nier tout acte répréhensible.</p><p class="talk">« Devrions-nous le mesurer avec nos propres appareils ? »</p><p class="">A la question de Hyun Gicheol, Baek secoua la tête :</p><p class="talk">« Non, les Portes Rouges cessent de laisser s’échapper leur pouvoir magique après s’être solidifiées. C’est impossible à mesurer maintenant. »</p><p class="">Et c’est pourquoi l’Association pourrait tout nier. On ne pouvait pas re-mesurer une Porte Rouge, il n’y aurait donc aucune preuve qu’ils avaient raté leurs mesures initiales. Quoi qu’il en soit, le rang de la Porte n’était pas important en ce moment.</p><p class="talk">« Combien des nôtres sont entrés ?<br/>
+-Ces fils de pute ! »</p>
+<p>Baek jura haut et fort. Les Portes Rouges étaient un phénomène limité aux Portes de haut niveau. Elle mènerait à un monde complètement différent de l’autre côté, et ils disaient que le pouvoir magique qui s’échappait était seulement celui d’une Porte de rang C ? C’était des conneries impensables. La Porte devant lui était au moins de rang B. S’ils étaient malchanceux, ça pourrait être un rang A. S’ils avaient vraiment pas de chance, quelque chose au-dessus de ça…</p>
+<p>Entre-temps, il y avait une raison pour laquelle l’Association pouvait s’obstiner à nier tout acte répréhensible.</p>
+<p class="talk">« Devrions-nous le mesurer avec nos propres appareils ? »</p>
+<p>A la question de Hyun Gicheol, Baek secoua la tête :</p>
+<p class="talk">« Non, les Portes Rouges cessent de laisser s’échapper leur pouvoir magique après s’être solidifiées. C’est impossible à mesurer maintenant. »</p>
+<p>Et c’est pourquoi l’Association pourrait tout nier. On ne pouvait pas re-mesurer une Porte Rouge, il n’y aurait donc aucune preuve qu’ils avaient raté leurs mesures initiales. Quoi qu’il en soit, le rang de la Porte n’était pas important en ce moment.</p>
+<p class="talk">« Combien des nôtres sont entrés ?<br/>
 -Douze, monsieur.<br/>
 -Combien étaient des hauts rangs ?<br/>
 -Le Chasseur de rang A Kim Cheol-nim a pris la tête, et sept Chasseurs-nim de rang B en dessous de lui.<br/>
 -Un rang A et sept rangs B…<br/>
--Pensez-vous que les recrues s’en sortiront ? »</p><p class="">Baek secoua la tête.</p><p class="talk">« Nous pouvons les considérer comme morts. Si on a de la chance, le rang A et quelques rang B pourraient revenir vivants. »</p><p class="">S’ils avaient de la chance.</p><p class="">La composition du groupe qui était entré aurait de la difficulté à nettoyer les donjons de rang B les plus faciles. Tout ce qui allait au-delà était impossible. Sans miracle, la possibilité que les nouvelles recrues reviennent à la vie était mince. Le visage de Baek devint sombre. En lisant l’humeur, Hyung Gicheol parla avec soin :</p><p class="talk">« Euh… il y en a deux autres qui sont entrés avec nos nouvelles recrues. »</p><p class="">Baek leva la tête. Est-ce qu’un haut rang de passage était venu par curiosité ? Ce serait vraiment un miracle ! La voix de Baek devint plus forte :</p><p class="talk">« Qui était-ce ?!<br/>
--C’est le Chasseur que j’ai vu récemment. »</p><p class="">La réponse vint d’un côté. Hyun Gicheol et Baek tournèrent la tête pour faire face à Ahn Sangmin. Le chef de division était trempé de sueur et haletait.</p><p class="talk">« Désolé d’être en retard. Il y avait un peu de circulation. »</p><p class="">Parce qu’il vivait le plus loin du lieu de l’incident, Ahn Sangmin était arrivé le dernier. L’homme jeta un coup d’œil à la Porte. Le phénomène qui était comme une porte vers un autre monde était maintenant un mur en fer, coupant tout le monde de l’autre côté. Rien qu’en la regardant, c’était difficile pour une personne ordinaire de respirer.</p><p class="talk">‘Mais si c’est le Chasseur Jinwoo…’</p><p class="">L’homme qui avait triomphé d’incident en incident. Cet homme pourrait être capable de surpasser les attentes de tout le monde ici. Baek approcha rapidement Ahn Sangmin :</p><p class="talk">« C’est un Chasseur que le chef Ahn surveillait ?<br/>
--Oui monsieur. »</p><p class="">Ah. Baek se rappela les murmures dans le bureau.</p><p class="talk">‘Maintenant que j’y pense…’</p><p class="">Dernièrement, les gens parlaient de l’arrivée du chef Ahn et de son départ précipité du bureau. Comme prévu, c’était pour le recrutement d’un nouveau Chasseur. Les yeux de l’homme ne se trompaient jamais.</p><p class="talk">‘Serait-ce…’</p><p class="">Les feux de l’espoir illuminèrent la poitrine de Baek.</p><p class="talk">« Quel est le rang du Chasseur ? A ? Ou peut-être B ? »</p><p class="">Il n’y avait eu que 10 Chasseurs de rang S nés en Corée du Sud ; chacun d’entre eux se connaissait. Mais Ahn Sangmin secoua la tête !</p><p class="talk">‘Mon Dieu !’</p><p class="">Le visage endurci de Baek se détendit en un instant :</p><p class="talk">« Es-tu en train de me dire qu’un rang S est entré avec eux ? »</p><p class="">répliqua calmement Ahn Sangmin,</p><p class="talk">« Non monsieur. C’est un rang E. »</p><p class="">Baek avait l’air d’avoir avalé un insecte.</p><hr class=""/><p class="">Jinwoo était surpris.</p><p class="talk">‘C’est donc l’autre monde dont ils ont parlé ?’</p><p class="">C’était la première fois qu’il le voyait, mais Jinwoo avait lu sur les Portes rouges sur Internet dans le passé. Ils employaient tous l’expression d’être « aspirés ». Jinwoo partageait cet avis. Quand la Porte semblait s’agripper à sa main et l’attraper, tout ce qu’il avait vu pendant un moment, c’était l’obscurité, et il avait l’impression de glisser dans un tunnel.</p><p class="talk">‘Putain de merde !’</p><p class="">Quand il rouvrit les yeux, il était au milieu d’une forêt couverte de neige.</p><p class="talk">« Où sommes-nous ?!<br/>
+-Pensez-vous que les recrues s’en sortiront ? »</p>
+<p>Baek secoua la tête.</p>
+<p class="talk">« Nous pouvons les considérer comme morts. Si on a de la chance, le rang A et quelques rang B pourraient revenir vivants. »</p>
+<p>S’ils avaient de la chance.</p>
+<p>La composition du groupe qui était entré aurait de la difficulté à nettoyer les donjons de rang B les plus faciles. Tout ce qui allait au-delà était impossible. Sans miracle, la possibilité que les nouvelles recrues reviennent à la vie était mince. Le visage de Baek devint sombre. En lisant l’humeur, Hyung Gicheol parla avec soin :</p>
+<p class="talk">« Euh… il y en a deux autres qui sont entrés avec nos nouvelles recrues. »</p>
+<p>Baek leva la tête. Est-ce qu’un haut rang de passage était venu par curiosité ? Ce serait vraiment un miracle ! La voix de Baek devint plus forte :</p>
+<p class="talk">« Qui était-ce ?!<br/>
+-C’est le Chasseur que j’ai vu récemment. »</p>
+<p>La réponse vint d’un côté. Hyun Gicheol et Baek tournèrent la tête pour faire face à Ahn Sangmin. Le chef de division était trempé de sueur et haletait.</p>
+<p class="talk">« Désolé d’être en retard. Il y avait un peu de circulation. »</p>
+<p>Parce qu’il vivait le plus loin du lieu de l’incident, Ahn Sangmin était arrivé le dernier. L’homme jeta un coup d’œil à la Porte. Le phénomène qui était comme une porte vers un autre monde était maintenant un mur en fer, coupant tout le monde de l’autre côté. Rien qu’en la regardant, c’était difficile pour une personne ordinaire de respirer.</p>
+<p class="talk">‘Mais si c’est le Chasseur Jinwoo…’</p>
+<p>L’homme qui avait triomphé d’incident en incident. Cet homme pourrait être capable de surpasser les attentes de tout le monde ici. Baek approcha rapidement Ahn Sangmin :</p>
+<p class="talk">« C’est un Chasseur que le chef Ahn surveillait ?<br/>
+-Oui monsieur. »</p>
+<p>Ah. Baek se rappela les murmures dans le bureau.</p>
+<p class="talk">‘Maintenant que j’y pense…’</p>
+<p>Dernièrement, les gens parlaient de l’arrivée du chef Ahn et de son départ précipité du bureau. Comme prévu, c’était pour le recrutement d’un nouveau Chasseur. Les yeux de l’homme ne se trompaient jamais.</p>
+<p class="talk">‘Serait-ce…’</p>
+<p>Les feux de l’espoir illuminèrent la poitrine de Baek.</p>
+<p class="talk">« Quel est le rang du Chasseur ? A ? Ou peut-être B ? »</p>
+<p>Il n’y avait eu que 10 Chasseurs de rang S nés en Corée du Sud ; chacun d’entre eux se connaissait. Mais Ahn Sangmin secoua la tête !</p>
+<p class="talk">‘Mon Dieu !’</p>
+<p>Le visage endurci de Baek se détendit en un instant :</p>
+<p class="talk">« Es-tu en train de me dire qu’un rang S est entré avec eux ? »</p>
+<p>répliqua calmement Ahn Sangmin,</p>
+<p class="talk">« Non monsieur. C’est un rang E. »</p>
+<p>Baek avait l’air d’avoir avalé un insecte.</p>
+<hr/>
+<p>Jinwoo était surpris.</p>
+<p class="talk">‘C’est donc l’autre monde dont ils ont parlé ?’</p>
+<p>C’était la première fois qu’il le voyait, mais Jinwoo avait lu sur les Portes rouges sur Internet dans le passé. Ils employaient tous l’expression d’être « aspirés ». Jinwoo partageait cet avis. Quand la Porte semblait s’agripper à sa main et l’attraper, tout ce qu’il avait vu pendant un moment, c’était l’obscurité, et il avait l’impression de glisser dans un tunnel.</p>
+<p class="talk">‘Putain de merde !’</p>
+<p>Quand il rouvrit les yeux, il était au milieu d’une forêt couverte de neige.</p>
+<p class="talk">« Où sommes-nous ?!<br/>
 -Je ne pense pas que ce soit un Donjon.<br/>
--La Porte a disparu ! »</p><p class="">Les autres chasseurs regardaient autour d’eux et ne pouvaient pas cacher leur panique. Pendant qu’ils étaient dans le chaos, Jinwoo regarda calmement avec les yeux rétrécis.</p><p class="talk">‘Je ne sens rien de bizarre.’</p><p class="">Grâce au Système, même dans une telle situation, il pouvait rester calme. La première chose qu’il avait examinée, c’était les arbres. Des arbres à feuilles géantes, impossibles à trouver dans leur pays, recouvraient le paysage et s’élevaient haut dans le ciel. La cime des arbres était recouverte de neige. Il baissa le regard et rencontra les yeux de quelqu’un d’autre. C’était le Chasseur Kim Cheol, un Chasseur de grade A, qui surveillait aussi les environs.</p><p class="talk">‘…’<br/>
-‘…’</p><p class="">Les deux se regardèrent l’un l’autre, puis détourna le regard. Han Songyi approcha Jinwoo et tira légèrement sur ses vêtements.</p><p class="talk">« Excusez-moi… Quelque chose a mal tourné, n’est-ce pas ? »</p><p class="">Ses yeux étaient remplis de peur. La confiance qu’elle montrait à l’extérieur avait complètement disparu. Soudain, la main de Jinwoo se dirigea vers son visage.</p><p class="talk">‘…?’</p><p class="">Les yeux de la fille devinrent plus larges.</p><p class="">Attrape !</p><p class="">La flèche que Jinwoo avait attrapée tremblait légèrement comme si elle était en colère de ne pas avoir atteint sa cible. La cible était le front de Han Songyi.</p><p class="talk">« Ah, ah… »</p><p class="">Réalisant ce qui venait de se passer, le visage de Han Songyi devint blanc. Cependant, le cri qui retentit ne venait pas d’elle.</p><p class="talk">« Kiyaaaaaaah ! »<br/>
-« U-uwak ! »</p><p class="">thud</p><p class="">Le sang suintait de la bouche du Chasseur alors qu’il tombait à terre, une flèche sortant de sa tempe. Une fleur pourpre fleurissait sur la neige. Les Chasseurs commencèrent à gémir de peur. Les deux flèches avaient volé vers eux en même temps. A cause de cela, la plupart d’entre eux n’avaient pas vu Jinwoo attraper l’autre flèche.</p><p class="talk">« Là-bas !<br/>
--C’était eux ! »</p><p class="">Un Chasseur de rang B pointait du doigt un point peu visible au sommet d’un arbre lointain. Bien avant qu’il ne pointe du doigt, Jinwoo et Kim Cheol regardaient déjà dans la direction. Il y avait deux personnes debout au sommet des arbres.</p><p class="talk">‘Ou plutôt, ce ne sont certainement pas des gens.’</p><p class="">Cheveux blancs. Peau pâle comme neige. Des yeux argentés. Et la marque de fabrique de leur race, des oreilles pointues.</p><p class="">A cause de leur beauté et du fait qu’on ne pouvait les voir que dans des donjons de haut niveau, ils étaient très connus parmi les bêtes magiques.</p><p class="talk">‘Elfe de glace.’</p><p class="">Aussi connus sous le nom des Marcheurs Blancs. [1]</p><p class="">Ceux qui ne les avaient jamais rencontrés en personne les appelaient des elfes de glace. Cependant, ceux qui les avaient affrontés directement au combat les appelaient les Marcheurs Blancs. Leur raisonnement était qu’un joli nom comme « elfe » n’était pas approprié pour ces choses. Jinwoo comprenait pourquoi les Chasseurs sunbaes appelaient ces choses les Marcheurs Blancs en serrant les dents.</p><p class="talk">‘…Ils se moquent de nous.’</p><p class="">Les deux elfes avaient baissé leurs arcs et se moquaient avec dégoût des Chasseurs. C’était comme s’ils décidaient quels aliments manger en premier lors d’un buffet.</p><p class="talk">‘Et c’était votre décision ?’</p><p class="">Les yeux de Jinwoo devinrent vifs. Une flèche à droite du groupe. Une flèche à gauche du groupe. Leurs cibles n’étaient pas aléatoires. Le chasseur tué par la flèche était un rang C nouvellement Éveillé dans la trentaine. A part Han Songyi, il était le plus faible du groupe. Et l’autre flèche visait…</p><p class="talk">‘Han Songyi.’</p><p class="">Les elfes avaient ciblé les deux membres les plus faibles de leur groupe.</p><p class="talk">‘Sans le système, j’aurais été l’autre cible.’</p><p class="">Les méthodes de raisonnement des Marcheurs Blancs ennuyaient Jinwoo. S’assurant qu’ils pouvaient le voir, Jinwoo tendit la flèche et l’écrasa dans sa main.</p><p class="">crack !</p><p class="">Acceptant le défi, l’un des marcheurs blancs glissa un doigt sur sa gorge. Même entre humain et bête magique, c’était un geste universel.</p><p class="">La bouche de Jinwoo forma un sourire. Ses yeux ne souriaient pas.</p><p class="talk">‘Toi… je te tuerai moi-même.’</p><p class="">Les yeux de Jinwoo s’emplirent d’une fureur glaciale devant une bête magique. Les Marcheurs Blancs disparurent rapidement derrière l’arbre.</p><p class="talk">« Je ne pense pas qu’ils soient ici pour être amis. »</p><p class="">Kim Cheol finit par ouvrir la bouche. Comme il était le seul rang A du groupe, tout le monde se tourna vers lui. Techniquement, c’était le chef de ce raid, après tout.</p><p class="talk">« Je suis sûr que certains d’entre vous l’ont remarqué. C’est une Porte Rouge. »</p><p class="">Kim Cheol parlait avec condescendance, mais personne n’osait se plaindre.</p><p class="talk">« Cela signifie que tant que nous ne serons pas tous morts ou qu’il n’y aura pas de Donjon Brisé, personne ne viendra nous chercher. »</p><p class="">Beaucoup de Chasseurs gémirent en vaincu. Certains ignorants avaient espéré un sauvetage, et le fait qu’aucune aide de ce genre ne viendrait leur écrasa l’esprit. Kim Cheol poursuivit :</p><p class="talk">« Si nous restons ici, soit nous mourrons de froid, soit nous serons pris en embuscade par ces salauds. Je vais aller nettoyer ce donjon pour qu’il disparaisse. Qui est avec moi ? »</p><p class="">Avec de larges épaules et un regard puissant, Kim Cheol avait l’air plutôt fiable. Après une brève pause, les Chasseurs s’approchèrent de l’homme à l’unisson,</p><p class="talk">« Je vais y aller.<br/>
+-La Porte a disparu ! »</p>
+<p>Les autres chasseurs regardaient autour d’eux et ne pouvaient pas cacher leur panique. Pendant qu’ils étaient dans le chaos, Jinwoo regarda calmement avec les yeux rétrécis.</p>
+<p class="talk">‘Je ne sens rien de bizarre.’</p>
+<p>Grâce au Système, même dans une telle situation, il pouvait rester calme. La première chose qu’il avait examinée, c’était les arbres. Des arbres à feuilles géantes, impossibles à trouver dans leur pays, recouvraient le paysage et s’élevaient haut dans le ciel. La cime des arbres était recouverte de neige. Il baissa le regard et rencontra les yeux de quelqu’un d’autre. C’était le Chasseur Kim Cheol, un Chasseur de grade A, qui surveillait aussi les environs.</p>
+<p class="talk">‘…’<br/>
+‘…’</p>
+<p>Les deux se regardèrent l’un l’autre, puis détourna le regard. Han Songyi approcha Jinwoo et tira légèrement sur ses vêtements.</p>
+<p class="talk">« Excusez-moi… Quelque chose a mal tourné, n’est-ce pas ? »</p>
+<p>Ses yeux étaient remplis de peur. La confiance qu’elle montrait à l’extérieur avait complètement disparu. Soudain, la main de Jinwoo se dirigea vers son visage.</p>
+<p class="talk">‘…?’</p>
+<p>Les yeux de la fille devinrent plus larges.</p>
+<p>Attrape !</p>
+<p>La flèche que Jinwoo avait attrapée tremblait légèrement comme si elle était en colère de ne pas avoir atteint sa cible. La cible était le front de Han Songyi.</p>
+<p class="talk">« Ah, ah… »</p>
+<p>Réalisant ce qui venait de se passer, le visage de Han Songyi devint blanc. Cependant, le cri qui retentit ne venait pas d’elle.</p>
+<p class="talk">« Kiyaaaaaaah ! »<br/>
+« U-uwak ! »</p>
+<p>thud</p>
+<p>Le sang suintait de la bouche du Chasseur alors qu’il tombait à terre, une flèche sortant de sa tempe. Une fleur pourpre fleurissait sur la neige. Les Chasseurs commencèrent à gémir de peur. Les deux flèches avaient volé vers eux en même temps. A cause de cela, la plupart d’entre eux n’avaient pas vu Jinwoo attraper l’autre flèche.</p>
+<p class="talk">« Là-bas !<br/>
+-C’était eux ! »</p>
+<p>Un Chasseur de rang B pointait du doigt un point peu visible au sommet d’un arbre lointain. Bien avant qu’il ne pointe du doigt, Jinwoo et Kim Cheol regardaient déjà dans la direction. Il y avait deux personnes debout au sommet des arbres.</p>
+<p class="talk">‘Ou plutôt, ce ne sont certainement pas des gens.’</p>
+<p>Cheveux blancs. Peau pâle comme neige. Des yeux argentés. Et la marque de fabrique de leur race, des oreilles pointues.</p>
+<p>A cause de leur beauté et du fait qu’on ne pouvait les voir que dans des donjons de haut niveau, ils étaient très connus parmi les bêtes magiques.</p>
+<p class="talk">‘Elfe de glace.’</p>
+<p>Aussi connus sous le nom des Marcheurs Blancs. [1]</p>
+<p>Ceux qui ne les avaient jamais rencontrés en personne les appelaient des elfes de glace. Cependant, ceux qui les avaient affrontés directement au combat les appelaient les Marcheurs Blancs. Leur raisonnement était qu’un joli nom comme « elfe » n’était pas approprié pour ces choses. Jinwoo comprenait pourquoi les Chasseurs sunbaes appelaient ces choses les Marcheurs Blancs en serrant les dents.</p>
+<p class="talk">‘…Ils se moquent de nous.’</p>
+<p>Les deux elfes avaient baissé leurs arcs et se moquaient avec dégoût des Chasseurs. C’était comme s’ils décidaient quels aliments manger en premier lors d’un buffet.</p>
+<p class="talk">‘Et c’était votre décision ?’</p>
+<p>Les yeux de Jinwoo devinrent vifs. Une flèche à droite du groupe. Une flèche à gauche du groupe. Leurs cibles n’étaient pas aléatoires. Le chasseur tué par la flèche était un rang C nouvellement Éveillé dans la trentaine. A part Han Songyi, il était le plus faible du groupe. Et l’autre flèche visait…</p>
+<p class="talk">‘Han Songyi.’</p>
+<p>Les elfes avaient ciblé les deux membres les plus faibles de leur groupe.</p>
+<p class="talk">‘Sans le système, j’aurais été l’autre cible.’</p>
+<p>Les méthodes de raisonnement des Marcheurs Blancs ennuyaient Jinwoo. S’assurant qu’ils pouvaient le voir, Jinwoo tendit la flèche et l’écrasa dans sa main.</p>
+<p>crack !</p>
+<p>Acceptant le défi, l’un des marcheurs blancs glissa un doigt sur sa gorge. Même entre humain et bête magique, c’était un geste universel.</p>
+<p>La bouche de Jinwoo forma un sourire. Ses yeux ne souriaient pas.</p>
+<p class="talk">‘Toi… je te tuerai moi-même.’</p>
+<p>Les yeux de Jinwoo s’emplirent d’une fureur glaciale devant une bête magique. Les Marcheurs Blancs disparurent rapidement derrière l’arbre.</p>
+<p class="talk">« Je ne pense pas qu’ils soient ici pour être amis. »</p>
+<p>Kim Cheol finit par ouvrir la bouche. Comme il était le seul rang A du groupe, tout le monde se tourna vers lui. Techniquement, c’était le chef de ce raid, après tout.</p>
+<p class="talk">« Je suis sûr que certains d’entre vous l’ont remarqué. C’est une Porte Rouge. »</p>
+<p>Kim Cheol parlait avec condescendance, mais personne n’osait se plaindre.</p>
+<p class="talk">« Cela signifie que tant que nous ne serons pas tous morts ou qu’il n’y aura pas de Donjon Brisé, personne ne viendra nous chercher. »</p>
+<p>Beaucoup de Chasseurs gémirent en vaincu. Certains ignorants avaient espéré un sauvetage, et le fait qu’aucune aide de ce genre ne viendrait leur écrasa l’esprit. Kim Cheol poursuivit :</p>
+<p class="talk">« Si nous restons ici, soit nous mourrons de froid, soit nous serons pris en embuscade par ces salauds. Je vais aller nettoyer ce donjon pour qu’il disparaisse. Qui est avec moi ? »</p>
+<p>Avec de larges épaules et un regard puissant, Kim Cheol avait l’air plutôt fiable. Après une brève pause, les Chasseurs s’approchèrent de l’homme à l’unisson,</p>
+<p class="talk">« Je vais y aller.<br/>
 -Moi aussi, s’il vous plaît.<br/>
 -Partons d’ici vivants.<br/>
--Je vous aiderai aussi ! »</p><p class="">Cependant, Kim Cheol poussa un homme qui s’était approché de lui.</p><p class="talk">« Ow ! »</p><p class="">Il s’était retenu, mais c’était le pouvoir d’un rang A. L’homme recula en s’agrippant à sa poitrine endolorie.</p><p class="talk">« Pas vous.</p><p class="talk">-Hein ?</p><p class="talk">-Et toi, toi, toi et toi. »</p><p class="">En plus de l’homme, Kim Cheol désigna plusieurs autres personnes, dont Jinwoo et Han Songyi. Les yeux de Jinwoo frémirent, réalisant les intentions de Kim Cheol. Le musclé avait désigné un total de 5 personnes. Ils étaient de grade C et en dessous de Chasseurs.</p><p class="talk">« Malheureusement, nous ne pouvons pas vous emmener avec nous.</p><p class="talk">-Quoi ?</p><p class="talk">-Que savez-vous des Portes rouges ? »</p><p class="">L’homme secoua la tête.</p><p class="talk">« Un jour ici, c’est une heure dehors. Dans le pire des cas, il faudra des mois avant qu’on fasse tomber le boss ou qu’un Donjon Brisé se produise. Avec cela à l’esprit, nous ne pouvons pas tous vous garder.</p><p class="talk">-Comment ça, nous garder ?! »</p><p class="">Les Chasseurs qui seraient exclus tentèrent de protester mais furent réduits au silence lorsque Kim Cheol lança un regard féroce. Avec une fausse bonté, Kim Cheol poursuivit :</p><p class="talk">« Ne vous sentez pas mal. Tout ce que vous avez à faire, c’est survivre jusqu’à ce qu’on fasse tomber le boss.</p><p class="talk">-tout de même… »</p><p class="">Les Chasseurs exclus se tournèrent vers les autres Chasseurs du groupe de Kim Cheol, mais aucun d’entre eux ne protesta. Ils détournèrent tous le regard. Sauf un.</p><p class="talk">« Excusez-moi. »</p><p class="">Une femme rang B de l’équipe de Kim Cheol leva la main.</p><p class="talk">‘…?’</p><p class="">Quand Kim Cheol se retourna, la femme fit signe à Jinwoo.</p><p class="talk">« On peut aller d’ici à là, non ? »</p><p class="talk">« …si tu veux. »</p><p class="">Sans hésitation, la femme se dirigea vers Jinwoo. Kim Cheol regarda d’avant en arrière entre la femme et Jinwoo. Le rang A renifla puis parla d’une voix forte,</p><p class="talk">« Eh bien, on dirait qu’on a une place de libre. Nous en prendrons un de plus de votre côté.</p><p class="talk">-M-moi ! »</p><p class="">L’homme qui avait été poussé plus tôt se précipita rapidement aux côtés de Kim Cheol. C’est comme ça que ça devrait être, pensa Jinwoo.</p><p class="talk">‘Cette femme est bizarre.’</p><p class="">Jinwoo fixa la femme à ses côtés d’un regard suspect. Rencontrant ses yeux, la femme parla doucement pour que personne d’autre ne puisse l’entendre,</p><p class="talk">« Cet homme, Kim Cheol, il n’a pas vu venir la flèche. »</p><p class="">Ce n’était pas parce qu’on était un haut rang, que toutes les statistiques étaient réparties de façon égale. Le niveau d’agilité de Kim Cheol était peut-être bas. Connaissant la puissance des différentes statistiques, Jinwoo n’y avait pas beaucoup réfléchi.</p><p class="talk">« Et alors ? »</p><p class="">La femme sourit largement :</p><p class="talk">« Vous. Vous n’êtes pas un rang E, n’est-ce pas ? »</p><p class=""> <br/>
+-Je vous aiderai aussi ! »</p>
+<p>Cependant, Kim Cheol poussa un homme qui s’était approché de lui.</p>
+<p class="talk">« Ow ! »</p>
+<p>Il s’était retenu, mais c’était le pouvoir d’un rang A. L’homme recula en s’agrippant à sa poitrine endolorie.</p>
+<p class="talk">« Pas vous.</p>
+<p class="talk">-Hein ?</p>
+<p class="talk">-Et toi, toi, toi et toi. »</p>
+<p>En plus de l’homme, Kim Cheol désigna plusieurs autres personnes, dont Jinwoo et Han Songyi. Les yeux de Jinwoo frémirent, réalisant les intentions de Kim Cheol. Le musclé avait désigné un total de 5 personnes. Ils étaient de grade C et en dessous de Chasseurs.</p>
+<p class="talk">« Malheureusement, nous ne pouvons pas vous emmener avec nous.</p>
+<p class="talk">-Quoi ?</p>
+<p class="talk">-Que savez-vous des Portes rouges ? »</p>
+<p>L’homme secoua la tête.</p>
+<p class="talk">« Un jour ici, c’est une heure dehors. Dans le pire des cas, il faudra des mois avant qu’on fasse tomber le boss ou qu’un Donjon Brisé se produise. Avec cela à l’esprit, nous ne pouvons pas tous vous garder.</p>
+<p class="talk">-Comment ça, nous garder ?! »</p>
+<p>Les Chasseurs qui seraient exclus tentèrent de protester mais furent réduits au silence lorsque Kim Cheol lança un regard féroce. Avec une fausse bonté, Kim Cheol poursuivit :</p>
+<p class="talk">« Ne vous sentez pas mal. Tout ce que vous avez à faire, c’est survivre jusqu’à ce qu’on fasse tomber le boss.</p>
+<p class="talk">-tout de même… »</p>
+<p>Les Chasseurs exclus se tournèrent vers les autres Chasseurs du groupe de Kim Cheol, mais aucun d’entre eux ne protesta. Ils détournèrent tous le regard. Sauf un.</p>
+<p class="talk">« Excusez-moi. »</p>
+<p>Une femme rang B de l’équipe de Kim Cheol leva la main.</p>
+<p class="talk">‘…?’</p>
+<p>Quand Kim Cheol se retourna, la femme fit signe à Jinwoo.</p>
+<p class="talk">« On peut aller d’ici à là, non ? »</p>
+<p class="talk">« …si tu veux. »</p>
+<p>Sans hésitation, la femme se dirigea vers Jinwoo. Kim Cheol regarda d’avant en arrière entre la femme et Jinwoo. Le rang A renifla puis parla d’une voix forte,</p>
+<p class="talk">« Eh bien, on dirait qu’on a une place de libre. Nous en prendrons un de plus de votre côté.</p>
+<p class="talk">-M-moi ! »</p>
+<p>L’homme qui avait été poussé plus tôt se précipita rapidement aux côtés de Kim Cheol. C’est comme ça que ça devrait être, pensa Jinwoo.</p>
+<p class="talk">‘Cette femme est bizarre.’</p>
+<p>Jinwoo fixa la femme à ses côtés d’un regard suspect. Rencontrant ses yeux, la femme parla doucement pour que personne d’autre ne puisse l’entendre,</p>
+<p class="talk">« Cet homme, Kim Cheol, il n’a pas vu venir la flèche. »</p>
+<p>Ce n’était pas parce qu’on était un haut rang, que toutes les statistiques étaient réparties de façon égale. Le niveau d’agilité de Kim Cheol était peut-être bas. Connaissant la puissance des différentes statistiques, Jinwoo n’y avait pas beaucoup réfléchi.</p>
+<p class="talk">« Et alors ? »</p>
+<p>La femme sourit largement :</p>
+<p class="talk">« Vous. Vous n’êtes pas un rang E, n’est-ce pas ? »</p>
+<p> <br/>
 Notes du traducteur :<br/>
-[1] :  » Marcheurs blancs  » (백귀) : Une façon de traduire est l’expression japonaise pour « Hyakki Yako », alias la « Procession des Cent Démons ». Il pourrait aussi s’agir de la traduction coréenne de  » Marcheurs blancs  » de Game of Thrones. J’ai décidé d’opter pour cette dernière solution. Avec « Ygritte » et  » Marcheurs blancs « , je pense que l’auteur est peut-être un fan de la série.</p></body></html>
+[1] : » Marcheurs blancs » (백귀) : Une façon de traduire est l’expression japonaise pour « Hyakki Yako », alias la « Procession des Cent Démons ». Il pourrait aussi s’agir de la traduction coréenne de » Marcheurs blancs » de Game of Thrones. J’ai décidé d’opter pour cette dernière solution. Avec « Ygritte » et » Marcheurs blancs « , je pense que l’auteur est peut-être un fan de la série.</p>
+</body>
+</html>

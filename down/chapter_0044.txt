@@ -1,7 +1,175 @@
-<html><body><h1>Chapter 44</h1>
-<p class=""> </p><p class=""> </p><p class="">Une fumée lacrymale remplissait la pièce.</p><p class="talk">« tousse, tousse. »</p><p class="">Jinho se couvrit le visage d’une main et toussa, mais il était plus inquiet pour Jinwoo. L’attaque du mage homme-lézard était dangereuse, et son hyung semblait en avoir fait les frais. Heureusement, Jinwoo apparut de la fumée, l’air indemne. Jinho était stupéfait,</p><p class="talk">‘Sasuga hyungnim !’</p><p class="">On disait que les hommes-lézards étaient l’une des bêtes magiques les plus dures à affronter dans un donjon de rang C, mais Jinwoo avait habilement esquivé l’attaque d’un homme-lézard, sans avoir été le moindrement blessé. D’une certaine façon, j’avais l’impression que l’homme devenait de plus en plus rapide chaque jour.</p><p class="talk">« Ce n’est pas possible, n’est-ce pas ?</p><p class="">Jinwoo a craché des petits morceaux de pierres de sa bouche.</p><p class="talk">« Crache. »</p><p class="">La salive sur le sol était noire.</p><p class="talk">‘Ces salauds…’</p><p class="">Un simple homme-lézard utilisant des tours insignifiants l’avait forcé à respirer de la fumée. Jinwoo était agacé par ça, et ça se voyait sur son visage.</p><p class="">Soif de sang a été activée.</p><p class="">Ses yeux grands ouverts rayonnaient d’une rage puissante et meurtrière.</p><p class="">Peur a été infligée.<br/>
-Les cibles perdront 50% de tous les attributs pendant 1 minute.</p><p class="">Les hommes-lézards frappés par la soif de sang paniquèrent.</p><p class="talk">« Ssuwack ? » [1]</p><p class="talk">« Ssurukka ? »</p><p class="">Jinwoo profita du chaos et lança le Croc empoisonné du Casaka. La dague volait en ligne droite, droit sur le front d’un des hommes-lézards.</p><p class="">poignarde !</p><p class="">Dans leur état débuffé, la dague de Jinwoo était trop rapide pour être évitée.</p><p class="talk">« Ssukwa ! »</p><p class="">Regardant son camarade tomber, l’autre lancier lézard rugit de colère et lança sa lance. Mais son arme ne frappa que de l’air. Jinwoo avait déjà disparu.</p><p class="talk">« Ssurukahnakka ! »</p><p class="">Le mage lézard cria de panique.</p><p class="talk">« Ssurukahnakka !!! »</p><p class="">Tandis que le mage répétait ses paroles au lanceur, le lézard guerrier se tourna vers le mage et poussa un rugissement bestial.</p><p class="talk">« Ssuukwa ! »</p><p class="">Le lancier dénuda ses dents et s’approcha du mage. Le mage ne perdit pas en combativité.</p><p class="talk">« Sswarik ! »</p><p class="">Soudainement.</p><p class="talk">« Kak ! »</p><p class="">Un trou apparut dans la poitrine du lancier. Le sang se répandit sur le mage, qui recula d’un pas étonné.</p><p class="talk">« Ssuwak ? »</p><p class="">Shoooo-</p><p class="">Lorsque ‘furtivité’ fut relâchée, la lance qui avait percé la poitrine du lézard se manifesta sous sa forme. Les mains qui la portaient appartenaient à Jinwoo. Il lâcha l’arme, et l’arme et le cadavre qui y était collé tombèrent sur le sol.</p><p class="">thud</p><p class="">Tandis que le corps tombait, Jinwoo invoqua à nouveau le Croc empoisonné du Casaka du front de l’autre corps dans sa main.</p><p class="talk">« Ssuwaaaaarik ! »</p><p class="">Les mains du mage homme-lézard prirent à nouveau feu. Jinwoo n’avait pas l’intention de laisser la chose l’ennuyer à nouveau.</p><p class="talk">‘Sprint !’</p><p class="">La distance entre lui et le lézard diminua en un instant. Les yeux du mage lézard s’élargirent. Ses yeux reptiliens étaient plutôt désagréables.</p><p class="">Flamme-</p><p class="">Jinwoo esquiva facilement ses flammes et apparut dans le dos du magicien. Avant que le lézard ne s’en rende compte, le Croc empoisonné du Casaka se détachait de sa colonne vertébrale.</p><p class="talk">‘Frappe vitale !’</p><p class="">Poignarde !</p><p class="">Le mage hurla.</p><p class="talk">« Kiaaaaaaaak ! »</p><p class="">La seconde fois qu’il fut poignardé, le cri fut beaucoup plus court.</p><p class="">Poignarde !</p><p class="talk">« Kak ! »</p><p class="">Le mage lézard vomit du sang et tomba.</p><p class="">thud</p><p class="">Dans sa tête, Jinwoo donna des coups de poing. C’était un combat sans merci.</p><p class="talk">‘Parfait !’</p><p class="">Comme pour le féliciter, la tonalité électronique du système retentit.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez gagné un niveau !</strong></p><p class="strong"><strong>Le ‘Joueur’ a atteint le niveau requis.</strong></p></div><p class="">Un message familier et un message inconnu.</p><p class="talk">‘le « niveau requis » ?’</p><p class="">À ce moment-là, Jinwoo n’avait aucune idée de ce que cela signifiait. Mais en lisant les messages qui suivirent, le cœur de Jinwoo battait à toute allure au point où il avait presque mal. Il lui fallut faire un effort mental pour essayer de se calmer.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>La Quête d’avancement de classe est arrivée. </strong><br/>
-<strong>Aimeriez-vous accepter ? (O/N)</strong></p></div><p class="talk">‘Quête… Quête d’avancement de classe ?’</p><p class="">Jusqu’à présent, il s’était concentré sur son niveau et ses stats et n’avait pas beaucoup réfléchi à une certaine partie de son écran de statut.</p><div class="border"><p class="strong"><strong>Nom : Jinwoo</strong><br/>
+<html>
+<body>
+<h1>Chapter 44</h1>
+
+
+<p>Une fumée lacrymale remplissait la pièce.</p>
+<p class="talk">« tousse, tousse. »</p>
+<p>Jinho se couvrit le visage d’une main et toussa, mais il était plus inquiet pour Jinwoo. L’attaque du mage homme-lézard était dangereuse, et son hyung semblait en avoir fait les frais. Heureusement, Jinwoo apparut de la fumée, l’air indemne. Jinho était stupéfait,</p>
+<p class="talk">‘Sasuga hyungnim !’</p>
+<p>On disait que les hommes-lézards étaient l’une des bêtes magiques les plus dures à affronter dans un donjon de rang C, mais Jinwoo avait habilement esquivé l’attaque d’un homme-lézard, sans avoir été le moindrement blessé. D’une certaine façon, j’avais l’impression que l’homme devenait de plus en plus rapide chaque jour.</p>
+<p class="talk">« Ce n’est pas possible, n’est-ce pas ?</p>
+<p>Jinwoo a craché des petits morceaux de pierres de sa bouche.</p>
+<p class="talk">« Crache. »</p>
+<p>La salive sur le sol était noire.</p>
+<p class="talk">‘Ces salauds…’</p>
+<p>Un simple homme-lézard utilisant des tours insignifiants l’avait forcé à respirer de la fumée. Jinwoo était agacé par ça, et ça se voyait sur son visage.</p>
+<p>Soif de sang a été activée.</p>
+<p>Ses yeux grands ouverts rayonnaient d’une rage puissante et meurtrière.</p>
+<p>Peur a été infligée.<br/>
+Les cibles perdront 50% de tous les attributs pendant 1 minute.</p>
+<p>Les hommes-lézards frappés par la soif de sang paniquèrent.</p>
+<p class="talk">« Ssuwack ? » [1]</p>
+<p class="talk">« Ssurukka ? »</p>
+<p>Jinwoo profita du chaos et lança le Croc empoisonné du Casaka. La dague volait en ligne droite, droit sur le front d’un des hommes-lézards.</p>
+<p>poignarde !</p>
+<p>Dans leur état débuffé, la dague de Jinwoo était trop rapide pour être évitée.</p>
+<p class="talk">« Ssukwa ! »</p>
+<p>Regardant son camarade tomber, l’autre lancier lézard rugit de colère et lança sa lance. Mais son arme ne frappa que de l’air. Jinwoo avait déjà disparu.</p>
+<p class="talk">« Ssurukahnakka ! »</p>
+<p>Le mage lézard cria de panique.</p>
+<p class="talk">« Ssurukahnakka !!! »</p>
+<p>Tandis que le mage répétait ses paroles au lanceur, le lézard guerrier se tourna vers le mage et poussa un rugissement bestial.</p>
+<p class="talk">« Ssuukwa ! »</p>
+<p>Le lancier dénuda ses dents et s’approcha du mage. Le mage ne perdit pas en combativité.</p>
+<p class="talk">« Sswarik ! »</p>
+<p>Soudainement.</p>
+<p class="talk">« Kak ! »</p>
+<p>Un trou apparut dans la poitrine du lancier. Le sang se répandit sur le mage, qui recula d’un pas étonné.</p>
+<p class="talk">« Ssuwak ? »</p>
+<p>Shoooo-</p>
+<p>Lorsque ‘furtivité’ fut relâchée, la lance qui avait percé la poitrine du lézard se manifesta sous sa forme. Les mains qui la portaient appartenaient à Jinwoo. Il lâcha l’arme, et l’arme et le cadavre qui y était collé tombèrent sur le sol.</p>
+<p>thud</p>
+<p>Tandis que le corps tombait, Jinwoo invoqua à nouveau le Croc empoisonné du Casaka du front de l’autre corps dans sa main.</p>
+<p class="talk">« Ssuwaaaaarik ! »</p>
+<p>Les mains du mage homme-lézard prirent à nouveau feu. Jinwoo n’avait pas l’intention de laisser la chose l’ennuyer à nouveau.</p>
+<p class="talk">‘Sprint !’</p>
+<p>La distance entre lui et le lézard diminua en un instant. Les yeux du mage lézard s’élargirent. Ses yeux reptiliens étaient plutôt désagréables.</p>
+<p>Flamme-</p>
+<p>Jinwoo esquiva facilement ses flammes et apparut dans le dos du magicien. Avant que le lézard ne s’en rende compte, le Croc empoisonné du Casaka se détachait de sa colonne vertébrale.</p>
+<p class="talk">‘Frappe vitale !’</p>
+<p>Poignarde !</p>
+<p>Le mage hurla.</p>
+<p class="talk">« Kiaaaaaaaak ! »</p>
+<p>La seconde fois qu’il fut poignardé, le cri fut beaucoup plus court.</p>
+<p>Poignarde !</p>
+<p class="talk">« Kak ! »</p>
+<p>Le mage lézard vomit du sang et tomba.</p>
+<p>thud</p>
+<p>Dans sa tête, Jinwoo donna des coups de poing. C’était un combat sans merci.</p>
+<p class="talk">‘Parfait !’</p>
+<p>Comme pour le féliciter, la tonalité électronique du système retentit.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+<p class="strong"><strong>Le ‘Joueur’ a atteint le niveau requis.</strong></p>
+</div>
+<p>Un message familier et un message inconnu.</p>
+<p class="talk">‘le « niveau requis » ?’</p>
+<p>À ce moment-là, Jinwoo n’avait aucune idée de ce que cela signifiait. Mais en lisant les messages qui suivirent, le cœur de Jinwoo battait à toute allure au point où il avait presque mal. Il lui fallut faire un effort mental pour essayer de se calmer.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>La Quête d’avancement de classe est arrivée. </strong><br/>
+<strong>Aimeriez-vous accepter ? (O/N)</strong></p>
+</div>
+<p class="talk">‘Quête… Quête d’avancement de classe ?’</p>
+<p>Jusqu’à présent, il s’était concentré sur son niveau et ses stats et n’avait pas beaucoup réfléchi à une certaine partie de son écran de statut.</p>
+<div class="border">
+<p class="strong"><strong>Nom : Jinwoo</strong><br/>
 <strong>Niveau : 40</strong><br/>
-<strong>Classe : Aucun</strong></p></div><p class="">La troisième ligne de son écran de statut, « Classe ».</p><p class="talk">‘S’il y a une telle chose comme la quête d’avancement de classe…’</p><p class="">Au lieu de « aucun », ce serait enfin l’occasion d’y placer un mot différent.</p><p class="">Il obtiendrait une classe.</p><p class="">Dans la plupart des jeux vidéo, le personnage du joueur avait beaucoup de choix dans le choix de sa classe. Le système qui fonctionnait comme un jeu vidéo devrait être similaire.</p><p class="">BA DUM BA DUM</p><p class="">Son cœur battait à tout rompre. Face à une autre occasion de devenir plus fort, il ne pouvait pas se calmer.</p><div class="border"><p class="strong"><strong>Aimeriez-vous accepter ? (O/N)</strong></p></div><p class="">Le « (O/N) » clignotait devant ses yeux.</p><p class="">Bien sûr que c’est oui…</p><p class="">Quel genre d’idiot gâcherait cette chance ? Jinwoo était prêt à accepter la quête, mais s’arrêta instinctivement.</p><p class="talk">‘Attends.’</p><p class="">Il ne savait pas quel genre de quête il allait recevoir. L’hésitation instinctive était suivie d’un sentiment de prudence.</p><p class="talk">‘Nous sommes à l’intérieur d’un donjon en ce moment.’</p><p class="">Ils étaient dans l’endroit le plus dangereux du monde en ce moment. Même s’il s’était habitué aux donjons de rang C, un donjon était un donjon. Il n’était pas nécessaire d’inviter le danger par ignorance.</p><p class="">En plus de cela, Jinho était également présent. Ce n’était pas qu’il ne faisait pas confiance au jeune homme. Mais il n’y avait pas besoin de lui donner un indice sur le Système ou de lui montrer un phénomène étrange qui pourrait apparaître en acceptant sa quête. Les choses pourraient se compliquer s’il le faisait.</p><p class="talk">‘De plus, la quête pourrait faire du mal à Jinho.’</p><p class="">Et si la quête engendrait soudainement des monstres ?</p><p class="talk">‘Eh bien, ce serait parfait.’</p><p class="">Il lui suffirait de les tuer le plus vite possible. Mais d’après son expérience, une simple chasse au monstre n’était pas la limite des quêtes. Par exemple, les 2 quêtes d’urgence qu’il devait accomplir.</p><p class="talk">‘Cette quête pourrait me dire de tuer le chasseur le plus proche de moi.’</p><p class="">C’était une faible possibilité, probablement pas réaliste, mais Jinwoo n’était pas prêt à prendre le risque. Alors qu’il était perdu dans ses pensées, Jinho courut vers lui.</p><p class="talk">« Hyungnim ! »</p><p class="">On aurait dit que la dernière attaque du mage des hommes-lézards avait atterri près du jeune homme, son visage était couvert de suie et de poussière.</p><p class="talk">« Je viens de te voir disparaître et réapparaître ! Tu avais une compétence comme ça ? »</p><p class="">Malgré son visage sale, les yeux de Jinho brillaient de crainte. Il semblait que le jeune homme était fasciné par cette compétence rare.</p><p class="talk">‘Je suis plus fasciné par ton visage en ce moment.’</p><p class="">Au lieu de répondre, Jinwoo sortit un mouchoir de son inventaire ; c’était l’un des objets reçus au hasard d’une quête quotidienne.</p><p class="talk">« H-hyungnim ? »</p><p class="">Jinwoo essuya rudement le visage de Jinho avec le mouchoir.</p><p class="talk">« Oof, mmph ! »</p><p class="">Le mouchoir blanc et propre devint rapidement noir. Jinwoo remit l’objet à Jinho. Le jeune homme regarda le chiffon sale et réalisa à quoi ressemblait son visage. Il s’éloigna et se nettoya tranquillement le visage.</p><p class="talk">« Jinho.</p><p class="talk">-Oui, hyungnim.</p><p class="talk">-Il s’est passé quelque chose. »</p><p class="">Jinho se tourna vers lui avec une rapidité surprenante.</p><p class="talk">« Faut-il que tu partes ?</p><p class="talk">-Après avoir fini ici.</p><p class="talk">-Je comprends. J’annulerai la réservation sur les portes restantes. »</p><p class="">Jinho ne voulait pas montrer à Jinwoo sa déception, mais il regrettait profondément le fait qu’ils devraient abandonner les 3 autres Portes.</p><p class="talk">‘Je commençais à manquer de fonds…’</p><p class="">Pour le jeune homme qui n’avait pas particulièrement de source de revenus, les « fonds » de son plan provenaient de l’allocation qu’il avait épargnée jusqu’à présent. Comme il agissait à l’insu de son père, il ne pouvait pas facilement avoir accès à l’argent de la famille dans son plan. S’il annulait les réservations, il ne pourrait pas récupérer les frais. Ce serait de l’argent gaspillé. A cause de la méthode inhabituelle de leur Raid, il devait dépenser beaucoup plus que ce qu’il avait prévu au budget. Dire qu’il gaspillerait les frais de réservation pour aujourd’hui… Les épaules de Jinho étaient affaissées.</p><p class="">Mais Jinwoo répondit avec une expression calme :</p><p class="talk">« Pourquoi l’annuler ? C’est du gaspillage. »</p><p class="">Jinho inclina la tête de confusion.</p><p class="talk">« Si on réserve une Porte et qu’on n’y entre pas dans deux jours, les droits de raid expireront automatiquement, hyungnim. »</p><p class="">Bien sûr, Jinwoo connaissait ce fait fondamental de la chasse.</p><p class="talk">« Laisse-moi faire. »</p><p class="">Avait-il un plan ?</p><p class="">Jinho était curieux. En même temps, il se sentait étrangement fier de son fiable hyung.</p><hr class=""/><p class="">Quartier général de la Guilde White Tiger.</p><p class="talk">« Chef Ahn ! Vous avez la tête droite ? »</p><p class="">Le bureau de la Deuxième Division de gestion réprimandait bruyamment les gens. Le propriétaire de la voix était Baek. C’était le maître de la Guilde White Tiger, et c’était lui qui dirigeait l’organisation. Comme souvent, quand quelqu’un qui était un responsable d’entreprise descendait à un étage inférieur, ce n’était pas une bonne chose.</p><p class="talk">« Comment ça, on n’a toujours pas de Porte pour la formation des nouvelles recrues ? On a déjà repoussé l’entraînement de quatre jours ! »</p><p class="">Les employés de la deuxième division de gestion ne pouvaient pas lever les yeux. Ils détournèrent tous leur regard, espérant éviter la colère du maître de la Guilde. Devant Baek, Ahn Sangmin recevait les insultes verbales, la tête baissée.</p><p class="talk">“…”</p><p class="">Contrairement à son subordonné Hyun Gicheol, Ahn Sangmin n’avait pas la capacité de diriger habilement la conversation pour calmer la colère de l’autre personne. Dans ces moments-là, sa meilleure réponse était de le supporter la bouche fermée. Ignorant les sentiments de l’homme, Baek agita avec colère le rapport de la division, qui avait atterri à son bureau ce matin.</p><p class="talk">« Quel genre d’excuse est-ce là ?! Une autre équipe a fait une offre trop élevée, nous n’avons donc pas pu en réserver ? Notre Guilde manque-t-elle de fonds ? Est-ce que l’autre équipe est un fils de Chaebol ?! »</p><p class="">Ahn Sangmin voulait vraiment, vraiment, vraiment, parler à cette dernière phrase. Mais l’homme garda le silence avec une volonté de fer. Il se rappela la promesse faite avec Jinwoo.</p><p class="talk">‘Si j’ouvre la bouche maintenant, le sujet changera naturellement en Jinho et Jinwoo.’</p><p class="">Ne sachant pas à quel point les entrailles de Ahn Sangmin étaient en ébullition, Baek continuait ses cris. La voix rugissante du rang S était suffisante pour faire fuir presque toute la pièce.</p><p class="talk">« Je m’en fous si c’est cent ou deux cents millions, réservez une putain de Porte ! Est-ce que vous comprenez ?! »</p><p class="">C’était à ce moment-là.</p><p class="">Le téléphone de Ahn Sangmin sonna.</p><div class="border"><p class="strong">[Désolé de ne pas avoir pu décrocher plus tôt~ Je rencontrais mes amis~ timide, timide, timide~]</p></div><p class="">Il jeta un coup d’œil à la personne qui l’appelait et ouvrit les yeux avec surprise.</p><p class="talk">« Maître de Guilde, je dois répondre. »</p><p class="talk">“…”</p><p class="">Le timing était au cœur de l’objectif principal de la deuxième division de gestion : le recrutement de nouvelles recrues. Ahn Sangmin était le patron de cette division. Peu importe le genre d’erreur que l’homme avait commise, ce serait le comble de la folie que de ne pas le laisser faire son travail.</p><p class="talk">« Eh bien ? Décroche-le. »</p><p class="">Baek donna la permission sans détour.</p><p class="">Ahn Sangmin s’excusa en inclinant la tête devant le maître de la Guilde, puis il répondit au téléphone.</p><p class="talk">« Bonjour, ici Ahn Sangmin de la guilde White Tiger. »</p><p class="">Baek regarda l’homme les bras croisés.</p><p class="talk">« Oui, oui. Je comprends. J’arrive tout de suite, attendez-moi ici. »</p><p class="">Après avoir raccroché, Ahn Sangmin prit immédiatement la parole.</p><p class="talk">« Maître de Guilde, je dois partir pour une affaire urgente. »</p><p class="">L’as de la deuxième division de gestion. Si Ahn Sangmin parlait d’une « affaire urgente », même dans cette situation où il était réprimandé… Le visage de Baek se détendit un peu.</p><p class="talk">« C’est lié à la recherche de nouvelles recrues ?</p><p class="talk">-Oui, monsieur. »</p><p class="">En regardant le visage confiant et déterminé de l’homme, Baek se rendit compte de quelque chose.</p><p class="talk">‘Et le chef de division lui-même y va ?’</p><p class="">Cela signifiait que la cible n’était pas un chasseur ordinaire. Le visage de Baek, rempli de rage, montra soudain un sourire.</p><p class="talk">« Comment pourrais-je empêcher le spécialiste du recrutement de faire son travail ? Ne vous inquiétez pas pour ici et partez. Fais votre truc. »</p><p class=""> </p><p class="">Notes du traducteur :<br/>
-[1] : Des bruits faits par hasard par les hommes-lézards</p></body></html>
+<strong>Classe : Aucun</strong></p>
+</div>
+<p>La troisième ligne de son écran de statut, « Classe ».</p>
+<p class="talk">‘S’il y a une telle chose comme la quête d’avancement de classe…’</p>
+<p>Au lieu de « aucun », ce serait enfin l’occasion d’y placer un mot différent.</p>
+<p>Il obtiendrait une classe.</p>
+<p>Dans la plupart des jeux vidéo, le personnage du joueur avait beaucoup de choix dans le choix de sa classe. Le système qui fonctionnait comme un jeu vidéo devrait être similaire.</p>
+<p>BA DUM BA DUM</p>
+<p>Son cœur battait à tout rompre. Face à une autre occasion de devenir plus fort, il ne pouvait pas se calmer.</p>
+<div class="border">
+<p class="strong"><strong>Aimeriez-vous accepter ? (O/N)</strong></p>
+</div>
+<p>Le « (O/N) » clignotait devant ses yeux.</p>
+<p>Bien sûr que c’est oui…</p>
+<p>Quel genre d’idiot gâcherait cette chance ? Jinwoo était prêt à accepter la quête, mais s’arrêta instinctivement.</p>
+<p class="talk">‘Attends.’</p>
+<p>Il ne savait pas quel genre de quête il allait recevoir. L’hésitation instinctive était suivie d’un sentiment de prudence.</p>
+<p class="talk">‘Nous sommes à l’intérieur d’un donjon en ce moment.’</p>
+<p>Ils étaient dans l’endroit le plus dangereux du monde en ce moment. Même s’il s’était habitué aux donjons de rang C, un donjon était un donjon. Il n’était pas nécessaire d’inviter le danger par ignorance.</p>
+<p>En plus de cela, Jinho était également présent. Ce n’était pas qu’il ne faisait pas confiance au jeune homme. Mais il n’y avait pas besoin de lui donner un indice sur le Système ou de lui montrer un phénomène étrange qui pourrait apparaître en acceptant sa quête. Les choses pourraient se compliquer s’il le faisait.</p>
+<p class="talk">‘De plus, la quête pourrait faire du mal à Jinho.’</p>
+<p>Et si la quête engendrait soudainement des monstres ?</p>
+<p class="talk">‘Eh bien, ce serait parfait.’</p>
+<p>Il lui suffirait de les tuer le plus vite possible. Mais d’après son expérience, une simple chasse au monstre n’était pas la limite des quêtes. Par exemple, les 2 quêtes d’urgence qu’il devait accomplir.</p>
+<p class="talk">‘Cette quête pourrait me dire de tuer le chasseur le plus proche de moi.’</p>
+<p>C’était une faible possibilité, probablement pas réaliste, mais Jinwoo n’était pas prêt à prendre le risque. Alors qu’il était perdu dans ses pensées, Jinho courut vers lui.</p>
+<p class="talk">« Hyungnim ! »</p>
+<p>On aurait dit que la dernière attaque du mage des hommes-lézards avait atterri près du jeune homme, son visage était couvert de suie et de poussière.</p>
+<p class="talk">« Je viens de te voir disparaître et réapparaître ! Tu avais une compétence comme ça ? »</p>
+<p>Malgré son visage sale, les yeux de Jinho brillaient de crainte. Il semblait que le jeune homme était fasciné par cette compétence rare.</p>
+<p class="talk">‘Je suis plus fasciné par ton visage en ce moment.’</p>
+<p>Au lieu de répondre, Jinwoo sortit un mouchoir de son inventaire ; c’était l’un des objets reçus au hasard d’une quête quotidienne.</p>
+<p class="talk">« H-hyungnim ? »</p>
+<p>Jinwoo essuya rudement le visage de Jinho avec le mouchoir.</p>
+<p class="talk">« Oof, mmph ! »</p>
+<p>Le mouchoir blanc et propre devint rapidement noir. Jinwoo remit l’objet à Jinho. Le jeune homme regarda le chiffon sale et réalisa à quoi ressemblait son visage. Il s’éloigna et se nettoya tranquillement le visage.</p>
+<p class="talk">« Jinho.</p>
+<p class="talk">-Oui, hyungnim.</p>
+<p class="talk">-Il s’est passé quelque chose. »</p>
+<p>Jinho se tourna vers lui avec une rapidité surprenante.</p>
+<p class="talk">« Faut-il que tu partes ?</p>
+<p class="talk">-Après avoir fini ici.</p>
+<p class="talk">-Je comprends. J’annulerai la réservation sur les portes restantes. »</p>
+<p>Jinho ne voulait pas montrer à Jinwoo sa déception, mais il regrettait profondément le fait qu’ils devraient abandonner les 3 autres Portes.</p>
+<p class="talk">‘Je commençais à manquer de fonds…’</p>
+<p>Pour le jeune homme qui n’avait pas particulièrement de source de revenus, les « fonds » de son plan provenaient de l’allocation qu’il avait épargnée jusqu’à présent. Comme il agissait à l’insu de son père, il ne pouvait pas facilement avoir accès à l’argent de la famille dans son plan. S’il annulait les réservations, il ne pourrait pas récupérer les frais. Ce serait de l’argent gaspillé. A cause de la méthode inhabituelle de leur Raid, il devait dépenser beaucoup plus que ce qu’il avait prévu au budget. Dire qu’il gaspillerait les frais de réservation pour aujourd’hui… Les épaules de Jinho étaient affaissées.</p>
+<p>Mais Jinwoo répondit avec une expression calme :</p>
+<p class="talk">« Pourquoi l’annuler ? C’est du gaspillage. »</p>
+<p>Jinho inclina la tête de confusion.</p>
+<p class="talk">« Si on réserve une Porte et qu’on n’y entre pas dans deux jours, les droits de raid expireront automatiquement, hyungnim. »</p>
+<p>Bien sûr, Jinwoo connaissait ce fait fondamental de la chasse.</p>
+<p class="talk">« Laisse-moi faire. »</p>
+<p>Avait-il un plan ?</p>
+<p>Jinho était curieux. En même temps, il se sentait étrangement fier de son fiable hyung.</p>
+<hr/>
+<p>Quartier général de la Guilde White Tiger.</p>
+<p class="talk">« Chef Ahn ! Vous avez la tête droite ? »</p>
+<p>Le bureau de la Deuxième Division de gestion réprimandait bruyamment les gens. Le propriétaire de la voix était Baek. C’était le maître de la Guilde White Tiger, et c’était lui qui dirigeait l’organisation. Comme souvent, quand quelqu’un qui était un responsable d’entreprise descendait à un étage inférieur, ce n’était pas une bonne chose.</p>
+<p class="talk">« Comment ça, on n’a toujours pas de Porte pour la formation des nouvelles recrues ? On a déjà repoussé l’entraînement de quatre jours ! »</p>
+<p>Les employés de la deuxième division de gestion ne pouvaient pas lever les yeux. Ils détournèrent tous leur regard, espérant éviter la colère du maître de la Guilde. Devant Baek, Ahn Sangmin recevait les insultes verbales, la tête baissée.</p>
+<p class="talk">“…”</p>
+<p>Contrairement à son subordonné Hyun Gicheol, Ahn Sangmin n’avait pas la capacité de diriger habilement la conversation pour calmer la colère de l’autre personne. Dans ces moments-là, sa meilleure réponse était de le supporter la bouche fermée. Ignorant les sentiments de l’homme, Baek agita avec colère le rapport de la division, qui avait atterri à son bureau ce matin.</p>
+<p class="talk">« Quel genre d’excuse est-ce là ?! Une autre équipe a fait une offre trop élevée, nous n’avons donc pas pu en réserver ? Notre Guilde manque-t-elle de fonds ? Est-ce que l’autre équipe est un fils de Chaebol ?! »</p>
+<p>Ahn Sangmin voulait vraiment, vraiment, vraiment, parler à cette dernière phrase. Mais l’homme garda le silence avec une volonté de fer. Il se rappela la promesse faite avec Jinwoo.</p>
+<p class="talk">‘Si j’ouvre la bouche maintenant, le sujet changera naturellement en Jinho et Jinwoo.’</p>
+<p>Ne sachant pas à quel point les entrailles de Ahn Sangmin étaient en ébullition, Baek continuait ses cris. La voix rugissante du rang S était suffisante pour faire fuir presque toute la pièce.</p>
+<p class="talk">« Je m’en fous si c’est cent ou deux cents millions, réservez une putain de Porte ! Est-ce que vous comprenez ?! »</p>
+<p>C’était à ce moment-là.</p>
+<p>Le téléphone de Ahn Sangmin sonna.</p>
+<div class="border">
+<p class="strong">[Désolé de ne pas avoir pu décrocher plus tôt~ Je rencontrais mes amis~ timide, timide, timide~]</p>
+</div>
+<p>Il jeta un coup d’œil à la personne qui l’appelait et ouvrit les yeux avec surprise.</p>
+<p class="talk">« Maître de Guilde, je dois répondre. »</p>
+<p class="talk">“…”</p>
+<p>Le timing était au cœur de l’objectif principal de la deuxième division de gestion : le recrutement de nouvelles recrues. Ahn Sangmin était le patron de cette division. Peu importe le genre d’erreur que l’homme avait commise, ce serait le comble de la folie que de ne pas le laisser faire son travail.</p>
+<p class="talk">« Eh bien ? Décroche-le. »</p>
+<p>Baek donna la permission sans détour.</p>
+<p>Ahn Sangmin s’excusa en inclinant la tête devant le maître de la Guilde, puis il répondit au téléphone.</p>
+<p class="talk">« Bonjour, ici Ahn Sangmin de la guilde White Tiger. »</p>
+<p>Baek regarda l’homme les bras croisés.</p>
+<p class="talk">« Oui, oui. Je comprends. J’arrive tout de suite, attendez-moi ici. »</p>
+<p>Après avoir raccroché, Ahn Sangmin prit immédiatement la parole.</p>
+<p class="talk">« Maître de Guilde, je dois partir pour une affaire urgente. »</p>
+<p>L’as de la deuxième division de gestion. Si Ahn Sangmin parlait d’une « affaire urgente », même dans cette situation où il était réprimandé… Le visage de Baek se détendit un peu.</p>
+<p class="talk">« C’est lié à la recherche de nouvelles recrues ?</p>
+<p class="talk">-Oui, monsieur. »</p>
+<p>En regardant le visage confiant et déterminé de l’homme, Baek se rendit compte de quelque chose.</p>
+<p class="talk">‘Et le chef de division lui-même y va ?’</p>
+<p>Cela signifiait que la cible n’était pas un chasseur ordinaire. Le visage de Baek, rempli de rage, montra soudain un sourire.</p>
+<p class="talk">« Comment pourrais-je empêcher le spécialiste du recrutement de faire son travail ? Ne vous inquiétez pas pour ici et partez. Fais votre truc. »</p>
+
+<p>Notes du traducteur :<br/>
+[1] : Des bruits faits par hasard par les hommes-lézards</p>
+</body>
+</html>

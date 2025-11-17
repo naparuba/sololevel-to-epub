@@ -1,11 +1,131 @@
-<html><body><h1>Chapter 36</h1>
-<p class=""> </p><p class=""> </p><p class="talk">‘J’aimerais qu’il dise quelque chose…’</p><p class="">La silhouette silencieuse de Jinwoo lui semblait froide. Rassemblant son courage, Juhee ouvrit d’abord la bouche avec beaucoup de difficulté :</p><p class="talk">« Alors…. je ne pense pas pouvoir manger quoi que ce soit aujourd’hui, alors je vais rendre ça… »</p><p class="">Juhee donna à Jinwoo un noyau magique. C’était le même noyau qu’il lui avait donné dans le temple souterrain. Sa main qui lui tendit le noyau magique tremblait.</p><p class="talk">‘Je suppose que c’était il y a moins d’un mois… Et nous avons eu un autre incident aujourd’hui.’</p><p class="">Jinwoo réalisa à quel point Juhee doit avoir peur. Il comprenait parfaitement qu’elle perdrait l’appétit après tout ce qui s’était passé aujourd’hui.</p><p class="talk">« Aujourd’hui n’est pas le seul jour où on peut aller dîner. Tu n’as pas à le rendre comme ça. »</p><p class="">Juhee secoua la tête,</p><p class="talk">« Je rentre chez moi la semaine prochaine. »</p><p class="">Comme elle s’était retirée de la chasse, elle prévoyait sans doute retourner dans sa ville natale. Jinwoo fut déçu,</p><p class="talk">« A cause de cet incident ?</p><p class="">Se souvenant du Double Donjon, le visage de Juhee devint sombre. Jinwoo évita rapidement la conversation,</p><p class="talk">« Où est ta ville natale ?</p><p class="">Soudain, ses yeux devinrent sérieux.</p><p class="talk">« Oui ? »</p><p class="">Après avoir senti l’ambiance, Jinwoo effaça son sourire et devint aussi sérieux. Juhee le regarda en face. Elle pensait à ses yeux pleins de vie. Quand tous les autres étaient tombés dans le désespoir, il s’accrochait à la lumière dans ses yeux. Juhee se souvenait d’avoir été juste à côté de lui et de les avoir regardés.</p><p class="talk">‘Il a dit quelque chose à propos de revenir vivant.’</p><p class="">La lueur d’espoir à laquelle ses yeux s’étaient accrochés avait sauvé la vie de nombreuses personnes, y compris la sienne. C’était un acte qui ne pouvait être imité par aucun autre.</p><p class="">ba dum ba dum</p><p class="">En y repensant ce jour-là, son cœur s’était mis à battre la chamade.</p><p class="talk">‘Non…’</p><p class="">Elle ne regrettait pas d’avoir pris sa retraite en tant que Chasseuse ; elle savait qu’elle n’était pas en forme pour cette vie. Mais en pensant à la difficulté de revoir Jinwoo, elle éprouvait des regrets.</p><p class="talk">‘Si je lui demandais : « Je peux te revoir ? », il penserait sûrement que je suis bizarre…’</p><p class="">Mais elle ne pouvait rien faire. Il serait insensé de s’attarder sur ces questions. Au bout d’un certain temps, Juhee gloussa et secoua légèrement la tête,</p><p class="talk">« Non, ce n’est rien. Si tu es à Busan, appelle-moi, s’il te plaît. Je t’achèterai à manger.</p><p class="">Jinwoo sourit et Juhee lui rendit le sourire. Après avoir dit les mots qu’elle voulait dire, les deux se firent donc mutuellement leurs adieux.</p><p class="talk">“…”</p><p class="">Le chemin du retour n’avait jamais été aussi long.</p><hr class=""/><p class="">Après avoir vu Juhee partir, Jinwoo rentra chez lui. Il aperçut de loin l’appartement usé. Il vivait au 9e étage. Il passa devant les voitures garées et se dirigea vers l’immeuble, puis une voix âgée l’arrêta :</p><p class="talk">« Jeune homme de l’unité 902. »</p><p class="">C’était le vieux garde ahjjussi. Jinwoo salua le garde qu’il connaissait depuis longtemps.</p><p class="talk">« N’es-tu pas rentré chez toi toute la journée ?<br/>
+<html>
+<body>
+<h1>Chapter 36</h1>
+
+
+<p class="talk">‘J’aimerais qu’il dise quelque chose…’</p>
+<p>La silhouette silencieuse de Jinwoo lui semblait froide. Rassemblant son courage, Juhee ouvrit d’abord la bouche avec beaucoup de difficulté :</p>
+<p class="talk">« Alors…. je ne pense pas pouvoir manger quoi que ce soit aujourd’hui, alors je vais rendre ça… »</p>
+<p>Juhee donna à Jinwoo un noyau magique. C’était le même noyau qu’il lui avait donné dans le temple souterrain. Sa main qui lui tendit le noyau magique tremblait.</p>
+<p class="talk">‘Je suppose que c’était il y a moins d’un mois… Et nous avons eu un autre incident aujourd’hui.’</p>
+<p>Jinwoo réalisa à quel point Juhee doit avoir peur. Il comprenait parfaitement qu’elle perdrait l’appétit après tout ce qui s’était passé aujourd’hui.</p>
+<p class="talk">« Aujourd’hui n’est pas le seul jour où on peut aller dîner. Tu n’as pas à le rendre comme ça. »</p>
+<p>Juhee secoua la tête,</p>
+<p class="talk">« Je rentre chez moi la semaine prochaine. »</p>
+<p>Comme elle s’était retirée de la chasse, elle prévoyait sans doute retourner dans sa ville natale. Jinwoo fut déçu,</p>
+<p class="talk">« A cause de cet incident ?</p>
+<p>Se souvenant du Double Donjon, le visage de Juhee devint sombre. Jinwoo évita rapidement la conversation,</p>
+<p class="talk">« Où est ta ville natale ?</p>
+<p>Soudain, ses yeux devinrent sérieux.</p>
+<p class="talk">« Oui ? »</p>
+<p>Après avoir senti l’ambiance, Jinwoo effaça son sourire et devint aussi sérieux. Juhee le regarda en face. Elle pensait à ses yeux pleins de vie. Quand tous les autres étaient tombés dans le désespoir, il s’accrochait à la lumière dans ses yeux. Juhee se souvenait d’avoir été juste à côté de lui et de les avoir regardés.</p>
+<p class="talk">‘Il a dit quelque chose à propos de revenir vivant.’</p>
+<p>La lueur d’espoir à laquelle ses yeux s’étaient accrochés avait sauvé la vie de nombreuses personnes, y compris la sienne. C’était un acte qui ne pouvait être imité par aucun autre.</p>
+<p>ba dum ba dum</p>
+<p>En y repensant ce jour-là, son cœur s’était mis à battre la chamade.</p>
+<p class="talk">‘Non…’</p>
+<p>Elle ne regrettait pas d’avoir pris sa retraite en tant que Chasseuse ; elle savait qu’elle n’était pas en forme pour cette vie. Mais en pensant à la difficulté de revoir Jinwoo, elle éprouvait des regrets.</p>
+<p class="talk">‘Si je lui demandais : « Je peux te revoir ? », il penserait sûrement que je suis bizarre…’</p>
+<p>Mais elle ne pouvait rien faire. Il serait insensé de s’attarder sur ces questions. Au bout d’un certain temps, Juhee gloussa et secoua légèrement la tête,</p>
+<p class="talk">« Non, ce n’est rien. Si tu es à Busan, appelle-moi, s’il te plaît. Je t’achèterai à manger.</p>
+<p>Jinwoo sourit et Juhee lui rendit le sourire. Après avoir dit les mots qu’elle voulait dire, les deux se firent donc mutuellement leurs adieux.</p>
+<p class="talk">“…”</p>
+<p>Le chemin du retour n’avait jamais été aussi long.</p>
+<hr/>
+<p>Après avoir vu Juhee partir, Jinwoo rentra chez lui. Il aperçut de loin l’appartement usé. Il vivait au 9e étage. Il passa devant les voitures garées et se dirigea vers l’immeuble, puis une voix âgée l’arrêta :</p>
+<p class="talk">« Jeune homme de l’unité 902. »</p>
+<p>C’était le vieux garde ahjjussi. Jinwoo salua le garde qu’il connaissait depuis longtemps.</p>
+<p class="talk">« N’es-tu pas rentré chez toi toute la journée ?<br/>
 – Ah, je suis de garde de nuit aujourd’hui.<br/>
 – Ah, Jinwoo hocha la tête.<br/>
 – Tiens, un paquet est arrivé pour toi.<br/>
-– Ah, merci. »</p><p class="">C’était de l’Association.</p><p class="talk">‘C’était censé arriver aujourd’hui ?’</p><p class="">Le téléphone de l’Association était censé arriver rapidement. Jinwoo sortit le téléphone de la boîte. C’était un nouveau téléphone étincelant.</p><p class="">Dernièrement, le public s’était beaucoup intéressé aux Chasseurs. Jinwoo se rappela un reportage où un nombre croissant de personnes qui n’étaient pas des êtres éveillés essayaient d’acheter illégalement un téléphone de Chasseur.</p><p class="talk">‘Oublions les acheteurs, à quoi pensent les voleurs ?’</p><p class="">Ils disaient que ce n’était pas qu’un pays n’avait pas d’argent, mais qu’il avait trop de voleurs. Qu’il s’agisse de l’Association ou de l’armée, partout où les gens se réunissaient, il y avait toutes sortes de corruption. Chaque fois que de l’argent en provenance de ces organisations s’échappait par le biais de cette corruption, cela diminuait la capacité de l’organisation à fournir un soutien à la population. Et si le soutien au peuple diminuait, la société en souffrirait. Lorsque la société souffrant, quelqu’un qui aurait besoin d’aide finira par en souffrir parce qu’il ne pourra pas l’obtenir.</p><p class="talk">‘J’étais inquiet à propos de ça…’</p><p class="">Heureusement, il n’y avait aucun défaut avec son nouveau téléphone. [1]</p><p class="">Pendant qu’il attendait l’ascenseur, il alluma le téléphone. Il était plein de notifications.</p><p class="talk">‘Soupir, combien de temps ça va prendre pour terminer tout ça ?’</p><p class="">Parmi les appels et messages manqués, deux numéros ne cessaient de se répéter. Aucun des deux chiffres ne lui semblait familier. L’un des numéros l’avait appelé à plusieurs reprises, l’autre lui avait envoyé un message à plusieurs reprises.</p><p class="talk">‘Je ne connais personne qui me contacterait autant.’</p><p class="">Jinwoo regardait le téléphone avec la tête inclinée, puis commença à vérifier les messages.</p><p class="">Salut, c’est moi de l’hôpital…<br/>
+– Ah, merci. »</p>
+<p>C’était de l’Association.</p>
+<p class="talk">‘C’était censé arriver aujourd’hui ?’</p>
+<p>Le téléphone de l’Association était censé arriver rapidement. Jinwoo sortit le téléphone de la boîte. C’était un nouveau téléphone étincelant.</p>
+<p>Dernièrement, le public s’était beaucoup intéressé aux Chasseurs. Jinwoo se rappela un reportage où un nombre croissant de personnes qui n’étaient pas des êtres éveillés essayaient d’acheter illégalement un téléphone de Chasseur.</p>
+<p class="talk">‘Oublions les acheteurs, à quoi pensent les voleurs ?’</p>
+<p>Ils disaient que ce n’était pas qu’un pays n’avait pas d’argent, mais qu’il avait trop de voleurs. Qu’il s’agisse de l’Association ou de l’armée, partout où les gens se réunissaient, il y avait toutes sortes de corruption. Chaque fois que de l’argent en provenance de ces organisations s’échappait par le biais de cette corruption, cela diminuait la capacité de l’organisation à fournir un soutien à la population. Et si le soutien au peuple diminuait, la société en souffrirait. Lorsque la société souffrant, quelqu’un qui aurait besoin d’aide finira par en souffrir parce qu’il ne pourra pas l’obtenir.</p>
+<p class="talk">‘J’étais inquiet à propos de ça…’</p>
+<p>Heureusement, il n’y avait aucun défaut avec son nouveau téléphone. [1]</p>
+<p>Pendant qu’il attendait l’ascenseur, il alluma le téléphone. Il était plein de notifications.</p>
+<p class="talk">‘Soupir, combien de temps ça va prendre pour terminer tout ça ?’</p>
+<p>Parmi les appels et messages manqués, deux numéros ne cessaient de se répéter. Aucun des deux chiffres ne lui semblait familier. L’un des numéros l’avait appelé à plusieurs reprises, l’autre lui avait envoyé un message à plusieurs reprises.</p>
+<p class="talk">‘Je ne connais personne qui me contacterait autant.’</p>
+<p>Jinwoo regardait le téléphone avec la tête inclinée, puis commença à vérifier les messages.</p>
+<p>Salut, c’est moi de l’hôpital…<br/>
 Es-tu libre cette semaine par n’importe quel chan…<br/>
-J’étais trop ennuyeux ? J’espè…</p><p class="">Il se rappelait qui c’était. C’était l’infirmière qui lui avait demandé ses coordonnées le jour de sa sortie.</p><p class="talk">‘Je crois qu’elle s’appelait Choi Yura ?’</p><p class="">Ses messages n’étaient pas particulièrement ennuyeux, mais Jinwoo pensait qu’une fois qu’il répondrait, cela deviendrait vraiment ennuyeux.</p><p class="talk">‘Je passe mon tour, alors…’</p><p class="">Suivait le numéro qui l’avait appelé à plusieurs reprises. Jinwoo cliqua sur le bouton d’appel du numéro. La sonnerie de l’appelant était une chanson pop forte qui venait de sortir[2]. Jinwoo avait le sentiment qu’il savait qui ce serait. La personne à l’autre bout du fil réagit rapidement.</p><p class="talk">« Bonjour. »</p><p class="">Comme prévu.</p><p class="">Ayant prédit la personne, Jinwoo gloussa et parla :</p><p class="talk">« C’est moi. Appelle-moi à ce numéro à partir de maintenant. »</p><p class="">C’était Jinho.</p><p class="">Jinwoo s’était souvenu du numéro du jeune homme, mais ne l’ayant pas appelé auparavant, cela lui avait échappé. Jinho parlait d’une voix excitée :</p><p class="talk">« En fait, j’allais t’appeler. Hyungnim, le groupe de raid est complet ! Je viendrai te chercher demain ! »</p><p class="">Même en entendant sa voix, Jinwoo pouvait imaginer le visage souriant de Jinho. Jinwoo souriait aussi.</p><p class="talk">« D’accord, à demain. »</p><p class="">clic</p><p class="">Pile à ce moment-là, l’ascenseur arriva alors qu’il terminait l’appel. Enfin, les vrais Raids commenceraient demain. Le cœur de Jinwoo battait d’impatience.</p><p class="talk">‘Il est temps de se calmer.’</p><p class="">Il montera son niveau, augmentera ses stats et deviendra plus fort que quiconque.</p><p class="">Une fois devenu un Chasseur fort, de l’argent, de la renommée, de l’influence, il pourrait tout obtenir.</p><p class="">Demain serait le premier pas vers ce rêve.</p><hr class=""/><p class="">Est des États-Unis.</p><p class="">Tard dans la nuit.</p><p class="">Hwang, l’un des principaux Chasseurs de l’une des meilleures Guildes d’Amérique du Nord, « Scavenger », reçut une terrible nouvelle avant de se mettre au lit.</p><p class="talk">« …Mon frère aîné est mort ? Comment ? Expliquez-moi ça… lentement… »</p><p class="">Son frère aîné s’appelait Hwang Dongseok. La personne à l’autre bout lui avait dit qu’il avait perdu la vie dans une Porte de rang C.</p><p class="talk">« …l’équipe principale de Hyung, composée de huit membres, est morte, mais deux autres ont survécu ? »</p><p class="">Et ces deux-là étaient un rang D et un rang E ?</p><p class="">Quelque chose n’allait pas. Le frère aîné qu’il connaissait ne risquerait pas sa vie pour un faible. En plus de ça, c’était des membres de bouche trou ? Il n’y avait pas moyen.</p><p class="">Mais voilà, son frère et ses coéquipiers de rang C étaient morts, et les membres de rang D et E avaient survécu.</p><p class="talk">‘Quelque chose ne va pas du tout…’</p><p class="">Les yeux de Hwang devinrent acérés. Bien qu’il ait été repéré par une célèbre guilde américaine et qu’il soit actuellement absent, en Corée du Sud, Hwang Dongseok était un grand frère qui prenait soin de lui plus que quiconque dans sa vie. On ne pouvait pas l’appeler un homme bon, mais c’était un bon frère.</p><p class="talk">‘Une fois que ma position ici se serait renforcée, j’avais l’intention de l’amener ici…’</p><p class="">Dire qu’il mourrait avant d’avoir pu. Hwang se mordit les lèvres.</p><p class="talk">« Faxez-moi les informations des deux survivants, mon numéro est… »</p><p class="">Hwang raccrocha et appela le directeur.</p><p class="talk">« M. Hwang, qu’y a-t-il à cette heure-ci ?</p><p class="">La femme prit un moment pour répondre :</p><p class="talk">« Pour l’instant, il n’existe pas de traité d’extradition pénale[3] entre les États-Unis et la Corée du Sud. Comme M. Hwang est un Chasseur sous le gouvernement américain, vous serez jugé ici, aux États-Unis. Mais compte tenu de notre relation avec le gouvernement, je ne pense pas que la peine sera aussi lourde.</p><p class="">Clic !</p><p class="">Hwang mit fin à l’appel. Que ce soit des mots de réconfort ou un avertissement. Il n’était pas d’humeur à l’entendre non plus.</p><p class="">bip bip</p><p class="">Le fax qu’il avait demandé plus tôt était arrivé. Hwang regarda les documents imprimés. Il contenait les informations sur les deux chasseurs. Leurs noms, photos, profils brefs, etc…</p><p class="talk">« Chasseur de rang D Jinho. Chasseur de rang E Jinwoo. »</p><p class="">Hwang regarda les deux visages alternativement et prit une décision.</p><p class="talk">‘Je devrais pouvoir obtenir des réponses si j’interrogeais ces deux-là.’</p><p class="">Et s’il détectait un soupçon de mensonge dans leurs réponses…</p><p class="talk">« Vous regrettez d’en être sorti vivant. »</p><p class="">Les yeux de Hwang étaient rouges de rage.</p><p class="talk">-6. Un étrange raid-</p><p class="">Le lendemain matin.</p><p class="">Jinwoo reçut l’appel de Jinho et sortit. Il fut accueilli par un grand Bongo devant.</p><p class="talk">“…?”</p><p class="">Il était sur le point de demander qui bloquait la maison de quelqu’un d’autre quand la fenêtre du siège du conducteur s’ouvrit. Le propriétaire souriait, c’était… Jinho.</p><p class="talk">« Hyungnim ! Monte ! »</p><p class="">Jinho tapa sur le côté de la voiture. En apprenant que Jinho venait le chercher personnellement, Jinwoo s’attendait à une Benz… En tout cas, il la regarda, c’était un van ordinaire. C’était un peu plus grand.</p><p class="talk">« Tu n’es pas un chaebol de deuxième génération<a href='"Chaebol"' title='재벌) : https://fr.wikipedia.org/wiki/Chaebol ("grand conglomérat industriel dirigé par un propriétaire ou une famille en Corée du Sud"'>4</a> ?</p><p class="">Jinwoo réalisa que la voiture était propre et étincelante.</p><p class="talk">‘Il a dû l’acheter assez récemment.’</p><p class="">Le jeune homme venait le chercher avec diligence tôt le matin et avait même acheté une nouvelle voiture pour ne pas être remarqué. Les préparatifs de Jinho étaient minutieux. Ses attentes à l’égard de cet arrangement étaient si élevées. Jinho confondit le regard de Jinwoo sur la nouvelle voiture pour autre chose :</p><p class="talk">« N’est-ce pas satisfaisant pour toi, hyungnim ?</p><p class="">Il le coupa et monta dans le siège passager.</p><p class="talk">« On s’en va, hyungnim. »</p><p class="">Excité par le début officiel de leurs Raids, Jinho fredonnait joyeusement pendant qu’il conduisait. Après un certain temps, ils arrivèrent sur un terrain vague.</p><p class="">screech-</p><p class="talk">« Hyungnim, on y est. »</p><p class="">Il y avait 8 chasseurs qui attendaient à l’endroit promis.</p><p class="">Notes du traducteur :<br/>
-[1] : Je pense que la façon dont j’ai traduit le passage est un peu confuse. Fondamentalement, il semble que Jinwoo se lance dans une diatribe philosophique sur le fait que la société est touchée par la corruption, alors qu’en réalité, il s’inquiétait qu’il n’obtienne pas son nouveau téléphone ( » aide à quelqu’un qui en a besoin « ). Ce troll…<br/>
+J’étais trop ennuyeux ? J’espè…</p>
+<p>Il se rappelait qui c’était. C’était l’infirmière qui lui avait demandé ses coordonnées le jour de sa sortie.</p>
+<p class="talk">‘Je crois qu’elle s’appelait Choi Yura ?’</p>
+<p>Ses messages n’étaient pas particulièrement ennuyeux, mais Jinwoo pensait qu’une fois qu’il répondrait, cela deviendrait vraiment ennuyeux.</p>
+<p class="talk">‘Je passe mon tour, alors…’</p>
+<p>Suivait le numéro qui l’avait appelé à plusieurs reprises. Jinwoo cliqua sur le bouton d’appel du numéro. La sonnerie de l’appelant était une chanson pop forte qui venait de sortir[2]. Jinwoo avait le sentiment qu’il savait qui ce serait. La personne à l’autre bout du fil réagit rapidement.</p>
+<p class="talk">« Bonjour. »</p>
+<p>Comme prévu.</p>
+<p>Ayant prédit la personne, Jinwoo gloussa et parla :</p>
+<p class="talk">« C’est moi. Appelle-moi à ce numéro à partir de maintenant. »</p>
+<p>C’était Jinho.</p>
+<p>Jinwoo s’était souvenu du numéro du jeune homme, mais ne l’ayant pas appelé auparavant, cela lui avait échappé. Jinho parlait d’une voix excitée :</p>
+<p class="talk">« En fait, j’allais t’appeler. Hyungnim, le groupe de raid est complet ! Je viendrai te chercher demain ! »</p>
+<p>Même en entendant sa voix, Jinwoo pouvait imaginer le visage souriant de Jinho. Jinwoo souriait aussi.</p>
+<p class="talk">« D’accord, à demain. »</p>
+<p>clic</p>
+<p>Pile à ce moment-là, l’ascenseur arriva alors qu’il terminait l’appel. Enfin, les vrais Raids commenceraient demain. Le cœur de Jinwoo battait d’impatience.</p>
+<p class="talk">‘Il est temps de se calmer.’</p>
+<p>Il montera son niveau, augmentera ses stats et deviendra plus fort que quiconque.</p>
+<p>Une fois devenu un Chasseur fort, de l’argent, de la renommée, de l’influence, il pourrait tout obtenir.</p>
+<p>Demain serait le premier pas vers ce rêve.</p>
+<hr/>
+<p>Est des États-Unis.</p>
+<p>Tard dans la nuit.</p>
+<p>Hwang, l’un des principaux Chasseurs de l’une des meilleures Guildes d’Amérique du Nord, « Scavenger », reçut une terrible nouvelle avant de se mettre au lit.</p>
+<p class="talk">« …Mon frère aîné est mort ? Comment ? Expliquez-moi ça… lentement… »</p>
+<p>Son frère aîné s’appelait Hwang Dongseok. La personne à l’autre bout lui avait dit qu’il avait perdu la vie dans une Porte de rang C.</p>
+<p class="talk">« …l’équipe principale de Hyung, composée de huit membres, est morte, mais deux autres ont survécu ? »</p>
+<p>Et ces deux-là étaient un rang D et un rang E ?</p>
+<p>Quelque chose n’allait pas. Le frère aîné qu’il connaissait ne risquerait pas sa vie pour un faible. En plus de ça, c’était des membres de bouche trou ? Il n’y avait pas moyen.</p>
+<p>Mais voilà, son frère et ses coéquipiers de rang C étaient morts, et les membres de rang D et E avaient survécu.</p>
+<p class="talk">‘Quelque chose ne va pas du tout…’</p>
+<p>Les yeux de Hwang devinrent acérés. Bien qu’il ait été repéré par une célèbre guilde américaine et qu’il soit actuellement absent, en Corée du Sud, Hwang Dongseok était un grand frère qui prenait soin de lui plus que quiconque dans sa vie. On ne pouvait pas l’appeler un homme bon, mais c’était un bon frère.</p>
+<p class="talk">‘Une fois que ma position ici se serait renforcée, j’avais l’intention de l’amener ici…’</p>
+<p>Dire qu’il mourrait avant d’avoir pu. Hwang se mordit les lèvres.</p>
+<p class="talk">« Faxez-moi les informations des deux survivants, mon numéro est… »</p>
+<p>Hwang raccrocha et appela le directeur.</p>
+<p class="talk">« M. Hwang, qu’y a-t-il à cette heure-ci ?</p>
+<p>La femme prit un moment pour répondre :</p>
+<p class="talk">« Pour l’instant, il n’existe pas de traité d’extradition pénale[3] entre les États-Unis et la Corée du Sud. Comme M. Hwang est un Chasseur sous le gouvernement américain, vous serez jugé ici, aux États-Unis. Mais compte tenu de notre relation avec le gouvernement, je ne pense pas que la peine sera aussi lourde.</p>
+<p>Clic !</p>
+<p>Hwang mit fin à l’appel. Que ce soit des mots de réconfort ou un avertissement. Il n’était pas d’humeur à l’entendre non plus.</p>
+<p>bip bip</p>
+<p>Le fax qu’il avait demandé plus tôt était arrivé. Hwang regarda les documents imprimés. Il contenait les informations sur les deux chasseurs. Leurs noms, photos, profils brefs, etc…</p>
+<p class="talk">« Chasseur de rang D Jinho. Chasseur de rang E Jinwoo. »</p>
+<p>Hwang regarda les deux visages alternativement et prit une décision.</p>
+<p class="talk">‘Je devrais pouvoir obtenir des réponses si j’interrogeais ces deux-là.’</p>
+<p>Et s’il détectait un soupçon de mensonge dans leurs réponses…</p>
+<p class="talk">« Vous regrettez d’en être sorti vivant. »</p>
+<p>Les yeux de Hwang étaient rouges de rage.</p>
+<p class="talk">-6. Un étrange raid-</p>
+<p>Le lendemain matin.</p>
+<p>Jinwoo reçut l’appel de Jinho et sortit. Il fut accueilli par un grand Bongo devant.</p>
+<p class="talk">“…?”</p>
+<p>Il était sur le point de demander qui bloquait la maison de quelqu’un d’autre quand la fenêtre du siège du conducteur s’ouvrit. Le propriétaire souriait, c’était… Jinho.</p>
+<p class="talk">« Hyungnim ! Monte ! »</p>
+<p>Jinho tapa sur le côté de la voiture. En apprenant que Jinho venait le chercher personnellement, Jinwoo s’attendait à une Benz… En tout cas, il la regarda, c’était un van ordinaire. C’était un peu plus grand.</p>
+<p class="talk">« Tu n’es pas un chaebol de deuxième génération<a href='"Chaebol"' title='재벌) : https://fr.wikipedia.org/wiki/Chaebol ("grand conglomérat industriel dirigé par un propriétaire ou une famille en Corée du Sud"'>4</a> ?</p>
+<p>Jinwoo réalisa que la voiture était propre et étincelante.</p>
+<p class="talk">‘Il a dû l’acheter assez récemment.’</p>
+<p>Le jeune homme venait le chercher avec diligence tôt le matin et avait même acheté une nouvelle voiture pour ne pas être remarqué. Les préparatifs de Jinho étaient minutieux. Ses attentes à l’égard de cet arrangement étaient si élevées. Jinho confondit le regard de Jinwoo sur la nouvelle voiture pour autre chose :</p>
+<p class="talk">« N’est-ce pas satisfaisant pour toi, hyungnim ?</p>
+<p>Il le coupa et monta dans le siège passager.</p>
+<p class="talk">« On s’en va, hyungnim. »</p>
+<p>Excité par le début officiel de leurs Raids, Jinho fredonnait joyeusement pendant qu’il conduisait. Après un certain temps, ils arrivèrent sur un terrain vague.</p>
+<p>screech-</p>
+<p class="talk">« Hyungnim, on y est. »</p>
+<p>Il y avait 8 chasseurs qui attendaient à l’endroit promis.</p>
+<p>Notes du traducteur :<br/>
+[1] : Je pense que la façon dont j’ai traduit le passage est un peu confuse. Fondamentalement, il semble que Jinwoo se lance dans une diatribe philosophique sur le fait que la société est touchée par la corruption, alors qu’en réalité, il s’inquiétait qu’il n’obtienne pas son nouveau téléphone ( » aide à quelqu’un qui en a besoin « ). Ce troll…<br/>
 [2] : En Corée du Sud, les gens peuvent configurer leurs propres sonneries de réception de sonneries à différents sons / musiques. Si vous appelez cette personne, vous entendrez sa sonnerie personnelle dans le récepteur (et non la sonnerie standard que vous entendriez dans l’Ouest). Les jeunes installent souvent les chansons qu’ils aiment comme sonnerie.<br/>
-[3] : Traité d’extradition pénale (범죄자 인도 조약) : traduction littérale.</p></body></html>
+[3] : Traité d’extradition pénale (범죄자 인도 조약) : traduction littérale.</p>
+</body>
+</html>

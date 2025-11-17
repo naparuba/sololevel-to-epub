@@ -1,16 +1,221 @@
-<html><body><h1>Chapter 72</h1>
-<p class=""> </p><p class="talk">‘On commence ?’</p><p class="">Les Soldats de l’Ombre apparurent dans le dos de Jinwoo. Son armée était composée d’infanterie, de mages, de bêtes et des deux chevaliers. A leur tête se tenait Jinwoo. Les deux chevaliers s’avancèrent et prirent place aux côtés de Jinwoo. Ygritte à sa droite, Iron à sa gauche. En regardant la paire, Jinwoo rayonnait de fierté.</p><p class="talk">‘Ils sont plutôt fiables.’</p><p class="">Même si c’était sa compétence, ils se sentaient comme des camarades qui protégeaient son dos. Cela donnait à Jinwoo un sentiment de sécurité.</p><p class="">Cependant,</p><p class="talk">‘Affronter cette chose de face, c’est un peu…’</p><p class="">Dangereux. Principalement à cause de la massue géante en bois que Vulkan tenait.</p><p class="talk">‘C’est incroyable qu’il y ait un arbre assez grand pour fabriquer cette chose.’</p><p class="">Compte tenu du corps géant de Vulkan et de la taille de la massue en bois, un seul coup effacerait son armée entière.</p><p class="talk">‘Eh bien, être effacé est bien.’</p><p class="">Le problème était la quantité limitée de mana pour régénérer toute son armée. Jinwoo savait que son mana disparaîtrait s’il se précipitait stupidement vers le démon avec tout le monde. Il restait une option,</p><p class="talk">‘Cette grosse bête est à moi.’</p><p class="">Son armée se chargerait de la foule de déchets autour de Vulkan, tandis que Jinwoo combattrait le démon géant en solo. Il estimait que c’était la meilleure façon d’aborder ce combat.</p><p class="talk">‘Je dois juste ne pas me faire frapper.’</p><p class="">Contrairement à ses soldats, Jinwoo avait confiance en sa capacité d’esquiver les attaques de Vulkan. Le Chasseur ordonna aux Mages de l’Ombre de tirer le coup d’ouverture.</p><p class="talk">‘Les attaques à distance prendront l’aggro des monstres. Quand ce truc à l’air lent sera derrière les démons de haut niveau, j’irai me battre en un contre un.’</p><p class="">C’était une tactique simple.</p><p class="talk">‘Maintenant.’</p><p class="">Quand il donna le signal, des boules de feu furent tirées des mains des Mages de l’Ombre.</p><p class="">wooosh-</p><p class="">wooooooosh-</p><p class="">BANG !</p><p class="">La boule de feu explosa près des monstres autour de Vulkan et marqua le début de la bataille.</p><p class="">ring~ !</p><div class="border"><p class="strong"><strong>Le Seigneur Suprême des étages inférieurs, Vulkan de l’Avarice a remarqué un intrus !</strong><br/>
+<html>
+<body>
+<h1>Chapter 72</h1>
+
+<p class="talk">‘On commence ?’</p>
+<p>Les Soldats de l’Ombre apparurent dans le dos de Jinwoo. Son armée était composée d’infanterie, de mages, de bêtes et des deux chevaliers. A leur tête se tenait Jinwoo. Les deux chevaliers s’avancèrent et prirent place aux côtés de Jinwoo. Ygritte à sa droite, Iron à sa gauche. En regardant la paire, Jinwoo rayonnait de fierté.</p>
+<p class="talk">‘Ils sont plutôt fiables.’</p>
+<p>Même si c’était sa compétence, ils se sentaient comme des camarades qui protégeaient son dos. Cela donnait à Jinwoo un sentiment de sécurité.</p>
+<p>Cependant,</p>
+<p class="talk">‘Affronter cette chose de face, c’est un peu…’</p>
+<p>Dangereux. Principalement à cause de la massue géante en bois que Vulkan tenait.</p>
+<p class="talk">‘C’est incroyable qu’il y ait un arbre assez grand pour fabriquer cette chose.’</p>
+<p>Compte tenu du corps géant de Vulkan et de la taille de la massue en bois, un seul coup effacerait son armée entière.</p>
+<p class="talk">‘Eh bien, être effacé est bien.’</p>
+<p>Le problème était la quantité limitée de mana pour régénérer toute son armée. Jinwoo savait que son mana disparaîtrait s’il se précipitait stupidement vers le démon avec tout le monde. Il restait une option,</p>
+<p class="talk">‘Cette grosse bête est à moi.’</p>
+<p>Son armée se chargerait de la foule de déchets autour de Vulkan, tandis que Jinwoo combattrait le démon géant en solo. Il estimait que c’était la meilleure façon d’aborder ce combat.</p>
+<p class="talk">‘Je dois juste ne pas me faire frapper.’</p>
+<p>Contrairement à ses soldats, Jinwoo avait confiance en sa capacité d’esquiver les attaques de Vulkan. Le Chasseur ordonna aux Mages de l’Ombre de tirer le coup d’ouverture.</p>
+<p class="talk">‘Les attaques à distance prendront l’aggro des monstres. Quand ce truc à l’air lent sera derrière les démons de haut niveau, j’irai me battre en un contre un.’</p>
+<p>C’était une tactique simple.</p>
+<p class="talk">‘Maintenant.’</p>
+<p>Quand il donna le signal, des boules de feu furent tirées des mains des Mages de l’Ombre.</p>
+<p>wooosh-</p>
+<p>wooooooosh-</p>
+<p>BANG !</p>
+<p>La boule de feu explosa près des monstres autour de Vulkan et marqua le début de la bataille.</p>
+<p>ring~ !</p>
+<div class="border">
+<p class="strong"><strong>Le Seigneur Suprême des étages inférieurs, Vulkan de l’Avarice a remarqué un intrus !</strong><br/>
 <strong>Le garde du corps de Vulkan a remarqué….</strong><br/>
-<strong>Le garde du corps de Vulkan a remarqué….</strong></p></div><p class="">ring, ring, ring !</p><p class="">Les tonalités d’avertissement se succédaient à plusieurs reprises. Avec l’avertissement, Vulkan et les gardes du corps tournèrent leur regard vers Jinwoo.</p><p class="talk">‘Parfait…’</p><p class="">Ils avaient réussi à attirer l’attention de l’ennemi. Jinwoo activa ‘furtivité’ ; son plan était de contourner les monstres et de parvenir à Vulkan.</p><p class="">shooo-</p><p class="">Tout se déroulait comme prévu.</p><p class="">C’est du moins ce qu’il pensait.</p><p class="">BOOM BOOM BOOM BOOM BOOM BOOM BOOM-!<br/>
-‘…!!!’</p><p class="">Contrairement aux attentes de Jinwoo, Vulkan fut le premier à courir vers l’Armée de l’ombre. S’ils n’avaient pas été sur le point de s’engager dans une bataille difficile, cela aurait presque été un spectacle comique. Au lieu de traîner lentement, le démon géant courait à toute vitesse vers eux, presque comme si,</p><p class="talk">‘Qu’est-ce que c’est que ce bordel ?! C’est quoi ce mouvement ?! C’est comme si quelqu’un avait avancé rapidement une vidéo !’</p><p class="">En effet, Vulkan les avait atteints en un clin d’œil ! Laissant derrière lui ses gardes du corps, le démon géant s’arrêta devant les Soldats de l’Ombre.</p><p class="talk">‘J’ai merdé !’</p><p class="">Jinwoo avait les yeux grands ouverts. Le corps du démon, ressemblant à celui d’une montagne, affichait une vitesse qui trahissait toute logique.</p><p class="talk">« Mm ! »</p><p class="">Vulkan souleva sa massue et la fit tomber. Alors que la massue tombait vers les Mages de l’Ombre exposés, Iron apparut de nulle part et leva son bouclier noir pour la bloquer.</p><p class="">SMASH !</p><p class="">CRACK !</p><p class="">Ce fut un vaillant effort… Tandis que le chevalier géant réussit à bloquer l’attaque, les deux bras de Iron furent complètement détruits. Le Soldat de l’Ombre ayant la défense la plus élevée avait été rendu inutile après une seule attaque.</p><p class="">thud</p><p class="">Les deux bras cassés de Iron tombèrent sur le sol.</p><p class="talk">« Mm ? Mm ? »</p><p class="">Comme déçu par sa dernière attaque, Vulkan inclina la tête et plissa les yeux sur sa massue. La confusion du démon ne dura qu’une fraction de seconde. La massue en bois descendit une fois de plus.</p><p class="talk">« Mm ! »</p><p class="">CRACK !</p><p class="">N’ayant plus aucun moyen de se défendre, Iron et les Mages de l’Ombre derrière lui furent écrasés sans résistance.</p><p class="">casse</p><p class="">En regardant cette scène, quelque chose se brisa à l’intérieur de Jinwoo.</p><p class="talk">‘Espèce de…’</p><p class="">Le chasseur se mordit la lèvre inférieure. Son corps se déplaçait avant que son esprit ne puisse donner l’ordre.</p><p class="">Saute !</p><p class="">Avant de se rendre compte, Jinwoo était déjà dans les airs, volant vers Vulkan. Sa cible était claire. Comparé à son corps montagneux, la tête du démon était minuscule. Jinwoo se tordit les hanches en plein vol, tirant son bras droit en arrière. Les muscles du bras droit et de l’épaule du Chasseur se fléchirent. En concentrant chaque once de sa force dans son poing serré, ‘Furtivité’ fut levée.</p><p class="talk">« Mm ? »</p><p class="">Vulkan découvrit Jinwoo trop tard. Jinwoo n’était pas près de rater une cible à cette distance.</p><p class="">WOOSH- !</p><p class="">Le poing de l’homme jaillit comme une balle sur le côté du visage de Vulkan.</p><p class="">BAM !</p><p class="">Le corps du démon géant fut jeté en arrière. Le démon roula sur le sol pendant un certain temps, s’arrêtant finalement lorsqu’il frappa un bâtiment dont il ne restait que des cadres.</p><p class="">Effondrement !</p><p class="">Ce qui restait du bâtiment se désintégra lorsque le démon géant s’y écrasa.</p><p class="">marche</p><p class="">Jinwoo se posa sur le sol avec agilité mais fut surpris.</p><p class="talk">‘Pourquoi a-t-il volé si loin ?’</p><p class="">Il baissa les yeux vers son poing avec incrédulité. Il n’y avait pas une égratignure sur le poing qui avait soufflé le démon géant. Puis il réalisa,</p><p class="talk">‘Ah oui…’</p><p class="">Jinwoo leva les yeux. L’écran des stats apparut.</p><div class="border"><p class="strong"><strong>Statistiques</strong><br/>
+<strong>Le garde du corps de Vulkan a remarqué….</strong></p>
+</div>
+<p>ring, ring, ring !</p>
+<p>Les tonalités d’avertissement se succédaient à plusieurs reprises. Avec l’avertissement, Vulkan et les gardes du corps tournèrent leur regard vers Jinwoo.</p>
+<p class="talk">‘Parfait…’</p>
+<p>Ils avaient réussi à attirer l’attention de l’ennemi. Jinwoo activa ‘furtivité’ ; son plan était de contourner les monstres et de parvenir à Vulkan.</p>
+<p>shooo-</p>
+<p>Tout se déroulait comme prévu.</p>
+<p>C’est du moins ce qu’il pensait.</p>
+<p>BOOM BOOM BOOM BOOM BOOM BOOM BOOM-!<br/>
+‘…!!!’</p>
+<p>Contrairement aux attentes de Jinwoo, Vulkan fut le premier à courir vers l’Armée de l’ombre. S’ils n’avaient pas été sur le point de s’engager dans une bataille difficile, cela aurait presque été un spectacle comique. Au lieu de traîner lentement, le démon géant courait à toute vitesse vers eux, presque comme si,</p>
+<p class="talk">‘Qu’est-ce que c’est que ce bordel ?! C’est quoi ce mouvement ?! C’est comme si quelqu’un avait avancé rapidement une vidéo !’</p>
+<p>En effet, Vulkan les avait atteints en un clin d’œil ! Laissant derrière lui ses gardes du corps, le démon géant s’arrêta devant les Soldats de l’Ombre.</p>
+<p class="talk">‘J’ai merdé !’</p>
+<p>Jinwoo avait les yeux grands ouverts. Le corps du démon, ressemblant à celui d’une montagne, affichait une vitesse qui trahissait toute logique.</p>
+<p class="talk">« Mm ! »</p>
+<p>Vulkan souleva sa massue et la fit tomber. Alors que la massue tombait vers les Mages de l’Ombre exposés, Iron apparut de nulle part et leva son bouclier noir pour la bloquer.</p>
+<p>SMASH !</p>
+<p>CRACK !</p>
+<p>Ce fut un vaillant effort… Tandis que le chevalier géant réussit à bloquer l’attaque, les deux bras de Iron furent complètement détruits. Le Soldat de l’Ombre ayant la défense la plus élevée avait été rendu inutile après une seule attaque.</p>
+<p>thud</p>
+<p>Les deux bras cassés de Iron tombèrent sur le sol.</p>
+<p class="talk">« Mm ? Mm ? »</p>
+<p>Comme déçu par sa dernière attaque, Vulkan inclina la tête et plissa les yeux sur sa massue. La confusion du démon ne dura qu’une fraction de seconde. La massue en bois descendit une fois de plus.</p>
+<p class="talk">« Mm ! »</p>
+<p>CRACK !</p>
+<p>N’ayant plus aucun moyen de se défendre, Iron et les Mages de l’Ombre derrière lui furent écrasés sans résistance.</p>
+<p>casse</p>
+<p>En regardant cette scène, quelque chose se brisa à l’intérieur de Jinwoo.</p>
+<p class="talk">‘Espèce de…’</p>
+<p>Le chasseur se mordit la lèvre inférieure. Son corps se déplaçait avant que son esprit ne puisse donner l’ordre.</p>
+<p>Saute !</p>
+<p>Avant de se rendre compte, Jinwoo était déjà dans les airs, volant vers Vulkan. Sa cible était claire. Comparé à son corps montagneux, la tête du démon était minuscule. Jinwoo se tordit les hanches en plein vol, tirant son bras droit en arrière. Les muscles du bras droit et de l’épaule du Chasseur se fléchirent. En concentrant chaque once de sa force dans son poing serré, ‘Furtivité’ fut levée.</p>
+<p class="talk">« Mm ? »</p>
+<p>Vulkan découvrit Jinwoo trop tard. Jinwoo n’était pas près de rater une cible à cette distance.</p>
+<p>WOOSH- !</p>
+<p>Le poing de l’homme jaillit comme une balle sur le côté du visage de Vulkan.</p>
+<p>BAM !</p>
+<p>Le corps du démon géant fut jeté en arrière. Le démon roula sur le sol pendant un certain temps, s’arrêtant finalement lorsqu’il frappa un bâtiment dont il ne restait que des cadres.</p>
+<p>Effondrement !</p>
+<p>Ce qui restait du bâtiment se désintégra lorsque le démon géant s’y écrasa.</p>
+<p>marche</p>
+<p>Jinwoo se posa sur le sol avec agilité mais fut surpris.</p>
+<p class="talk">‘Pourquoi a-t-il volé si loin ?’</p>
+<p>Il baissa les yeux vers son poing avec incrédulité. Il n’y avait pas une égratignure sur le poing qui avait soufflé le démon géant. Puis il réalisa,</p>
+<p class="talk">‘Ah oui…’</p>
+<p>Jinwoo leva les yeux. L’écran des stats apparut.</p>
+<div class="border">
+<p class="strong"><strong>Statistiques</strong><br/>
 <strong>Force : 150</strong><br/>
 <strong>Constitution : 109</strong><br/>
 <strong>Agilité : 139</strong><br/>
 <strong>Intelligence : 109</strong><br/>
-<strong>Perception : 111</strong></p><p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p><p class="strong"><strong>Réduction des dommages physiques : 46%</strong></p></div><p class="talk">‘J’avais oublié.’</p><p class="">Parce qu’il avait reçu la plupart du temps des compétences de classe Assassin et qu’il avait obtenu une classe de magie comme classe, Jinwoo avait oublié quelque chose :</p><div class="border"><p class="strong"><strong>Force : 150</strong></p></div><p class="talk">‘…’</p><p class="">Même s’il avait investi chaque point dans intelligence dernièrement, sa force était encore près de 50% plus élevée que l’intelligence.</p><p class="talk">‘J’ai vraiment investi un nombre stupide de points là-dedans, hein.’</p><p class="">En plus de cela, il avait explosivement augmenté son niveau ces derniers jours. En regardant les stats, il pouvait sentir sa croissance.</p><p class="">Et les résultats de cette croissance étaient… ça. Jinwoo regarda le corps de Vulkan dans les décombres de l’immeuble, incrédule. C’était difficile de le savoir quand il avait combattu les démons de bas niveau et de niveau intermédiaire. Mais utiliser ses pouvoirs contre le boss lui donna de l’assurance,</p><p class="talk">‘Je… suis devenu fort.’</p><p class="">serre</p><p class="">La force remplissait le poing de Jinwoo et se répandait dans tout son corps. Soudain, la tonalité électronique familière sonna,</p><p class="onomatope">ring~</p><p class="talk">« Qu’est-ce que c’est ?</p><p class="">Jinwoo leva la tête.</p><p class="talk">« Mm ? Mm ? »</p><div class="border"><p class="strong"><strong>Vulkan a utilisé sa massue comme support et s’est relevé.</strong></p></div><p class="talk">‘Est-ce qu’il m’avertit qu’un monstre se lève ?’</p><p class="">Le système avait-il déjà été aussi amical ? Avec une tête inclinée, Jinwoo réalisa la véritable signification de la tonalité d’avertissement du système.</p><div class="border"><p class="strong"><strong>Le Seigneur Suprême des Etages Inférieurs, Vulkan de l’Avarice a utilisé ‘Rage’.</strong></p></div><p class="talk">‘Hein ?’</p><p class="">ring, ring, ring</p><p class="">Les tonalités d’avertissement continuaient.</p><div class="border"><p class="strong"><strong>Il entrera définitivement dans un état de rage.</strong><br/>
+<strong>Perception : 111</strong></p>
+<p class="strong"><strong>(Points statistiques disponibles : 0)</strong></p>
+<p class="strong"><strong>Réduction des dommages physiques : 46%</strong></p>
+</div>
+<p class="talk">‘J’avais oublié.’</p>
+<p>Parce qu’il avait reçu la plupart du temps des compétences de classe Assassin et qu’il avait obtenu une classe de magie comme classe, Jinwoo avait oublié quelque chose :</p>
+<div class="border">
+<p class="strong"><strong>Force : 150</strong></p>
+</div>
+<p class="talk">‘…’</p>
+<p>Même s’il avait investi chaque point dans intelligence dernièrement, sa force était encore près de 50% plus élevée que l’intelligence.</p>
+<p class="talk">‘J’ai vraiment investi un nombre stupide de points là-dedans, hein.’</p>
+<p>En plus de cela, il avait explosivement augmenté son niveau ces derniers jours. En regardant les stats, il pouvait sentir sa croissance.</p>
+<p>Et les résultats de cette croissance étaient… ça. Jinwoo regarda le corps de Vulkan dans les décombres de l’immeuble, incrédule. C’était difficile de le savoir quand il avait combattu les démons de bas niveau et de niveau intermédiaire. Mais utiliser ses pouvoirs contre le boss lui donna de l’assurance,</p>
+<p class="talk">‘Je… suis devenu fort.’</p>
+<p>serre</p>
+<p>La force remplissait le poing de Jinwoo et se répandait dans tout son corps. Soudain, la tonalité électronique familière sonna,</p>
+<p class="onomatope">ring~</p>
+<p class="talk">« Qu’est-ce que c’est ?</p>
+<p>Jinwoo leva la tête.</p>
+<p class="talk">« Mm ? Mm ? »</p>
+<div class="border">
+<p class="strong"><strong>Vulkan a utilisé sa massue comme support et s’est relevé.</strong></p>
+</div>
+<p class="talk">‘Est-ce qu’il m’avertit qu’un monstre se lève ?’</p>
+<p>Le système avait-il déjà été aussi amical ? Avec une tête inclinée, Jinwoo réalisa la véritable signification de la tonalité d’avertissement du système.</p>
+<div class="border">
+<p class="strong"><strong>Le Seigneur Suprême des Etages Inférieurs, Vulkan de l’Avarice a utilisé ‘Rage’.</strong></p>
+</div>
+<p class="talk">‘Hein ?’</p>
+<p>ring, ring, ring</p>
+<p>Les tonalités d’avertissement continuaient.</p>
+<div class="border">
+<p class="strong"><strong>Il entrera définitivement dans un état de rage.</strong><br/>
 <strong>Tous les attributs de Vulkan sont augmentés de 50%.</strong><br/>
-<strong>Vulkan ne ressent aucune douleur.</strong></p></div><p class="talk">‘Cette compétence, c’est… ?’</p><p class="">Avant même que Jinwoo n’ait pu se rappeler les souvenirs de Cerbère, Vulkan le chargeait de ses yeux rouges de sang.</p><p class="">BOOM BOOM BOOM BOOM BOOM BOOM BOOM-!</p><p class="">Le sol tremblait à chaque pas assourdissant. Jinwoo jeta un rapide coup d’œil en arrière ; ses Soldats de l’Ombre et les sous-fifres de Vulkan étaient dans une bataille féroce.</p><p class="talk">« Guoooooo ! »<br/>
-« Kiiek ! »</p><p class="">Au milieu de la bataille chaotique, Jinwoo trouva Iron. Témoignage de la puissance destructrice de Vulkan, le chevalier géant était encore en train de se régénérer.</p><p class="talk">« Iron ! »</p><p class="">Hurla Jinwoo. Son chevalier comprit immédiatement l’ordre de son seigneur. Iron jeta son bouclier avec force vers Jinwoo. Le Chasseur l’arracha rapidement des airs. Lorsqu’il tourna de nouveau le regard devant lui, Vulkan était déjà devant.</p><p class="talk">‘Si j’esquive, mes soldats seront touchés.’</p><p class="">Ce serait impossible de faire tomber Vulkan et ses serviteurs sans son armée. Jinwoo choisit donc la meilleure méthode pour protéger ses soldats. Il leva son bouclier et concentra sa force dans ses bras.</p><p class="talk">« Mm ! »</p><p class="">La massue de Vulkan tomba.</p><p class="">BANG !</p><p class="">BANG !</p><p class="">BANG !</p><p class="">Les attaques brutales qui firent crier la terre tombèrent impitoyablement sur Jinwoo, mais le Chasseur ne lâcha pas prise. Cela était possible uniquement grâce à sa réduction des dégâts physiques et à ses statistiques de constitution élevées.</p><p class="talk">« Mm ? Mm ? »</p><p class="">Enragé par l’inefficacité de ses attaques, Volkhan se mit à balancer sa massue avec fureur.</p><p class="">BANG ! BANG ! BANG ! BANG !</p><p class="">Cependant, les genoux de Jinwoo ne se plièrent pas.</p><p class="talk">‘Encore…’</p><p class="">Bloquer comme ça ne ferait jamais tomber cette montagne. Jinwoo avait les sourcils froncés. Contrairement au Cerbère, la « Rage » de Vulkan, bien que moins efficace que celle du chien, n’avait pas de limite de temps. Il ne pouvait pas attendre qu’elle s’arrête comme la dernière fois.</p><p class="">BANG ! BANG !</p><p class="">Jinwoo serra les dents.</p><p class="talk">‘Ce n’est pas vraiment mon style d’être un tanker de toute façon…’</p><p class="">BANG !</p><p class="">Au moment où la massue de Vulkan se rétracta pour le coup suivant, Jinwoo bondit de nouveau vers la tête du démon. Cependant, Jinwoo n’était pas le seul à chercher une opportunité.</p><p class="talk">« Mm ! »</p><p class="">Chronométrant ses mouvements, Vulkan recula alors que Jinwoo s’envolait vers lui.</p><p class="talk">‘Quoi ?’</p><p class="">Jinwoo vit la massue se balancer vers lui horizontalement.</p><p class="talk">‘Il m’a eu.’</p><p class="">S’il avait été sur le sol, ça aurait été une autre histoire. Mais il n’y avait aucun moyen d’esquiver en plein vol. Même s’il bloquait, il serait écrasé contre quelque chose.</p><p class="">woooooooonh- !</p><p class="">Dans un monde où le temps était ralenti, Jinwoo voyait la massue se diriger vers lui au ralenti.</p><p class="talk">‘Y a-t-il quelque chose que je puisse faire ?!’</p><p class="">Si seulement il pouvait bouger son corps. Soudain, une pensée lui traversa l’esprit,</p><p class="talk">‘Si seulement je pouvais bouger mon corps ?’</p><p class="">Pas le temps de réfléchir. Jinwoo utilisa rapidement ‘Les mains du souverain’ pour essayer de pousser Vulkan.</p><p class="talk">« Mm ? »</p><p class="">Bien sûr, déplacer ce corps montagneux avec son niveau actuel de compétence était impossible. Cependant, le rebond de la force repoussa le corps de Jinwoo.</p><p class="">woooosh- !</p><p class="">La pointe de la massue passa sous ses yeux.</p><p class="talk">‘Merci Newton ahjussi !’</p><p class="">A cause du mouvement erratique, Jinwoo perdit son équilibre et roula un peu sur le sol, mais ce n’était rien comparé aux dégâts qu’il aurait subis s’il avait été frappé par l’attaque.</p><p class="talk">« Phew- ! »</p><p class="">Jinwoo se reprit et soupira de soulagement.</p><p class="talk">« Mm ? »</p><p class="">D’un autre côté, le visage de Vulkan se froissa hideusement de colère. Le fait de rater son attaque planifiée faisait trembler de rage chaque centimètre de son corps.</p><p class="talk">« Mm, Mm ! »</p><p class="">En regardant le visage du démon rougir, Jinwoo se gratta le côté de la tête.</p><p class="talk">‘Et maintenant ?’</p><p class="">Il avait juste montré la capacité d’esquiver en sautant sur sa tête. De plus, il ne semblait pas que Jinwoo pouvait faire beaucoup de dégâts sur le reste de son corps compte tenu de sa taille.</p><p class="talk">‘Y a-t-il un moyen de l’empêcher d’esquiver ?’</p><p class="">Jinwoo pensa à une idée. Les coins de sa bouche se soulevèrent. Le Chasseur se retourna et courut. Prenant cela pour Jinwoo essayant de s’échapper, Vulkan le poursuivit rapidement.</p><p class="">BOUM BOUM BOUM- !</p><p class="">Jinwoo contrôlait son rythme pour que Vulkan puisse le suivre. Ses yeux s’illuminèrent lorsqu’il trouva un bâtiment convenable.</p><p class="talk">‘Ça devrait marcher.’</p><p class="">Pendant ce temps,</p><p class="talk">« MM ! »</p><p class="">Alors que la distance entre lui et Jinwoo diminuait, le démon fit basculer sa massue.</p><p class="">Cette existence Insectile !</p><p class="">La chance d’écraser ce problème était là. Un sourire dégoûtant apparut sur le visage de Vulkan. Mais alors que sa massue tombait vers le sol, l’insecte accéléra soudainement et courut vers un bâtiment en ruines et grimpa le long de son mur.</p><p class="talk">« Mm ? »</p><p class="">Quelque chose ne tournait pas rond, mais c’était trop tard pour ralentir.</p><p class="talk">« Mm, mm ? »</p><p class="">L’insecte sur le bâtiment atteignit le niveau de l’œil du démon, puis donna un coup de pied dans le bâtiment de toutes ses forces.</p><p class="">CRACK !</p><p class="">Le mur qu’il avait éjecté se fendit comme une toile d’araignée, et quelque chose s’envola vers le visage de Vulkan plus vite qu’il ne pouvait réagir. C’était l’insecte.</p><p class="talk">« Mm ! »</p><p class="">Les yeux de Vulkan devinrent plus larges. Jinwoo rencontra ses yeux avec un sourire. Tenant le tanto de Baruka dans sa main droite, Jinwoo trancha l’artère bombée sur le cou du démon.</p><p class="">Taillade !</p><p class="">Comme son grand corps était ajusté, le sang se répandit comme une fontaine de la blessure.</p><p class="">Plouf !</p><p class="talk">« Mm ? Mm ! »</p><p class="">Vulkan balança sa massue et posa rapidement une main sur la blessure.</p><p class="talk">« Mm ! »</p><p class="">Cependant, ce n’était pas suffisant pour arrêter le saignement. Les yeux du démon géant commencèrent à trembler.</p><p class="talk">« M-mm ? »</p><p class="">Jinwoo avait déjà grimpé derrière son dos et utilisé ses deux dagues pour poignarder le cou du démon.</p><p class="talk">‘Une fois n’est pas assez ?’</p><p class="">La tête inclinée, Jinwoo utilisa à nouveau cette technique.</p><p class="talk">‘Frappe vitale !’</p><p class="">Les deux dagues pénétrèrent à nouveau dans le cou de Vulkan.</p><p class="">poignarde !</p><p class="">poignarde !</p><p class="">Et finalement, le message de victoire apparut.</p><p class="onomatope">ring~</p><div class="border"><p class="strong"><strong>Vous avez vaincu le Seigneur Suprême des Etages Inférieurs, Vulkan de l’Avarice.</strong><br/>
+<strong>Vulkan ne ressent aucune douleur.</strong></p>
+</div>
+<p class="talk">‘Cette compétence, c’est… ?’</p>
+<p>Avant même que Jinwoo n’ait pu se rappeler les souvenirs de Cerbère, Vulkan le chargeait de ses yeux rouges de sang.</p>
+<p>BOOM BOOM BOOM BOOM BOOM BOOM BOOM-!</p>
+<p>Le sol tremblait à chaque pas assourdissant. Jinwoo jeta un rapide coup d’œil en arrière ; ses Soldats de l’Ombre et les sous-fifres de Vulkan étaient dans une bataille féroce.</p>
+<p class="talk">« Guoooooo ! »<br/>
+« Kiiek ! »</p>
+<p>Au milieu de la bataille chaotique, Jinwoo trouva Iron. Témoignage de la puissance destructrice de Vulkan, le chevalier géant était encore en train de se régénérer.</p>
+<p class="talk">« Iron ! »</p>
+<p>Hurla Jinwoo. Son chevalier comprit immédiatement l’ordre de son seigneur. Iron jeta son bouclier avec force vers Jinwoo. Le Chasseur l’arracha rapidement des airs. Lorsqu’il tourna de nouveau le regard devant lui, Vulkan était déjà devant.</p>
+<p class="talk">‘Si j’esquive, mes soldats seront touchés.’</p>
+<p>Ce serait impossible de faire tomber Vulkan et ses serviteurs sans son armée. Jinwoo choisit donc la meilleure méthode pour protéger ses soldats. Il leva son bouclier et concentra sa force dans ses bras.</p>
+<p class="talk">« Mm ! »</p>
+<p>La massue de Vulkan tomba.</p>
+<p>BANG !</p>
+<p>BANG !</p>
+<p>BANG !</p>
+<p>Les attaques brutales qui firent crier la terre tombèrent impitoyablement sur Jinwoo, mais le Chasseur ne lâcha pas prise. Cela était possible uniquement grâce à sa réduction des dégâts physiques et à ses statistiques de constitution élevées.</p>
+<p class="talk">« Mm ? Mm ? »</p>
+<p>Enragé par l’inefficacité de ses attaques, Volkhan se mit à balancer sa massue avec fureur.</p>
+<p>BANG ! BANG ! BANG ! BANG !</p>
+<p>Cependant, les genoux de Jinwoo ne se plièrent pas.</p>
+<p class="talk">‘Encore…’</p>
+<p>Bloquer comme ça ne ferait jamais tomber cette montagne. Jinwoo avait les sourcils froncés. Contrairement au Cerbère, la « Rage » de Vulkan, bien que moins efficace que celle du chien, n’avait pas de limite de temps. Il ne pouvait pas attendre qu’elle s’arrête comme la dernière fois.</p>
+<p>BANG ! BANG !</p>
+<p>Jinwoo serra les dents.</p>
+<p class="talk">‘Ce n’est pas vraiment mon style d’être un tanker de toute façon…’</p>
+<p>BANG !</p>
+<p>Au moment où la massue de Vulkan se rétracta pour le coup suivant, Jinwoo bondit de nouveau vers la tête du démon. Cependant, Jinwoo n’était pas le seul à chercher une opportunité.</p>
+<p class="talk">« Mm ! »</p>
+<p>Chronométrant ses mouvements, Vulkan recula alors que Jinwoo s’envolait vers lui.</p>
+<p class="talk">‘Quoi ?’</p>
+<p>Jinwoo vit la massue se balancer vers lui horizontalement.</p>
+<p class="talk">‘Il m’a eu.’</p>
+<p>S’il avait été sur le sol, ça aurait été une autre histoire. Mais il n’y avait aucun moyen d’esquiver en plein vol. Même s’il bloquait, il serait écrasé contre quelque chose.</p>
+<p>woooooooonh- !</p>
+<p>Dans un monde où le temps était ralenti, Jinwoo voyait la massue se diriger vers lui au ralenti.</p>
+<p class="talk">‘Y a-t-il quelque chose que je puisse faire ?!’</p>
+<p>Si seulement il pouvait bouger son corps. Soudain, une pensée lui traversa l’esprit,</p>
+<p class="talk">‘Si seulement je pouvais bouger mon corps ?’</p>
+<p>Pas le temps de réfléchir. Jinwoo utilisa rapidement ‘Les mains du souverain’ pour essayer de pousser Vulkan.</p>
+<p class="talk">« Mm ? »</p>
+<p>Bien sûr, déplacer ce corps montagneux avec son niveau actuel de compétence était impossible. Cependant, le rebond de la force repoussa le corps de Jinwoo.</p>
+<p>woooosh- !</p>
+<p>La pointe de la massue passa sous ses yeux.</p>
+<p class="talk">‘Merci Newton ahjussi !’</p>
+<p>A cause du mouvement erratique, Jinwoo perdit son équilibre et roula un peu sur le sol, mais ce n’était rien comparé aux dégâts qu’il aurait subis s’il avait été frappé par l’attaque.</p>
+<p class="talk">« Phew- ! »</p>
+<p>Jinwoo se reprit et soupira de soulagement.</p>
+<p class="talk">« Mm ? »</p>
+<p>D’un autre côté, le visage de Vulkan se froissa hideusement de colère. Le fait de rater son attaque planifiée faisait trembler de rage chaque centimètre de son corps.</p>
+<p class="talk">« Mm, Mm ! »</p>
+<p>En regardant le visage du démon rougir, Jinwoo se gratta le côté de la tête.</p>
+<p class="talk">‘Et maintenant ?’</p>
+<p>Il avait juste montré la capacité d’esquiver en sautant sur sa tête. De plus, il ne semblait pas que Jinwoo pouvait faire beaucoup de dégâts sur le reste de son corps compte tenu de sa taille.</p>
+<p class="talk">‘Y a-t-il un moyen de l’empêcher d’esquiver ?’</p>
+<p>Jinwoo pensa à une idée. Les coins de sa bouche se soulevèrent. Le Chasseur se retourna et courut. Prenant cela pour Jinwoo essayant de s’échapper, Vulkan le poursuivit rapidement.</p>
+<p>BOUM BOUM BOUM- !</p>
+<p>Jinwoo contrôlait son rythme pour que Vulkan puisse le suivre. Ses yeux s’illuminèrent lorsqu’il trouva un bâtiment convenable.</p>
+<p class="talk">‘Ça devrait marcher.’</p>
+<p>Pendant ce temps,</p>
+<p class="talk">« MM ! »</p>
+<p>Alors que la distance entre lui et Jinwoo diminuait, le démon fit basculer sa massue.</p>
+<p>Cette existence Insectile !</p>
+<p>La chance d’écraser ce problème était là. Un sourire dégoûtant apparut sur le visage de Vulkan. Mais alors que sa massue tombait vers le sol, l’insecte accéléra soudainement et courut vers un bâtiment en ruines et grimpa le long de son mur.</p>
+<p class="talk">« Mm ? »</p>
+<p>Quelque chose ne tournait pas rond, mais c’était trop tard pour ralentir.</p>
+<p class="talk">« Mm, mm ? »</p>
+<p>L’insecte sur le bâtiment atteignit le niveau de l’œil du démon, puis donna un coup de pied dans le bâtiment de toutes ses forces.</p>
+<p>CRACK !</p>
+<p>Le mur qu’il avait éjecté se fendit comme une toile d’araignée, et quelque chose s’envola vers le visage de Vulkan plus vite qu’il ne pouvait réagir. C’était l’insecte.</p>
+<p class="talk">« Mm ! »</p>
+<p>Les yeux de Vulkan devinrent plus larges. Jinwoo rencontra ses yeux avec un sourire. Tenant le tanto de Baruka dans sa main droite, Jinwoo trancha l’artère bombée sur le cou du démon.</p>
+<p>Taillade !</p>
+<p>Comme son grand corps était ajusté, le sang se répandit comme une fontaine de la blessure.</p>
+<p>Plouf !</p>
+<p class="talk">« Mm ? Mm ! »</p>
+<p>Vulkan balança sa massue et posa rapidement une main sur la blessure.</p>
+<p class="talk">« Mm ! »</p>
+<p>Cependant, ce n’était pas suffisant pour arrêter le saignement. Les yeux du démon géant commencèrent à trembler.</p>
+<p class="talk">« M-mm ? »</p>
+<p>Jinwoo avait déjà grimpé derrière son dos et utilisé ses deux dagues pour poignarder le cou du démon.</p>
+<p class="talk">‘Une fois n’est pas assez ?’</p>
+<p>La tête inclinée, Jinwoo utilisa à nouveau cette technique.</p>
+<p class="talk">‘Frappe vitale !’</p>
+<p>Les deux dagues pénétrèrent à nouveau dans le cou de Vulkan.</p>
+<p>poignarde !</p>
+<p>poignarde !</p>
+<p>Et finalement, le message de victoire apparut.</p>
+<p class="onomatope">ring~</p>
+<div class="border">
+<p class="strong"><strong>Vous avez vaincu le Seigneur Suprême des Etages Inférieurs, Vulkan de l’Avarice.</strong><br/>
 <strong>Vous avez gagné 150 000 points d’expérience.</strong><br/>
 <strong>Volkhan a vomi les âmes démoniaques dans son estomac.</strong><br/>
-<strong>Vous avez gagné 72 âmes démoniaques.</strong></p><p class="strong"><strong>Vous avez gagné un niveau !</strong></p><p class="strong"><strong>Vous avez gagné un niveau !</strong></p></div></body></html>
+<strong>Vous avez gagné 72 âmes démoniaques.</strong></p>
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+<p class="strong"><strong>Vous avez gagné un niveau !</strong></p>
+</div>
+</body>
+</html>
