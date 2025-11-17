@@ -62,7 +62,7 @@
 <p>Yu Jin-Ho se tenait debout avec un peu d’ego gonflé pour une raison quelconque, mais un employé de l’Association japonaise qui cherchait les deux Coréens se rapprocha et l’engagea dans une conversation.</p>
 <p class="talk">« Par hasard, êtes-vous Chasseur-nim ? »</p>
 <p class="talk">« Ah, si vous cherchez Hyung-nim, il est… »</p>
-<p>Lorsque Yu Jin-Ho entendit le mot » Chasseur « , il désigna immédiatement Jinwoo là-bas, mais l’employé secoua rapidement la tête et désigna plutôt le jeune Coréen.</p>
+<p>Lorsque Yu Jin-Ho entendit le mot « Chasseur » , il désigna immédiatement Jinwoo là-bas, mais l’employé secoua rapidement la tête et désigna plutôt le jeune Coréen.</p>
 <p class="talk">« Non, non. Toi. »</p>
 <p>Yu Jin-Ho cligna des yeux plusieurs fois.</p>
 <p class="talk">« Moi ? »</p>
@@ -152,7 +152,7 @@
 <p>Yu Jin-Ho s’assit sans mot, les épaules frémissantes et incontrôlables pendant qu’il pleurait. Il parvint à calmer son cœur endolori et se releva.</p>
 <p class="talk">« Papa… Y a-t-il un moyen de réveiller mon père ? »</p>
 <p>Le secrétaire Kim secoua la tête avec un teint foncé.</p>
-<p>Il n’y avait aucun cas officiellement connu de patients qui rouvraient les yeux après avoir atteint l’état de » sommeil final « . A la seule exception d’une personne, c’était.</p>
+<p>Il n’y avait aucun cas officiellement connu de patients qui rouvraient les yeux après avoir atteint l’état de « sommeil final » . A la seule exception d’une personne, c’était.</p>
 <p>Les pensées du secrétaire Kim arrivèrent là et s’exprima avec une certaine difficulté.</p>
 <p class="talk">« Par hasard… Yu Jin-Ho-gun ? »</p>
 <p class="talk">« Oui ? »</p>

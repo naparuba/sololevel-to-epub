@@ -196,7 +196,7 @@
 <p class="talk">‘Je ne peux pas emporter mon or dans l’au-delà.’</p>
 <p>Sans hésiter, Jinwoo acheta l’arme. De plus, il acheta aussi quelques bandages.</p>
 <div class="border">
-<p class="strong"><strong>Vous avez acheté » Tueur de Chevalier « .</strong><br/>
+<p class="strong"><strong>Vous avez acheté « Tueur de Chevalier » .</strong><br/>
 <strong>Vous avez acheté « Bandages ».</strong></p>
 </div>
 <p>Comme sa description le mentionnait, c’était une dague d’apparence effrayante avec une lame dentelée. Il prit l’arme de la main droite et utilisa les bandages pour l’attacher solidement dans sa main.</p>

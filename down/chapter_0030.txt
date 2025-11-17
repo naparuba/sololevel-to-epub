@@ -87,7 +87,7 @@
 <p class="talk">« Ces hommes sont prisonniers d’un programme de libération conditionnelle qui accompagnera les Chasseur-nims dans le raid. »</p>
 <p>L’expression des Chasseurs devint plus sombre. Kim Sangshik avança,</p>
 <p class="talk">« Prisonniers en liberté conditionnelle ? Vous nous dites de faire un Raid avec des criminels ? »</p>
-<p>Les Chasseurs qui avaient commis des crimes avaient deux choix. Exécuter leurs peines dans une prison ou coopérer avec l’Association et réduire leurs peines. La plupart choisissaient cette dernière option. Ces criminels seraient en » liberté de travail « . L’employée s’excusa en s’inclinant devant les Chasseurs.</p>
+<p>Les Chasseurs qui avaient commis des crimes avaient deux choix. Exécuter leurs peines dans une prison ou coopérer avec l’Association et réduire leurs peines. La plupart choisissaient cette dernière option. Ces criminels seraient en « liberté de travail » . L’employée s’excusa en s’inclinant devant les Chasseurs.</p>
 <p class="talk">« Je dois vraiment m’excuser. Le nombre de chasseurs dans notre zone avait diminué de façon trop importante. L’Association a dit que nous n’avions pas le choix pour le moment. Heureusement, un Chasseur du Département de Surveillance des Chasseurs vous accompagnera, vous n’aurez donc pas à vous inquiéter. »</p>
 <p>Kim Sangshik demanda avec méfiance,</p>
 <p class="talk">« Le chasseur du DSC va venir avec nous aussi ? »</p>

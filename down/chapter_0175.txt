@@ -61,7 +61,7 @@
 <p class="talk">« …Ah, ah. Tu dois faire référence aux habitants du monde du chaos. »</p>
 <p>Le Roi des Géants sourit d’un air moqueur.</p>
 <p class="talk">« Je te demanderai quelque chose en retour. Comment peux-tu penser à mettre de simples habitants du monde du chaos sur le même piédestal qu’un Souverain qui règne sur eux ? »</p>
-<p>Il forma alors une expression empreinte de dignité qui convenait parfaitement à un » Roi « .</p>
+<p>Il forma alors une expression empreinte de dignité qui convenait parfaitement à un « Roi » .</p>
 <p class="talk">« Tous les habitants du monde du chaos qui émergent de ce qu’on appelle les Portes sont, sans exception, des restes de l’armée vaincue. Ils ont perdu les batailles contre l’armée des Dirigeants et sont devenus prisonniers. Ils ont été attachés à une laisse pendant un nombre incalculable d’années, il est donc évident que leur ego se soit érodé un peu. Cependant, je suis Roi. Je suis différent d’eux. J’ai patiemment attendu le jour fatidique où je pourrai m’échapper de leur emprise. »</p>
 <p>Le Roi forma ensuite un mince sourire.</p>
 <p class="talk">« Et c’est comme ça que je t’ai rencontré. »</p>
@@ -102,7 +102,7 @@
 <p class="talk">« L’énergie magique fortifie un monde. Ils veulent fortifier votre monde pour qu’il ne soit pas détruit par les impacts de la guerre. »</p>
 <p class="talk">« Dans ce cas, cette guerre est… ? »</p>
 <p class="talk">« Encore une autre lutte sanglante entre les Souverains et les Dirigeants. Dans peu de temps, le monde dans lequel tu vis deviendra un véritable enfer. »</p>
-<p>Une bataille entre les armées des Dirigeants, et les monstres – non, des créatures avant d’être inconsciemment transformées en monstres. Jinwoo avait clairement été témoin de leur énorme bataille à partir des » données « .</p>
+<p>Une bataille entre les armées des Dirigeants, et les monstres – non, des créatures avant d’être inconsciemment transformées en monstres. Jinwoo avait clairement été témoin de leur énorme bataille à partir des « données » .</p>
 <p>Si la Terre avait été choisie comme point zéro pour une guerre d’une telle ampleur, alors l’affirmation de ce Roi des Géants, celle selon laquelle cette planète deviendrait l’enfer, ne pourrait être écartée comme une simple exagération.</p>
 <p>Le teint du Roi s’assombrit soudainement.</p>
 <p class="talk">« Il ne reste plus beaucoup de temps. »</p>

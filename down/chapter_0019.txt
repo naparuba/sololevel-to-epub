@@ -145,7 +145,7 @@
 <p class="talk">« Soupir, ça va être un problème. Vous pouvez rester ici pendant qu’on va chercher l’équipement ? »</p>
 
 <p>Notes du traducteur :<br/>
-[1] : « cristaux de mana » (마나석) : « mana » en anglais + » pierre/croche » 석. Stylisé la traduction en « cristaux » à cause de leur brillance.<br/>
+[1] : « cristaux de mana » (마나석) : « mana » en anglais + « pierre/croche » 석. Stylisé la traduction en » cristaux » à cause de leur brillance.<br/>
 [2] : « sunbae-nim » (선배님) : « Sunbae » est un mot coréen utilisé pour s’adresser aux personnes âgées d’une même profession. Dans les rares cas où une personne plus jeune que vous travaille plus longtemps que vous dans l’entreprise, cette personne sera toujours votre « Sunbae ». « Nim » est ajouté quelques fois pour le respect. Equivalent japonais = senpai.</p>
 </body>
 </html>

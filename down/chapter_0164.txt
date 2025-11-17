@@ -6,7 +6,7 @@
 <p>Il avait réalisé qu’il y avait un autre cœur d’énergie magique qui battait dans sa poitrine. Il sentait de puissantes poussées d’énergie jaillir sans cesse de ce nouveau cœur.</p>
 <p>Aurait-il pu faire une erreur ? C’était assez facile de confirmer la vérité, en fait.</p>
 <p class="talk">‘Fenêtre de statut.’</p>
-<p>Tout en gardant sa main fermement serrée autour du cou de la statue d’ange, il invoqua sa fenêtre de statut. Ce qu’il voulait voir parmi les nombreuses valeurs énumérées, c’était ses réserves actuelles d’énergie magique, que le Système avait désignées comme » Points de Mana » ou » MP « .</p>
+<p>Tout en gardant sa main fermement serrée autour du cou de la statue d’ange, il invoqua sa fenêtre de statut. Ce qu’il voulait voir parmi les nombreuses valeurs énumérées, c’était ses réserves actuelles d’énergie magique, que le Système avait désignées comme « Points de Mana » ou » MP » .</p>
 <div class="border">
 <p class="strong"><strong>[MP : 109,433]</strong></p>
 </div>

@@ -63,7 +63,7 @@
 <p class="talk">« Waaaaaah !!! »</p>
 <p>Il frappa le sol et chargea.</p>
 <p>boum boum boum boum !</p>
-<p>Alors qu’il courait, il se dit. C’était un Tanker qui brillait dans l’échelon supérieur des rang C. La cible était probablement un dealer. Ses mouvements étaient rapides, mais il n’y avait aucune chance qu’il ait le pouvoir de passer sa défense, fortifié par la compétence » Renforcer « [1].</p>
+<p>Alors qu’il courait, il se dit. C’était un Tanker qui brillait dans l’échelon supérieur des rang C. La cible était probablement un dealer. Ses mouvements étaient rapides, mais il n’y avait aucune chance qu’il ait le pouvoir de passer sa défense, fortifié par la compétence « Renforcer » [1].</p>
 <p class="talk">‘Tu ne peux pas me blesser mortellement avec une simple dague !’</p>
 <p>Celui qui sera détruit dans leur affrontement sera Jinwoo !</p>
 <p>Il tacla avec son épaule en se rapprochant.</p>
@@ -169,7 +169,7 @@
 <p class="talk">“…”</p>
 <p>Jinwoo réalisa que ce serait plus facile qu’il ne le pensait.</p>
 <p>________________________________________</p>
-<p>Jinho tremblait fortement. Son visage était complètement pâle. Après tout, il venait de voir Jinwoo massacrer huit personnes. L’une des armes les plus puissantes pour gouverner une personne était la » peur « . Jinwoo décida donc d’utiliser cela à son avantage.</p>
+<p>Jinho tremblait fortement. Son visage était complètement pâle. Après tout, il venait de voir Jinwoo massacrer huit personnes. L’une des armes les plus puissantes pour gouverner une personne était la « peur » . Jinwoo décida donc d’utiliser cela à son avantage.</p>
 <p class="talk">« Pourquoi je devrais ? »</p>
 <p>Jinwoo pouvait jurer qu’il avait entendu le cœur de Jinho se briser littéralement.</p>
 <p class="talk">‘C’était trop?’</p>
@@ -187,7 +187,7 @@
 <p class="talk">‘Alors ça doit être ça !’</p>
 <p>C’était le prix du sang. La raison pour laquelle il avait sali ses mains pour regarder à l’intérieur du cadavre était qu’il s’était battu contre le boss araignée pour cela. Il n’aurait aucune pitié pour ceux qui allaient à son encontre, mais il n’aurait rien à voir avec ce qui n’avait pas été gagné avec la sueur et le sang. Un véritable mécène de l’effort[3] !</p>
 <p class="talk">‘Dire que j’ai essayé d’acheter avec de l’argent la miséricorde de hyungnim. Bien sûr qu’il m’en voudrait.’</p>
-<p>En ce moment, ce dont il avait besoin, ce n’était pas de » l’argent de son père « , mais de » valeur » pour avoir la vie sauve. Il jeta un coup d’œil sur le visage de Jinwoo, mais l’homme semblait toujours en colère.</p>
+<p>En ce moment, ce dont il avait besoin, ce n’était pas de « l’argent de son père » , mais de » valeur » pour avoir la vie sauve. Il jeta un coup d’œil sur le visage de Jinwoo, mais l’homme semblait toujours en colère.</p>
 <p>Jinho parla rapidement :</p>
 <p class="talk">« Hyungnim. Si tu m’épargnes, je donnerai tous les revenus de ce donjon à Hyungnim.</p>
 <p class="talk">– Hmm ? »</p>
@@ -201,7 +201,7 @@
 
 <p>Notes du traducteur :<br/>
 [1] : » Renforcer » (강화) : lit. » renforcement »<br/>
-[2] : » Soif de sang » (살기) : » Meurtre » 살 + « énergie/esprit » 기. Se traduit directement par « soif de sang / désir de sang ». Il pourrait aussi s’agir de « l’intention de tuer ».<br/>
+[2] : « Soif de sang » (살기) : « Meurtre » 살 + « énergie/esprit » 기. Se traduit directement par » soif de sang / désir de sang ». Il pourrait aussi s’agir de » l’intention de tuer ».<br/>
 [3] : « mécène de l’effort » (피의 수도자) : Mes excuses, ma traduction est en fait complètement différente de l’original coréen. La traduction littérale serait « ascète de sang », ce qui, à mon avis, ne traduisait pas le sens du passage. L’image que Jinho se fait de Jinwoo est essentiellement qu’il ne prend que ce qu’il a gagné. Dans la culture coréenne, le « sang » porte une signification symbolique très commune de l’effort, d’où le titre « ascète du sang ».</p>
 </body>
 </html>

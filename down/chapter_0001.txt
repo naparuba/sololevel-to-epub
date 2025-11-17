@@ -119,7 +119,7 @@
 <p class="talk" style="text-align:left;">« Moi, moi aussi… »</p>
 <p class="talk" style="text-align:left;">« Pareil pour moi. »</p>
 <p class="talk" style="text-align:left;">« Un vote de plus pour « oui » »</p>
-<p style="text-align:left;">Kim s’était également joint au groupe » Allons-y « .</p>
+<p style="text-align:left;">Kim s’était également joint au groupe « Allons-y » .</p>
 <p style="text-align:left;">Mais il y avait aussi des votes contraires,</p>
 <p class="talk" style="text-align:left;">« Ne le faisons pas. »</p>
 <p class="talk" style="text-align:left;">« Je pense que nous devrions attendre la décision de l’Association. »</p>
@@ -130,8 +130,8 @@
 <p style="text-align:left;">Notes du traducteur :</p>
 <p style="text-align:left;">[1] : « plusieurs millions de wons » : ~Plusieurs milliers en USD (les frais médicaux de sa mère)</p>
 <p style="text-align:left;">[2] : « -nim » : Distinction honorifique post-nominal coréenne témoignant d’un grand respect. Se situe quelque part entre -san et -sama japonais. La plupart des collaborateurs du service après-vente en Corée se réfèrent à des clients avec « -nim ».</p>
-<p style="text-align:left;">[3] : « bête magique » (마수 ; Ma-Su) ; » magique » Ma + « bête » Su</p>
-<p style="text-align:left;">[4] : « (마정석 ; Ma-Jung-Suk) ; » Magique » Ma + » Centre/Milieu » Jung + » Pierre » Suk. par ex. – Une pierre magique au centre/au milieu du monstre magique &gt; » noyau magique « .</p>
+<p style="text-align:left;">[3] : « bête magique » (마수 ; Ma-Su) ; « magique » Ma + » bête » Su</p>
+<p style="text-align:left;">[4] : « (마정석 ; Ma-Jung-Suk) ; » Magique « Ma + » Centre/Milieu » Jung + » Pierre » Suk. par ex. – Une pierre magique au centre/au milieu du monstre magique &gt; » noyau magique » .</p>
 <p style="text-align:left;">[5] : « cent mille won » : ~90 USD (valeur du Noyau Magique de rang E)</p>
 <p style="text-align:left;">[6] : « quelques dix millions (gagnés) » : ~Plusieurs dizaines de milliers en USD (valeur du Noyau Magique de rang C). La dernière fois que j’ai clarifié le won coréen par rapport à l’équivalent en USD. En règle générale, il suffit de diviser le nombre de KRW par 1 000 pour obtenir l’USD.</p>
 </body>

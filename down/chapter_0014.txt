@@ -54,7 +54,7 @@
 <p class="talk">‘Peut-être…’</p>
 <p>Et si la valeur de ses attributs devenait plus importante à mesure qu’ils augmentaient ? Cela expliquerait ce pouvoir destructeur. De plus, ses mouvements s’étaient accélérés. Si c’était l’ancien lui, il ne pourrait pas imaginer éviter les attaques rapides des bêtes ou faire hurler le vent quand il frappait.</p>
 <p class="talk">« Je suppose que le développement de mes muscles me rendrait plus rapide. »</p>
-<p>Il semblait que l’augmentation de la force augmentait à la fois sa » force » et sa » vitesse « . Sa bataille contre le Lycan en était la preuve.</p>
+<p>Il semblait que l’augmentation de la force augmentait à la fois sa « force » et sa » vitesse » . Sa bataille contre le Lycan en était la preuve.</p>
 <p>Mais qu’en est-il de la stat d’agilité ? Si ce n’était pas sa mobilité, qu’est-ce qu’elle augmenterait ?</p>
 <p>Jinwoo savait qu’il ne pourrait pas satisfaire sa curiosité sans plus de points statistiques.</p>
 <p class="talk">‘Même si j’avais un peu…’</p>
@@ -77,7 +77,7 @@
 <p class="talk">« Hmm ? »</p>
 <p>Il vit quelque chose briller dans la bouche du Lycan. Jinwoo lui ouvra les mâchoires. Une des dents du Lycan brillait. Lorsqu’il la toucha, un message apparut.</p>
 <div class="border">
-<p class="strong"><strong>Vous avez trouvé une » canine de Lycan « </strong><br/>
+<p class="strong"><strong>Vous avez trouvé une « canine de Lycan » </strong><br/>
 <strong>Souhaitez-vous l’acquérir ?</strong></p>
 </div>
 <p class="talk"><strong>« Acquérir. »</strong></p>
@@ -136,7 +136,7 @@
 <p>En terrassant le dernier Lycan qui restait, un message étrange apparut.</p>
 <p class="onomatope">ring~</p>
 <div class="border">
-<p class="strong"><strong>Vous avez obtenu le titre de » Tueur de loup « </strong></p>
+<p class="strong"><strong>Vous avez obtenu le titre de « Tueur de loup » </strong></p>
 </div>
 <p class="talk">« Titre ? »</p>
 <div class="border">

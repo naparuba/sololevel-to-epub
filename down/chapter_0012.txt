@@ -301,10 +301,10 @@
 <p class="talk" style="text-align:left;">‘Il est peut-être temps de me faire renvoyer.’</p>
 
 <p style="text-align:left;">Notes du traducteur :</p>
-<p style="text-align:left;">[1] : » être unique » (유일무이 ; 唯一無二) : « seulement » + « un » + « non » + « seconde ». Je pense que c’est une expression qui se traduit essentiellement par « être unique ».</p>
+<p style="text-align:left;">[1] : « être unique » (유일무이 ; 唯一無二) : « seulement » + « un » + « non » + « seconde ». Je pense que c’est une expression qui se traduit essentiellement par » être unique ».</p>
 <p style="text-align:left;">[2] : « cette fonction était limitée aux objets provenant de la boîte aléatoire. »</p>
 <p style="text-align:left;">[3] : « -ssi » (씨 ; « ssi ») : J’ai utilisé « M. » ou « Mme » pour cet honneur coréen jusqu’à présent, mais à mesure que j’approfondissais l’histoire, le simple fait d’utiliser « M. » commençait à ne pas si bien s’accorder dans certaines situations. L’honorifique est utilisé comme courtoisie de base lorsque les gens se parlent ou se réfèrent les uns aux autres, surtout lorsqu’ils sont plus âgés.</p>
-<p style="text-align:left;">[4] : » kiosque de nourriture au bord de la rue » (포장마차 ; » po-jang-ma-cha « ) : C’est un commerce courant en Corée. À la croisée des chemins entre le chariot et le restaurant, les vendeurs installaient une bâche géante qui sert d’intérieur à un magasin et y servaient divers aliments et boissons.</p>
+<p style="text-align:left;">[4] : « kiosque de nourriture au bord de la rue » (포장마차 ; » po-jang-ma-cha » ) : C’est un commerce courant en Corée. À la croisée des chemins entre le chariot et le restaurant, les vendeurs installaient une bâche géante qui sert d’intérieur à un magasin et y servaient divers aliments et boissons.</p>
 
 </body>
 </html>

@@ -26,7 +26,7 @@
 <p>Rêvait-il ?</p>
 <p>Il ferma les yeux et les rouvrit. Rien n’avait changé. Le nom du mille-pattes flottait au-dessus de sa tête en lettres rouges. Comme un monstre de jeu vidéo.</p>
 <p class="talk">‘Centipède de sable géant vénéneux’</p>
-<p>Avec sa silhouette étrange et dangereuse, il avait un nom qui lui criait de fuir. Surtout la partie » vénéneuse « . Deux crocs de la taille d’un enfant attirèrent l’attention de Jinwoo. C’était très clair ce qui se passerait s’il était percé par eux.</p>
+<p>Avec sa silhouette étrange et dangereuse, il avait un nom qui lui criait de fuir. Surtout la partie « vénéneuse » . Deux crocs de la taille d’un enfant attirèrent l’attention de Jinwoo. C’était très clair ce qui se passerait s’il était percé par eux.</p>
 <p>Jinwoo vit la bouche du mille-pattes s’ouvrir et se refermer sans cesse sans repos.</p>
 <p class="talk">« On dirait qu’il a faim. »</p>
 <p>À ce moment-là, un bruit résonna dans sa tête.</p>

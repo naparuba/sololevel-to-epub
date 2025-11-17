@@ -154,6 +154,66 @@ def _fix_bad_line_characters(s):
     return u'\n'.join(new_lines)
 
 
+def _fix_french_quotes(s):
+    """
+    Corrige l'ordre des guillemets français ligne par ligne.
+    
+    Logique:
+    On maintient un état "ouvert/fermé" basé sur les guillemets vus jusqu'à présent.
+    - Si on est fermé (count_open == count_close) et qu'on voit un », c'est une erreur
+    - On cherche alors le « qui suit et on inverse la paire
+    """
+    lines = s.splitlines()
+    new_lines = []
+    
+    for line in lines:
+        if '»' not in line or '«' not in line:
+            new_lines.append(line)
+            continue
+            
+        # Extraire tous les guillemets avec leurs positions
+        quotes = []
+        for i, char in enumerate(line):
+            if char in ('«', '»'):
+                quotes.append([i, char])  # Liste mutable
+        
+        if len(quotes) < 2:
+            new_lines.append(line)
+            continue
+        
+        chars = list(line)
+        i = 0
+        
+        while i < len(quotes):
+            # Compter combien d'ouvrants et fermants on a vus jusqu'ici
+            count_open = sum(1 for j in range(i) if quotes[j][1] == '«')
+            count_close = sum(1 for j in range(i) if quotes[j][1] == '»')
+            
+            current_char = quotes[i][1]
+            
+            # Si on n'est pas dans une citation (count_open == count_close)
+            # et qu'on trouve un », c'est une erreur
+            if count_open == count_close and current_char == '»':
+                # Chercher le « qui suit
+                for j in range(i + 1, len(quotes)):
+                    if quotes[j][1] == '«':
+                        # Inverser cette paire » ... «
+                        pos1, pos2 = quotes[i][0], quotes[j][0]
+                        chars[pos1] = '«'
+                        chars[pos2] = '»'
+                        quotes[i][1] = '«'
+                        quotes[j][1] = '»'
+                        break
+                # Continuer après cette correction
+            
+            i += 1
+        
+        line = ''.join(chars)
+        new_lines.append(line)
+    
+    return '\n'.join(new_lines)
+
+
 STATUS_FINISH = 'finish'
 STATUS_NOT_FINISH = 'not-finish'
 STATUS_DOUBLE = 'double'
@@ -173,6 +233,9 @@ def _do_write_chapter(chapter_nb, lines):
     
     # Nettoyage du contenu HTML
     content = '\n'.join(lines)
+    
+    # Correction de l'ordre des guillemets français (ligne par ligne)
+    content = _fix_french_quotes(content)
     
     # Suppression d'attributs vides (ex: class="")
     content = re.sub(r"\s+\w+(?:[:\w+]*)?\s*=\s*(\"\"|'')", '', content)

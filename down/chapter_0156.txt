@@ -46,7 +46,7 @@
 <p>Jinwoo posa une autre question.</p>
 <p class="talk">« Es-tu un monstre ? »</p>
 <p>Les ondes d’énergie magique émises par la statue d’ange étaient certainement différentes de celles émises par les monstres ordinaires.</p>
-<p>Cependant, le sens du terme » monstre » avait été simplement créé par les humains pour leur propre convenance. Si ce terme était utilisé pour désigner un vrai monstre, alors oui, cette statue était sans aucun doute, un vrai « monstre ».</p>
+<p>Cependant, le sens du terme « monstre » avait été simplement créé par les humains pour leur propre convenance. Si ce terme était utilisé pour désigner un vrai monstre, alors oui, cette statue était sans aucun doute, un vrai » monstre ».</p>
 <p>Une statue en pierre qui pouvait parler et se déplacer – où peut-on espérer trouver un monstre plus monstrueux que ça ?</p>
 <p>Donc, ce que Jinwoo voulait savoir ici, était si cette chose était de mèche avec les monstres habituels ou non.</p>
 <p>Craaack.</p>
@@ -173,7 +173,7 @@
 <p>Comme il s’y attendait, des faisceaux laser rouges jaillirent des yeux de la statue du dieu.</p>
 <p>Chiiiiii-jick !</p>
 <p>Il ne fallut même pas une seconde pour que le bouclier fait de statues en pierre fonde, mais Jinwoo utilisa avec succès ce bref répit pour sortir en toute sécurité de la portée de ce faisceau.</p>
-<p>Il retira la compétence » Autorité du souverain « , et les restes fumants des statues tombèrent sur le sol.</p>
+<p>Il retira la compétence « Autorité du souverain » , et les restes fumants des statues tombèrent sur le sol.</p>
 <p>Tumble- !</p>
 <p>Jinwoo révisa rapidement son plan de bataille en confirmant la puissance de la statue du dieu capable d’évaporer complètement ces statues en pierre.</p>
 <p class="talk">‘Comme je le pensais, me débarrasser de la statue du dieu devrait être ma priorité.’</p>

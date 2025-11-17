@@ -160,8 +160,8 @@
 <p>Sa puissance destructrice n’était pas quelque chose à laquelle il s’attendait.</p>
 
 <p>Notes du traducteur :<br/>
-[1] : » Rareté » (입수 난이도) : Lit. obtenir/acquérir » 입수 + « difficulté » 난이도 &gt; « la difficulté d’obtenir cet objet » &gt; « rareté »<br/>
-[2] : » pierre de retour » (귀환석) : Lit. » retour » 귀환 + » pierre » 석 &gt; une pierre de retour. Dans certains jeux vidéo, il s’agit d’un élément qui permet à l’utilisateur de retourner dans le lieu sûr le plus proche (villes, points de sauvegarde, etc…). Appelé « pierre de foyer » dans WoW.<br/>
-[3] : « bête type bête magique » (짐승형 마수) : Lit. » bête/animal » 짐승 + » type » 형 + » bête magique » 마수 ; les deux mots pour » bête » sont différents en coréen. Un peu maladroit de dire « bête de type bête magique », mais Jinwoo clarifiant le « type » de la bête magique ici a sous-entendu que « bête magique » fait simplement référence à toute entité hostile dans un Donjon (ce qui signifie que leurs formes ne sont pas limitées aux animaux et aux bêtes).[4]: ‘Lycan aux dents en acier’ (강철 이빨 이빨 라이칸). Une traduction littérale. « acier » 강철 + « dent » 이빨.</p>
+[1] : « Rareté » (입수 난이도) : Lit. obtenir/acquérir « 입수 + » difficulté « 난이도 &gt; » la difficulté d’obtenir cet objet » &gt; » rareté »<br/>
+[2] : « pierre de retour » (귀환석) : Lit. » retour » 귀환 + » pierre » 석 &gt; une pierre de retour. Dans certains jeux vidéo, il s’agit d’un élément qui permet à l’utilisateur de retourner dans le lieu sûr le plus proche (villes, points de sauvegarde, etc…). Appelé » pierre de foyer » dans WoW.<br/>
+[3] : « bête type bête magique » (짐승형 마수) : Lit. « bête/animal » 짐승 + « type » 형 + « bête magique » 마수 ; les deux mots pour « bête » sont différents en coréen. Un peu maladroit de dire « bête de type bête magique », mais Jinwoo clarifiant le » type » de la bête magique ici a sous-entendu que » bête magique » fait simplement référence à toute entité hostile dans un Donjon (ce qui signifie que leurs formes ne sont pas limitées aux animaux et aux bêtes).[4]: ‘Lycan aux dents en acier’ (강철 이빨 이빨 라이칸). Une traduction littérale. » acier » 강철 + » dent » 이빨.</p>
 </body>
 </html>

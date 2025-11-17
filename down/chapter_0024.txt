@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Chapter 24</h1>
-<p>Jinho mit l’accent sur les mots » juste prix « .</p>
+<p>Jinho mit l’accent sur les mots « juste prix » .</p>
 <p class="talk">‘Il n’a pas tort…’</p>
 <p>La suggestion de Jinho serait la meilleure solution pour que Jinwoo puisse obtenir tous les noyaux magiques en toute sécurité. Actuellement, la propriété des noyaux magiques était claire. Peu importe à quel point l’homme était avide, Hwang Dongseok ne pouvait pas les emmener avec lui dans l’au-delà. Ainsi, Jinho avait les droits légaux sur tous les noyaux magiques qu’ils transportaient. Et maintenant, le jeune homme offrait tout à Jinwoo. C’était différent que de les prendre de force.</p>
 <p class="talk">‘Il n’y a aucune raison de refuser une telle chance…’</p>
@@ -136,7 +136,7 @@
 <strong>-sprint (Lv. 1)</strong><br/>
 <strong>-Soif de sang (Lv. 1)</strong></p>
 </div>
-<p>Ce qui le rendait le plus heureux s’inscrivait en premier : son niveau, qui avait bondi de 3 niveaux, et la nouvelle compétence » Soif de sang « , nouvellement acquise. Grâce aux 10 points de stat, ses attributs étaient également superbes. Rien que tout cela aurait fait une journée très productive, mais ce n’était pas tout ce qu’il avait gagné aujourd’hui.</p>
+<p>Ce qui le rendait le plus heureux s’inscrivait en premier : son niveau, qui avait bondi de 3 niveaux, et la nouvelle compétence « Soif de sang » , nouvellement acquise. Grâce aux 10 points de stat, ses attributs étaient également superbes. Rien que tout cela aurait fait une journée très productive, mais ce n’était pas tout ce qu’il avait gagné aujourd’hui.</p>
 <p class="talk">‘En plus du salaire de 2 millions.’</p>
 <p>Il ouvrit le sac rempli de noyaux magiques et commença à compter.</p>
 <p>’11 noyaux magiques de l’araignée. 38 de l’équipe de Hwang Dongseok.’</p>
@@ -161,7 +161,7 @@
 
 <p>Notes du traducteur :<br/>
 [1] : « dongsaeng » (동생) : Un autre nom coréen super commun utilisé pour désigner une personne. Celui-ci est utilisé par les frères et sœurs plus âgés pour désigner leurs frères et sœurs plus jeunes (contrairement à oppa/hyung, il est neutre du point de vue du sexe). Tout comme oppa/hyung, il est utilisé dans la population générale entre personnes sans lien de parenté aussi bien (personne âgée à une personne plus jeune d’un âge relativement proche).<br/>
-[2] : » Maya Company « , » Kallion « , » Gredos » (마야 사, 칼리온, 그레도스) : Ce qui semble être un tas de noms propres.<br/>
+[2] : « Maya Company » , « Kallion » , » Gredos » (마야 사, 칼리온, 그레도스) : Ce qui semble être un tas de noms propres.<br/>
 [3] : Non, pas une mauvaise traduction. Techniquement, 245 est au-dessus de 200…-</p>
 </body>
 </html>

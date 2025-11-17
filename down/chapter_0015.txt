@@ -37,7 +37,7 @@
 </div>
 <p>Après être monté en niveau plusieurs fois, ses statistiques avaient augmenté en conséquence. L’agilité était presque à 25 ; après avoir atteint plus de 20 en agilité, il pouvait discerner pleinement la différence entre l’agilité de la force. Au lieu d’augmenter sa vitesse physique, l’agilité augmentait sa vision et donnait l’impression que les ennemis ralentissaient.</p>
 <p class="talk">‘Comme une vidéo au ralenti.’</p>
-<p>Alors que le singe tombait et que les panthères lui sautaient dessus, il avait tout vu au ralenti. C’était comme si le temps lui-même s’était ralenti. L’effet permettait d’esquiver plus facilement les attaques de l’ennemi et, en même temps, de lancer ses attaques. Cela lui donnait certainement l’impression d’être plus » agile « .</p>
+<p>Alors que le singe tombait et que les panthères lui sautaient dessus, il avait tout vu au ralenti. C’était comme si le temps lui-même s’était ralenti. L’effet permettait d’esquiver plus facilement les attaques de l’ennemi et, en même temps, de lancer ses attaques. Cela lui donnait certainement l’impression d’être plus « agile » .</p>
 <p>La vitesse est relative.</p>
 <p>Au fur et à mesure que l’agilité augmentait, la différence entre lui et son adversaire faisait en sorte que ses propres mouvements semblaient plus rapides à l’ennemi.</p>
 <p class="talk">‘On dirait qu’il y a une grande synergie entre la force et l’agilité.’</p>
@@ -111,7 +111,7 @@
 <p>Avec un visage ravi, il tendit la main vers la lumière.</p>
 <p class="onomatope">ring~</p>
 <div class="border">
-<p class="strong"><strong>Vous avez trouvé » Le Croc empoisonné de Casaka « </strong><br/>
+<p class="strong"><strong>Vous avez trouvé « Le Croc empoisonné de Casaka » </strong><br/>
 <strong>Souhaitez-vous le prendre ?</strong></p>
 <p class="strong"><strong>Vous avez trouvé « La glande vénéneuse du Casaka »</strong><br/>
 <strong>Souhaitez-vous le prendre ?</strong></p>
@@ -174,7 +174,7 @@
 <p class="talk">« Êtes-vous un Chasseur-nim par hasard ? »</p>
 
 <p>Notes du traducteur :<br/>
-[1] : » perd 1 % de sa santé » (체력이 … 소모됩니다). Le mot pour « santé » est le même que le mot stat pour « constitution ». Je n’étais pas sûr si la debuff affecte la stat ou la HP ; j’ai choisi la HP.<br/>
+[1] : « perd 1 % de sa santé » (체력이 … 소모됩니다). Le mot pour « santé » est le même que le mot stat pour » constitution ». Je n’étais pas sûr si la debuff affecte la stat ou la HP ; j’ai choisi la HP.<br/>
 [2] : « Elixir » (비약) : Je n’ai pas trouvé de traduction directe. On aurait dit de la potion ou de l’élixir.</p>
 </body>
 </html>

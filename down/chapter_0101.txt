@@ -75,7 +75,7 @@ Jinwoo arriva rapidement à Tank. Autour de lui étaient rassemblés un grand no
 <p class="talk">« Je suis désolée. Je n’aurais pas dû essayer de vous tuer. S’il vous plaît, épargnez ma vie. » La femme plaida, la tête baissée.</p>
 <p>C’était une autre supercherie ? Ce démon avait déjà feint d’avoir peur pour le poignarder. Jinwoo restait alerte.</p>
 <p class="talk">« Vous avez attaqué mes soldats.</p>
-<p class="talk">-Je n’avais pas le choix, » la femme porta la main sur son front, visiblement troublée, « et mon clan m’a donné l’ordre de protéger cet endroit. Vous tuiez notre peuple. »</p>
+<p class="talk">-Je n’avais pas le choix, « la femme porta la main sur son front, visiblement troublée, » et mon clan m’a donné l’ordre de protéger cet endroit. Vous tuiez notre peuple. »</p>
 <p>Ce n’est pas faux. Il était là pour tuer des démons. Et elle en était une aussi.</p>
 <p>Pourtant, il avait du mal à attaquer quelqu’un qui pouvait parler. Surtout si cette personne implorait sa pitié. Il n’aimait pas la façon dont ça se passait.</p>
 <p>La noble leva légèrement la tête pour jeter un coup d’œil à Jinwoo.</p>

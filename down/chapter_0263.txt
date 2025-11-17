@@ -37,7 +37,7 @@
 <p>La sonnette retentit assez tard dans la nuit ; un homme d’âge moyen posa un cadre photo contenant une photo de sa fille à son emplacement d’origine et détourna le regard.</p>
 <p class="talk">‘Qui cela peut-il être à cette heure tardive ?’</p>
 <p>Il inclina la tête d’un côté puis de l’autre en se levant de son siège, et se dirigea vers l’interphone.</p>
-<p>L’écran de l’appareil montrant la scène à l’extérieur de la porte d’entrée montrait maintenant un homme vêtu d’un costume d’affaires élégant qui se tenait là. L’homme d’âge moyen ne réfléchit pas trop et appuya sur le bouton » Parler « .</p>
+<p>L’écran de l’appareil montrant la scène à l’extérieur de la porte d’entrée montrait maintenant un homme vêtu d’un costume d’affaires élégant qui se tenait là. L’homme d’âge moyen ne réfléchit pas trop et appuya sur le bouton « Parler » .</p>
 <p>Bip.</p>
 <p>L’homme à l’extérieur de la porte sortit son badge d’identification et le montra à la caméra.</p>
 <p class="talk">« Je suis l’inspecteur Seong Jinwoo de l’Unité des Crimes Violents de la Région Centrale. J’ai des questions à vous poser concernant la mort de votre fille, alors pouvons-nous parler un peu, s’il vous plaît ? »</p>

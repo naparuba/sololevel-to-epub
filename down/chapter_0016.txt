@@ -166,7 +166,7 @@
 <p>Les corps humains n’étaient pas des élastiques. Ils ne s’étiraient pas comme ça en quelques jours.</p>
 <p>Notes du traducteur :<br/>
 [1] : « Donjon Brisé » : Un rappel, une Porte subit une ouverture complète après 7 jours, puis le Donjon se brise. Les bêtes magiques qui étaient normalement confinées à l’intérieur de la Porte peuvent maintenant quitter la Porte, causant destruction et chaos à l’extérieur.<br/>
-[2] : » Dealers » (딜러) : Le mot est en anglais, « Dealer ». La terminologie coréenne du jeu pour désigner les » spécialistes des dommages » ; en Occident, plus communément appelé le » DPS » (dommages par seconde).<br/>
+[2] : « Dealers » (딜러) : Le mot est en anglais, » Dealer ». La terminologie coréenne du jeu pour désigner les » spécialistes des dommages » ; en Occident, plus communément appelé le » DPS » (dommages par seconde).<br/>
 [3] : Ce n’est pas une erreur de traduction. Jinwoo a oublié le nom…</p>
 </body>
 </html>

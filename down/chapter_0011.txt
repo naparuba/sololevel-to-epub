@@ -182,7 +182,7 @@
 
 <p style="text-align:left;">Notes du traducteur :</p>
 <p style="text-align:left;">[1] : « Esprit inébranlable » (근성 ; geun-sung) : Le mot seul signifie simplement la disposition ou l’esprit naturel de quelqu’un. Les indices contextuels impliquent que « l’esprit » dans cette situation est celui qui n’abandonnerait pas même à 30% de HP. La description de la compétence va jusqu’à dire : « Vous avez un esprit inébranlable/infatigable. »</p>
-<p style="text-align:left;">[2] : « Sprint » (질주 ; jil-joo) : Lit. » Courir vite » ou » sprinter « . Raccourci en « sprint » à partir d’indices contextuels.</p>
+<p style="text-align:left;">[2] : « Sprint » (질주 ; jil-joo) : Lit. « Courir vite » ou « sprinter » . Raccourci en » sprint » à partir d’indices contextuels.</p>
 <p style="text-align:left;">[3] : « Pierres Runes » (룬석 ; rune-suk) : « Rune » en anglais + « pierre » suk. Plutôt simple.</p>
 <p style="text-align:left;">[4] : Je veux juste clarifier cela avec des informations recueillies à partir du contexte tout au long de l’histoire (pas un spoiler). Tous les Chasseurs passent par leur premier Éveil, recevant une certaine forme de pouvoir. Ce pouvoir comprend une combinaison de l’augmentation de la capacité physique, du pouvoir magique et d’une liste de compétences. Ce qu’ils obtiennent lors de leur premier Éveil ne change pas (à l’exception des nouvelles compétences acquises grâce à la Pierre Rune). Un second Eveil (Rééveil) est exactement pareil : Un Être Rééveillé recevrait à nouveau du pouvoir, ce qui inclut une combinaison de capacité physique accrue, de pouvoir magique et de nouvelles compétences. Après le Rééveil, comme avant, le pouvoir d’un Chasseur ne change pas.</p>
 </body>

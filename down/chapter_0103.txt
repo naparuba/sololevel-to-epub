@@ -14,7 +14,7 @@
 <p>Le Seigneur n’en croyait pas ses yeux. De nombreux soldats noirs étaient rassemblés dans la salle du trône, cachés dans l’ombre de cet homme.</p>
 <p class="talk">‘Même maintenant, ces regards meurtriers des innombrables soldats qui se cachent dans son ombre me donnent la chair de poule.’</p>
 <p class="talk">‘Faire un compromis avec un humain est une chose humiliante, mais…’</p>
-<p class="talk">‘Les ordres que nous devons suivre comprennent la protection d’un objet appelé » Permis d’entrée à l’étage « . Cependant, le coût de la protection d’une seule feuille de papier n’est-il pas trop élevé ?’</p>
+<p class="talk">‘Les ordres que nous devons suivre comprennent la protection d’un objet appelé « Permis d’entrée à l’étage » . Cependant, le coût de la protection d’une seule feuille de papier n’est-il pas trop élevé ?’</p>
 <p class="talk">‘Non, oubliez la protection, je ne sais pas si je pourrais vaincre les soldats de cet homme même si je sacrifiais toute mon armée. De plus, cet homme…’</p>
 <p class="talk">‘… il cache ses compétences.’</p>
 <p class="talk">« Je ne sais pas ce que vous cherchez, mais vous cachez quelque chose. Vous êtes vous-même comme la pointe d’un iceberg : la profondeur de votre pouvoir est incommensurable.”</p>
